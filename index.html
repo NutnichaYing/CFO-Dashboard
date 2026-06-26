@@ -602,6 +602,33 @@
     </div>
   </div>
 
+  <!-- ===== TRADINGVIEW CHART ===== -->
+  <div style="margin-bottom:24px;">
+    <div style="background:var(--surface);border:1px solid var(--border);border-radius:12px;overflow:hidden;">
+      <div style="padding:16px 20px;border-bottom:1px solid var(--border);display:flex;align-items:center;justify-content:space-between;">
+        <div>
+          <div style="font-size:14px;font-weight:600;">USD/THB Live Chart</div>
+          <div style="font-size:11px;color:var(--muted);margin-top:2px;">Real-time จาก TradingView — ฟรี 100%</div>
+        </div>
+        <div style="display:flex;gap:8px;">
+          <button onclick="setInterval1('1')"  id="btn1"  style="padding:5px 12px;border-radius:6px;border:1px solid var(--accent);background:var(--accent);color:white;font-size:11px;font-weight:600;cursor:pointer;">1D</button>
+          <button onclick="setInterval1('W')"  id="btnW"  style="padding:5px 12px;border-radius:6px;border:1px solid var(--border);background:transparent;color:var(--muted);font-size:11px;cursor:pointer;">1W</button>
+          <button onclick="setInterval1('M')"  id="btnM"  style="padding:5px 12px;border-radius:6px;border:1px solid var(--border);background:transparent;color:var(--muted);font-size:11px;cursor:pointer;">1M</button>
+          <button onclick="setInterval1('12M')" id="btn12M" style="padding:5px 12px;border-radius:6px;border:1px solid var(--border);background:transparent;color:var(--muted);font-size:11px;cursor:pointer;">1Y</button>
+        </div>
+      </div>
+      <div style="padding:0;background:#131722;">
+        <div id="tradingview_chart" style="height:420px;width:100%;"></div>
+      </div>
+      <div style="padding:12px 20px;border-top:1px solid var(--border);display:flex;gap:24px;font-size:12px;color:var(--muted);">
+        <span>📈 ซูมได้ด้วย scroll</span>
+        <span>🖱️ hover เพื่อดูราคา</span>
+        <span>📊 ข้อมูล Real-time จาก TradingView</span>
+        <a href="https://www.tradingview.com/symbols/USDTHB/" target="_blank" style="color:var(--accent);text-decoration:none;margin-left:auto;">เปิดใน TradingView ↗</a>
+      </div>
+    </div>
+  </div>
+
   <!-- ===== CLAUDE PROMPT ===== -->
   <div class="prompt-box">
     <div class="prompt-header">
@@ -895,6 +922,69 @@ function openClaude() { window.open('https://claude.ai', '_blank'); }
 loadData();
 generateCron();
 setInterval(loadData, 300000);
+
+// ===== TRADINGVIEW =====
+let currentTVInterval = '1';
+
+function loadTradingView(interval) {
+  const container = document.getElementById('tradingview_chart');
+  container.innerHTML = '';
+  const widgetDiv = document.createElement('div');
+  widgetDiv.id = 'tv_widget_inner';
+  container.appendChild(widgetDiv);
+
+  if (window.TradingView) {
+    initTVWidget(interval);
+  } else {
+    const script = document.createElement('script');
+    script.src = 'https://s3.tradingview.com/tv.js';
+    script.async = true;
+    script.onload = () => initTVWidget(interval);
+    document.head.appendChild(script);
+  }
+}
+
+function initTVWidget(interval) {
+  new TradingView.widget({
+    container_id: 'tv_widget_inner',
+    symbol: 'FX:USDTHB',
+    interval: interval,
+    timezone: 'Asia/Bangkok',
+    theme: 'dark',
+    style: '1',
+    locale: 'en',
+    toolbar_bg: '#131722',
+    enable_publishing: false,
+    hide_top_toolbar: false,
+    save_image: false,
+    height: 420,
+    width: '100%',
+    studies: ['RSI@tv-basicstudies'],
+    withdateranges: true,
+    allow_symbol_change: false,
+  });
+}
+
+function setInterval1(interval) {
+  currentTVInterval = interval;
+  const map = { '1': 'btn1', 'W': 'btnW', 'M': 'btnM', '12M': 'btn12M' };
+  Object.keys(map).forEach(k => {
+    const btn = document.getElementById(map[k]);
+    if (!btn) return;
+    if (k === interval) {
+      btn.style.background = 'var(--accent)';
+      btn.style.color = 'white';
+      btn.style.borderColor = 'var(--accent)';
+    } else {
+      btn.style.background = 'transparent';
+      btn.style.color = 'var(--muted)';
+      btn.style.borderColor = 'var(--border)';
+    }
+  });
+  loadTradingView(interval);
+}
+
+loadTradingView('1');
 </script>
 </body>
 </html>
