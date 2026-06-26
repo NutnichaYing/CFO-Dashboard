@@ -937,7 +937,7 @@ function loadTradingView(interval) {
     initTVWidget(interval);
   } else {
     const script = document.createElement('script');
-    script.src = 'https://s3.tradingview.com/tv.js';
+    script.src = 'https://s3.tradingview.com/external-embedding/v2/bundle.js';
     script.async = true;
     script.onload = () => initTVWidget(interval);
     document.head.appendChild(script);
