@@ -1,15 +1,34 @@
 {
-  "last_updated": "กำลังอัพเดท...",
+  "last_updated": "2026-06-26 23:05:59 BKK",
   "rate": {
-    "date": "",
+    "date": "2026-06-26",
     "buying": 0,
     "selling": 0,
     "mid": 0,
-    "source": "BOT Official"
+    "source": "Unavailable - Please check BOT website",
+    "note": "Visit https://www.bot.or.th for current rates"
   },
-  "news": [],
+  "news": [
+    {
+      "title": "Infrastructure fund to help finance rail buyback plan",
+      "description": "The 200 billion baht the government plans to use to buy back the concessions of all electric train lines in Greater Bangkok is expected to come from two sources: the Mass Rapid Transit Authority of Th",
+      "date": "Fri, 26 Jun 2026 06:15:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3276702/infrastructure-fund-to-help-finance-rail-buyback-plan",
+      "source": "Bangkok Post Business"
+    },
+    {
+      "title": "Gold sinks below $4,000 as traders eye Fed rates",
+      "description": "Gold has entered bear market territory, sliding below US$4,000 an ounce for the first time since November 2025 as rising interest rate expectations and a strengthening dollar weigh heavily on bullion,",
+      "date": "Fri, 26 Jun 2026 04:57:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3276597/gold-sinks-below-4000-as-traders-eye-fed-rates",
+      "source": "Bangkok Post Business"
+    }
+  ],
+  "claude_prompt": "CFO FX Brief 26/06/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Infrastructure fund to help finance rail buyback plan\n- [Bangkok Post Business] Gold sinks below $4,000 as traders eye Fed rates",
   "stats": {
-    "news_count": 0,
-    "data_sources": []
+    "news_count": 2,
+    "data_sources": [
+      "Bangkok Post Business"
+    ]
   }
 }
