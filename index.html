@@ -474,7 +474,7 @@ body{background:var(--bg);color:var(--text);font-family:'Segoe UI',sans-serif;mi
       </div>
       <div style="background:#131722;">
         <iframe id="sysChartFrame"
-          src="https://www.tradingview.com/widgetembed/?symbol=SET%3ASYS&interval=D&theme=dark&style=1&locale=th&timezone=Asia%2FBangkok&withdateranges=1&hide_side_toolbar=0&studies=Volume%40tv-basicstudies"
+          src="https://www.tradingview.com/widgetembed/?symbol=SET%3ASYNEX&interval=D&theme=dark&style=1&locale=th&timezone=Asia%2FBangkok&withdateranges=1&hide_side_toolbar=0&studies=Volume%40tv-basicstudies"
           style="width:100%;height:420px;border:none;" allowtransparency="true" scrolling="no" allowfullscreen></iframe>
       </div>
       <div class="chart-footer">
@@ -786,7 +786,7 @@ function setSYSInterval(interval, btn) {
   document.querySelectorAll('.chart-btn.purple').forEach(b => { b.classList.remove('active'); });
   btn.classList.add('active');
   document.getElementById('sysChartFrame').src =
-    `https://www.tradingview.com/widgetembed/?symbol=SET%3ASYS&interval=${interval}&theme=dark&style=1&locale=th&timezone=Asia%2FBangkok&withdateranges=1&studies=Volume%40tv-basicstudies`;
+    `https://www.tradingview.com/widgetembed/?symbol=SET%3ASYNEX&interval=${interval}&theme=dark&style=1&locale=th&timezone=Asia%2FBangkok&withdateranges=1&studies=Volume%40tv-basicstudies`;
 }
 
 // ===== UTILS =====
