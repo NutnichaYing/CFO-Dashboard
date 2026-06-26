@@ -430,7 +430,7 @@ body{background:var(--bg);color:var(--text);font-family:'Segoe UI',sans-serif;mi
 
   <!-- Synnex Hero -->
   <div class="synnex-hero">
-    <div class="synnex-title">📊 Synnex Public Company (Thailand) — SYS</div>
+    <div class="synnex-title">📊 Synnex Public Company (Thailand) — SYNEX</div>
     <div class="synnex-sub">รายงานข่าวบริษัทประจำวัน | อัพเดทอัตโนมัติทุกเช้า 10:00 น.</div>
     <div class="synnex-grid">
       <div style="display:flex;flex-direction:column;gap:12px;">
@@ -444,11 +444,11 @@ body{background:var(--bg);color:var(--text);font-family:'Segoe UI',sans-serif;mi
         </div>
       </div>
       <div style="display:flex;flex-direction:column;gap:8px;">
-        <a href="https://www.set.or.th/th/market/product/stock/quote/SYS/price" target="_blank"
+        <a href="https://www.set.or.th/th/market/product/stock/quote/SYNEX/price" target="_blank"
           style="display:block;padding:12px 16px;background:rgba(155,127,245,0.1);border:1px solid rgba(155,127,245,0.3);border-radius:8px;color:var(--purple);font-size:13px;font-weight:600;text-decoration:none;">
-          📈 ราคาหุ้น SYS — SET ↗
+          📈 ราคาหุ้น SYNEX — SET ↗
         </a>
-        <a href="https://www.set.or.th/th/market/product/stock/quote/SYS/financialstatement" target="_blank"
+        <a href="https://www.set.or.th/th/market/product/stock/quote/SYNEX/financialstatement" target="_blank"
           style="display:block;padding:12px 16px;background:rgba(155,127,245,0.1);border:1px solid rgba(155,127,245,0.3);border-radius:8px;color:var(--purple);font-size:13px;font-weight:600;text-decoration:none;">
           📋 งบการเงิน — SET ↗
         </a>
@@ -464,7 +464,7 @@ body{background:var(--bg);color:var(--text);font-family:'Segoe UI',sans-serif;mi
   <div class="chart-section">
     <div class="chart-card">
       <div class="chart-header">
-        <div><div class="chart-title">SYS — ราคาหุ้น Real-time</div><div class="chart-sub">ข้อมูลจาก TradingView — SET Thailand</div></div>
+        <div><div class="chart-title">SYNEX — ราคาหุ้น Real-time</div><div class="chart-sub">ข้อมูลจาก TradingView — SET Thailand</div></div>
         <div class="chart-btns">
           <button class="chart-btn purple active" id="sysBtnD" onclick="setSYSInterval('D',this)">1D</button>
           <button class="chart-btn purple" onclick="setSYSInterval('W',this)">1W</button>
@@ -480,7 +480,7 @@ body{background:var(--bg);color:var(--text);font-family:'Segoe UI',sans-serif;mi
       <div class="chart-footer">
         <span>📈 ซูมได้ด้วย scroll</span>
         <span>🖱️ hover เพื่อดูราคา</span>
-        <a href="https://www.tradingview.com/symbols/SET-SYS/" target="_blank" style="color:var(--purple);text-decoration:none;margin-left:auto;">เปิดใน TradingView ↗</a>
+        <a href="https://www.tradingview.com/symbols/SET-SYNEX/" target="_blank" style="color:var(--purple);text-decoration:none;margin-left:auto;">เปิดใน TradingView ↗</a>
       </div>
     </div>
   </div>
@@ -593,7 +593,7 @@ function renderSynnex(data) {
 function renderSynnexNews(news) {
   const el = document.getElementById('synnexNewsList');
   if (!news.length) {
-    el.innerHTML = '<div style="text-align:center;color:var(--muted);padding:20px;">ไม่พบข่าว Synnex วันนี้<br><a href="https://www.set.or.th/th/market/product/stock/quote/SYS/price" target="_blank" style="color:var(--purple);">ดูที่ SET โดยตรง ↗</a></div>';
+    el.innerHTML = '<div style="text-align:center;color:var(--muted);padding:20px;">ไม่พบข่าว Synnex วันนี้<br><a href="https://www.set.or.th/th/market/product/stock/quote/SYNEX/price" target="_blank" style="color:var(--purple);">ดูที่ SET โดยตรง ↗</a></div>';
     return;
   }
   el.innerHTML = news.map(n => `
@@ -637,7 +637,7 @@ ${newsText}
 
 3. INVESTOR RELATIONS:
    → ข่าวใดที่นักลงทุนควรทราบ?
-   → ผลต่อราคาหุ้น SYS (ประเมิน)
+   → ผลต่อราคาหุ้น SYNEX (ประเมิน)
 
 4. CFO ACTION ITEMS:
    → สิ่งที่ CFO ควรดำเนินการจากข่าววันนี้
