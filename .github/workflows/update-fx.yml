@@ -2,11 +2,10 @@ name: Update FX Data
 
 on:
   schedule:
-    - cron: '0 0 * * 1-5'   # 07:00 BKK
-    - cron: '0 4 * * 1-5'   # 11:00 BKK
-    - cron: '0 11 * * 1-5'  # 18:00 BKK
+    - cron: '0 1 * * 1-5'  # 08:00 BKK (เช้า)
+    - cron: '0 7 * * 1-5'  # 14:00 BKK (กลางวัน)
+    - cron: '0 13 * * 1-5'  # 20:00 BKK (เย็น)
   workflow_dispatch:
-
 jobs:
   update-fx-data:
     runs-on: ubuntu-latest
