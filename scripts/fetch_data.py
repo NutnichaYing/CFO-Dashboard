@@ -81,18 +81,14 @@ def fetch_fx_news():
 def fetch_synnex_news():
     all_news = []
     feeds = [
-        {"url": "https://news.google.com/rss/search?q=Synnex+Thailand+SYS+OR+%22ซินเน็ค%22&hl=th&gl=TH&ceid=TH:th",
-         "source": "Google News TH", "category": "general"},
-        {"url": "https://news.google.com/rss/search?q=%22Synnex%22+%22Thailand%22+IT+distribution&hl=en&gl=TH&ceid=TH:en",
-         "source": "Google News EN", "category": "general"},
-        {"url": "https://news.google.com/rss/search?q=SYS+SET+%22ซินเน็ค%22&hl=th&gl=TH&ceid=TH:th",
-         "source": "Google News SET", "category": "stock"},
-        {"url": "https://www.set.or.th/dat/news/newsRSS.do?symbol=SYS",
+        {"url": "https://www.set.or.th/dat/news/newsRSS.do?symbol=SYNEX",
          "source": "SET Official", "category": "stock"},
         {"url": "https://www.bangkokpost.com/rss/data/business.xml",
          "source": "Bangkok Post", "category": "general"},
+        {"url": "https://www.nationthailand.com/rss/business.xml",
+         "source": "Nation Thailand", "category": "general"},
     ]
-    synnex_keywords = ["synnex", "ซินเน็ค", "SYS", "Synnex Public",
+    synnex_keywords = ["synnex", "ซินเน็ค", "synex", "Synnex Public",
                        "IT distribution", "ไอที", "สยามซินเน็ค"]
     for feed in feeds:
         try:
@@ -110,8 +106,7 @@ def fetch_synnex_news():
                     pub_date = item.findtext("pubDate", "")
                     link = item.findtext("link", "")
                     combined = (title + " " + desc).lower()
-                    is_synnex = feed["source"] in ["SET Official", "Google News TH",
-                                                    "Google News EN", "Google News SET"]
+                    is_synnex = feed["source"] in ["SET Official"]
                     is_relevant = any(kw.lower() in combined for kw in synnex_keywords)
                     if title and (is_synnex or is_relevant):
                         all_news.append({
@@ -134,12 +129,12 @@ def fetch_synnex_news():
             {"title": "Synnex Public Company (Thailand) — ยังไม่มีข่าวใหม่วันนี้",
              "description": "ตรวจสอบข่าวล่าสุดได้ที่ SET หรือ ir.synnex.co.th",
              "date": get_bangkok_time().strftime("%Y-%m-%d %H:%M"),
-             "link": "https://www.set.or.th/th/market/product/stock/quote/SYS/price",
+             "link": "https://www.set.or.th/th/market/product/stock/quote/SYNEX/price",
              "source": "Manual", "category": "general"},
-            {"title": "ราคาหุ้น SYS — ดูข้อมูลล่าสุดที่ SET",
+            {"title": "ราคาหุ้น SYNEX — ดูข้อมูลล่าสุดที่ SET",
              "description": "ราคา, volume, และข้อมูลนักวิเคราะห์",
              "date": get_bangkok_time().strftime("%Y-%m-%d %H:%M"),
-             "link": "https://www.set.or.th/th/market/product/stock/quote/SYS/price",
+             "link": "https://www.set.or.th/th/market/product/stock/quote/SYNEX/price",
              "source": "SET Official", "category": "stock"}
         ]
     return unique[:20]
