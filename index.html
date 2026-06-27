@@ -11,7 +11,7 @@
   --text:#e8eaf0;--muted:#7c82a0;--accent:#4f8ef7;--success:#34c77b;
   --warning:#f5a623;--danger:#f25c5c;--gold:#f5c842;--purple:#9b7ff5;
 }
-*{margin:0;padding:0;box-sizing:border-box;}
+*{margin:0;padding:0;box-sizing:border-box;} a{color:inherit;text-decoration:none;} .news-item *{color:var(--text)!important;} .news-date{color:var(--muted)!important;} .news-source{color:var(--accent)!important;} .news-source.stock{color:var(--gold)!important;}
 body{background:var(--bg);color:var(--text);font-family:'Segoe UI',sans-serif;min-height:100vh;}
 
 /* HEADER */
@@ -97,12 +97,12 @@ body{background:var(--bg);color:var(--text);font-family:'Segoe UI',sans-serif;mi
 /* NEWS */
 .news-item{padding:12px 0;border-bottom:1px solid var(--border);cursor:pointer;}
 .news-item:last-child{border-bottom:none;}
-.news-item:hover{opacity:0.8;}
+.news-item:hover{opacity:0.8;} .news-item a, .news-item a:visited, .news-item a:link{color:var(--text)!important;text-decoration:none!important;}
 .news-source{font-size:10px;color:var(--accent);text-transform:uppercase;letter-spacing:0.5px;margin-bottom:3px;}
 .news-source.stock{color:var(--gold);}
 .news-source.set{color:var(--success);}
 .news-title{font-size:13px;line-height:1.4;margin-bottom:3px;color:var(--text);}
-.news-date{font-size:11px;color:var(--muted);}
+.news-date{font-size:11px;color:var(--muted)!important;} a{color:inherit!important;}
 .news-cat{display:inline-block;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;margin-left:6px;}
 .cat-stock{background:rgba(245,200,66,0.15);color:var(--gold);}
 .cat-general{background:rgba(155,127,245,0.15);color:var(--purple);}
@@ -181,6 +181,18 @@ body{background:var(--bg);color:var(--text);font-family:'Segoe UI',sans-serif;mi
   .tab-btn{padding:12px 14px;font-size:12px;}
   .schedule-grid{grid-template-columns:1fr;}
 }
+
+  /* Force news text colors */
+  .news-item, .news-item *, .news-item a, .news-item a:link, .news-item a:visited {
+    color: var(--text) !important;
+    text-decoration: none !important;
+  }
+  .news-item .news-source { color: var(--accent) !important; }
+  .news-item .news-source.stock { color: var(--gold) !important; }
+  .news-item .news-date { color: var(--muted) !important; }
+  .news-item .news-title { color: var(--text) !important; }
+  /* Fix all links globally */
+  a { color: inherit; text-decoration: none; }
 </style>
 </head>
 <body>
@@ -473,18 +485,39 @@ body{background:var(--bg);color:var(--text);font-family:'Segoe UI',sans-serif;mi
         </div>
       </div>
       <div style="background:#131722;">
-        <div style="width:100%;height:420px;display:flex;align-items:center;justify-content:center;flex-direction:column;gap:16px;background:#131722;">
-        <div style="font-size:16px;color:#9b7ff5;font-weight:700;">📊 SYNEX — ราคาหุ้น</div>
-        <div style="font-size:13px;color:#7c82a0;text-align:center;">TradingView Widget ไม่รองรับหุ้น SET ฟรี<br>คลิกปุ่มด้านล่างเพื่อดูราคาหุ้น SYNEX</div>
-        <a href="https://www.set.or.th/th/market/product/stock/quote/SYNEX/price" target="_blank"
-          style="padding:12px 24px;background:#9b7ff5;color:white;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">
-          📈 ดูราคาหุ้น SYNEX บน SET ↗
-        </a>
-        <a href="https://www.tradingview.com/symbols/SET-SYNEX/" target="_blank"
-          style="padding:10px 20px;background:transparent;color:#9b7ff5;border:1px solid #9b7ff5;border-radius:8px;text-decoration:none;font-weight:600;font-size:13px;">
-          📊 ดูกราฟบน TradingView ↗
-        </a>
-        <div style="font-size:11px;color:#7c82a0;">ราคาปัจจุบัน: 12.10 THB | อัพเดทจาก SET</div>
+        <div style="width:100%;height:420px;background:#131722;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:20px;padding:24px;">
+        <div style="font-size:18px;font-weight:700;color:#9b7ff5;">📊 SYNEX — ราคาหุ้น Real-time</div>
+        <div style="font-size:13px;color:#a8b4d0;text-align:center;line-height:1.8;">
+          กราฟ TradingView สำหรับหุ้น SET ต้องใช้งานผ่าน TradingView โดยตรง<br>
+          คลิกปุ่มด้านล่างเพื่อดูราคาและกราฟล่าสุด
+        </div>
+        <div style="display:flex;gap:12px;flex-wrap:wrap;justify-content:center;">
+          <a href="https://www.set.or.th/th/market/product/stock/quote/SYNEX/price" target="_blank"
+            style="padding:14px 28px;background:#9b7ff5;color:white;border-radius:10px;text-decoration:none;font-weight:700;font-size:15px;display:flex;align-items:center;gap:8px;">
+            📈 ดูราคาหุ้น SYNEX (SET)
+          </a>
+          <a href="https://www.tradingview.com/chart/?symbol=SET%3ASYNEX" target="_blank"
+            style="padding:14px 28px;background:transparent;color:#9b7ff5;border:2px solid #9b7ff5;border-radius:10px;text-decoration:none;font-weight:700;font-size:15px;display:flex;align-items:center;gap:8px;">
+            📊 เปิดกราฟ TradingView
+          </a>
+        </div>
+        <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:16px;width:100%;max-width:500px;">
+          <div style="background:rgba(155,127,245,0.1);border:1px solid rgba(155,127,245,0.3);border-radius:8px;padding:12px;text-align:center;">
+            <div style="font-size:11px;color:#7c82a0;margin-bottom:4px;">ราคาล่าสุด</div>
+            <div style="font-size:20px;font-weight:700;color:#9b7ff5;">12.10</div>
+            <div style="font-size:11px;color:#7c82a0;">THB</div>
+          </div>
+          <div style="background:rgba(52,199,123,0.1);border:1px solid rgba(52,199,123,0.3);border-radius:8px;padding:12px;text-align:center;">
+            <div style="font-size:11px;color:#7c82a0;margin-bottom:4px;">เปลี่ยนแปลง 1 เดือน</div>
+            <div style="font-size:20px;font-weight:700;color:#34c77b;">+18.63%</div>
+            <div style="font-size:11px;color:#7c82a0;">1M</div>
+          </div>
+          <div style="background:rgba(79,142,247,0.1);border:1px solid rgba(79,142,247,0.3);border-radius:8px;padding:12px;text-align:center;">
+            <div style="font-size:11px;color:#7c82a0;margin-bottom:4px;">Market Cap</div>
+            <div style="font-size:20px;font-weight:700;color:#4f8ef7;">10.25B</div>
+            <div style="font-size:11px;color:#7c82a0;">THB</div>
+          </div>
+        </div>
       </div>
       </div>
       <div class="chart-footer">
