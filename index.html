@@ -500,17 +500,11 @@ body{background:var(--bg);color:var(--text);font-family:'Segoe UI',sans-serif;mi
             style="padding:14px 28px;background:transparent;color:#9b7ff5;border:2px solid #9b7ff5;border-radius:10px;text-decoration:none;font-weight:700;font-size:15px;display:flex;align-items:center;gap:8px;">
             📊 เปิดกราฟ TradingView
           </a>
-          <iframe 
-  src="https://www.biztrak.com/stock/chart/SYNEX"
-           
-  style="width:100%;height:300px;border:none;border-radius:8px;margin-top:16px;"
-  scrolling="no">
-</iframe>
         </div>
         <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:16px;width:100%;max-width:500px;">
           <div style="background:rgba(155,127,245,0.1);border:1px solid rgba(155,127,245,0.3);border-radius:8px;padding:12px;text-align:center;">
             <div style="font-size:11px;color:#7c82a0;margin-bottom:4px;">ราคาล่าสุด</div>
-            <div style="font-size:20px;font-weight:700;color:#9b7ff5;">8.60</div>
+            <div style="font-size:20px;font-weight:700;color:#9b7ff5;">12.10</div>
             <div style="font-size:11px;color:#7c82a0;">THB</div>
           </div>
           <div style="background:rgba(52,199,123,0.1);border:1px solid rgba(52,199,123,0.3);border-radius:8px;padding:12px;text-align:center;">
@@ -519,8 +513,8 @@ body{background:var(--bg);color:var(--text);font-family:'Segoe UI',sans-serif;mi
             <div style="font-size:11px;color:#7c82a0;">1M</div>
           </div>
           <div style="background:rgba(79,142,247,0.1);border:1px solid rgba(79,142,247,0.3);border-radius:8px;padding:12px;text-align:center;">
-            <div style="font-size:11px;color:#7c82a0;margin-bottom:4px;">มูลค่า ('000 บาท)</div>
-            <div style="font-size:20px;font-weight:700;color:#4f8ef7;">49,430</div>
+            <div style="font-size:11px;color:#7c82a0;margin-bottom:4px;">Market Cap</div>
+            <div style="font-size:20px;font-weight:700;color:#4f8ef7;">10.25B</div>
             <div style="font-size:11px;color:#7c82a0;">THB</div>
           </div>
         </div>
@@ -620,7 +614,7 @@ function renderFXNews(news) {
   document.getElementById('newsCountTag').textContent = news.length + ' บทความ';
   if (!news.length) { el.innerHTML = '<div style="padding:16px;text-align:center;color:var(--muted);">ไม่พบข่าว FX วันนี้</div>'; return; }
   el.innerHTML = news.map(n => `
-    <div class="news-item" onclick="window.open('https://www.google.com/search?q=${encodeURIComponent(n.title)}','_blank')">
+    <div class="news-item" onclick="searchNews(this)" data-title="${n.title.replace(/\"/g,'')}">
       <div class="news-source">${n.source}</div>
       <div class="news-title">${n.title}</div>
       <div class="news-date">${n.date}</div>
@@ -646,7 +640,7 @@ function renderSynnexNews(news) {
     return;
   }
   el.innerHTML = news.map(n => `
-    <div class="news-item" onclick="window.open('${n.link}','_blank')">
+    <div class="news-item" onclick="searchNews(this)" data-title="${n.title.replace(/\"/g,'')}">
       <div style="display:flex;align-items:center;gap:6px;margin-bottom:3px;">
         <span class="news-source ${n.category === 'stock' ? 'stock' : ''}">${n.source}</span>
         <span class="news-cat ${n.category === 'stock' ? 'cat-stock' : 'cat-general'}">${n.category === 'stock' ? '📈 หุ้น' : '📰 ทั่วไป'}</span>
@@ -846,6 +840,12 @@ function copyPrompt(id) {
     setTimeout(() => msg.style.display = 'none', 3000);
   });
 }
+
+function searchNews(el) {
+  const title = el.getAttribute('data-title');
+  window.open('https://www.google.com/search?q=' + encodeURIComponent(title), '_blank');
+}
+
 function openClaude() { window.open('https://claude.ai', '_blank'); }
 
 loadData();
