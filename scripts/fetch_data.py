@@ -82,14 +82,15 @@ def fetch_synnex_news():
     all_news = []
     # ===== TRUSTED SOURCES (priority, direct links) =====
     trusted_feeds = [
-        {"url": "https://www.set.or.th/dat/news/newsRSS.do?symbol=SYNEX",
-         "source": "SET Official", "category": "stock", "trusted": True, "priority": 1},
-        {"url": "https://www.settrade.com/api/cms/v1/rss/news?symbol=SYNEX",
-         "source": "Settrade", "category": "stock", "trusted": True, "priority": 2},
+        # Settrade research via FeedBurner (เสถียร ไม่ block bot) - บทวิเคราะห์หุ้นรายตัว
+        {"url": "https://feeds2.feedburner.com/settrade/researchStock?format=xml",
+         "source": "Settrade Research", "category": "stock", "trusted": True, "priority": 1},
+        # Settrade market analysis
+        {"url": "https://feeds2.feedburner.com/settrade/researchMarket?format=xml",
+         "source": "Settrade Market", "category": "stock", "trusted": True, "priority": 2},
+        # Bangkok Post business (พิสูจน์แล้วว่าดึงได้บน GitHub Actions)
         {"url": "https://www.bangkokpost.com/rss/data/business.xml",
          "source": "Bangkok Post", "category": "general", "trusted": True, "priority": 3},
-        {"url": "https://www.nationthailand.com/rss/business.xml",
-         "source": "Nation Thailand", "category": "general", "trusted": True, "priority": 4},
     ]
     # ===== GOOGLE NEWS (aggregator, search-redirect links) =====
     google_feeds = [
@@ -117,12 +118,11 @@ def fetch_synnex_news():
                     pub_date = item.findtext("pubDate", "")
                     link = item.findtext("link", "")
                     combined = (title + " " + desc).lower()
-                    # SET/Settrade = symbol-specific feeds, always relevant
-                    is_symbol_feed = feed["source"] in ["SET Official", "Settrade"]
                     # Google News = already searched for Synnex, always relevant
                     is_google = feed["source"].startswith("Google News")
+                    # Settrade FeedBurner = all stocks, must filter for SYNEX keyword
                     is_relevant = any(kw.lower() in combined for kw in synnex_keywords)
-                    if title and (is_symbol_feed or is_google or is_relevant):
+                    if title and (is_google or is_relevant):
                         all_news.append({
                             "title": title.strip(),
                             "description": desc[:300].strip() if desc else "",
