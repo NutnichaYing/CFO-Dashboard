@@ -485,38 +485,53 @@ body{background:var(--bg);color:var(--text);font-family:'Segoe UI',sans-serif;mi
         </div>
       </div>
       <div style="background:#131722;">
-        <div style="width:100%;height:420px;background:#131722;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:20px;padding:24px;">
-        <div style="font-size:18px;font-weight:700;color:#9b7ff5;">📊 SYNEX — ราคาหุ้น Real-time</div>
-        <div style="font-size:13px;color:#a8b4d0;text-align:center;line-height:1.8;">
-          กราฟ TradingView สำหรับหุ้น SET ต้องใช้งานผ่าน TradingView โดยตรง<br>
-          คลิกปุ่มด้านล่างเพื่อดูราคาและกราฟล่าสุด
+        <div style="width:100%;background:#131722;border-radius:8px;overflow:hidden;">
+        <!-- TradingView Advanced Chart Widget -->
+        <div class="tradingview-widget-container" style="height:420px;width:100%;">
+          <div class="tradingview-widget-container__widget" style="height:100%;width:100%;"></div>
+          <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+          {
+          "autosize": true,
+          "symbol": "SET:SYNEX",
+          "interval": "D",
+          "timezone": "Asia/Bangkok",
+          "theme": "dark",
+          "style": "1",
+          "locale": "th",
+          "hide_side_toolbar": true,
+          "allow_symbol_change": false,
+          "save_image": false,
+          "support_host": "https://www.tradingview.com"
+          }
+          </script>
         </div>
-        <div style="display:flex;gap:12px;flex-wrap:wrap;justify-content:center;">
-          <a href="https://www.set.or.th/th/market/product/stock/quote/SYNEX/price" target="_blank"
-            style="padding:14px 28px;background:#9b7ff5;color:white;border-radius:10px;text-decoration:none;font-weight:700;font-size:15px;display:flex;align-items:center;gap:8px;">
-            📈 ดูราคาหุ้น SYNEX (SET)
-          </a>
-          <a href="https://www.tradingview.com/chart/?symbol=SET%3ASYNEX" target="_blank"
-            style="padding:14px 28px;background:transparent;color:#9b7ff5;border:2px solid #9b7ff5;border-radius:10px;text-decoration:none;font-weight:700;font-size:15px;display:flex;align-items:center;gap:8px;">
-            📊 เปิดกราฟ TradingView
-          </a>
+      </div>
+      <!-- Fallback buttons + stats -->
+      <div style="display:flex;gap:12px;flex-wrap:wrap;justify-content:center;margin-top:16px;">
+        <a href="https://www.set.or.th/th/market/product/stock/quote/SYNEX/price" target="_blank"
+          style="padding:12px 24px;background:#9b7ff5;color:white;border-radius:10px;text-decoration:none;font-weight:700;font-size:14px;">
+          📈 ดูราคาหุ้น SYNEX (SET)
+        </a>
+        <a href="https://www.tradingview.com/chart/?symbol=SET%3ASYNEX" target="_blank"
+          style="padding:12px 24px;background:transparent;color:#9b7ff5;border:2px solid #9b7ff5;border-radius:10px;text-decoration:none;font-weight:700;font-size:14px;">
+          📊 เปิดกราฟ TradingView
+        </a>
+      </div>
+      <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:16px;width:100%;max-width:500px;margin:16px auto 0;">
+        <div style="background:rgba(155,127,245,0.1);border:1px solid rgba(155,127,245,0.3);border-radius:8px;padding:12px;text-align:center;">
+          <div style="font-size:11px;color:#7c82a0;margin-bottom:4px;">ราคาล่าสุด</div>
+          <div style="font-size:20px;font-weight:700;color:#9b7ff5;">8.60</div>
+          <div style="font-size:11px;color:#7c82a0;">THB</div>
         </div>
-        <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:16px;width:100%;max-width:500px;">
-          <div style="background:rgba(155,127,245,0.1);border:1px solid rgba(155,127,245,0.3);border-radius:8px;padding:12px;text-align:center;">
-            <div style="font-size:11px;color:#7c82a0;margin-bottom:4px;">ราคาล่าสุด</div>
-            <div style="font-size:20px;font-weight:700;color:#9b7ff5;">12.10</div>
-            <div style="font-size:11px;color:#7c82a0;">THB</div>
-          </div>
-          <div style="background:rgba(52,199,123,0.1);border:1px solid rgba(52,199,123,0.3);border-radius:8px;padding:12px;text-align:center;">
-            <div style="font-size:11px;color:#7c82a0;margin-bottom:4px;">เปลี่ยนแปลง 1 เดือน</div>
-            <div style="font-size:20px;font-weight:700;color:#34c77b;">-3.37%</div>
-            <div style="font-size:11px;color:#7c82a0;">1M</div>
-          </div>
-          <div style="background:rgba(79,142,247,0.1);border:1px solid rgba(79,142,247,0.3);border-radius:8px;padding:12px;text-align:center;">
-            <div style="font-size:11px;color:#7c82a0;margin-bottom:4px;">Market Cap</div>
-            <div style="font-size:20px;font-weight:700;color:#4f8ef7;">10.25B</div>
-            <div style="font-size:11px;color:#7c82a0;">THB</div>
-          </div>
+        <div style="background:rgba(242,92,92,0.1);border:1px solid rgba(242,92,92,0.3);border-radius:8px;padding:12px;text-align:center;">
+          <div style="font-size:11px;color:#7c82a0;margin-bottom:4px;">เปลี่ยนแปลงวันนี้</div>
+          <div style="font-size:20px;font-weight:700;color:#f25c5c;">-3.37%</div>
+          <div style="font-size:11px;color:#7c82a0;">-0.30</div>
+        </div>
+        <div style="background:rgba(79,142,247,0.1);border:1px solid rgba(79,142,247,0.3);border-radius:8px;padding:12px;text-align:center;">
+          <div style="font-size:11px;color:#7c82a0;margin-bottom:4px;">มูลค่า ('000 บาท)</div>
+          <div style="font-size:20px;font-weight:700;color:#4f8ef7;">49,430</div>
+          <div style="font-size:11px;color:#7c82a0;">THB</div>
         </div>
       </div>
       </div>
@@ -614,7 +629,7 @@ function renderFXNews(news) {
   document.getElementById('newsCountTag').textContent = news.length + ' บทความ';
   if (!news.length) { el.innerHTML = '<div style="padding:16px;text-align:center;color:var(--muted);">ไม่พบข่าว FX วันนี้</div>'; return; }
   el.innerHTML = news.map(n => `
-    <div class="news-item" onclick="searchNews(this)" data-title="${n.title.replace(/\"/g,'')}">
+    <div class="news-item" onclick="window.open('${n.link}','_blank')" style="cursor:pointer;">
       <div class="news-source">${n.source}</div>
       <div class="news-title">${n.title}</div>
       <div class="news-date">${n.date}</div>
@@ -640,7 +655,7 @@ function renderSynnexNews(news) {
     return;
   }
   el.innerHTML = news.map(n => `
-    <div class="news-item" onclick="searchNews(this)" data-title="${n.title.replace(/\"/g,'')}">
+    <div class="news-item" onclick="window.open('${n.link}','_blank')" style="cursor:pointer;">
       <div style="display:flex;align-items:center;gap:6px;margin-bottom:3px;">
         <span class="news-source ${n.category === 'stock' ? 'stock' : ''}">${n.source}</span>
         <span class="news-cat ${n.category === 'stock' ? 'cat-stock' : 'cat-general'}">${n.category === 'stock' ? '📈 หุ้น' : '📰 ทั่วไป'}</span>
@@ -841,10 +856,6 @@ function copyPrompt(id) {
   });
 }
 
-function searchNews(el) {
-  const title = el.getAttribute('data-title');
-  window.open('https://www.google.com/search?q=' + encodeURIComponent(title), '_blank');
-}
 
 function openClaude() { window.open('https://claude.ai', '_blank'); }
 
