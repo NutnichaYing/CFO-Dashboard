@@ -210,8 +210,8 @@ body{background:var(--bg);color:var(--text);font-family:'Segoe UI',sans-serif;mi
 
 <!-- TABS -->
 <div class="tab-bar">
-  <button class="tab-btn active" onclick="switchTab('fx')">💱 FX Monitor</button>
-  <button class="tab-btn synnex" onclick="switchTab('synnex')">📊 Synnex News</button>
+  <button class="tab-btn active" onclick="switchTab('fx', this)">💱 FX Monitor</button>
+  <button class="tab-btn synnex" onclick="switchTab('synnex', this)">📊 Synnex News</button>
 </div>
 
 <!-- ===== TAB: FX ===== -->
@@ -586,11 +586,18 @@ let fxData = null;
 let synnexAllNews = [];
 
 // ===== TAB SWITCH =====
-function switchTab(tab) {
+function switchTab(tab, btn) {
   document.querySelectorAll('.tab-content').forEach(t => t.classList.remove('active'));
   document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
   document.getElementById('tab-' + tab).classList.add('active');
-  event.target.classList.add('active');
+  // highlight the right button (works whether called by click or programmatically)
+  const target = btn || (typeof event !== 'undefined' && event.target);
+  if (target) {
+    target.classList.add('active');
+  } else {
+    const b = document.querySelector('.tab-btn' + (tab === 'synnex' ? '.synnex' : ''));
+    if (b) b.classList.add('active');
+  }
 }
 
 // ===== LOAD DATA =====
@@ -654,16 +661,51 @@ function renderSynnexNews(news) {
     el.innerHTML = '<div style="text-align:center;color:var(--muted);padding:20px;">ไม่พบข่าว Synnex วันนี้<br><a href="https://www.set.or.th/th/market/product/stock/quote/SYNEX/price" target="_blank" style="color:var(--purple);">ดูที่ SET โดยตรง ↗</a></div>';
     return;
   }
-  el.innerHTML = news.map(n => `
-    <div class="news-item" onclick="window.open('${n.link}','_blank')" style="cursor:pointer;">
-      <div style="display:flex;align-items:center;gap:6px;margin-bottom:3px;">
-        <span class="news-source ${n.category === 'stock' ? 'stock' : ''}">${n.source}</span>
-        <span class="news-cat ${n.category === 'stock' ? 'cat-stock' : 'cat-general'}">${n.category === 'stock' ? '📈 หุ้น' : '📰 ทั่วไป'}</span>
+
+  // helper: build one news card
+  function card(n) {
+    // trusted sources -> direct link ; google -> google search
+    const isGoogle = (n.source || '').startsWith('Google News');
+    let clickAction;
+    if (isGoogle) {
+      const q = encodeURIComponent(n.title || '');
+      clickAction = `window.open('https://www.google.com/search?q=${q}','_blank')`;
+    } else {
+      const safeLink = (n.link || '').replace(/'/g, '');
+      clickAction = `window.open('${safeLink}','_blank')`;
+    }
+    const catLabel = n.category === 'stock' ? '📈 หุ้น' : '📰 ทั่วไป';
+    const catClass = n.category === 'stock' ? 'cat-stock' : 'cat-general';
+    const srcClass = n.category === 'stock' ? 'stock' : '';
+    const desc = n.description ? `<div style="font-size:12px;color:var(--muted);margin-top:3px;">${n.description.substring(0,100)}...</div>` : '';
+    const linkHint = isGoogle ? '<span style="font-size:10px;color:var(--muted);"> 🔍 ค้นหาใน Google</span>' : '<span style="font-size:10px;color:var(--success);"> ↗ เปิดเว็บข่าว</span>';
+    return `
+    <div class="news-item" onclick="${clickAction}" style="cursor:pointer;">
+      <div style="display:flex;align-items:center;gap:6px;margin-bottom:3px;flex-wrap:wrap;">
+        <span class="news-source ${srcClass}">${n.source}</span>
+        <span class="news-cat ${catClass}">${catLabel}</span>
+        ${linkHint}
       </div>
       <div class="news-title">${n.title}</div>
-      ${n.description ? `<div style="font-size:12px;color:var(--muted);margin-top:3px;">${n.description.substring(0,100)}...</div>` : ''}
+      ${desc}
       <div class="news-date">${n.date}</div>
-    </div>`).join('');
+    </div>`;
+  }
+
+  // split into trusted vs google blocks
+  const trusted = news.filter(n => n.trusted === true || !(n.source||'').startsWith('Google News'));
+  const google  = news.filter(n => n.trusted === false || (n.source||'').startsWith('Google News'));
+
+  let html = '';
+  if (trusted.length) {
+    html += `<div style="font-size:12px;font-weight:700;color:var(--purple);margin:4px 0 8px;padding-bottom:6px;border-bottom:1px solid var(--border);">🏛️ แหล่งทางการ (เชื่อถือสูง) — ${trusted.length} ข่าว</div>`;
+    html += trusted.map(card).join('');
+  }
+  if (google.length) {
+    html += `<div style="font-size:12px;font-weight:700;color:var(--muted);margin:20px 0 8px;padding-bottom:6px;border-bottom:1px solid var(--border);">🔍 ข่าวเพิ่มเติม (Google News) — ${google.length} ข่าว</div>`;
+    html += google.map(card).join('');
+  }
+  el.innerHTML = html;
 }
 
 function filterSynnexNews(cat, btn) {
