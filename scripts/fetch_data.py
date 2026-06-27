@@ -80,16 +80,27 @@ def fetch_fx_news():
 
 def fetch_synnex_news():
     all_news = []
-    feeds = [
+    # ===== TRUSTED SOURCES (priority, direct links) =====
+    trusted_feeds = [
         {"url": "https://www.set.or.th/dat/news/newsRSS.do?symbol=SYNEX",
-         "source": "SET Official", "category": "stock"},
+         "source": "SET Official", "category": "stock", "trusted": True, "priority": 1},
+        {"url": "https://www.settrade.com/api/cms/v1/rss/news?symbol=SYNEX",
+         "source": "Settrade", "category": "stock", "trusted": True, "priority": 2},
         {"url": "https://www.bangkokpost.com/rss/data/business.xml",
-         "source": "Bangkok Post", "category": "general"},
+         "source": "Bangkok Post", "category": "general", "trusted": True, "priority": 3},
         {"url": "https://www.nationthailand.com/rss/business.xml",
-         "source": "Nation Thailand", "category": "general"},
+         "source": "Nation Thailand", "category": "general", "trusted": True, "priority": 4},
     ]
+    # ===== GOOGLE NEWS (aggregator, search-redirect links) =====
+    google_feeds = [
+        {"url": "https://news.google.com/rss/search?q=%22Synnex%22+Thailand+SYNEX&hl=th&gl=TH&ceid=TH:th",
+         "source": "Google News TH", "category": "general", "trusted": False, "priority": 5},
+        {"url": "https://news.google.com/rss/search?q=%22Synnex+Thailand%22+IT+distribution&hl=en&gl=TH&ceid=TH:en",
+         "source": "Google News EN", "category": "general", "trusted": False, "priority": 6},
+    ]
+    feeds = trusted_feeds + google_feeds
     synnex_keywords = ["synnex", "ซินเน็ค", "synex", "Synnex Public",
-                       "IT distribution", "ไอที", "สยามซินเน็ค"]
+                       "สยามซินเน็ค"]
     for feed in feeds:
         try:
             req = urllib.request.Request(feed["url"],
@@ -106,38 +117,42 @@ def fetch_synnex_news():
                     pub_date = item.findtext("pubDate", "")
                     link = item.findtext("link", "")
                     combined = (title + " " + desc).lower()
-                    is_synnex = feed["source"] in ["SET Official"]
+                    # SET/Settrade = symbol-specific feeds, always relevant
+                    is_symbol_feed = feed["source"] in ["SET Official", "Settrade"]
+                    # Google News = already searched for Synnex, always relevant
+                    is_google = feed["source"].startswith("Google News")
                     is_relevant = any(kw.lower() in combined for kw in synnex_keywords)
-                    if title and (is_synnex or is_relevant):
+                    if title and (is_symbol_feed or is_google or is_relevant):
                         all_news.append({
                             "title": title.strip(),
                             "description": desc[:300].strip() if desc else "",
                             "date": pub_date, "link": link,
                             "source": feed["source"],
-                            "category": feed["category"]
+                            "category": feed["category"],
+                            "trusted": feed["trusted"],
+                            "priority": feed["priority"]
                         })
         except Exception as e:
             print(f"Synnex feed error {feed['source']}: {e}")
+    # dedupe by title
     seen = set()
     unique = []
     for n in all_news:
-        if n["title"] not in seen:
-            seen.add(n["title"])
+        key = n["title"].lower().strip()
+        if key not in seen:
+            seen.add(key)
             unique.append(n)
+    # sort: trusted first (by priority), then google
+    unique.sort(key=lambda n: n["priority"])
     if not unique:
         unique = [
             {"title": "Synnex Public Company (Thailand) — ยังไม่มีข่าวใหม่วันนี้",
              "description": "ตรวจสอบข่าวล่าสุดได้ที่ SET หรือ ir.synnex.co.th",
              "date": get_bangkok_time().strftime("%Y-%m-%d %H:%M"),
              "link": "https://www.set.or.th/th/market/product/stock/quote/SYNEX/price",
-             "source": "Manual", "category": "general"},
-            {"title": "ราคาหุ้น SYNEX — ดูข้อมูลล่าสุดที่ SET",
-             "description": "ราคา, volume, และข้อมูลนักวิเคราะห์",
-             "date": get_bangkok_time().strftime("%Y-%m-%d %H:%M"),
-             "link": "https://www.set.or.th/th/market/product/stock/quote/SYNEX/price",
-             "source": "SET Official", "category": "stock"}
+             "source": "SET Official", "category": "stock", "trusted": True, "priority": 1},
         ]
-    return unique[:20]
+    return unique[:25]
 
 def build_claude_prompt(rate_data, news_items, budget_rate=34.50):
     today = get_bangkok_time()
