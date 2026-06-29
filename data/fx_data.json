@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-27 13:21:36 BKK",
+  "last_updated": "2026-06-29 21:51:34 BKK",
   "rate": {
-    "date": "2026-06-27",
+    "date": "2026-06-29",
     "buying": 0,
     "selling": 0,
     "mid": 0,
@@ -9,17 +9,31 @@
   },
   "news": [
     {
-      "title": "Digital platform to speed up Thai cannabis exports",
-      "description": "Thailand will allow cannabis exporters to report their details digitally to improve business flow, as the country has recorded cumulative exports of the controlled herb worth more than 2.5 billion bah",
-      "date": "Sat, 27 Jun 2026 12:17:00 +0700",
-      "link": "https://www.bangkokpost.com/business/general/3277430/digital-platform-to-speed-up-thai-cannabis-exports",
+      "title": "AIS partners with Match Group and Tinder to advance Human Connection Campaign Thailand",
+      "description": "Advanced Info Service Public Company Limited (AIS) has joined forces with Match Group and Tinder to launch Human Connection Campaign Thailand, a nationwide initiative aimed at promoting meaningful, sa",
+      "date": "Mon, 29 Jun 2026 14:56:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3278360/ais-partners-with-match-group-and-tinder-to-advance-human-connection-campaign-thailand",
       "source": "Bangkok Post Business"
     },
     {
-      "title": "BoT vows to continue with stablecoin plan",
-      "description": "The Bank of Thailand is moving forward with plans to introduce a baht-pegged stablecoin as part of a push to support digital finance and innovation, says governor Vitai Ratanakorn.",
-      "date": "Sat, 27 Jun 2026 05:42:00 +0700",
-      "link": "https://www.bangkokpost.com/business/general/3277140/bot-vows-to-continue-with-stablecoin-plan",
+      "title": "Thai May car production drops 17.94% y/y",
+      "description": "Car production in ​Thailand dropped by &zwnj;17.94% in May from a year earlier to 114,214 units, the Federation of Thai ​Industries ⁠said on Monday.",
+      "date": "Mon, 29 Jun 2026 11:45:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3278309/thai-may-car-production-drops-1794-yy",
+      "source": "Bangkok Post Business"
+    },
+    {
+      "title": "Bakery expands, Tokyu eyes Si Racha",
+      "description": "SET-listed President Bakery, a producer and distributor of bakery products under the Farmhouse brand, plans to spend about 5 billion baht on investment over three years.",
+      "date": "Mon, 29 Jun 2026 06:05:00 +0700",
+      "link": "https://www.bangkokpost.com/business/investment/3278120/bakery-expands-tokyu-eyes-si-racha",
+      "source": "Bangkok Post Business"
+    },
+    {
+      "title": "Living longer, saving smarter",
+      "description": "Thailand is entering an era of unprecedented longevity. Advances in healthcare and medical technology are allowing people to live significantly longer than previous generations, creating both opportun",
+      "date": "Mon, 29 Jun 2026 05:29:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3278200/living-longer-saving-smarter",
       "source": "Bangkok Post Business"
     }
   ],
@@ -85,20 +99,10 @@
       "priority": 5
     },
     {
-      "title": "SYNEX เตรียมเปิดคลังขนสินค้า จัดลด-แลก แบบกระหน่ำ เต็มพื้นที่ “Synnex Clearance Sale 2023” วันที่ 24 - 25 พฤศจิกายน นี้ - Share2Trade",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiygdBVV95cUxNLVRRYkRmcXJzNlYxUzRYQUp5dFk0el9ueGNiSlhkMU9ZQ3V4SWhUczI5Wjd1bHdTc2Rla1VINGh4cF9FTG1rUGRuei1wajRUYWdwWWFjaUxEUWFGa3VKZS13ZGJuWENOS2kwODJjTENpRGVMMG5YTzJiWk1Qclp5eWlCcGpfZHRmSXY5aTBocnh1azE1RWRreGlqNjZWSFE1a1hScXRUU1JKVVk4UTNVQmdRUjJlcEJzZ2",
-      "date": "Sun, 12 Nov 2023 15:46:28 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiygdBVV95cUxNLVRRYkRmcXJzNlYxUzRYQUp5dFk0el9ueGNiSlhkMU9ZQ3V4SWhUczI5Wjd1bHdTc2Rla1VINGh4cF9FTG1rUGRuei1wajRUYWdwWWFjaUxEUWFGa3VKZS13ZGJuWENOS2kwODJjTENpRGVMMG5YTzJiWk1Qclp5eWlCcGpfZHRmSXY5aTBocnh1azE1RWRreGlqNjZWSFE1a1hScXRUU1JKVVk4UTNVQmdRUjJlcEJzZ2VMRnVUZVdMb3FOWGVFR2oxXzVUd3FlS0pfejdxc21JUl9JekJpUVo1bjY5V2pMdS1rbGZqbGhwQVJMbGM5MkQ1Wnc1cjVmeWhtR2NpV0pyS2oyWkJrek5ra3RyVFZ3Q0E5OGZKVk9EWXAwalNtMmNEdFpMRW5XWGlKQTRyUXZhcU12OW1LazM4dmtCTnEwTmFfY24yLXVaZWNJVGI2SWdGRE5IVHN4Tm9BV3VteXdZZHRlY2xBMDZRU08xYk1BamtUSWpwdDFSTmVQdVZBdlg0dHU3dkVMZS1zTC1pbU1fSHdNYjR1dGpodmFTTHZiVXNYX2FLT0E4bmlBMzV6eWpad0Q0R1p6cXVrampVaC1KQmpSaTVEYXgydVZ2aTNrZUVrQWZOTWt0Z2E1ams4LVRlcV80NGJwUmlsMjkxRHdzMVduWmtyTU9nd29Ec21lOWdiM3YwX0tLM1RBX0JBdFI1MGlZVlYzRlZQZWNlazJNdGN5a0NVdVJqRU9Sc0VmQzNSQWc3aHV1c3RoV1p5OW00OXpDdExpU0s3TS1YVmtVdnI5Y0h4eUlPZGVMb0h4TUhPd0ZIM2NuTWtfbG5oeFNnUUdiWnZlQnFsR3kxSGEtZVB4eFlaRWN2WXhyR1NvRE5xeURLT0I5WlJJY0JGUmJVS1YyOFhUQVR0MzJOX0lOTnhPX0RRRG1LaE50RkRta2psbEx2bnd6OTNldTdTNzJNUG1KYk1mTjdYb0FKa1k2X2thYlZQZ29DdFZfUFV0VHBzTnlLZUdhc0RuU1BkZXVPR2Z4X1psblVDc0RxTDFWcWdhRjVIY2daNGFuMUl3R0hzME9SdFlrSHUxQktua21GWFpxWXQ1Y0ViS1I0Rldld2tJTFNPTXBmN1ZWN2IyTjlRTEtMV2JncHBrLUtJTmIyYzdJUEdreWlZRGplcGo3WmJtSDE3ckh5TC13YkVqTE1DQnloZ05HdkNBR2RuSEpoVU02Mm9MbURXOHdDSFktcGs2aWVWdjFkdkNmR2ZUaENBeHQzdFpDZlpuZVdvSFJn?oc=5",
-      "source": "Google News TH",
-      "category": "general",
-      "trusted": false,
-      "priority": 5
-    },
-    {
-      "title": "SYNEX - ข้อมูลผู้ถือหุ้น - ตลาดหลักทรัพย์แห่งประเทศไทย - SET",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPbEh0RThzaS14R2N2WEh5ZGdPYVQ5Vk5Pb2RrZTl5dGtFWm5PSjBFSmxQRlBlcmRGd1lLaU43LWpvaG0yam5zV3Nnb2JxYU1JMWRIMzMxQ3JHSS1DeS1yTjMtSk40X0E4N2FBblJTeHBna0FiZ0x4SDB4ZzNveDFTSDdn?oc=5\" target=\"_blank\">SYNEX - ข้อมูลผู้ถือหุ้น - ตลาดหลักทรัพย์แห่งประเทศ",
-      "date": "Tue, 06 Dec 2022 05:46:14 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbEh0RThzaS14R2N2WEh5ZGdPYVQ5Vk5Pb2RrZTl5dGtFWm5PSjBFSmxQRlBlcmRGd1lLaU43LWpvaG0yam5zV3Nnb2JxYU1JMWRIMzMxQ3JHSS1DeS1yTjMtSk40X0E4N2FBblJTeHBna0FiZ0x4SDB4ZzNveDFTSDdn?oc=5",
+      "title": "SYNNEX ร่วมยกระดับงานเกมนานาชาติ “gamescom asia x Thailand Game Show” โชว์ศักยภาพ No.1 Gaming Distributor หนุนวงการเกมไทยสู่เวทีโลก - Share2Trade",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMihgdBVV95cUxQV0gyMXJxM2ZBU3otYmJhaGlDbnU2RU14MTZ2MFRTb3VRYmFpejFiTndTY0FWSXpCbDJQNVlvd2ZZR3Y5SGRGNHZIUWUzdzZTanhWaWFhNWs4WnN3WXFLV3o5aGo4LUp6bXhwZnB5TjNQektTTXNXS0laUHF2Q2dWTUJaY0ZQcHVndVJsMWNZRzd5T2FWc2F3NGZvWkIxTVhnbGpHRDRwcEVKeWNTQUxzVFNkZ1RwcnhpTG",
+      "date": "Thu, 07 Aug 2025 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMihgdBVV95cUxQV0gyMXJxM2ZBU3otYmJhaGlDbnU2RU14MTZ2MFRTb3VRYmFpejFiTndTY0FWSXpCbDJQNVlvd2ZZR3Y5SGRGNHZIUWUzdzZTanhWaWFhNWs4WnN3WXFLV3o5aGo4LUp6bXhwZnB5TjNQektTTXNXS0laUHF2Q2dWTUJaY0ZQcHVndVJsMWNZRzd5T2FWc2F3NGZvWkIxTVhnbGpHRDRwcEVKeWNTQUxzVFNkZ1RwcnhpTGZIOVU3XzFqODZyQjZyT1ZELVBSenNhbnhnbzBGcFY2YkFHbm9kc0cyem1iVmVqbER6WWxSdmQxWEtOQng2VGNLb3pBSHB0WFU1VDU5NmtOUXBmWjhaaHphUVpvdkx5YVI4OVpqQmdobUwtNXp5RUlpaFFBVHFCTko3OEo0YUV2S0ZYcHIwVXVtanlwYkR3QklheWtiU0wtLUVjMUUzd0VTM1M4OHFaQ0p0bGprUmdZaUIxLU1NNlh0b0N6SWJGMW53V1VFa2VqZXJmVnkyOFJYQXhwMVJyVTRfVm9CV1ZJVlNfWmdZZEZBbkRIS0tpSTBwbmFpdHZHd1MzbzZMUVpKcDNsNWhfbEo2TTVfM3Z6LVFIZnVqbDZaZ2lwaFR2Y1BaSGx1ZUtkamtCNU1EeTF1WWljMkxUbEtCa2l5ZGZNektlRzVoalpWaGt2eW54T29BMTFXSG5OejRDbDBZakVRYTlxV1NQNEJPQlZ4R2VYT2xNbFNNc1J6UDZRV1F1YWZOZzB3SU1fV1Z6NVZHZXJ3eU5FYWNELUNSNGJhUUVVWGNfbTAydUg4WHM4dU15QkhReDd5aUNsdzFLUEVLLUFYLWxCNXdpWU1Pc2ZKZDJEaThaQ3FlUE9pUV9teTJnbXNRWWxaWmJXRExxYU5KSGM5aDhTY0l4Tk5kRDdiNGM0bm9HbldGYmZKNUtTQ3hnREUzck5wVE02TkFnR3k2VWU5cUlzV2ItYjIxUWVGQTlfdm4yRlJQZWNRSG0xZGY4N201Njl1WWF3LVpfLTc4MnVReVE3ZGJNSmVnUnktMWk2ZXZDY1pDM2wwdjFpdzNxcVZSVHRtdGJBQU5POWdfZk5LRndJWkg4aWxpVzJvTkZ1NE1XanhINnFvU3E4TjVsaUkzeU5Ca0FGM25pWTEtdVFnSDFjY21xV21Lai1sQnMwU2VUMlhqRlZoZG5YQQ?oc=5",
       "source": "Google News TH",
       "category": "general",
       "trusted": false,
@@ -125,10 +129,10 @@
       "priority": 5
     },
     {
-      "title": "SYNNEX ร่วมยกระดับงานเกมนานาชาติ gamescom asia x Thailand Game Show โชว์ศักยภาพ No.1 Gaming Distributor หนุนวงการเกมไทยสู่เวทีโลก - Online Station",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YVHV6c1B5RXdnNURVU3RETGdZUE5DOFR4R0ZTd1htS2VwMkIwYndSdm1ZODJzeXo3NmNyMjVlblJyb21jV2JIaVJPeWNLV3M1RnhuR0c4OHVPRGRsRXRDSG5PQQ?oc=5\" target=\"_blank\">SYNNEX ร่วมยกระดับงานเกมนานาชาติ gamescom asia x Thailand Game Show โชว์ศักยภาพ No.1 Gaming D",
-      "date": "Sun, 10 Aug 2025 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YVHV6c1B5RXdnNURVU3RETGdZUE5DOFR4R0ZTd1htS2VwMkIwYndSdm1ZODJzeXo3NmNyMjVlblJyb21jV2JIaVJPeWNLV3M1RnhuR0c4OHVPRGRsRXRDSG5PQQ?oc=5",
+      "title": "SYNEX บวก 4% ลุ้นกำไรปีนี้ทะลุ 700 ลบ. อานิสงส์ยอดขายไอทีพุ่ง - ข่าวหุ้นธุรกิจออนไลน์",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wYlE2S25nYUduMDVDR2pva1ZWeFMwbThlcHRqRnZvVGVOUjdvUF90YzhfSjN0RjBHQ1AtR1ItTDVKRmRtREMyM2xISTYzNnlTNjNZbm9R?oc=5\" target=\"_blank\">SYNEX บวก 4% ลุ้นกำไรปีนี้ทะลุ 700 ลบ. อานิสงส์ยอดขายไอทีพุ่ง</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ข่าวหุ้นธุรก",
+      "date": "Tue, 31 Aug 2021 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wYlE2S25nYUduMDVDR2pva1ZWeFMwbThlcHRqRnZvVGVOUjdvUF90YzhfSjN0RjBHQ1AtR1ItTDVKRmRtREMyM2xISTYzNnlTNjNZbm9R?oc=5",
       "source": "Google News TH",
       "category": "general",
       "trusted": false,
@@ -155,6 +159,16 @@
       "priority": 5
     },
     {
+      "title": "ซินเน็คฯ กางแผนธุรกิจในงาน “SYNNEX PARTNER CONNECT 2024” - posttoday",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZNHc2MFVmV0VtOVBQYVFwRk9oNFhwS2xKNkNYckJ4dzRjYlNlRkN3SjBLcHQ2U3lUcURRUk9xMHZzbnQtOWwzbklHaEFYYV8tekE?oc=5\" target=\"_blank\">ซินเน็คฯ กางแผนธุรกิจในงาน “SYNNEX PARTNER CONNECT 2024”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">posttoday</font>",
+      "date": "Tue, 24 Sep 2024 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZNHc2MFVmV0VtOVBQYVFwRk9oNFhwS2xKNkNYckJ4dzRjYlNlRkN3SjBLcHQ2U3lUcURRUk9xMHZzbnQtOWwzbklHaEFYYV8tekE?oc=5",
+      "source": "Google News TH",
+      "category": "general",
+      "trusted": false,
+      "priority": 5
+    },
+    {
       "title": "สุธิดา มงคลสุธี ทายาทกิจการหมื่นล้าน รับไม้ยืนหนึ่ง IT ecosystem - posttoday",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OU2JGRnRBbXZYZFBSdWl4WklHVEFwRnVIMU1MdGtXZmg0cldCby1NQUpsRmpjUW1KTTVWSnRwM29hd3M1UktjYVRyVDZVTTFMX01n?oc=5\" target=\"_blank\">สุธิดา มงคลสุธี ทายาทกิจการหมื่นล้าน รับไม้ยืนหนึ่ง IT ecosystem</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">posttoday</fo",
       "date": "Mon, 17 Apr 2023 07:00:00 GMT",
@@ -165,20 +179,10 @@
       "priority": 5
     },
     {
-      "title": "ซินเน็คขนทัพสินค้า “Trusted By Synnex” จากแบรนด์ไอทีชั้นนำ บุกงาน TME 2024 ย้ำความแข็งแกร่งนัมเบอร์วันไอทีดิสทริบิวเตอร์ - Thaimobilecenter",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5jRjdLZWsxdUVhdWtYZDFuM0xFRFFlV1FXM3pTalBLOWpsSDc4V09EWEZwT0NUZV9QYm1vMVA0aUtoXy1WQXlRRUNpU0dpTlNTbEVGN1BQUFVfZ1c5LU9QVDBodk56dUdpTVNXVkl0Yw?oc=5\" target=\"_blank\">ซินเน็คขนทัพสินค้า “Trusted By Synnex” จากแบรนด์ไอทีชั้นนำ บุกงาน TME 2024 ย้",
-      "date": "Sat, 10 Feb 2024 08:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jRjdLZWsxdUVhdWtYZDFuM0xFRFFlV1FXM3pTalBLOWpsSDc4V09EWEZwT0NUZV9QYm1vMVA0aUtoXy1WQXlRRUNpU0dpTlNTbEVGN1BQUFVfZ1c5LU9QVDBodk56dUdpTVNXVkl0Yw?oc=5",
-      "source": "Google News TH",
-      "category": "general",
-      "trusted": false,
-      "priority": 5
-    },
-    {
-      "title": "HUAWEI eKit Joins Hands with Distribution Partners to Explore Unlimited Opportunities in Thailand SME market - Huawei",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOQVFRQ0pHVEVMeEg5TkdIX1plcG5wQ1A4Y0ZVdC15cUE5RVg2T2NjTnRtQ0pOeDZldmhoUklmTHk1azU5RWwyMzdHVkRMNURHQTNXNl9yeDFXLXVKTU5ZZVNkdER2bUVJTHBxRzlBZ3lIdXRXT0tfRzNHRTc1amRsaEVRMA?oc=5\" target=\"_blank\">HUAWEI eKit Joins Hands with Distribution Partner",
-      "date": "Wed, 08 Nov 2023 08:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQVFRQ0pHVEVMeEg5TkdIX1plcG5wQ1A4Y0ZVdC15cUE5RVg2T2NjTnRtQ0pOeDZldmhoUklmTHk1azU5RWwyMzdHVkRMNURHQTNXNl9yeDFXLXVKTU5ZZVNkdER2bUVJTHBxRzlBZ3lIdXRXT0tfRzNHRTc1amRsaEVRMA?oc=5",
+      "title": "Price to earnings forward of Synnex (Thailand) Public Co., Ltd. – SET:SYNEX - TradingView",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPU2Z2andCY3dTeDdJR1BMRmFKY2ZqcWhRNHVZaTFxNTFpRF9aWXhTRzBHNnJUWmRMbW54bEJwT2VOeTJLVGEtX2V3THZJZ1Q1OHFJb05zTnpyUmNGMDJIcldDNldKVjlqWGRjMjlPenhCMWMyOUp4M0Z4b0tLTTJlR3R2NFJRaVk3cllHV0gwdWM1YVVTOU5NNHczWDMtN3c?oc=5\" target=\"_blank\">Price to ear",
+      "date": "Sun, 28 Jun 2026 02:26:04 GMT",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPU2Z2andCY3dTeDdJR1BMRmFKY2ZqcWhRNHVZaTFxNTFpRF9aWXhTRzBHNnJUWmRMbW54bEJwT2VOeTJLVGEtX2V3THZJZ1Q1OHFJb05zTnpyUmNGMDJIcldDNldKVjlqWGRjMjlPenhCMWMyOUp4M0Z4b0tLTTJlR3R2NFJRaVk3cllHV0gwdWM1YVVTOU5NNHczWDMtN3c?oc=5",
       "source": "Google News EN",
       "category": "general",
       "trusted": false,
@@ -189,6 +193,16 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9uaWxjLWVHM3R6Z0xYUWdrX253ZkoySzlDRGNIUUc0bUxrM01sVkFMRHlFYUFZb2tVdFdodVoyeHE1ZXhFUFJFY0lUaGQ1RFE0SHlHMU56MV9EZWVoc2pMNFhpenhkdTZrdXc?oc=5\" target=\"_blank\">Amid demand for AI, Synnex transforms into total tech solutions provider</a>&nbsp;&n",
       "date": "Fri, 20 Sep 2024 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9uaWxjLWVHM3R6Z0xYUWdrX253ZkoySzlDRGNIUUc0bUxrM01sVkFMRHlFYUFZb2tVdFdodVoyeHE1ZXhFUFJFY0lUaGQ1RFE0SHlHMU56MV9EZWVoc2pMNFhpenhkdTZrdXc?oc=5",
+      "source": "Google News EN",
+      "category": "general",
+      "trusted": false,
+      "priority": 6
+    },
+    {
+      "title": "HUAWEI eKit Joins Hands with Distribution Partners to Explore Unlimited Opportunities in Thailand SME market - Huawei Enterprise",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQVXJXeEc2akJiXzVwUnFiV244MUt4aTdKcnp1ODlMeDBFMXF3R09ST2ZEN2kzalp4U1l5emhCN3BmOUxhRHoxY2xHbmxqaVl2QUtkckNhWS1sOU9wejNfR3ZCcm16eHJZdmVNd1p1dXhKMFRGeDJIVDFvXzRqTG9KZzk2VQ?oc=5\" target=\"_blank\">HUAWEI eKit Joins Hands with Distribution Partner",
+      "date": "Wed, 08 Nov 2023 08:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVXJXeEc2akJiXzVwUnFiV244MUt4aTdKcnp1ODlMeDBFMXF3R09ST2ZEN2kzalp4U1l5emhCN3BmOUxhRHoxY2xHbmxqaVl2QUtkckNhWS1sOU9wejNfR3ZCcm16eHJZdmVNd1p1dXhKMFRGeDJIVDFvXzRqTG9KZzk2VQ?oc=5",
       "source": "Google News EN",
       "category": "general",
       "trusted": false,
@@ -245,14 +259,14 @@
       "priority": 6
     }
   ],
-  "claude_prompt": "CFO FX Brief 27/06/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Digital platform to speed up Thai cannabis exports\n- [Bangkok Post Business] BoT vows to continue with stablecoin plan",
+  "claude_prompt": "CFO FX Brief 29/06/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] AIS partners with Match Group and Tinder to advance Human Connection Campaign Thailand\n- [Bangkok Post Business] Thai May car production drops 17.94% y/y\n- [Bangkok Post Business] Bakery expands, Tokyu eyes Si Racha\n- [Bangkok Post Business] Living longer, saving smarter",
   "stats": {
-    "fx_news_count": 2,
+    "fx_news_count": 4,
     "synnex_news_count": 22,
     "data_sources": [
-      "Bangkok Post Business",
+      "Google News EN",
       "Google News TH",
-      "Google News EN"
+      "Bangkok Post Business"
     ]
   }
 }
