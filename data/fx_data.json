@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-29 23:44:45 BKK",
+  "last_updated": "2026-06-30 01:31:01 BKK",
   "rate": {
-    "date": "2026-06-29",
+    "date": "2026-06-30",
     "buying": 0,
     "selling": 0,
     "mid": 0,
@@ -259,14 +259,14 @@
       "priority": 6
     }
   ],
-  "claude_prompt": "CFO FX Brief 29/06/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] AIS partners with Match Group and Tinder to advance Human Connection Campaign Thailand\n- [Bangkok Post Business] Thai May car production drops 17.94% y/y\n- [Bangkok Post Business] Bakery expands, Tokyu eyes Si Racha\n- [Bangkok Post Business] Living longer, saving smarter",
+  "claude_prompt": "CFO FX Brief 30/06/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] AIS partners with Match Group and Tinder to advance Human Connection Campaign Thailand\n- [Bangkok Post Business] Thai May car production drops 17.94% y/y\n- [Bangkok Post Business] Bakery expands, Tokyu eyes Si Racha\n- [Bangkok Post Business] Living longer, saving smarter",
   "stats": {
     "fx_news_count": 4,
     "synnex_news_count": 22,
     "data_sources": [
-      "Bangkok Post Business",
       "Google News TH",
-      "Google News EN"
+      "Google News EN",
+      "Bangkok Post Business"
     ]
   }
 }
