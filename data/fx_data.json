@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-01 20:39:58 BKK",
+  "last_updated": "2026-07-02 01:21:50 BKK",
   "rate": {
-    "date": "2026-07-01",
+    "date": "2026-07-02",
     "buying": 0,
     "selling": 0,
     "mid": 0,
@@ -252,14 +252,14 @@
       "priority": 6
     }
   ],
-  "claude_prompt": "CFO FX Brief 01/07/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Thailand approves $210 million Mazda-Ford AutoAlliance investment\n- [Bangkok Post Business] Business registration becomes fully digital\n- [Bangkok Post Business] Finance Ministry highlights 10 tax reforms",
+  "claude_prompt": "CFO FX Brief 02/07/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Thailand approves $210 million Mazda-Ford AutoAlliance investment\n- [Bangkok Post Business] Business registration becomes fully digital\n- [Bangkok Post Business] Finance Ministry highlights 10 tax reforms",
   "stats": {
     "fx_news_count": 3,
     "synnex_news_count": 22,
     "data_sources": [
+      "Google News TH",
       "Bangkok Post Business",
-      "Google News EN",
-      "Google News TH"
+      "Google News EN"
     ]
   }
 }
