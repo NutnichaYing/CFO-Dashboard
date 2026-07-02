@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-02 17:19:57 BKK",
+  "last_updated": "2026-07-02 18:55:20 BKK",
   "rate": {
     "date": "2026-07-02",
     "buying": 0,
@@ -248,8 +248,8 @@
     "synnex_news_count": 21,
     "data_sources": [
       "Bangkok Post Business",
-      "Google News TH",
-      "Google News EN"
+      "Google News EN",
+      "Google News TH"
     ]
   }
 }
