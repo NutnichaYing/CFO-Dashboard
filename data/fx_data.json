@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-03 23:16:29 BKK",
+  "last_updated": "2026-07-06 21:07:19 BKK",
   "rate": {
-    "date": "2026-07-03",
+    "date": "2026-07-06",
     "buying": 0,
     "selling": 0,
     "mid": 0,
@@ -9,21 +9,24 @@
   },
   "news": [
     {
-      "title": "Analyst predicts baht uptick in H2",
-      "description": "The narrowing trade deficit and easing inflationary pressure should support the baht regaining strength against the US dollar late in the third quarter this year, reversing a short-term depreciation t",
-      "date": "Fri, 03 Jul 2026 04:33:00 +0700",
-      "link": "https://www.bangkokpost.com/business/general/3280249/analyst-predicts-baht-uptick-in-h2",
-      "source": "Bangkok Post Business"
-    },
-    {
-      "title": "Thai bourse tightens corporate governance rules",
-      "description": "The Stock Exchange of Thailand (SET) has introduced a new set of listing and disclosure rules aimed at strengthening corporate governance, improving market transparency and aligning the country's capi",
-      "date": "Fri, 03 Jul 2026 01:01:00 +0700",
-      "link": "https://www.bangkokpost.com/business/general/3280264/thai-bourse-tightens-corporate-governance-rules",
-      "source": "Bangkok Post Business"
+      "title": "ไม่สามารถดึงข่าวอัตโนมัติได้",
+      "description": "กรุณาตรวจสอบข่าว FX จาก Reuters หรือ Bangkok Post",
+      "date": "2026-07-06 21:07",
+      "link": "https://www.reuters.com/markets/currencies/",
+      "source": "Manual"
     }
   ],
   "synnex_news": [
+    {
+      "title": "สุธิดา มงคลสุธี ไม่ใช่แค่เพียงลูกสาวท่านประธานแต่เป็นแม่ทัพหญิงแกร่งของ SYNNEX ผู้ปั้นยอดขายไอทีกว่า 40,000 ล้าน - Marketeer Online",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tQjRmVkRWUFlKWmV2TzFOZVEyS2NsaHF1VjNjeVFiZEJLQWtzZDVPa1NzRGE5VUpJc3F3NmtUamdMUzZUNE5nY20yTlAtc29SeGFmcA?oc=5\" target=\"_blank\">สุธิดา มงคลสุธี ไม่ใช่แค่เพียงลูกสาวท่านประธานแต่เป็นแม่ทัพหญิงแกร่งของ SYNNEX ผู้ปั้นยอดขายไอทีกว่า 40,000 ล้าน<",
+      "date": "Wed, 01 Jul 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tQjRmVkRWUFlKWmV2TzFOZVEyS2NsaHF1VjNjeVFiZEJLQWtzZDVPa1NzRGE5VUpJc3F3NmtUamdMUzZUNE5nY20yTlAtc29SeGFmcA?oc=5",
+      "source": "Google News TH",
+      "category": "general",
+      "trusted": false,
+      "priority": 5
+    },
     {
       "title": "SYNEX - ข้อมูลบริษัท - ตลาดหลักทรัพย์แห่งประเทศไทย - SET",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOUGtiOXFIVjBYcVhGZkhxQ2F2WVVZWFNLRmtqSWd6NHlJaFJKZkdoTkRvS0k0WlZfUGtZOXd4V0UzT2NUMm5IMERXYW9wWnNFX0Zac2ZPLWVxU24tODk3dWphU21LdEprcnExZ1d1Mm9IOHloa2pjZzN6Szh5MUJKbl9peG9ibUdEcTVHcEZn?oc=5\" target=\"_blank\">SYNEX - ข้อมูลบริษัท - ตลาดหลักทรัพ",
@@ -45,10 +48,10 @@
       "priority": 5
     },
     {
-      "title": "Nintendo Switch 2 จะดันหุ้น SYNEX ไปได้ไกลแค่ไหน? วิเคราะห์ราคาเป้าหมาย 26 บาท - efinanceThai",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBrZ1F4MWFIeHZpS01pNkl3WVVObmpWZXg2T2lUdHM2b044YWRwalBrQnFRLTcyUlZQVU1UUVpEQlRsSnp0c0NzUktJcTQyYWpET09OUmdYalBldmVONm1ZMDl4LXJSV3NUWlVZV1lOM2s1RzNybmpJ?oc=5\" target=\"_blank\">Nintendo Switch 2 จะดันหุ้น SYNEX ไปได้ไกลแค่ไหน? วิเคราะห์ราคาเป้า",
-      "date": "Tue, 17 Jun 2025 18:44:10 GMT",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBrZ1F4MWFIeHZpS01pNkl3WVVObmpWZXg2T2lUdHM2b044YWRwalBrQnFRLTcyUlZQVU1UUVpEQlRsSnp0c0NzUktJcTQyYWpET09OUmdYalBldmVONm1ZMDl4LXJSV3NUWlVZV1lOM2s1RzNybmpJ?oc=5",
+      "title": "SYNEX เปิด `Nintendo Authorized Store by SYNNEX` แห่งแรกในอาเซียน หวังยอดขายปีหน้า 1,000 ลบ. - efinanceThai",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPbkxqMzdwUFpkWkJGdEU4N3k0NFF2b3pKZHlqaGJfalllQy1rcnZXRUpuT2xWZjFEVG5lSy1OYldxWGZUd3dEZloyOHQzR3dPVUtMOEQ4eWtSNFJhZkRlZk5udWJBYVVuXzdxZjZqVDVTblItb1ZzSHI5Qnk5bU5rWTYwajN4QUk?oc=5\" target=\"_blank\">SYNEX เปิด `Nintendo Authorized Store by SYN",
+      "date": "Fri, 13 Jun 2025 00:05:17 GMT",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbkxqMzdwUFpkWkJGdEU4N3k0NFF2b3pKZHlqaGJfalllQy1rcnZXRUpuT2xWZjFEVG5lSy1OYldxWGZUd3dEZloyOHQzR3dPVUtMOEQ4eWtSNFJhZkRlZk5udWJBYVVuXzdxZjZqVDVTblItb1ZzSHI5Qnk5bU5rWTYwajN4QUk?oc=5",
       "source": "Google News TH",
       "category": "general",
       "trusted": false,
@@ -65,10 +68,10 @@
       "priority": 5
     },
     {
-      "title": "สุธิดา มงคลสุธี ไม่ใช่แค่เพียงลูกสาวท่านประธานแต่เป็นแม่ทัพหญิงแกร่งของ SYNNEX ผู้ปั้นยอดขายไอทีกว่า 40,000 ล้าน - Marketeer Online",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tQjRmVkRWUFlKWmV2TzFOZVEyS2NsaHF1VjNjeVFiZEJLQWtzZDVPa1NzRGE5VUpJc3F3NmtUamdMUzZUNE5nY20yTlAtc29SeGFmcA?oc=5\" target=\"_blank\">สุธิดา มงคลสุธี ไม่ใช่แค่เพียงลูกสาวท่านประธานแต่เป็นแม่ทัพหญิงแกร่งของ SYNNEX ผู้ปั้นยอดขายไอทีกว่า 40,000 ล้าน<",
-      "date": "Mon, 07 Nov 2022 08:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tQjRmVkRWUFlKWmV2TzFOZVEyS2NsaHF1VjNjeVFiZEJLQWtzZDVPa1NzRGE5VUpJc3F3NmtUamdMUzZUNE5nY20yTlAtc29SeGFmcA?oc=5",
+      "title": "Synnex joins forces with Autodesk as sole Thai distributor, aims for 1.5 billion Baht this year - มิติหุ้น",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGN1FNWFlvc1VTQ3UzRVlEUHl0bk51VWd0TXoxMHIwNkNvMHBMOUx0QzJkcEtpbG5sU25sbFhmekxrZmtwQ0lPcWFkSXZleWU2X244Vk1B?oc=5\" target=\"_blank\">Synnex joins forces with Autodesk as sole Thai distributor, aims for 1.5 billion Baht this year</a>&nbsp;&nbsp;",
+      "date": "Tue, 06 Aug 2024 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGN1FNWFlvc1VTQ3UzRVlEUHl0bk51VWd0TXoxMHIwNkNvMHBMOUx0QzJkcEtpbG5sU25sbFhmekxrZmtwQ0lPcWFkSXZleWU2X244Vk1B?oc=5",
       "source": "Google News TH",
       "category": "general",
       "trusted": false,
@@ -119,16 +122,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBuWEs0MHowV1RIREZ6WDNHMmpESHJ2X3VQOC0zc2c3X0ZxXzhLb3JrM0tTVFVreWs5ZWJCbFFXWkNIdnlka0Q4S0JJQmxBUTNvcm0tMV9DcHA2UzdMX29NZ1lzbFFkWTZuU0o2S3hkWE8yQQ?oc=5\" target=\"_blank\">SYNNEX ประกาศถือครองตลาด NINTENDO เป็นผู้จัดจำหน่ายในไทยอย่างเป็นทางการ ส",
       "date": "Thu, 23 Mar 2023 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBuWEs0MHowV1RIREZ6WDNHMmpESHJ2X3VQOC0zc2c3X0ZxXzhLb3JrM0tTVFVreWs5ZWJCbFFXWkNIdnlka0Q4S0JJQmxBUTNvcm0tMV9DcHA2UzdMX29NZ1lzbFFkWTZuU0o2S3hkWE8yQQ?oc=5",
-      "source": "Google News TH",
-      "category": "general",
-      "trusted": false,
-      "priority": 5
-    },
-    {
-      "title": "SYNEX เปิด `Nintendo Authorized Store by SYNNEX` แห่งแรกในอาเซียน หวังยอดขายปีหน้า 1,000 ลบ. - efinanceThai",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPbkxqMzdwUFpkWkJGdEU4N3k0NFF2b3pKZHlqaGJfalllQy1rcnZXRUpuT2xWZjFEVG5lSy1OYldxWGZUd3dEZloyOHQzR3dPVUtMOEQ4eWtSNFJhZkRlZk5udWJBYVVuXzdxZjZqVDVTblItb1ZzSHI5Qnk5bU5rWTYwajN4QUk?oc=5\" target=\"_blank\">SYNEX เปิด `Nintendo Authorized Store by SYN",
-      "date": "Fri, 13 Jun 2025 00:05:17 GMT",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbkxqMzdwUFpkWkJGdEU4N3k0NFF2b3pKZHlqaGJfalllQy1rcnZXRUpuT2xWZjFEVG5lSy1OYldxWGZUd3dEZloyOHQzR3dPVUtMOEQ4eWtSNFJhZkRlZk5udWJBYVVuXzdxZjZqVDVTblItb1ZzSHI5Qnk5bU5rWTYwajN4QUk?oc=5",
       "source": "Google News TH",
       "category": "general",
       "trusted": false,
@@ -205,6 +198,16 @@
       "priority": 6
     },
     {
+      "title": "Sutida Mongkolsuthree - Prestige Online - Singapore",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPa0FaaThuTHI5N1JTS3UzMXgzRlVWN1BPajRGckxOUHkyYV9DOElDTDRqQ3dCamJCdWRpMTdxX0JfT3FxdExIVF9RQ3o5MmY2cEU0NTVKY0lsS01yODZreWZyMXBzQXF1WFhGVTRrXzU4UFVhSG1Sc2ZBTXByck9Jb1FJRzhFTkZ2cnBoSFNzSWJOZ9IBlwFBVV95cUxORkdCd0pvdkI0R2NUaERIazNEUENvNDJhM2hfUG",
+      "date": "Mon, 20 Feb 2023 20:47:27 GMT",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPa0FaaThuTHI5N1JTS3UzMXgzRlVWN1BPajRGckxOUHkyYV9DOElDTDRqQ3dCamJCdWRpMTdxX0JfT3FxdExIVF9RQ3o5MmY2cEU0NTVKY0lsS01yODZreWZyMXBzQXF1WFhGVTRrXzU4UFVhSG1Sc2ZBTXByck9Jb1FJRzhFTkZ2cnBoSFNzSWJOZ9IBlwFBVV95cUxORkdCd0pvdkI0R2NUaERIazNEUENvNDJhM2hfUGcxWURiaTc4dDhmWFlRMnFSbHEwUUhuamJUcHVNWE1meksxYmZ3Z3kzUW1sVHFiRjdaX2I2NUxMNmV0OVMxODFBUU9abW1HS3dPbWxLTllRNU04bE9VYnBjRGdnQ1pFQUpMU2ozdlBZZWJqOGkwOVFkSXln?oc=5",
+      "source": "Google News EN",
+      "category": "general",
+      "trusted": false,
+      "priority": 6
+    },
+    {
       "title": "Kittipong Prasobchokchaikul Joins Synnex Thailand as Head of Human Resources Operations - hrtoday.in",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMTFhM3lnSXFNajBLb3ZENU1kcXpoVHhWWW54UDNKR3BpTU9EVnMxYlJ4bVRUOWNzY1E2amcwbWdFZkR3Wk1ucHM0ZWZIWHlnVkN3RzBXMTdSSzlLYl9NbXhFRXBHcXRmWTlRTTVpUmkySUUyRzdITEd3RzJ0cFlnX3BJTXd2RFJVZE5Gb2k4ZXBVVGZKZnh1S01KemNhSmxoY3cwUWhIZ2pGQ2c?oc=5\" target=\"_bla",
       "date": "Thu, 02 May 2024 18:54:14 GMT",
@@ -223,26 +226,16 @@
       "category": "general",
       "trusted": false,
       "priority": 6
-    },
-    {
-      "title": "Sutida Mongkolsuthree - Prestige Online - Singapore",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPa0FaaThuTHI5N1JTS3UzMXgzRlVWN1BPajRGckxOUHkyYV9DOElDTDRqQ3dCamJCdWRpMTdxX0JfT3FxdExIVF9RQ3o5MmY2cEU0NTVKY0lsS01yODZreWZyMXBzQXF1WFhGVTRrXzU4UFVhSG1Sc2ZBTXByck9Jb1FJRzhFTkZ2cnBoSFNzSWJOZ9IBlwFBVV95cUxORkdCd0pvdkI0R2NUaERIazNEUENvNDJhM2hfUG",
-      "date": "Mon, 20 Feb 2023 20:47:27 GMT",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPa0FaaThuTHI5N1JTS3UzMXgzRlVWN1BPajRGckxOUHkyYV9DOElDTDRqQ3dCamJCdWRpMTdxX0JfT3FxdExIVF9RQ3o5MmY2cEU0NTVKY0lsS01yODZreWZyMXBzQXF1WFhGVTRrXzU4UFVhSG1Sc2ZBTXByck9Jb1FJRzhFTkZ2cnBoSFNzSWJOZ9IBlwFBVV95cUxORkdCd0pvdkI0R2NUaERIazNEUENvNDJhM2hfUGcxWURiaTc4dDhmWFlRMnFSbHEwUUhuamJUcHVNWE1meksxYmZ3Z3kzUW1sVHFiRjdaX2I2NUxMNmV0OVMxODFBUU9abW1HS3dPbWxLTllRNU04bE9VYnBjRGdnQ1pFQUpMU2ozdlBZZWJqOGkwOVFkSXln?oc=5",
-      "source": "Google News EN",
-      "category": "general",
-      "trusted": false,
-      "priority": 6
     }
   ],
-  "claude_prompt": "CFO FX Brief 03/07/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Analyst predicts baht uptick in H2\n- [Bangkok Post Business] Thai bourse tightens corporate governance rules",
+  "claude_prompt": "CFO FX Brief 06/07/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Manual] ไม่สามารถดึงข่าวอัตโนมัติได้",
   "stats": {
-    "fx_news_count": 2,
+    "fx_news_count": 1,
     "synnex_news_count": 21,
     "data_sources": [
-      "Google News EN",
-      "Bangkok Post Business",
-      "Google News TH"
+      "Manual",
+      "Google News TH",
+      "Google News EN"
     ]
   }
 }
