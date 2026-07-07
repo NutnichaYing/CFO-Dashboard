@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-07 19:40:11 BKK",
+  "last_updated": "2026-07-08 01:33:07 BKK",
   "rate": {
-    "date": "2026-07-07",
+    "date": "2026-07-08",
     "buying": 0,
     "selling": 0,
     "mid": 0,
@@ -11,7 +11,7 @@
     {
       "title": "ไม่สามารถดึงข่าวอัตโนมัติได้",
       "description": "กรุณาตรวจสอบข่าว FX จาก Reuters หรือ Bangkok Post",
-      "date": "2026-07-07 19:40",
+      "date": "2026-07-08 01:33",
       "link": "https://www.reuters.com/markets/currencies/",
       "source": "Manual"
     }
@@ -88,20 +88,10 @@
       "priority": 5
     },
     {
-      "title": "ซินเน็คฯ ร่วมผลักดันอุตสาหกรรมเกมในประเทศไทย เป็นผู้สนับสนุนหลัก Thailand Game Show 2024 Presented by Synnex - posttoday",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1IZlBZRng4c1FnMGUyYmZlcmhZdTBfY1pjWmhhWFdFSlFfNDRfZlJXNi1xTHRIMkx5QWJfNk5VdkpINEl2ZV8tcUwzNkljdGtFQ2M5WFNVT0RkVkRK?oc=5\" target=\"_blank\">ซินเน็คฯ ร่วมผลักดันอุตสาหกรรมเกมในประเทศไทย เป็นผู้สนับสนุนหลัก Thailand Game Show 2024 Presented by S",
-      "date": "Sat, 17 Aug 2024 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1IZlBZRng4c1FnMGUyYmZlcmhZdTBfY1pjWmhhWFdFSlFfNDRfZlJXNi1xTHRIMkx5QWJfNk5VdkpINEl2ZV8tcUwzNkljdGtFQ2M5WFNVT0RkVkRK?oc=5",
-      "source": "Google News TH",
-      "category": "general",
-      "trusted": false,
-      "priority": 5
-    },
-    {
-      "title": "SYNNEX ประกาศถือครองตลาด NINTENDO เป็นผู้จัดจำหน่ายในไทยอย่างเป็นทางการ ส่งซ่อม / เคลมที่ศูนย์ได้เลย - DroidSans",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBuWEs0MHowV1RIREZ6WDNHMmpESHJ2X3VQOC0zc2c3X0ZxXzhLb3JrM0tTVFVreWs5ZWJCbFFXWkNIdnlka0Q4S0JJQmxBUTNvcm0tMV9DcHA2UzdMX29NZ1lzbFFkWTZuU0o2S3hkWE8yQQ?oc=5\" target=\"_blank\">SYNNEX ประกาศถือครองตลาด NINTENDO เป็นผู้จัดจำหน่ายในไทยอย่างเป็นทางการ ส",
-      "date": "Thu, 23 Mar 2023 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBuWEs0MHowV1RIREZ6WDNHMmpESHJ2X3VQOC0zc2c3X0ZxXzhLb3JrM0tTVFVreWs5ZWJCbFFXWkNIdnlka0Q4S0JJQmxBUTNvcm0tMV9DcHA2UzdMX29NZ1lzbFFkWTZuU0o2S3hkWE8yQQ?oc=5",
+      "title": "ซินเน็คฯ กางแผนธุรกิจในงาน “SYNNEX PARTNER CONNECT 2024” - posttoday",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZNHc2MFVmV0VtOVBQYVFwRk9oNFhwS2xKNkNYckJ4dzRjYlNlRkN3SjBLcHQ2U3lUcURRUk9xMHZzbnQtOWwzbklHaEFYYV8tekE?oc=5\" target=\"_blank\">ซินเน็คฯ กางแผนธุรกิจในงาน “SYNNEX PARTNER CONNECT 2024”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">posttoday</font>",
+      "date": "Tue, 24 Sep 2024 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZNHc2MFVmV0VtOVBQYVFwRk9oNFhwS2xKNkNYckJ4dzRjYlNlRkN3SjBLcHQ2U3lUcURRUk9xMHZzbnQtOWwzbklHaEFYYV8tekE?oc=5",
       "source": "Google News TH",
       "category": "general",
       "trusted": false,
@@ -118,30 +108,10 @@
       "priority": 5
     },
     {
-      "title": "Nintendo Switch by Synnex ร่วมงาน Thailand Mobile Expo 2023 มหกรรมมือถือสุดยิ่งใหญ่แห่งปี - Thaimobilecenter",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQb2Q1a3dmeHc5enp1cjN3RGc5VmxBMDEyeFR0S1ZONHBSODNJZ3RNOXdGalc5X216Ui1OdHZFb0JjVE9OcGc3dm9DZVZ5aFdhS3pJOEJpTHNQRFZKOUo0TE1DU1d3bXN2MUVyd2hNaGZ5cXR2aWJjRzZhQTFkMGdxbQ?oc=5\" target=\"_blank\">Nintendo Switch by Synnex ร่วมงาน Thailand Mobile Exp",
-      "date": "Fri, 27 Oct 2023 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQb2Q1a3dmeHc5enp1cjN3RGc5VmxBMDEyeFR0S1ZONHBSODNJZ3RNOXdGalc5X216Ui1OdHZFb0JjVE9OcGc3dm9DZVZ5aFdhS3pJOEJpTHNQRFZKOUo0TE1DU1d3bXN2MUVyd2hNaGZ5cXR2aWJjRzZhQTFkMGdxbQ?oc=5",
-      "source": "Google News TH",
-      "category": "general",
-      "trusted": false,
-      "priority": 5
-    },
-    {
-      "title": "ซินเน็คฯ กางแผนธุรกิจในงาน “SYNNEX PARTNER CONNECT 2024” - posttoday",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZNHc2MFVmV0VtOVBQYVFwRk9oNFhwS2xKNkNYckJ4dzRjYlNlRkN3SjBLcHQ2U3lUcURRUk9xMHZzbnQtOWwzbklHaEFYYV8tekE?oc=5\" target=\"_blank\">ซินเน็คฯ กางแผนธุรกิจในงาน “SYNNEX PARTNER CONNECT 2024”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">posttoday</font>",
-      "date": "Tue, 24 Sep 2024 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZNHc2MFVmV0VtOVBQYVFwRk9oNFhwS2xKNkNYckJ4dzRjYlNlRkN3SjBLcHQ2U3lUcURRUk9xMHZzbnQtOWwzbklHaEFYYV8tekE?oc=5",
-      "source": "Google News TH",
-      "category": "general",
-      "trusted": false,
-      "priority": 5
-    },
-    {
-      "title": "ซินเน็คขนทัพสินค้า “Trusted By Synnex” จากแบรนด์ไอทีชั้นนำ บุกงาน TME 2024 ย้ำความแข็งแกร่งนัมเบอร์วันไอทีดิสทริบิวเตอร์ - Thaimobilecenter",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5jRjdLZWsxdUVhdWtYZDFuM0xFRFFlV1FXM3pTalBLOWpsSDc4V09EWEZwT0NUZV9QYm1vMVA0aUtoXy1WQXlRRUNpU0dpTlNTbEVGN1BQUFVfZ1c5LU9QVDBodk56dUdpTVNXVkl0Yw?oc=5\" target=\"_blank\">ซินเน็คขนทัพสินค้า “Trusted By Synnex” จากแบรนด์ไอทีชั้นนำ บุกงาน TME 2024 ย้",
-      "date": "Sat, 10 Feb 2024 08:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jRjdLZWsxdUVhdWtYZDFuM0xFRFFlV1FXM3pTalBLOWpsSDc4V09EWEZwT0NUZV9QYm1vMVA0aUtoXy1WQXlRRUNpU0dpTlNTbEVGN1BQUFVfZ1c5LU9QVDBodk56dUdpTVNXVkl0Yw?oc=5",
+      "title": "SYNNEX จับมือ HONOR เปิดเกมบุกตลาดสมาร์ทดีไวซ์ในไทย - Thaimobilecenter",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1oZWVRTkczeDdPQlpGRWNMRzR2aVMyOEYwZUIzTHpwYXMyRW1OQU9PZ2VwUHJweFExUW5JU2tQSmJObE11Y2pBc2xZVUxuRWV3YlRiM2NJcjJ2VGJtUVduV3dGQzBRTEFJYXU1QjBqcGM1WmpmSmEyRQ?oc=5\" target=\"_blank\">SYNNEX จับมือ HONOR เปิดเกมบุกตลาดสมาร์ทดีไวซ์ในไทย</a>&nbsp;&nbs",
+      "date": "Fri, 24 Jun 2022 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oZWVRTkczeDdPQlpGRWNMRzR2aVMyOEYwZUIzTHpwYXMyRW1OQU9PZ2VwUHJweFExUW5JU2tQSmJObE11Y2pBc2xZVUxuRWV3YlRiM2NJcjJ2VGJtUVduV3dGQzBRTEFJYXU1QjBqcGM1WmpmSmEyRQ?oc=5",
       "source": "Google News TH",
       "category": "general",
       "trusted": false,
@@ -158,20 +128,40 @@
       "priority": 5
     },
     {
-      "title": "HUAWEI eKit Joins Hands with Distribution Partners to Explore Unlimited Opportunities in Thailand SME market - Huawei Enterprise",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNRXk2QjdBSS11U295SlA4UEtUY0ZHMUV4SDhZNWRlNUdMMUhuMVo1b2k0QnhmTXhYUE1xWGoxQ0Iza01lRUdiMmtRbjUycU12MVkwMEJRRWdXZ3B4ZVFjV0dQd1FzWEUyWTZodGhrMEZKS3BEbThrS3BBRnRrMlV4T05OTQ?oc=5\" target=\"_blank\">HUAWEI eKit Joins Hands with Distribution Partner",
-      "date": "Wed, 08 Nov 2023 08:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRXk2QjdBSS11U295SlA4UEtUY0ZHMUV4SDhZNWRlNUdMMUhuMVo1b2k0QnhmTXhYUE1xWGoxQ0Iza01lRUdiMmtRbjUycU12MVkwMEJRRWdXZ3B4ZVFjV0dQd1FzWEUyWTZodGhrMEZKS3BEbThrS3BBRnRrMlV4T05OTQ?oc=5",
-      "source": "Google News EN",
+      "title": "Nintendo Switch by Synnex ร่วมงาน Thailand Mobile Expo 2023 มหกรรมมือถือสุดยิ่งใหญ่แห่งปี - Thaimobilecenter",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQb2Q1a3dmeHc5enp1cjN3RGc5VmxBMDEyeFR0S1ZONHBSODNJZ3RNOXdGalc5X216Ui1OdHZFb0JjVE9OcGc3dm9DZVZ5aFdhS3pJOEJpTHNQRFZKOUo0TE1DU1d3bXN2MUVyd2hNaGZ5cXR2aWJjRzZhQTFkMGdxbQ?oc=5\" target=\"_blank\">Nintendo Switch by Synnex ร่วมงาน Thailand Mobile Exp",
+      "date": "Fri, 27 Oct 2023 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQb2Q1a3dmeHc5enp1cjN3RGc5VmxBMDEyeFR0S1ZONHBSODNJZ3RNOXdGalc5X216Ui1OdHZFb0JjVE9OcGc3dm9DZVZ5aFdhS3pJOEJpTHNQRFZKOUo0TE1DU1d3bXN2MUVyd2hNaGZ5cXR2aWJjRzZhQTFkMGdxbQ?oc=5",
+      "source": "Google News TH",
       "category": "general",
       "trusted": false,
-      "priority": 6
+      "priority": 5
+    },
+    {
+      "title": "ซินเน็คขนทัพสินค้า “Trusted By Synnex” จากแบรนด์ไอทีชั้นนำ บุกงาน TME 2024 ย้ำความแข็งแกร่งนัมเบอร์วันไอทีดิสทริบิวเตอร์ - Thaimobilecenter",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5jRjdLZWsxdUVhdWtYZDFuM0xFRFFlV1FXM3pTalBLOWpsSDc4V09EWEZwT0NUZV9QYm1vMVA0aUtoXy1WQXlRRUNpU0dpTlNTbEVGN1BQUFVfZ1c5LU9QVDBodk56dUdpTVNXVkl0Yw?oc=5\" target=\"_blank\">ซินเน็คขนทัพสินค้า “Trusted By Synnex” จากแบรนด์ไอทีชั้นนำ บุกงาน TME 2024 ย้",
+      "date": "Sat, 10 Feb 2024 08:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jRjdLZWsxdUVhdWtYZDFuM0xFRFFlV1FXM3pTalBLOWpsSDc4V09EWEZwT0NUZV9QYm1vMVA0aUtoXy1WQXlRRUNpU0dpTlNTbEVGN1BQUFVfZ1c5LU9QVDBodk56dUdpTVNXVkl0Yw?oc=5",
+      "source": "Google News TH",
+      "category": "general",
+      "trusted": false,
+      "priority": 5
     },
     {
       "title": "Amid demand for AI, Synnex transforms into total tech solutions provider - Nation Thailand",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9uaWxjLWVHM3R6Z0xYUWdrX253ZkoySzlDRGNIUUc0bUxrM01sVkFMRHlFYUFZb2tVdFdodVoyeHE1ZXhFUFJFY0lUaGQ1RFE0SHlHMU56MV9EZWVoc2pMNFhpenhkdTZrdXc?oc=5\" target=\"_blank\">Amid demand for AI, Synnex transforms into total tech solutions provider</a>&nbsp;&n",
       "date": "Fri, 20 Sep 2024 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9uaWxjLWVHM3R6Z0xYUWdrX253ZkoySzlDRGNIUUc0bUxrM01sVkFMRHlFYUFZb2tVdFdodVoyeHE1ZXhFUFJFY0lUaGQ1RFE0SHlHMU56MV9EZWVoc2pMNFhpenhkdTZrdXc?oc=5",
+      "source": "Google News EN",
+      "category": "general",
+      "trusted": false,
+      "priority": 6
+    },
+    {
+      "title": "HUAWEI eKit Joins Hands with Distribution Partners to Explore Unlimited Opportunities in Thailand SME market - Huawei Enterprise",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQSjdLTXRXZ21rdlBCeE41emtTeTN5YmtsTlFYT2h4aWxaUUQ0RjRqcHgyLTNFcnZVQzRKdThLdDZMNVpqMTgtNV96S0ZkMEFsVGFvM2RmQUtqRUdVaDdXZ3RXNlZNc0k4dzVpbmxURGhjLUlGYWVSaFJxbUwxckUtNmdVQQ?oc=5\" target=\"_blank\">HUAWEI eKit Joins Hands with Distribution Partner",
+      "date": "Wed, 08 Nov 2023 08:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSjdLTXRXZ21rdlBCeE41emtTeTN5YmtsTlFYT2h4aWxaUUQ0RjRqcHgyLTNFcnZVQzRKdThLdDZMNVpqMTgtNV96S0ZkMEFsVGFvM2RmQUtqRUdVaDdXZ3RXNlZNc0k4dzVpbmxURGhjLUlGYWVSaFJxbUwxckUtNmdVQQ?oc=5",
       "source": "Google News EN",
       "category": "general",
       "trusted": false,
@@ -218,13 +208,13 @@
       "priority": 6
     }
   ],
-  "claude_prompt": "CFO FX Brief 07/07/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Manual] ไม่สามารถดึงข่าวอัตโนมัติได้",
+  "claude_prompt": "CFO FX Brief 08/07/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Manual] ไม่สามารถดึงข่าวอัตโนมัติได้",
   "stats": {
     "fx_news_count": 1,
-    "synnex_news_count": 20,
+    "synnex_news_count": 19,
     "data_sources": [
-      "Google News EN",
       "Manual",
+      "Google News EN",
       "Google News TH"
     ]
   }
