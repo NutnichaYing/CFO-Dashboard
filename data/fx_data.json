@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-08 01:33:07 BKK",
+  "last_updated": "2026-07-08 16:16:32 BKK",
   "rate": {
     "date": "2026-07-08",
     "buying": 0,
@@ -9,11 +9,46 @@
   },
   "news": [
     {
-      "title": "ไม่สามารถดึงข่าวอัตโนมัติได้",
-      "description": "กรุณาตรวจสอบข่าว FX จาก Reuters หรือ Bangkok Post",
-      "date": "2026-07-08 01:33",
-      "link": "https://www.reuters.com/markets/currencies/",
-      "source": "Manual"
+      "title": "Thai monetary policy supports economic recovery: central bank",
+      "description": "Thailand's accommodative monetary policy ​stance and targeted financial &zwnj;measures are supporting an economic recovery, the minutes of the Bank of Thailand's (BoT) meeting on June 24 showed on Wed",
+      "date": "Wed, 08 Jul 2026 10:06:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3282885/thai-monetary-policy-settings-are-supporting-economic-recovery-central-bank-minutes-show",
+      "source": "Bangkok Post Business"
+    },
+    {
+      "title": "8 billion baht in Savings Plus bonds to be issued",
+      "description": "The Public Debt Management Office (PDMO) plans to issue \"Om Plus\" (Savings Plus) government bonds worth 8 billion baht during the current fiscal year to encourage Thais to save consistently.",
+      "date": "Wed, 08 Jul 2026 06:00:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3282607/8-billion-baht-in-savings-plus-bonds-to-be-issued",
+      "source": "Bangkok Post Business"
+    },
+    {
+      "title": "FTI builds bridge for Chinese SMEs",
+      "description": "The Federation of Thai Industries (FTI) has unveiled plans to attract more Chinese small and medium-sized enterprises (SMEs) to Thailand by facilitating business partnerships and improving access to f",
+      "date": "Wed, 08 Jul 2026 05:58:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3282547/fti-builds-bridge-for-chinese-smes",
+      "source": "Bangkok Post Business"
+    },
+    {
+      "title": "Chamber introduces regional AI institute",
+      "description": "Thailand has the potential to become a regional artificial intelligence (AI) and data centre hub by 2035, while positioning itself as a manufacturing base for humanoid robots, a leader in green digita",
+      "date": "Wed, 08 Jul 2026 05:52:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3282747/chamber-introduces-regional-ai-institute",
+      "source": "Bangkok Post Business"
+    },
+    {
+      "title": "Organisations to amend legal framework for bonds",
+      "description": "The Thai Bond Market Association (ThaiBMA) is working with the Securities and Exchange Commission (SEC) to amend the Securities and Exchange Act and bankruptcy law, closing legal loopholes that have a",
+      "date": "Wed, 08 Jul 2026 05:40:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3282562/organisations-to-amend-legal-framework-for-bonds",
+      "source": "Bangkok Post Business"
+    },
+    {
+      "title": "Brokerage: Virtual banks face growth, profitability tests",
+      "description": "Kiatnakin Phatra Securities (KKPS), the brokerage arm of Kiatnakin Phatra Financial Group (KKP), expects the combined loan portfolio of Thailand's three virtual banks to reach 200 billion baht in 5-6",
+      "date": "Wed, 08 Jul 2026 05:14:00 +0700",
+      "link": "https://www.bangkokpost.com/business/investment/3282677/brokerage-virtual-banks-face-growth-profitability-tests",
+      "source": "Bangkok Post Business"
     }
   ],
   "synnex_news": [
@@ -88,6 +123,16 @@
       "priority": 5
     },
     {
+      "title": "SYNEX เตรียมจัดงานสุดยิ่งใหญ่แห่งปี “Synnex Partners Connect 2022” รวบรวมพาร์ทเนอร์ทั่วประเทศ อัพเดตกลยุทธ์และเทรนด์เทคโนโลยีที่ต้องจับตา - ThaiPR.NET",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE1kdTZ4b25WX3dyUHdzeUNBb1hNZU1DSlBRQktNWlprZXRhaDRXd2gyS1NGaHR3RTJvMlRrb0c5RGxseHJYUUlvYnl1ZFBYNEE?oc=5\" target=\"_blank\">SYNEX เตรียมจัดงานสุดยิ่งใหญ่แห่งปี “Synnex Partners Connect 2022” รวบรวมพาร์ทเนอร์ทั่วประเทศ อัพเดตกลยุทธ์และเทรนด์เทคโ",
+      "date": "Thu, 22 Sep 2022 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1kdTZ4b25WX3dyUHdzeUNBb1hNZU1DSlBRQktNWlprZXRhaDRXd2gyS1NGaHR3RTJvMlRrb0c5RGxseHJYUUlvYnl1ZFBYNEE?oc=5",
+      "source": "Google News TH",
+      "category": "general",
+      "trusted": false,
+      "priority": 5
+    },
+    {
       "title": "ซินเน็คฯ กางแผนธุรกิจในงาน “SYNNEX PARTNER CONNECT 2024” - posttoday",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZNHc2MFVmV0VtOVBQYVFwRk9oNFhwS2xKNkNYckJ4dzRjYlNlRkN3SjBLcHQ2U3lUcURRUk9xMHZzbnQtOWwzbklHaEFYYV8tekE?oc=5\" target=\"_blank\">ซินเน็คฯ กางแผนธุรกิจในงาน “SYNNEX PARTNER CONNECT 2024”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">posttoday</font>",
       "date": "Tue, 24 Sep 2024 07:00:00 GMT",
@@ -148,20 +193,20 @@
       "priority": 5
     },
     {
-      "title": "Amid demand for AI, Synnex transforms into total tech solutions provider - Nation Thailand",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9uaWxjLWVHM3R6Z0xYUWdrX253ZkoySzlDRGNIUUc0bUxrM01sVkFMRHlFYUFZb2tVdFdodVoyeHE1ZXhFUFJFY0lUaGQ1RFE0SHlHMU56MV9EZWVoc2pMNFhpenhkdTZrdXc?oc=5\" target=\"_blank\">Amid demand for AI, Synnex transforms into total tech solutions provider</a>&nbsp;&n",
-      "date": "Fri, 20 Sep 2024 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9uaWxjLWVHM3R6Z0xYUWdrX253ZkoySzlDRGNIUUc0bUxrM01sVkFMRHlFYUFZb2tVdFdodVoyeHE1ZXhFUFJFY0lUaGQ1RFE0SHlHMU56MV9EZWVoc2pMNFhpenhkdTZrdXc?oc=5",
+      "title": "HUAWEI eKit Joins Hands with Distribution Partners to Explore Unlimited Opportunities in Thailand SME market - Huawei Enterprise",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNRXk2QjdBSS11U295SlA4UEtUY0ZHMUV4SDhZNWRlNUdMMUhuMVo1b2k0QnhmTXhYUE1xWGoxQ0Iza01lRUdiMmtRbjUycU12MVkwMEJRRWdXZ3B4ZVFjV0dQd1FzWEUyWTZodGhrMEZKS3BEbThrS3BBRnRrMlV4T05OTQ?oc=5\" target=\"_blank\">HUAWEI eKit Joins Hands with Distribution Partner",
+      "date": "Wed, 08 Nov 2023 08:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRXk2QjdBSS11U295SlA4UEtUY0ZHMUV4SDhZNWRlNUdMMUhuMVo1b2k0QnhmTXhYUE1xWGoxQ0Iza01lRUdiMmtRbjUycU12MVkwMEJRRWdXZ3B4ZVFjV0dQd1FzWEUyWTZodGhrMEZKS3BEbThrS3BBRnRrMlV4T05OTQ?oc=5",
       "source": "Google News EN",
       "category": "general",
       "trusted": false,
       "priority": 6
     },
     {
-      "title": "HUAWEI eKit Joins Hands with Distribution Partners to Explore Unlimited Opportunities in Thailand SME market - Huawei Enterprise",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQSjdLTXRXZ21rdlBCeE41emtTeTN5YmtsTlFYT2h4aWxaUUQ0RjRqcHgyLTNFcnZVQzRKdThLdDZMNVpqMTgtNV96S0ZkMEFsVGFvM2RmQUtqRUdVaDdXZ3RXNlZNc0k4dzVpbmxURGhjLUlGYWVSaFJxbUwxckUtNmdVQQ?oc=5\" target=\"_blank\">HUAWEI eKit Joins Hands with Distribution Partner",
-      "date": "Wed, 08 Nov 2023 08:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSjdLTXRXZ21rdlBCeE41emtTeTN5YmtsTlFYT2h4aWxaUUQ0RjRqcHgyLTNFcnZVQzRKdThLdDZMNVpqMTgtNV96S0ZkMEFsVGFvM2RmQUtqRUdVaDdXZ3RXNlZNc0k4dzVpbmxURGhjLUlGYWVSaFJxbUwxckUtNmdVQQ?oc=5",
+      "title": "Amid demand for AI, Synnex transforms into total tech solutions provider - Nation Thailand",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9uaWxjLWVHM3R6Z0xYUWdrX253ZkoySzlDRGNIUUc0bUxrM01sVkFMRHlFYUFZb2tVdFdodVoyeHE1ZXhFUFJFY0lUaGQ1RFE0SHlHMU56MV9EZWVoc2pMNFhpenhkdTZrdXc?oc=5\" target=\"_blank\">Amid demand for AI, Synnex transforms into total tech solutions provider</a>&nbsp;&n",
+      "date": "Fri, 20 Sep 2024 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9uaWxjLWVHM3R6Z0xYUWdrX253ZkoySzlDRGNIUUc0bUxrM01sVkFMRHlFYUFZb2tVdFdodVoyeHE1ZXhFUFJFY0lUaGQ1RFE0SHlHMU56MV9EZWVoc2pMNFhpenhkdTZrdXc?oc=5",
       "source": "Google News EN",
       "category": "general",
       "trusted": false,
@@ -208,13 +253,13 @@
       "priority": 6
     }
   ],
-  "claude_prompt": "CFO FX Brief 08/07/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Manual] ไม่สามารถดึงข่าวอัตโนมัติได้",
+  "claude_prompt": "CFO FX Brief 08/07/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Thai monetary policy supports economic recovery: central bank\n- [Bangkok Post Business] 8 billion baht in Savings Plus bonds to be issued\n- [Bangkok Post Business] FTI builds bridge for Chinese SMEs\n- [Bangkok Post Business] Chamber introduces regional AI institute\n- [Bangkok Post Business] Organisations to amend legal framework for bonds\n- [Bangkok Post Business] Brokerage: Virtual banks face growth, profitability tests",
   "stats": {
-    "fx_news_count": 1,
-    "synnex_news_count": 19,
+    "fx_news_count": 6,
+    "synnex_news_count": 20,
     "data_sources": [
-      "Manual",
       "Google News EN",
+      "Bangkok Post Business",
       "Google News TH"
     ]
   }
