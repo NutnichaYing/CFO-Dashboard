@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-08 16:16:32 BKK",
+  "last_updated": "2026-07-08 17:37:52 BKK",
   "rate": {
     "date": "2026-07-08",
     "buying": 0,
@@ -8,6 +8,13 @@
     "source": "Unavailable - Please check BOT website"
   },
   "news": [
+    {
+      "title": "Thai regulator tracks mystery investor in blue-chip companies",
+      "description": "The ⁠Securities and Exchange ⁠Commission (SEC) says it is investigating filing documentation for share purchases in six Thai companies since 2021 ​by a mystery investor who last week reported acquirin",
+      "date": "Wed, 08 Jul 2026 16:09:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3282947/thai-regulator-tracks-mystery-investor-in-bluechip-companies",
+      "source": "Bangkok Post Business"
+    },
     {
       "title": "Thai monetary policy supports economic recovery: central bank",
       "description": "Thailand's accommodative monetary policy ​stance and targeted financial &zwnj;measures are supporting an economic recovery, the minutes of the Bank of Thailand's (BoT) meeting on June 24 showed on Wed",
@@ -127,6 +134,16 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE1kdTZ4b25WX3dyUHdzeUNBb1hNZU1DSlBRQktNWlprZXRhaDRXd2gyS1NGaHR3RTJvMlRrb0c5RGxseHJYUUlvYnl1ZFBYNEE?oc=5\" target=\"_blank\">SYNEX เตรียมจัดงานสุดยิ่งใหญ่แห่งปี “Synnex Partners Connect 2022” รวบรวมพาร์ทเนอร์ทั่วประเทศ อัพเดตกลยุทธ์และเทรนด์เทคโ",
       "date": "Thu, 22 Sep 2022 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1kdTZ4b25WX3dyUHdzeUNBb1hNZU1DSlBRQktNWlprZXRhaDRXd2gyS1NGaHR3RTJvMlRrb0c5RGxseHJYUUlvYnl1ZFBYNEE?oc=5",
+      "source": "Google News TH",
+      "category": "general",
+      "trusted": false,
+      "priority": 5
+    },
+    {
+      "title": "SYNNEX ประกาศถือครองตลาด NINTENDO เป็นผู้จัดจำหน่ายในไทยอย่างเป็นทางการ ส่งซ่อม / เคลมที่ศูนย์ได้เลย - DroidSans",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBuWEs0MHowV1RIREZ6WDNHMmpESHJ2X3VQOC0zc2c3X0ZxXzhLb3JrM0tTVFVreWs5ZWJCbFFXWkNIdnlka0Q4S0JJQmxBUTNvcm0tMV9DcHA2UzdMX29NZ1lzbFFkWTZuU0o2S3hkWE8yQQ?oc=5\" target=\"_blank\">SYNNEX ประกาศถือครองตลาด NINTENDO เป็นผู้จัดจำหน่ายในไทยอย่างเป็นทางการ ส",
+      "date": "Thu, 23 Mar 2023 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBuWEs0MHowV1RIREZ6WDNHMmpESHJ2X3VQOC0zc2c3X0ZxXzhLb3JrM0tTVFVreWs5ZWJCbFFXWkNIdnlka0Q4S0JJQmxBUTNvcm0tMV9DcHA2UzdMX29NZ1lzbFFkWTZuU0o2S3hkWE8yQQ?oc=5",
       "source": "Google News TH",
       "category": "general",
       "trusted": false,
@@ -253,14 +270,14 @@
       "priority": 6
     }
   ],
-  "claude_prompt": "CFO FX Brief 08/07/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Thai monetary policy supports economic recovery: central bank\n- [Bangkok Post Business] 8 billion baht in Savings Plus bonds to be issued\n- [Bangkok Post Business] FTI builds bridge for Chinese SMEs\n- [Bangkok Post Business] Chamber introduces regional AI institute\n- [Bangkok Post Business] Organisations to amend legal framework for bonds\n- [Bangkok Post Business] Brokerage: Virtual banks face growth, profitability tests",
+  "claude_prompt": "CFO FX Brief 08/07/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Thai regulator tracks mystery investor in blue-chip companies\n- [Bangkok Post Business] Thai monetary policy supports economic recovery: central bank\n- [Bangkok Post Business] 8 billion baht in Savings Plus bonds to be issued\n- [Bangkok Post Business] FTI builds bridge for Chinese SMEs\n- [Bangkok Post Business] Chamber introduces regional AI institute\n- [Bangkok Post Business] Organisations to amend legal framework for bonds\n- [Bangkok Post Business] Brokerage: Virtual banks face growth, profitability tests",
   "stats": {
-    "fx_news_count": 6,
-    "synnex_news_count": 20,
+    "fx_news_count": 7,
+    "synnex_news_count": 21,
     "data_sources": [
+      "Google News TH",
       "Google News EN",
-      "Bangkok Post Business",
-      "Google News TH"
+      "Bangkok Post Business"
     ]
   }
 }
