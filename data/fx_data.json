@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-08 23:52:42 BKK",
+  "last_updated": "2026-07-09 18:26:52 BKK",
   "rate": {
-    "date": "2026-07-08",
+    "date": "2026-07-09",
     "buying": 0,
     "selling": 0,
     "mid": 0,
@@ -9,45 +9,31 @@
   },
   "news": [
     {
-      "title": "Thai regulator tracks mystery investor in blue-chip companies",
-      "description": "The ⁠Securities and Exchange ⁠Commission (SEC) says it is investigating filing documentation for share purchases in six Thai companies since 2021 ​by a mystery investor who last week reported acquirin",
-      "date": "Wed, 08 Jul 2026 16:09:00 +0700",
-      "link": "https://www.bangkokpost.com/business/general/3282947/thai-regulator-tracks-mystery-investor-in-bluechip-companies",
+      "title": "Court upholds B400-billion borrowing decree",
+      "description": "The Constitutional Court ruled on Thursday that the government&rsquo;s ​400-billion-baht emergency loan &zwnj;decree was lawful, lifting uncertainty over state spending plans.",
+      "date": "Thu, 09 Jul 2026 12:57:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3283454/court-upholds-b400billion-borrowing-decree",
       "source": "Bangkok Post Business"
     },
     {
-      "title": "Thai monetary policy supports economic recovery: central bank",
-      "description": "Thailand's accommodative monetary policy ​stance and targeted financial &zwnj;measures are supporting an economic recovery, the minutes of the Bank of Thailand's (BoT) meeting on June 24 showed on Wed",
-      "date": "Wed, 08 Jul 2026 10:06:00 +0700",
-      "link": "https://www.bangkokpost.com/business/general/3282885/thai-monetary-policy-settings-are-supporting-economic-recovery-central-bank-minutes-show",
+      "title": "BoT: Headline inflation likely below projection",
+      "description": "Thailand's headline inflation is likely to be lower than projected this year as global oil prices decline, says the regulator.",
+      "date": "Thu, 09 Jul 2026 07:08:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3283165/bot-headline-inflation-likely-below-projection",
       "source": "Bangkok Post Business"
     },
     {
-      "title": "8 billion baht in Savings Plus bonds to be issued",
-      "description": "The Public Debt Management Office (PDMO) plans to issue \"Om Plus\" (Savings Plus) government bonds worth 8 billion baht during the current fiscal year to encourage Thais to save consistently.",
-      "date": "Wed, 08 Jul 2026 06:00:00 +0700",
-      "link": "https://www.bangkokpost.com/business/general/3282607/8-billion-baht-in-savings-plus-bonds-to-be-issued",
+      "title": "Planned tourism fee hits another snag",
+      "description": "The government&rsquo;s plan to collect a tourism fee of at least 300 baht through airlines is not feasible because of limitations in airlines&rsquo; back-office systems, with the Thailand Digital Arri",
+      "date": "Thu, 09 Jul 2026 06:07:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3283175/planned-tourism-fee-hits-another-snag",
       "source": "Bangkok Post Business"
     },
     {
-      "title": "FTI builds bridge for Chinese SMEs",
-      "description": "The Federation of Thai Industries (FTI) has unveiled plans to attract more Chinese small and medium-sized enterprises (SMEs) to Thailand by facilitating business partnerships and improving access to f",
-      "date": "Wed, 08 Jul 2026 05:58:00 +0700",
-      "link": "https://www.bangkokpost.com/business/general/3282547/fti-builds-bridge-for-chinese-smes",
-      "source": "Bangkok Post Business"
-    },
-    {
-      "title": "Chamber introduces regional AI institute",
-      "description": "Thailand has the potential to become a regional artificial intelligence (AI) and data centre hub by 2035, while positioning itself as a manufacturing base for humanoid robots, a leader in green digita",
-      "date": "Wed, 08 Jul 2026 05:52:00 +0700",
-      "link": "https://www.bangkokpost.com/business/general/3282747/chamber-introduces-regional-ai-institute",
-      "source": "Bangkok Post Business"
-    },
-    {
-      "title": "Organisations to amend legal framework for bonds",
-      "description": "The Thai Bond Market Association (ThaiBMA) is working with the Securities and Exchange Commission (SEC) to amend the Securities and Exchange Act and bankruptcy law, closing legal loopholes that have a",
-      "date": "Wed, 08 Jul 2026 05:40:00 +0700",
-      "link": "https://www.bangkokpost.com/business/general/3282562/organisations-to-amend-legal-framework-for-bonds",
+      "title": "Government in struggle to reduce retail oil prices",
+      "description": "The government continues to grapple with the challenge of lowering retail oil prices, which remain stubbornly above 30 baht per litre despite recent declines in global crude markets.",
+      "date": "Thu, 09 Jul 2026 06:01:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3283095/government-in-struggle-to-reduce-retail-oil-prices",
       "source": "Bangkok Post Business"
     }
   ],
@@ -57,6 +43,16 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tQjRmVkRWUFlKWmV2TzFOZVEyS2NsaHF1VjNjeVFiZEJLQWtzZDVPa1NzRGE5VUpJc3F3NmtUamdMUzZUNE5nY20yTlAtc29SeGFmcA?oc=5\" target=\"_blank\">สุธิดา มงคลสุธี ไม่ใช่แค่เพียงลูกสาวท่านประธานแต่เป็นแม่ทัพหญิงแกร่งของ SYNNEX ผู้ปั้นยอดขายไอทีกว่า 40,000 ล้าน<",
       "date": "Wed, 01 Jul 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tQjRmVkRWUFlKWmV2TzFOZVEyS2NsaHF1VjNjeVFiZEJLQWtzZDVPa1NzRGE5VUpJc3F3NmtUamdMUzZUNE5nY20yTlAtc29SeGFmcA?oc=5",
+      "source": "Google News TH",
+      "category": "general",
+      "trusted": false,
+      "priority": 5
+    },
+    {
+      "title": "SYNNEX ก้าวสู่ปีที่ 39 แห่งความไว้วางใจ ชูบทบาทผู้นำ Technology Empowerment Partner พร้อมยกระดับ \"Trusted by Synnex\" สู่มาตรฐานใหม่บริการหลังการขาย - newswit",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBFajZTd05oT19RMmJRemUxMzJKWTkxMTI2c2NNWWhDUkZnRVprLUVtU0szYzdwZGV2S0MwMzJmTU5VVXVaV0JXRlFzRWdHZWU4MTdIX2FQV0wxTkFWWUlvMkphRzQzVWxPTUtj?oc=5\" target=\"_blank\">SYNNEX ก้าวสู่ปีที่ 39 แห่งความไว้วางใจ ชูบทบาทผู้นำ Technology Empowerment Partner",
+      "date": "Mon, 25 May 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBFajZTd05oT19RMmJRemUxMzJKWTkxMTI2c2NNWWhDUkZnRVprLUVtU0szYzdwZGV2S0MwMzJmTU5VVXVaV0JXRlFzRWdHZWU4MTdIX2FQV0wxTkFWWUlvMkphRzQzVWxPTUtj?oc=5",
       "source": "Google News TH",
       "category": "general",
       "trusted": false,
@@ -143,20 +139,10 @@
       "priority": 5
     },
     {
-      "title": "Synnex joins forces with Autodesk as sole Thai distributor, aims for 1.5 billion Baht this year - มิติหุ้น",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGN1FNWFlvc1VTQ3UzRVlEUHl0bk51VWd0TXoxMHIwNkNvMHBMOUx0QzJkcEtpbG5sU25sbFhmekxrZmtwQ0lPcWFkSXZleWU2X244Vk1B?oc=5\" target=\"_blank\">Synnex joins forces with Autodesk as sole Thai distributor, aims for 1.5 billion Baht this year</a>&nbsp;&nbsp;",
-      "date": "Tue, 06 Aug 2024 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGN1FNWFlvc1VTQ3UzRVlEUHl0bk51VWd0TXoxMHIwNkNvMHBMOUx0QzJkcEtpbG5sU25sbFhmekxrZmtwQ0lPcWFkSXZleWU2X244Vk1B?oc=5",
-      "source": "Google News TH",
-      "category": "general",
-      "trusted": false,
-      "priority": 5
-    },
-    {
-      "title": "SYNNEX จับมือ HONOR เปิดเกมบุกตลาดสมาร์ทดีไวซ์ในไทย - Thaimobilecenter",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1oZWVRTkczeDdPQlpGRWNMRzR2aVMyOEYwZUIzTHpwYXMyRW1OQU9PZ2VwUHJweFExUW5JU2tQSmJObE11Y2pBc2xZVUxuRWV3YlRiM2NJcjJ2VGJtUVduV3dGQzBRTEFJYXU1QjBqcGM1WmpmSmEyRQ?oc=5\" target=\"_blank\">SYNNEX จับมือ HONOR เปิดเกมบุกตลาดสมาร์ทดีไวซ์ในไทย</a>&nbsp;&nbs",
-      "date": "Fri, 24 Jun 2022 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oZWVRTkczeDdPQlpGRWNMRzR2aVMyOEYwZUIzTHpwYXMyRW1OQU9PZ2VwUHJweFExUW5JU2tQSmJObE11Y2pBc2xZVUxuRWV3YlRiM2NJcjJ2VGJtUVduV3dGQzBRTEFJYXU1QjBqcGM1WmpmSmEyRQ?oc=5",
+      "title": "ซินเน็คขนทัพสินค้า “Trusted By Synnex” จากแบรนด์ไอทีชั้นนำ บุกงาน TME 2024 ย้ำความแข็งแกร่งนัมเบอร์วันไอทีดิสทริบิวเตอร์ - Thaimobilecenter",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5jRjdLZWsxdUVhdWtYZDFuM0xFRFFlV1FXM3pTalBLOWpsSDc4V09EWEZwT0NUZV9QYm1vMVA0aUtoXy1WQXlRRUNpU0dpTlNTbEVGN1BQUFVfZ1c5LU9QVDBodk56dUdpTVNXVkl0Yw?oc=5\" target=\"_blank\">ซินเน็คขนทัพสินค้า “Trusted By Synnex” จากแบรนด์ไอทีชั้นนำ บุกงาน TME 2024 ย้",
+      "date": "Sat, 10 Feb 2024 08:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jRjdLZWsxdUVhdWtYZDFuM0xFRFFlV1FXM3pTalBLOWpsSDc4V09EWEZwT0NUZV9QYm1vMVA0aUtoXy1WQXlRRUNpU0dpTlNTbEVGN1BQUFVfZ1c5LU9QVDBodk56dUdpTVNXVkl0Yw?oc=5",
       "source": "Google News TH",
       "category": "general",
       "trusted": false,
@@ -173,6 +159,16 @@
       "priority": 5
     },
     {
+      "title": "SYNNEX จับมือ HONOR เปิดเกมบุกตลาดสมาร์ทดีไวซ์ในไทย - Thaimobilecenter",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1oZWVRTkczeDdPQlpGRWNMRzR2aVMyOEYwZUIzTHpwYXMyRW1OQU9PZ2VwUHJweFExUW5JU2tQSmJObE11Y2pBc2xZVUxuRWV3YlRiM2NJcjJ2VGJtUVduV3dGQzBRTEFJYXU1QjBqcGM1WmpmSmEyRQ?oc=5\" target=\"_blank\">SYNNEX จับมือ HONOR เปิดเกมบุกตลาดสมาร์ทดีไวซ์ในไทย</a>&nbsp;&nbs",
+      "date": "Fri, 24 Jun 2022 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oZWVRTkczeDdPQlpGRWNMRzR2aVMyOEYwZUIzTHpwYXMyRW1OQU9PZ2VwUHJweFExUW5JU2tQSmJObE11Y2pBc2xZVUxuRWV3YlRiM2NJcjJ2VGJtUVduV3dGQzBRTEFJYXU1QjBqcGM1WmpmSmEyRQ?oc=5",
+      "source": "Google News TH",
+      "category": "general",
+      "trusted": false,
+      "priority": 5
+    },
+    {
       "title": "Nintendo Switch by Synnex ร่วมงาน Thailand Mobile Expo 2023 มหกรรมมือถือสุดยิ่งใหญ่แห่งปี - Thaimobilecenter",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQb2Q1a3dmeHc5enp1cjN3RGc5VmxBMDEyeFR0S1ZONHBSODNJZ3RNOXdGalc5X216Ui1OdHZFb0JjVE9OcGc3dm9DZVZ5aFdhS3pJOEJpTHNQRFZKOUo0TE1DU1d3bXN2MUVyd2hNaGZ5cXR2aWJjRzZhQTFkMGdxbQ?oc=5\" target=\"_blank\">Nintendo Switch by Synnex ร่วมงาน Thailand Mobile Exp",
       "date": "Fri, 27 Oct 2023 07:00:00 GMT",
@@ -183,30 +179,20 @@
       "priority": 5
     },
     {
-      "title": "ซินเน็คขนทัพสินค้า “Trusted By Synnex” จากแบรนด์ไอทีชั้นนำ บุกงาน TME 2024 ย้ำความแข็งแกร่งนัมเบอร์วันไอทีดิสทริบิวเตอร์ - Thaimobilecenter",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5jRjdLZWsxdUVhdWtYZDFuM0xFRFFlV1FXM3pTalBLOWpsSDc4V09EWEZwT0NUZV9QYm1vMVA0aUtoXy1WQXlRRUNpU0dpTlNTbEVGN1BQUFVfZ1c5LU9QVDBodk56dUdpTVNXVkl0Yw?oc=5\" target=\"_blank\">ซินเน็คขนทัพสินค้า “Trusted By Synnex” จากแบรนด์ไอทีชั้นนำ บุกงาน TME 2024 ย้",
-      "date": "Sat, 10 Feb 2024 08:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jRjdLZWsxdUVhdWtYZDFuM0xFRFFlV1FXM3pTalBLOWpsSDc4V09EWEZwT0NUZV9QYm1vMVA0aUtoXy1WQXlRRUNpU0dpTlNTbEVGN1BQUFVfZ1c5LU9QVDBodk56dUdpTVNXVkl0Yw?oc=5",
-      "source": "Google News TH",
-      "category": "general",
-      "trusted": false,
-      "priority": 5
-    },
-    {
-      "title": "HUAWEI eKit Joins Hands with Distribution Partners to Explore Unlimited Opportunities in Thailand SME market - Huawei Enterprise",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNRXk2QjdBSS11U295SlA4UEtUY0ZHMUV4SDhZNWRlNUdMMUhuMVo1b2k0QnhmTXhYUE1xWGoxQ0Iza01lRUdiMmtRbjUycU12MVkwMEJRRWdXZ3B4ZVFjV0dQd1FzWEUyWTZodGhrMEZKS3BEbThrS3BBRnRrMlV4T05OTQ?oc=5\" target=\"_blank\">HUAWEI eKit Joins Hands with Distribution Partner",
-      "date": "Wed, 08 Nov 2023 08:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRXk2QjdBSS11U295SlA4UEtUY0ZHMUV4SDhZNWRlNUdMMUhuMVo1b2k0QnhmTXhYUE1xWGoxQ0Iza01lRUdiMmtRbjUycU12MVkwMEJRRWdXZ3B4ZVFjV0dQd1FzWEUyWTZodGhrMEZKS3BEbThrS3BBRnRrMlV4T05OTQ?oc=5",
+      "title": "Amid demand for AI, Synnex transforms into total tech solutions provider - Nation Thailand",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9uaWxjLWVHM3R6Z0xYUWdrX253ZkoySzlDRGNIUUc0bUxrM01sVkFMRHlFYUFZb2tVdFdodVoyeHE1ZXhFUFJFY0lUaGQ1RFE0SHlHMU56MV9EZWVoc2pMNFhpenhkdTZrdXc?oc=5\" target=\"_blank\">Amid demand for AI, Synnex transforms into total tech solutions provider</a>&nbsp;&n",
+      "date": "Fri, 20 Sep 2024 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9uaWxjLWVHM3R6Z0xYUWdrX253ZkoySzlDRGNIUUc0bUxrM01sVkFMRHlFYUFZb2tVdFdodVoyeHE1ZXhFUFJFY0lUaGQ1RFE0SHlHMU56MV9EZWVoc2pMNFhpenhkdTZrdXc?oc=5",
       "source": "Google News EN",
       "category": "general",
       "trusted": false,
       "priority": 6
     },
     {
-      "title": "Amid demand for AI, Synnex transforms into total tech solutions provider - Nation Thailand",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9uaWxjLWVHM3R6Z0xYUWdrX253ZkoySzlDRGNIUUc0bUxrM01sVkFMRHlFYUFZb2tVdFdodVoyeHE1ZXhFUFJFY0lUaGQ1RFE0SHlHMU56MV9EZWVoc2pMNFhpenhkdTZrdXc?oc=5\" target=\"_blank\">Amid demand for AI, Synnex transforms into total tech solutions provider</a>&nbsp;&n",
-      "date": "Fri, 20 Sep 2024 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9uaWxjLWVHM3R6Z0xYUWdrX253ZkoySzlDRGNIUUc0bUxrM01sVkFMRHlFYUFZb2tVdFdodVoyeHE1ZXhFUFJFY0lUaGQ1RFE0SHlHMU56MV9EZWVoc2pMNFhpenhkdTZrdXc?oc=5",
+      "title": "HUAWEI eKit Joins Hands with Distribution Partners to Explore Unlimited Opportunities in Thailand SME market - Huawei Enterprise",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQSjdLTXRXZ21rdlBCeE41emtTeTN5YmtsTlFYT2h4aWxaUUQ0RjRqcHgyLTNFcnZVQzRKdThLdDZMNVpqMTgtNV96S0ZkMEFsVGFvM2RmQUtqRUdVaDdXZ3RXNlZNc0k4dzVpbmxURGhjLUlGYWVSaFJxbUwxckUtNmdVQQ?oc=5\" target=\"_blank\">HUAWEI eKit Joins Hands with Distribution Partner",
+      "date": "Wed, 08 Nov 2023 08:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSjdLTXRXZ21rdlBCeE41emtTeTN5YmtsTlFYT2h4aWxaUUQ0RjRqcHgyLTNFcnZVQzRKdThLdDZMNVpqMTgtNV96S0ZkMEFsVGFvM2RmQUtqRUdVaDdXZ3RXNlZNc0k4dzVpbmxURGhjLUlGYWVSaFJxbUwxckUtNmdVQQ?oc=5",
       "source": "Google News EN",
       "category": "general",
       "trusted": false,
@@ -223,20 +209,20 @@
       "priority": 6
     },
     {
-      "title": "Sutida Mongkolsuthree - Prestige Online - Singapore",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPa0FaaThuTHI5N1JTS3UzMXgzRlVWN1BPajRGckxOUHkyYV9DOElDTDRqQ3dCamJCdWRpMTdxX0JfT3FxdExIVF9RQ3o5MmY2cEU0NTVKY0lsS01yODZreWZyMXBzQXF1WFhGVTRrXzU4UFVhSG1Sc2ZBTXByck9Jb1FJRzhFTkZ2cnBoSFNzSWJOZ9IBlwFBVV95cUxORkdCd0pvdkI0R2NUaERIazNEUENvNDJhM2hfUG",
-      "date": "Mon, 20 Feb 2023 20:47:27 GMT",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPa0FaaThuTHI5N1JTS3UzMXgzRlVWN1BPajRGckxOUHkyYV9DOElDTDRqQ3dCamJCdWRpMTdxX0JfT3FxdExIVF9RQ3o5MmY2cEU0NTVKY0lsS01yODZreWZyMXBzQXF1WFhGVTRrXzU4UFVhSG1Sc2ZBTXByck9Jb1FJRzhFTkZ2cnBoSFNzSWJOZ9IBlwFBVV95cUxORkdCd0pvdkI0R2NUaERIazNEUENvNDJhM2hfUGcxWURiaTc4dDhmWFlRMnFSbHEwUUhuamJUcHVNWE1meksxYmZ3Z3kzUW1sVHFiRjdaX2I2NUxMNmV0OVMxODFBUU9abW1HS3dPbWxLTllRNU04bE9VYnBjRGdnQ1pFQUpMU2ozdlBZZWJqOGkwOVFkSXln?oc=5",
+      "title": "Kittipong Prasobchokchaikul Joins Synnex Thailand as Head of Human Resources Operations - hrtoday.in",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMTFhM3lnSXFNajBLb3ZENU1kcXpoVHhWWW54UDNKR3BpTU9EVnMxYlJ4bVRUOWNzY1E2amcwbWdFZkR3Wk1ucHM0ZWZIWHlnVkN3RzBXMTdSSzlLYl9NbXhFRXBHcXRmWTlRTTVpUmkySUUyRzdITEd3RzJ0cFlnX3BJTXd2RFJVZE5Gb2k4ZXBVVGZKZnh1S01KemNhSmxoY3cwUWhIZ2pGQ2c?oc=5\" target=\"_bla",
+      "date": "Thu, 02 May 2024 18:54:14 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMTFhM3lnSXFNajBLb3ZENU1kcXpoVHhWWW54UDNKR3BpTU9EVnMxYlJ4bVRUOWNzY1E2amcwbWdFZkR3Wk1ucHM0ZWZIWHlnVkN3RzBXMTdSSzlLYl9NbXhFRXBHcXRmWTlRTTVpUmkySUUyRzdITEd3RzJ0cFlnX3BJTXd2RFJVZE5Gb2k4ZXBVVGZKZnh1S01KemNhSmxoY3cwUWhIZ2pGQ2c?oc=5",
       "source": "Google News EN",
       "category": "general",
       "trusted": false,
       "priority": 6
     },
     {
-      "title": "Kittipong Prasobchokchaikul Joins Synnex Thailand as Head of Human Resources Operations - hrtoday.in",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMTFhM3lnSXFNajBLb3ZENU1kcXpoVHhWWW54UDNKR3BpTU9EVnMxYlJ4bVRUOWNzY1E2amcwbWdFZkR3Wk1ucHM0ZWZIWHlnVkN3RzBXMTdSSzlLYl9NbXhFRXBHcXRmWTlRTTVpUmkySUUyRzdITEd3RzJ0cFlnX3BJTXd2RFJVZE5Gb2k4ZXBVVGZKZnh1S01KemNhSmxoY3cwUWhIZ2pGQ2c?oc=5\" target=\"_bla",
-      "date": "Thu, 02 May 2024 18:54:14 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMTFhM3lnSXFNajBLb3ZENU1kcXpoVHhWWW54UDNKR3BpTU9EVnMxYlJ4bVRUOWNzY1E2amcwbWdFZkR3Wk1ucHM0ZWZIWHlnVkN3RzBXMTdSSzlLYl9NbXhFRXBHcXRmWTlRTTVpUmkySUUyRzdITEd3RzJ0cFlnX3BJTXd2RFJVZE5Gb2k4ZXBVVGZKZnh1S01KemNhSmxoY3cwUWhIZ2pGQ2c?oc=5",
+      "title": "Sutida Mongkolsuthree - Prestige Online - Singapore",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPa0FaaThuTHI5N1JTS3UzMXgzRlVWN1BPajRGckxOUHkyYV9DOElDTDRqQ3dCamJCdWRpMTdxX0JfT3FxdExIVF9RQ3o5MmY2cEU0NTVKY0lsS01yODZreWZyMXBzQXF1WFhGVTRrXzU4UFVhSG1Sc2ZBTXByck9Jb1FJRzhFTkZ2cnBoSFNzSWJOZ9IBlwFBVV95cUxORkdCd0pvdkI0R2NUaERIazNEUENvNDJhM2hfUG",
+      "date": "Mon, 20 Feb 2023 20:47:27 GMT",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPa0FaaThuTHI5N1JTS3UzMXgzRlVWN1BPajRGckxOUHkyYV9DOElDTDRqQ3dCamJCdWRpMTdxX0JfT3FxdExIVF9RQ3o5MmY2cEU0NTVKY0lsS01yODZreWZyMXBzQXF1WFhGVTRrXzU4UFVhSG1Sc2ZBTXByck9Jb1FJRzhFTkZ2cnBoSFNzSWJOZ9IBlwFBVV95cUxORkdCd0pvdkI0R2NUaERIazNEUENvNDJhM2hfUGcxWURiaTc4dDhmWFlRMnFSbHEwUUhuamJUcHVNWE1meksxYmZ3Z3kzUW1sVHFiRjdaX2I2NUxMNmV0OVMxODFBUU9abW1HS3dPbWxLTllRNU04bE9VYnBjRGdnQ1pFQUpMU2ozdlBZZWJqOGkwOVFkSXln?oc=5",
       "source": "Google News EN",
       "category": "general",
       "trusted": false,
@@ -253,13 +239,13 @@
       "priority": 6
     }
   ],
-  "claude_prompt": "CFO FX Brief 08/07/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Thai regulator tracks mystery investor in blue-chip companies\n- [Bangkok Post Business] Thai monetary policy supports economic recovery: central bank\n- [Bangkok Post Business] 8 billion baht in Savings Plus bonds to be issued\n- [Bangkok Post Business] FTI builds bridge for Chinese SMEs\n- [Bangkok Post Business] Chamber introduces regional AI institute\n- [Bangkok Post Business] Organisations to amend legal framework for bonds",
+  "claude_prompt": "CFO FX Brief 09/07/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Court upholds B400-billion borrowing decree\n- [Bangkok Post Business] BoT: Headline inflation likely below projection\n- [Bangkok Post Business] Planned tourism fee hits another snag\n- [Bangkok Post Business] Government in struggle to reduce retail oil prices",
   "stats": {
-    "fx_news_count": 6,
+    "fx_news_count": 4,
     "synnex_news_count": 20,
     "data_sources": [
-      "Google News EN",
       "Google News TH",
+      "Google News EN",
       "Bangkok Post Business"
     ]
   }
