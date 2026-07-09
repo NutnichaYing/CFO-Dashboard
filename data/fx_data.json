@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-09 18:26:52 BKK",
+  "last_updated": "2026-07-09 21:01:49 BKK",
   "rate": {
     "date": "2026-07-09",
     "buying": 0,
@@ -43,16 +43,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tQjRmVkRWUFlKWmV2TzFOZVEyS2NsaHF1VjNjeVFiZEJLQWtzZDVPa1NzRGE5VUpJc3F3NmtUamdMUzZUNE5nY20yTlAtc29SeGFmcA?oc=5\" target=\"_blank\">สุธิดา มงคลสุธี ไม่ใช่แค่เพียงลูกสาวท่านประธานแต่เป็นแม่ทัพหญิงแกร่งของ SYNNEX ผู้ปั้นยอดขายไอทีกว่า 40,000 ล้าน<",
       "date": "Wed, 01 Jul 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tQjRmVkRWUFlKWmV2TzFOZVEyS2NsaHF1VjNjeVFiZEJLQWtzZDVPa1NzRGE5VUpJc3F3NmtUamdMUzZUNE5nY20yTlAtc29SeGFmcA?oc=5",
-      "source": "Google News TH",
-      "category": "general",
-      "trusted": false,
-      "priority": 5
-    },
-    {
-      "title": "SYNNEX ก้าวสู่ปีที่ 39 แห่งความไว้วางใจ ชูบทบาทผู้นำ Technology Empowerment Partner พร้อมยกระดับ \"Trusted by Synnex\" สู่มาตรฐานใหม่บริการหลังการขาย - newswit",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBFajZTd05oT19RMmJRemUxMzJKWTkxMTI2c2NNWWhDUkZnRVprLUVtU0szYzdwZGV2S0MwMzJmTU5VVXVaV0JXRlFzRWdHZWU4MTdIX2FQV0wxTkFWWUlvMkphRzQzVWxPTUtj?oc=5\" target=\"_blank\">SYNNEX ก้าวสู่ปีที่ 39 แห่งความไว้วางใจ ชูบทบาทผู้นำ Technology Empowerment Partner",
-      "date": "Mon, 25 May 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBFajZTd05oT19RMmJRemUxMzJKWTkxMTI2c2NNWWhDUkZnRVprLUVtU0szYzdwZGV2S0MwMzJmTU5VVXVaV0JXRlFzRWdHZWU4MTdIX2FQV0wxTkFWWUlvMkphRzQzVWxPTUtj?oc=5",
       "source": "Google News TH",
       "category": "general",
       "trusted": false,
@@ -133,6 +123,16 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZNHc2MFVmV0VtOVBQYVFwRk9oNFhwS2xKNkNYckJ4dzRjYlNlRkN3SjBLcHQ2U3lUcURRUk9xMHZzbnQtOWwzbklHaEFYYV8tekE?oc=5\" target=\"_blank\">ซินเน็คฯ กางแผนธุรกิจในงาน “SYNNEX PARTNER CONNECT 2024”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">posttoday</font>",
       "date": "Tue, 24 Sep 2024 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZNHc2MFVmV0VtOVBQYVFwRk9oNFhwS2xKNkNYckJ4dzRjYlNlRkN3SjBLcHQ2U3lUcURRUk9xMHZzbnQtOWwzbklHaEFYYV8tekE?oc=5",
+      "source": "Google News TH",
+      "category": "general",
+      "trusted": false,
+      "priority": 5
+    },
+    {
+      "title": "Synnex joins forces with Autodesk as sole Thai distributor, aims for 1.5 billion Baht this year - มิติหุ้น",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGN1FNWFlvc1VTQ3UzRVlEUHl0bk51VWd0TXoxMHIwNkNvMHBMOUx0QzJkcEtpbG5sU25sbFhmekxrZmtwQ0lPcWFkSXZleWU2X244Vk1B?oc=5\" target=\"_blank\">Synnex joins forces with Autodesk as sole Thai distributor, aims for 1.5 billion Baht this year</a>&nbsp;&nbsp;",
+      "date": "Tue, 06 Aug 2024 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGN1FNWFlvc1VTQ3UzRVlEUHl0bk51VWd0TXoxMHIwNkNvMHBMOUx0QzJkcEtpbG5sU25sbFhmekxrZmtwQ0lPcWFkSXZleWU2X244Vk1B?oc=5",
       "source": "Google News TH",
       "category": "general",
       "trusted": false,
@@ -245,8 +245,8 @@
     "synnex_news_count": 20,
     "data_sources": [
       "Google News TH",
-      "Google News EN",
-      "Bangkok Post Business"
+      "Bangkok Post Business",
+      "Google News EN"
     ]
   }
 }
