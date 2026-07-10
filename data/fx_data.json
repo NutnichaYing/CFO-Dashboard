@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-10 01:13:18 BKK",
+  "last_updated": "2026-07-10 18:24:37 BKK",
   "rate": {
     "date": "2026-07-10",
     "buying": 0,
@@ -9,31 +9,38 @@
   },
   "news": [
     {
+      "title": "New Sadao checkpoint linking Malaysia opens on Saturday",
+      "description": "SONGKHLA - A new Sadao checkpoint compound and road linking southern Thailand and northern Malaysia has been slated to open for users on Saturday after the prime ministers of both nations officiated i",
+      "date": "Fri, 10 Jul 2026 15:29:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3284004/new-sadao-checkpoint-linking-malaysia-opens-on-saturday",
+      "source": "Bangkok Post Business"
+    },
+    {
+      "title": "Nestlé allocates B23bn for new plant",
+      "description": "Nestl&eacute; has announced a 23-billion-baht investment to build a new Nescaf&eacute; manufacturing facility in Samut Prakan.",
+      "date": "Fri, 10 Jul 2026 06:09:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3283679/nestlé-allocates-b23bn-for-new-plant",
+      "source": "Bangkok Post Business"
+    },
+    {
+      "title": "SEC expands self-reporting probe",
+      "description": "The Securities and Exchange Commission (SEC) is widening its investigation into whether false information reports linked to Supaporn Phimpong were intentionally submitted to the electronic reporting s",
+      "date": "Fri, 10 Jul 2026 04:32:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3283689/sec-expands-selfreporting-probe",
+      "source": "Bangkok Post Business"
+    },
+    {
+      "title": "Foreign funds fuel SET rally on global rotation",
+      "description": "Foreign investors have poured about 41 billion baht into Thailand's stock market so far this year as global funds rotate away from expensive technology shares and seek safer markets with stronger retu",
+      "date": "Fri, 10 Jul 2026 01:01:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3283854/foreign-funds-fuel-set-rally-on-global-rotation",
+      "source": "Bangkok Post Business"
+    },
+    {
       "title": "Court upholds B400-billion borrowing decree",
       "description": "The Constitutional Court ruled on Thursday that the government&rsquo;s ​400-billion-baht emergency loan &zwnj;decree was lawful, lifting uncertainty over state spending plans.",
       "date": "Thu, 09 Jul 2026 12:57:00 +0700",
       "link": "https://www.bangkokpost.com/business/general/3283454/court-upholds-b400billion-borrowing-decree",
-      "source": "Bangkok Post Business"
-    },
-    {
-      "title": "BoT: Headline inflation likely below projection",
-      "description": "Thailand's headline inflation is likely to be lower than projected this year as global oil prices decline, says the regulator.",
-      "date": "Thu, 09 Jul 2026 07:08:00 +0700",
-      "link": "https://www.bangkokpost.com/business/general/3283165/bot-headline-inflation-likely-below-projection",
-      "source": "Bangkok Post Business"
-    },
-    {
-      "title": "Planned tourism fee hits another snag",
-      "description": "The government&rsquo;s plan to collect a tourism fee of at least 300 baht through airlines is not feasible because of limitations in airlines&rsquo; back-office systems, with the Thailand Digital Arri",
-      "date": "Thu, 09 Jul 2026 06:07:00 +0700",
-      "link": "https://www.bangkokpost.com/business/general/3283175/planned-tourism-fee-hits-another-snag",
-      "source": "Bangkok Post Business"
-    },
-    {
-      "title": "Government in struggle to reduce retail oil prices",
-      "description": "The government continues to grapple with the challenge of lowering retail oil prices, which remain stubbornly above 30 baht per litre despite recent declines in global crude markets.",
-      "date": "Thu, 09 Jul 2026 06:01:00 +0700",
-      "link": "https://www.bangkokpost.com/business/general/3283095/government-in-struggle-to-reduce-retail-oil-prices",
       "source": "Bangkok Post Business"
     }
   ],
@@ -43,16 +50,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tQjRmVkRWUFlKWmV2TzFOZVEyS2NsaHF1VjNjeVFiZEJLQWtzZDVPa1NzRGE5VUpJc3F3NmtUamdMUzZUNE5nY20yTlAtc29SeGFmcA?oc=5\" target=\"_blank\">สุธิดา มงคลสุธี ไม่ใช่แค่เพียงลูกสาวท่านประธานแต่เป็นแม่ทัพหญิงแกร่งของ SYNNEX ผู้ปั้นยอดขายไอทีกว่า 40,000 ล้าน<",
       "date": "Wed, 01 Jul 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tQjRmVkRWUFlKWmV2TzFOZVEyS2NsaHF1VjNjeVFiZEJLQWtzZDVPa1NzRGE5VUpJc3F3NmtUamdMUzZUNE5nY20yTlAtc29SeGFmcA?oc=5",
-      "source": "Google News TH",
-      "category": "general",
-      "trusted": false,
-      "priority": 5
-    },
-    {
-      "title": "SYNNEX ก้าวสู่ปีที่ 39 แห่งความไว้วางใจ ชูบทบาทผู้นำ Technology Empowerment Partner พร้อมยกระดับ \"Trusted by Synnex\" สู่มาตรฐานใหม่บริการหลังการขาย - newswit",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBFajZTd05oT19RMmJRemUxMzJKWTkxMTI2c2NNWWhDUkZnRVprLUVtU0szYzdwZGV2S0MwMzJmTU5VVXVaV0JXRlFzRWdHZWU4MTdIX2FQV0wxTkFWWUlvMkphRzQzVWxPTUtj?oc=5\" target=\"_blank\">SYNNEX ก้าวสู่ปีที่ 39 แห่งความไว้วางใจ ชูบทบาทผู้นำ Technology Empowerment Partner",
-      "date": "Mon, 25 May 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBFajZTd05oT19RMmJRemUxMzJKWTkxMTI2c2NNWWhDUkZnRVprLUVtU0szYzdwZGV2S0MwMzJmTU5VVXVaV0JXRlFzRWdHZWU4MTdIX2FQV0wxTkFWWUlvMkphRzQzVWxPTUtj?oc=5",
       "source": "Google News TH",
       "category": "general",
       "trusted": false,
@@ -109,6 +106,16 @@
       "priority": 5
     },
     {
+      "title": "Synnex joins forces with Autodesk as sole Thai distributor, aims for 1.5 billion Baht this year - ThaiPR.NET",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTFBxdVlQWTNLRXMzaWpvYVFqSFBaYjU0VDVDa2ExUHhoUkl5anF0SmJ3M3RHV2RRVWZBX0hURWZSZ3VnSS1uRVY5ekp0TTlsaVBN?oc=5\" target=\"_blank\">Synnex joins forces with Autodesk as sole Thai distributor, aims for 1.5 billion Baht this year</a>&nbsp;&nbsp;<font co",
+      "date": "Wed, 07 Aug 2024 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBxdVlQWTNLRXMzaWpvYVFqSFBaYjU0VDVDa2ExUHhoUkl5anF0SmJ3M3RHV2RRVWZBX0hURWZSZ3VnSS1uRVY5ekp0TTlsaVBN?oc=5",
+      "source": "Google News TH",
+      "category": "general",
+      "trusted": false,
+      "priority": 5
+    },
+    {
       "title": "SYNEX - ข้อมูลผู้ถือหุ้น - ตลาดหลักทรัพย์แห่งประเทศไทย - SET",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPbEh0RThzaS14R2N2WEh5ZGdPYVQ5Vk5Pb2RrZTl5dGtFWm5PSjBFSmxQRlBlcmRGd1lLaU43LWpvaG0yam5zV3Nnb2JxYU1JMWRIMzMxQ3JHSS1DeS1yTjMtSk40X0E4N2FBblJTeHBna0FiZ0x4SDB4ZzNveDFTSDdn?oc=5\" target=\"_blank\">SYNEX - ข้อมูลผู้ถือหุ้น - ตลาดหลักทรัพย์แห่งประเทศ",
       "date": "Tue, 06 Dec 2022 05:46:14 GMT",
@@ -119,10 +126,10 @@
       "priority": 5
     },
     {
-      "title": "SYNEX เตรียมจัดงานสุดยิ่งใหญ่แห่งปี “Synnex Partners Connect 2022” รวบรวมพาร์ทเนอร์ทั่วประเทศ อัพเดตกลยุทธ์และเทรนด์เทคโนโลยีที่ต้องจับตา - ThaiPR.NET",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE1kdTZ4b25WX3dyUHdzeUNBb1hNZU1DSlBRQktNWlprZXRhaDRXd2gyS1NGaHR3RTJvMlRrb0c5RGxseHJYUUlvYnl1ZFBYNEE?oc=5\" target=\"_blank\">SYNEX เตรียมจัดงานสุดยิ่งใหญ่แห่งปี “Synnex Partners Connect 2022” รวบรวมพาร์ทเนอร์ทั่วประเทศ อัพเดตกลยุทธ์และเทรนด์เทคโ",
-      "date": "Thu, 22 Sep 2022 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1kdTZ4b25WX3dyUHdzeUNBb1hNZU1DSlBRQktNWlprZXRhaDRXd2gyS1NGaHR3RTJvMlRrb0c5RGxseHJYUUlvYnl1ZFBYNEE?oc=5",
+      "title": "SYNNEX ก้าวสู่ปีที่ 39 แห่งความไว้วางใจ ชูบทบาทผู้นำ Technology Empowerment Partner พร้อมยกระดับ \"Trusted by Synnex\" สู่มาตรฐานใหม่บริการหลังการขาย - newswit",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBFajZTd05oT19RMmJRemUxMzJKWTkxMTI2c2NNWWhDUkZnRVprLUVtU0szYzdwZGV2S0MwMzJmTU5VVXVaV0JXRlFzRWdHZWU4MTdIX2FQV0wxTkFWWUlvMkphRzQzVWxPTUtj?oc=5\" target=\"_blank\">SYNNEX ก้าวสู่ปีที่ 39 แห่งความไว้วางใจ ชูบทบาทผู้นำ Technology Empowerment Partner",
+      "date": "Mon, 25 May 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBFajZTd05oT19RMmJRemUxMzJKWTkxMTI2c2NNWWhDUkZnRVprLUVtU0szYzdwZGV2S0MwMzJmTU5VVXVaV0JXRlFzRWdHZWU4MTdIX2FQV0wxTkFWWUlvMkphRzQzVWxPTUtj?oc=5",
       "source": "Google News TH",
       "category": "general",
       "trusted": false,
@@ -143,6 +150,16 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5jRjdLZWsxdUVhdWtYZDFuM0xFRFFlV1FXM3pTalBLOWpsSDc4V09EWEZwT0NUZV9QYm1vMVA0aUtoXy1WQXlRRUNpU0dpTlNTbEVGN1BQUFVfZ1c5LU9QVDBodk56dUdpTVNXVkl0Yw?oc=5\" target=\"_blank\">ซินเน็คขนทัพสินค้า “Trusted By Synnex” จากแบรนด์ไอทีชั้นนำ บุกงาน TME 2024 ย้",
       "date": "Sat, 10 Feb 2024 08:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jRjdLZWsxdUVhdWtYZDFuM0xFRFFlV1FXM3pTalBLOWpsSDc4V09EWEZwT0NUZV9QYm1vMVA0aUtoXy1WQXlRRUNpU0dpTlNTbEVGN1BQUFVfZ1c5LU9QVDBodk56dUdpTVNXVkl0Yw?oc=5",
+      "source": "Google News TH",
+      "category": "general",
+      "trusted": false,
+      "priority": 5
+    },
+    {
+      "title": "SYNEX เตรียมจัดงานสุดยิ่งใหญ่แห่งปี “Synnex Partners Connect 2022” รวบรวมพาร์ทเนอร์ทั่วประเทศ อัพเดตกลยุทธ์และเทรนด์เทคโนโลยีที่ต้องจับตา - ThaiPR.NET",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE1kdTZ4b25WX3dyUHdzeUNBb1hNZU1DSlBRQktNWlprZXRhaDRXd2gyS1NGaHR3RTJvMlRrb0c5RGxseHJYUUlvYnl1ZFBYNEE?oc=5\" target=\"_blank\">SYNEX เตรียมจัดงานสุดยิ่งใหญ่แห่งปี “Synnex Partners Connect 2022” รวบรวมพาร์ทเนอร์ทั่วประเทศ อัพเดตกลยุทธ์และเทรนด์เทคโ",
+      "date": "Thu, 22 Sep 2022 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1kdTZ4b25WX3dyUHdzeUNBb1hNZU1DSlBRQktNWlprZXRhaDRXd2gyS1NGaHR3RTJvMlRrb0c5RGxseHJYUUlvYnl1ZFBYNEE?oc=5",
       "source": "Google News TH",
       "category": "general",
       "trusted": false,
@@ -179,20 +196,20 @@
       "priority": 5
     },
     {
-      "title": "HUAWEI eKit Joins Hands with Distribution Partners to Explore Unlimited Opportunities in Thailand SME market - Huawei Enterprise",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNRXk2QjdBSS11U295SlA4UEtUY0ZHMUV4SDhZNWRlNUdMMUhuMVo1b2k0QnhmTXhYUE1xWGoxQ0Iza01lRUdiMmtRbjUycU12MVkwMEJRRWdXZ3B4ZVFjV0dQd1FzWEUyWTZodGhrMEZKS3BEbThrS3BBRnRrMlV4T05OTQ?oc=5\" target=\"_blank\">HUAWEI eKit Joins Hands with Distribution Partner",
-      "date": "Wed, 08 Nov 2023 08:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRXk2QjdBSS11U295SlA4UEtUY0ZHMUV4SDhZNWRlNUdMMUhuMVo1b2k0QnhmTXhYUE1xWGoxQ0Iza01lRUdiMmtRbjUycU12MVkwMEJRRWdXZ3B4ZVFjV0dQd1FzWEUyWTZodGhrMEZKS3BEbThrS3BBRnRrMlV4T05OTQ?oc=5",
+      "title": "Amid demand for AI, Synnex transforms into total tech solutions provider - Nation Thailand",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9uaWxjLWVHM3R6Z0xYUWdrX253ZkoySzlDRGNIUUc0bUxrM01sVkFMRHlFYUFZb2tVdFdodVoyeHE1ZXhFUFJFY0lUaGQ1RFE0SHlHMU56MV9EZWVoc2pMNFhpenhkdTZrdXc?oc=5\" target=\"_blank\">Amid demand for AI, Synnex transforms into total tech solutions provider</a>&nbsp;&n",
+      "date": "Fri, 20 Sep 2024 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9uaWxjLWVHM3R6Z0xYUWdrX253ZkoySzlDRGNIUUc0bUxrM01sVkFMRHlFYUFZb2tVdFdodVoyeHE1ZXhFUFJFY0lUaGQ1RFE0SHlHMU56MV9EZWVoc2pMNFhpenhkdTZrdXc?oc=5",
       "source": "Google News EN",
       "category": "general",
       "trusted": false,
       "priority": 6
     },
     {
-      "title": "Amid demand for AI, Synnex transforms into total tech solutions provider - Nation Thailand",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9uaWxjLWVHM3R6Z0xYUWdrX253ZkoySzlDRGNIUUc0bUxrM01sVkFMRHlFYUFZb2tVdFdodVoyeHE1ZXhFUFJFY0lUaGQ1RFE0SHlHMU56MV9EZWVoc2pMNFhpenhkdTZrdXc?oc=5\" target=\"_blank\">Amid demand for AI, Synnex transforms into total tech solutions provider</a>&nbsp;&n",
-      "date": "Fri, 20 Sep 2024 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9uaWxjLWVHM3R6Z0xYUWdrX253ZkoySzlDRGNIUUc0bUxrM01sVkFMRHlFYUFZb2tVdFdodVoyeHE1ZXhFUFJFY0lUaGQ1RFE0SHlHMU56MV9EZWVoc2pMNFhpenhkdTZrdXc?oc=5",
+      "title": "HUAWEI eKit Joins Hands with Distribution Partners to Explore Unlimited Opportunities in Thailand SME market - Huawei Enterprise",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQSjdLTXRXZ21rdlBCeE41emtTeTN5YmtsTlFYT2h4aWxaUUQ0RjRqcHgyLTNFcnZVQzRKdThLdDZMNVpqMTgtNV96S0ZkMEFsVGFvM2RmQUtqRUdVaDdXZ3RXNlZNc0k4dzVpbmxURGhjLUlGYWVSaFJxbUwxckUtNmdVQQ?oc=5\" target=\"_blank\">HUAWEI eKit Joins Hands with Distribution Partner",
+      "date": "Wed, 08 Nov 2023 08:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSjdLTXRXZ21rdlBCeE41emtTeTN5YmtsTlFYT2h4aWxaUUQ0RjRqcHgyLTNFcnZVQzRKdThLdDZMNVpqMTgtNV96S0ZkMEFsVGFvM2RmQUtqRUdVaDdXZ3RXNlZNc0k4dzVpbmxURGhjLUlGYWVSaFJxbUwxckUtNmdVQQ?oc=5",
       "source": "Google News EN",
       "category": "general",
       "trusted": false,
@@ -239,10 +256,10 @@
       "priority": 6
     }
   ],
-  "claude_prompt": "CFO FX Brief 10/07/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Court upholds B400-billion borrowing decree\n- [Bangkok Post Business] BoT: Headline inflation likely below projection\n- [Bangkok Post Business] Planned tourism fee hits another snag\n- [Bangkok Post Business] Government in struggle to reduce retail oil prices",
+  "claude_prompt": "CFO FX Brief 10/07/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] New Sadao checkpoint linking Malaysia opens on Saturday\n- [Bangkok Post Business] Nestlé allocates B23bn for new plant\n- [Bangkok Post Business] SEC expands self-reporting probe\n- [Bangkok Post Business] Foreign funds fuel SET rally on global rotation\n- [Bangkok Post Business] Court upholds B400-billion borrowing decree",
   "stats": {
-    "fx_news_count": 4,
-    "synnex_news_count": 20,
+    "fx_news_count": 5,
+    "synnex_news_count": 21,
     "data_sources": [
       "Google News EN",
       "Google News TH",
