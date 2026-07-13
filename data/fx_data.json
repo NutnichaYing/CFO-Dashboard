@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-13 19:43:45 BKK",
+  "last_updated": "2026-07-14 01:11:53 BKK",
   "rate": {
-    "date": "2026-07-13",
+    "date": "2026-07-14",
     "buying": 0,
     "selling": 0,
     "mid": 0,
@@ -218,13 +218,13 @@
       "priority": 6
     }
   ],
-  "claude_prompt": "CFO FX Brief 13/07/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Mastercard explores sale of UK payments subsidiary Vocalink, FT reports",
+  "claude_prompt": "CFO FX Brief 14/07/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Mastercard explores sale of UK payments subsidiary Vocalink, FT reports",
   "stats": {
     "fx_news_count": 1,
     "synnex_news_count": 20,
     "data_sources": [
-      "Google News EN",
       "Bangkok Post Business",
+      "Google News EN",
       "Google News TH"
     ]
   }
