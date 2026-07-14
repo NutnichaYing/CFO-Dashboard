@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14 17:23:38 BKK",
+  "last_updated": "2026-07-14 23:02:35 BKK",
   "rate": {
     "date": "2026-07-14",
     "buying": 0,
@@ -63,16 +63,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNX1RObGJXQV8tMENLYkdFc3hlNjh4aFlZRVZrNEEzel9UVGJSVWhSV3hWcVlvOGctNFNWRHRjemZscmxZLTNDa25zSzNkUk9ZM2c0WV9hSy14RjY2OXB1U0MwV2pJNnR5bjVEakI0bzhwaHZUaDJyRjFTQ1I1S0xoV1kwMFR5M1k?oc=5\" target=\"_blank\">SYNNEX Clearance Fair 2022 มาแล้ว!!! 18-19 พ",
       "date": "Wed, 16 Nov 2022 08:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX1RObGJXQV8tMENLYkdFc3hlNjh4aFlZRVZrNEEzel9UVGJSVWhSV3hWcVlvOGctNFNWRHRjemZscmxZLTNDa25zSzNkUk9ZM2c0WV9hSy14RjY2OXB1U0MwV2pJNnR5bjVEakI0bzhwaHZUaDJyRjFTQ1I1S0xoV1kwMFR5M1k?oc=5",
-      "source": "Google News TH",
-      "category": "general",
-      "trusted": false,
-      "priority": 5
-    },
-    {
-      "title": "SYNEX เปิด `Nintendo Authorized Store by SYNNEX` แห่งแรกในอาเซียน หวังยอดขายปีหน้า 1,000 ลบ. - efinanceThai",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPbkxqMzdwUFpkWkJGdEU4N3k0NFF2b3pKZHlqaGJfalllQy1rcnZXRUpuT2xWZjFEVG5lSy1OYldxWGZUd3dEZloyOHQzR3dPVUtMOEQ4eWtSNFJhZkRlZk5udWJBYVVuXzdxZjZqVDVTblItb1ZzSHI5Qnk5bU5rWTYwajN4QUk?oc=5\" target=\"_blank\">SYNEX เปิด `Nintendo Authorized Store by SYN",
-      "date": "Fri, 13 Jun 2025 00:05:17 GMT",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbkxqMzdwUFpkWkJGdEU4N3k0NFF2b3pKZHlqaGJfalllQy1rcnZXRUpuT2xWZjFEVG5lSy1OYldxWGZUd3dEZloyOHQzR3dPVUtMOEQ4eWtSNFJhZkRlZk5udWJBYVVuXzdxZjZqVDVTblItb1ZzSHI5Qnk5bU5rWTYwajN4QUk?oc=5",
       "source": "Google News TH",
       "category": "general",
       "trusted": false,
@@ -242,11 +232,11 @@
   "claude_prompt": "CFO FX Brief 14/07/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Agency pursues growth through niche tourism\n- [Bangkok Post Business] Bourse rally poised to build momentum\n- [Bangkok Post Business] Local e-marketplace players enter fray\n- [Bangkok Post Business] Power bills set to rise in final four months",
   "stats": {
     "fx_news_count": 4,
-    "synnex_news_count": 20,
+    "synnex_news_count": 19,
     "data_sources": [
-      "Google News EN",
+      "Bangkok Post Business",
       "Google News TH",
-      "Bangkok Post Business"
+      "Google News EN"
     ]
   }
 }
