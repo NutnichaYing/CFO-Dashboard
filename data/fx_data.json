@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14 01:11:53 BKK",
+  "last_updated": "2026-07-14 14:24:22 BKK",
   "rate": {
     "date": "2026-07-14",
     "buying": 0,
@@ -9,24 +9,42 @@
   },
   "news": [
     {
-      "title": "Mastercard explores sale of UK payments subsidiary Vocalink, FT reports",
-      "description": "LONDON - ​Mastercard is exploring the sale of a majority ​stake in its UK &zwnj;payments subsidiary Vocalink back to British banks as it responds to concerns about a critical asset being under US owne",
-      "date": "Mon, 13 Jul 2026 12:03:00 +0700",
-      "link": "https://www.bangkokpost.com/business/general/3285257/mastercard-explores-sale-of-uk-payments-subsidiary-vocalink-ft-reports",
+      "title": "Agency pursues growth through niche tourism",
+      "description": "Thailand is aiming for 2.76&ndash;2.9 trillion baht in tourism revenue from both international and domestic markets in 2027, focusing on boosting high-spending and niche segments, according to the Tou",
+      "date": "Tue, 14 Jul 2026 08:06:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3285645/agency-pursues-growth-through-niche-tourism",
+      "source": "Bangkok Post Business"
+    },
+    {
+      "title": "Bourse rally poised to build momentum",
+      "description": "The Thai bourse is poised for another rally, with leading strategists expecting the Stock Exchange of Thailand (SET) index to surpass 1,700 points this year as improving corporate earnings, stronger e",
+      "date": "Tue, 14 Jul 2026 07:05:00 +0700",
+      "link": "https://www.bangkokpost.com/business/investment/3285640/bourse-rally-poised-to-build-momentum",
+      "source": "Bangkok Post Business"
+    },
+    {
+      "title": "Local e-marketplace players enter fray",
+      "description": "A wave of new local e-marketplaces is emerging as new alternatives to the three dominant foreign players, which have combined revenue of around 172 billion baht.",
+      "date": "Tue, 14 Jul 2026 06:44:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3285660/local-emarketplace-players-enter-fray",
+      "source": "Bangkok Post Business"
+    },
+    {
+      "title": "Power bills set to rise in final four months",
+      "description": "Households and businesses are bracing for higher electricity bills in the final four months of this year as the Energy Regulatory Commission (ERC) has announced a sharp increase in the fuel tariff (Ft",
+      "date": "Tue, 14 Jul 2026 05:39:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3285575/power-bills-set-to-rise-in-final-four-months",
+      "source": "Bangkok Post Business"
+    },
+    {
+      "title": "L'Oreal bets big on 'skinification' in Thailand",
+      "description": "French beauty giant L'Oreal is betting on the \"skinification\" transformation trend to crown Thailand's professional haircare market, which is valued at up to 3.5 billion baht annually.",
+      "date": "Tue, 14 Jul 2026 04:43:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3285675/loreal-bets-big-on-skinification-in-thailand",
       "source": "Bangkok Post Business"
     }
   ],
   "synnex_news": [
-    {
-      "title": "สุธิดา มงคลสุธี ไม่ใช่แค่เพียงลูกสาวท่านประธานแต่เป็นแม่ทัพหญิงแกร่งของ SYNNEX ผู้ปั้นยอดขายไอทีกว่า 40,000 ล้าน - Marketeer Online",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tQjRmVkRWUFlKWmV2TzFOZVEyS2NsaHF1VjNjeVFiZEJLQWtzZDVPa1NzRGE5VUpJc3F3NmtUamdMUzZUNE5nY20yTlAtc29SeGFmcA?oc=5\" target=\"_blank\">สุธิดา มงคลสุธี ไม่ใช่แค่เพียงลูกสาวท่านประธานแต่เป็นแม่ทัพหญิงแกร่งของ SYNNEX ผู้ปั้นยอดขายไอทีกว่า 40,000 ล้าน<",
-      "date": "Wed, 01 Jul 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tQjRmVkRWUFlKWmV2TzFOZVEyS2NsaHF1VjNjeVFiZEJLQWtzZDVPa1NzRGE5VUpJc3F3NmtUamdMUzZUNE5nY20yTlAtc29SeGFmcA?oc=5",
-      "source": "Google News TH",
-      "category": "general",
-      "trusted": false,
-      "priority": 5
-    },
     {
       "title": "SYNNEX ร่วมยกระดับงานเกมนานาชาติ “gamescom asia x Thailand Game Show” โชว์ศักยภาพ No.1 Gaming Distributor หนุนวงการเกมไทยสู่เวทีโลก - มิติหุ้น",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9HbXA5M01mMGI1ZnlmTklHOU9VaWw3bm5TT1B0cUNkRnR6VUFYbms3dFkwelVhQUtpeFZINmd3dG9Sbno2aUhwU1lyZHhXekQwMkxCdllR?oc=5\" target=\"_blank\">SYNNEX ร่วมยกระดับงานเกมนานาชาติ “gamescom asia x Thailand Game Show” โชว์ศักยภาพ No.1 Gaming Distributor หนุนว",
@@ -58,6 +76,16 @@
       "priority": 5
     },
     {
+      "title": "SYNNEX ปิดดีลพันธมิตร Cybertron เข้าถือหุ้น 25% รุกธุรกิจไซเบอร์ซีเคียวริตี้ครบวงจร - Techsauce",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPTldGZXp3QUthY0pGdC1Kb2V1cFF3ekpiaFI5S1BqNEZkOEYtTWs3a0tPQW5RcDlNbXFNLUExd3FsamhYcFpWVVdFYzNQejd5N0NfR1dGOUp0MUE4eUxLSzVWODFIM3JtejVNQjM4ZDRfLTdkS2tHZVdBVjFmbUpDMw?oc=5\" target=\"_blank\">SYNNEX ปิดดีลพันธมิตร Cybertron เข้าถือหุ้น 25% รุกธุ",
+      "date": "Mon, 22 Aug 2022 11:01:17 GMT",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTldGZXp3QUthY0pGdC1Kb2V1cFF3ekpiaFI5S1BqNEZkOEYtTWs3a0tPQW5RcDlNbXFNLUExd3FsamhYcFpWVVdFYzNQejd5N0NfR1dGOUp0MUE4eUxLSzVWODFIM3JtejVNQjM4ZDRfLTdkS2tHZVdBVjFmbUpDMw?oc=5",
+      "source": "Google News TH",
+      "category": "general",
+      "trusted": false,
+      "priority": 5
+    },
+    {
       "title": "SYNEX เปิด `Nintendo Authorized Store by SYNNEX` แห่งแรกในอาเซียน หวังยอดขายปีหน้า 1,000 ลบ. - efinanceThai",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPbkxqMzdwUFpkWkJGdEU4N3k0NFF2b3pKZHlqaGJfalllQy1rcnZXRUpuT2xWZjFEVG5lSy1OYldxWGZUd3dEZloyOHQzR3dPVUtMOEQ4eWtSNFJhZkRlZk5udWJBYVVuXzdxZjZqVDVTblItb1ZzSHI5Qnk5bU5rWTYwajN4QUk?oc=5\" target=\"_blank\">SYNEX เปิด `Nintendo Authorized Store by SYN",
       "date": "Fri, 13 Jun 2025 00:05:17 GMT",
@@ -68,10 +96,10 @@
       "priority": 5
     },
     {
-      "title": "SYNNEX ปิดดีลพันธมิตร Cybertron เข้าถือหุ้น 25% รุกธุรกิจไซเบอร์ซีเคียวริตี้ครบวงจร - Techsauce",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPTldGZXp3QUthY0pGdC1Kb2V1cFF3ekpiaFI5S1BqNEZkOEYtTWs3a0tPQW5RcDlNbXFNLUExd3FsamhYcFpWVVdFYzNQejd5N0NfR1dGOUp0MUE4eUxLSzVWODFIM3JtejVNQjM4ZDRfLTdkS2tHZVdBVjFmbUpDMw?oc=5\" target=\"_blank\">SYNNEX ปิดดีลพันธมิตร Cybertron เข้าถือหุ้น 25% รุกธุ",
-      "date": "Mon, 22 Aug 2022 11:01:17 GMT",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTldGZXp3QUthY0pGdC1Kb2V1cFF3ekpiaFI5S1BqNEZkOEYtTWs3a0tPQW5RcDlNbXFNLUExd3FsamhYcFpWVVdFYzNQejd5N0NfR1dGOUp0MUE4eUxLSzVWODFIM3JtejVNQjM4ZDRfLTdkS2tHZVdBVjFmbUpDMw?oc=5",
+      "title": "สุธิดา มงคลสุธี ไม่ใช่แค่เพียงลูกสาวท่านประธานแต่เป็นแม่ทัพหญิงแกร่งของ SYNNEX ผู้ปั้นยอดขายไอทีกว่า 40,000 ล้าน - Marketeer Online",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tQjRmVkRWUFlKWmV2TzFOZVEyS2NsaHF1VjNjeVFiZEJLQWtzZDVPa1NzRGE5VUpJc3F3NmtUamdMUzZUNE5nY20yTlAtc29SeGFmcA?oc=5\" target=\"_blank\">สุธิดา มงคลสุธี ไม่ใช่แค่เพียงลูกสาวท่านประธานแต่เป็นแม่ทัพหญิงแกร่งของ SYNNEX ผู้ปั้นยอดขายไอทีกว่า 40,000 ล้าน<",
+      "date": "Mon, 07 Nov 2022 08:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tQjRmVkRWUFlKWmV2TzFOZVEyS2NsaHF1VjNjeVFiZEJLQWtzZDVPa1NzRGE5VUpJc3F3NmtUamdMUzZUNE5nY20yTlAtc29SeGFmcA?oc=5",
       "source": "Google News TH",
       "category": "general",
       "trusted": false,
@@ -118,10 +146,10 @@
       "priority": 5
     },
     {
-      "title": "ซินเน็คขนทัพสินค้า “Trusted By Synnex” จากแบรนด์ไอทีชั้นนำ บุกงาน TME 2024 ย้ำความแข็งแกร่งนัมเบอร์วันไอทีดิสทริบิวเตอร์ - Thaimobilecenter",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5jRjdLZWsxdUVhdWtYZDFuM0xFRFFlV1FXM3pTalBLOWpsSDc4V09EWEZwT0NUZV9QYm1vMVA0aUtoXy1WQXlRRUNpU0dpTlNTbEVGN1BQUFVfZ1c5LU9QVDBodk56dUdpTVNXVkl0Yw?oc=5\" target=\"_blank\">ซินเน็คขนทัพสินค้า “Trusted By Synnex” จากแบรนด์ไอทีชั้นนำ บุกงาน TME 2024 ย้",
-      "date": "Sat, 10 Feb 2024 08:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jRjdLZWsxdUVhdWtYZDFuM0xFRFFlV1FXM3pTalBLOWpsSDc4V09EWEZwT0NUZV9QYm1vMVA0aUtoXy1WQXlRRUNpU0dpTlNTbEVGN1BQUFVfZ1c5LU9QVDBodk56dUdpTVNXVkl0Yw?oc=5",
+      "title": "SYNNEX จับมือ HONOR เปิดเกมบุกตลาดสมาร์ทดีไวซ์ในไทย - Thaimobilecenter",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1oZWVRTkczeDdPQlpGRWNMRzR2aVMyOEYwZUIzTHpwYXMyRW1OQU9PZ2VwUHJweFExUW5JU2tQSmJObE11Y2pBc2xZVUxuRWV3YlRiM2NJcjJ2VGJtUVduV3dGQzBRTEFJYXU1QjBqcGM1WmpmSmEyRQ?oc=5\" target=\"_blank\">SYNNEX จับมือ HONOR เปิดเกมบุกตลาดสมาร์ทดีไวซ์ในไทย</a>&nbsp;&nbs",
+      "date": "Fri, 24 Jun 2022 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oZWVRTkczeDdPQlpGRWNMRzR2aVMyOEYwZUIzTHpwYXMyRW1OQU9PZ2VwUHJweFExUW5JU2tQSmJObE11Y2pBc2xZVUxuRWV3YlRiM2NJcjJ2VGJtUVduV3dGQzBRTEFJYXU1QjBqcGM1WmpmSmEyRQ?oc=5",
       "source": "Google News TH",
       "category": "general",
       "trusted": false,
@@ -148,20 +176,20 @@
       "priority": 5
     },
     {
-      "title": "Nintendo Switch by Synnex ร่วมงาน Thailand Mobile Expo 2023 มหกรรมมือถือสุดยิ่งใหญ่แห่งปี - Thaimobilecenter",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQb2Q1a3dmeHc5enp1cjN3RGc5VmxBMDEyeFR0S1ZONHBSODNJZ3RNOXdGalc5X216Ui1OdHZFb0JjVE9OcGc3dm9DZVZ5aFdhS3pJOEJpTHNQRFZKOUo0TE1DU1d3bXN2MUVyd2hNaGZ5cXR2aWJjRzZhQTFkMGdxbQ?oc=5\" target=\"_blank\">Nintendo Switch by Synnex ร่วมงาน Thailand Mobile Exp",
-      "date": "Fri, 27 Oct 2023 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQb2Q1a3dmeHc5enp1cjN3RGc5VmxBMDEyeFR0S1ZONHBSODNJZ3RNOXdGalc5X216Ui1OdHZFb0JjVE9OcGc3dm9DZVZ5aFdhS3pJOEJpTHNQRFZKOUo0TE1DU1d3bXN2MUVyd2hNaGZ5cXR2aWJjRzZhQTFkMGdxbQ?oc=5",
+      "title": "ซินเน็คขนทัพสินค้า “Trusted By Synnex” จากแบรนด์ไอทีชั้นนำ บุกงาน TME 2024 ย้ำความแข็งแกร่งนัมเบอร์วันไอทีดิสทริบิวเตอร์ - Thaimobilecenter",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5jRjdLZWsxdUVhdWtYZDFuM0xFRFFlV1FXM3pTalBLOWpsSDc4V09EWEZwT0NUZV9QYm1vMVA0aUtoXy1WQXlRRUNpU0dpTlNTbEVGN1BQUFVfZ1c5LU9QVDBodk56dUdpTVNXVkl0Yw?oc=5\" target=\"_blank\">ซินเน็คขนทัพสินค้า “Trusted By Synnex” จากแบรนด์ไอทีชั้นนำ บุกงาน TME 2024 ย้",
+      "date": "Sat, 10 Feb 2024 08:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jRjdLZWsxdUVhdWtYZDFuM0xFRFFlV1FXM3pTalBLOWpsSDc4V09EWEZwT0NUZV9QYm1vMVA0aUtoXy1WQXlRRUNpU0dpTlNTbEVGN1BQUFVfZ1c5LU9QVDBodk56dUdpTVNXVkl0Yw?oc=5",
       "source": "Google News TH",
       "category": "general",
       "trusted": false,
       "priority": 5
     },
     {
-      "title": "SYNNEX จับมือ HONOR เปิดเกมบุกตลาดสมาร์ทดีไวซ์ในไทย - Thaimobilecenter",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1oZWVRTkczeDdPQlpGRWNMRzR2aVMyOEYwZUIzTHpwYXMyRW1OQU9PZ2VwUHJweFExUW5JU2tQSmJObE11Y2pBc2xZVUxuRWV3YlRiM2NJcjJ2VGJtUVduV3dGQzBRTEFJYXU1QjBqcGM1WmpmSmEyRQ?oc=5\" target=\"_blank\">SYNNEX จับมือ HONOR เปิดเกมบุกตลาดสมาร์ทดีไวซ์ในไทย</a>&nbsp;&nbs",
-      "date": "Fri, 24 Jun 2022 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oZWVRTkczeDdPQlpGRWNMRzR2aVMyOEYwZUIzTHpwYXMyRW1OQU9PZ2VwUHJweFExUW5JU2tQSmJObE11Y2pBc2xZVUxuRWV3YlRiM2NJcjJ2VGJtUVduV3dGQzBRTEFJYXU1QjBqcGM1WmpmSmEyRQ?oc=5",
+      "title": "Nintendo Switch by Synnex ร่วมงาน Thailand Mobile Expo 2023 มหกรรมมือถือสุดยิ่งใหญ่แห่งปี - Thaimobilecenter",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQb2Q1a3dmeHc5enp1cjN3RGc5VmxBMDEyeFR0S1ZONHBSODNJZ3RNOXdGalc5X216Ui1OdHZFb0JjVE9OcGc3dm9DZVZ5aFdhS3pJOEJpTHNQRFZKOUo0TE1DU1d3bXN2MUVyd2hNaGZ5cXR2aWJjRzZhQTFkMGdxbQ?oc=5\" target=\"_blank\">Nintendo Switch by Synnex ร่วมงาน Thailand Mobile Exp",
+      "date": "Fri, 27 Oct 2023 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQb2Q1a3dmeHc5enp1cjN3RGc5VmxBMDEyeFR0S1ZONHBSODNJZ3RNOXdGalc5X216Ui1OdHZFb0JjVE9OcGc3dm9DZVZ5aFdhS3pJOEJpTHNQRFZKOUo0TE1DU1d3bXN2MUVyd2hNaGZ5cXR2aWJjRzZhQTFkMGdxbQ?oc=5",
       "source": "Google News TH",
       "category": "general",
       "trusted": false,
@@ -218,14 +246,14 @@
       "priority": 6
     }
   ],
-  "claude_prompt": "CFO FX Brief 14/07/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Mastercard explores sale of UK payments subsidiary Vocalink, FT reports",
+  "claude_prompt": "CFO FX Brief 14/07/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Agency pursues growth through niche tourism\n- [Bangkok Post Business] Bourse rally poised to build momentum\n- [Bangkok Post Business] Local e-marketplace players enter fray\n- [Bangkok Post Business] Power bills set to rise in final four months\n- [Bangkok Post Business] L'Oreal bets big on 'skinification' in Thailand",
   "stats": {
-    "fx_news_count": 1,
+    "fx_news_count": 5,
     "synnex_news_count": 20,
     "data_sources": [
+      "Google News TH",
       "Bangkok Post Business",
-      "Google News EN",
-      "Google News TH"
+      "Google News EN"
     ]
   }
 }
