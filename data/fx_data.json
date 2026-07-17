@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-16 23:02:37 BKK",
+  "last_updated": "2026-07-17 14:34:43 BKK",
   "rate": {
-    "date": "2026-07-16",
+    "date": "2026-07-17",
     "buying": 0,
     "selling": 0,
     "mid": 0,
@@ -9,17 +9,38 @@
   },
   "news": [
     {
-      "title": "Three tourism stimulus schemes await approval",
-      "description": "The Ministry of Tourism and Sports is planning to propose three tourism stimulus projects worth 2.45 billion baht, aiming to generate 56 billion baht in economic value through a domestic travel co-pay",
-      "date": "Thu, 16 Jul 2026 05:38:00 +0700",
-      "link": "https://www.bangkokpost.com/business/general/3286619/three-tourism-stimulus-schemes-await-approval",
+      "title": "Gold prices face turbulence  as oil, Fed risks increase",
+      "description": "Renewed hostility between the US and Iran could cause global gold prices to plunge to US$3,600-3,800 an ounce, or 60,000 baht per baht-weight for domestic gold bar, especially if oil prices rise to $9",
+      "date": "Fri, 17 Jul 2026 06:15:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3287049/gold-prices-face-turbulence-as-oil-fed-risks-increase",
       "source": "Bangkok Post Business"
     },
     {
-      "title": "Royal Orchid Hotel vows it will buy back riverside Bangkok hotel",
-      "description": "Royal Orchid Hotel (Thailand) (ROH) has reaffirmed its commitment to repurchase the five-star Royal Orchid Sheraton Riverside Hotel Bangkok for 4.87 billion baht, arguing that the payment instructions",
-      "date": "Thu, 16 Jul 2026 04:18:00 +0700",
-      "link": "https://www.bangkokpost.com/business/general/3286649/royal-orchid-hotel-vows-it-will-buy-back-riverside-bangkok-hotel",
+      "title": "Cloud 11 project targets creative hub status in Bangkok",
+      "description": "Magnolia Quality Development Corporation Ltd launched \"Cloud 11\" on Thursday, a landmark project in Bangkok with an investment of over 20 billion baht, aiming for this facility to become the centre fo",
+      "date": "Fri, 17 Jul 2026 06:05:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3287149/cloud-11-project-targets-creative-hub-status-in-bangkok",
+      "source": "Bangkok Post Business"
+    },
+    {
+      "title": "Government bonds worth B4bn on sale",
+      "description": "Government retail bonds dubbed \"Aom Plus\" (Savings Plus) worth 4 billion baht go on sale at the end of this month, designed to encourage more working-age people to save.",
+      "date": "Fri, 17 Jul 2026 05:30:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3287084/government-bonds-worth-b4bn-on-sale",
+      "source": "Bangkok Post Business"
+    },
+    {
+      "title": "ONEAM moves to sell disputed hotel",
+      "description": "One Asset Management (ONEAM), the manager of Grand Royal Orchid Hospitality Real Estate Investment Trust (GROREIT), has begun legal procedures after Royal Orchid Hotel (Thailand) (ROH) failed to repur",
+      "date": "Fri, 17 Jul 2026 04:44:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3286984/oneam-moves-to-sell-disputed-hotel",
+      "source": "Bangkok Post Business"
+    },
+    {
+      "title": "Business closures rise by 12.5% in first half",
+      "description": "A total of 7,024 businesses ceased operations in the first half of this year, up 12.5% year-on-year, with total registered capital of 98.9 billion baht, an increase of 224%, according to the Departmen",
+      "date": "Fri, 17 Jul 2026 01:01:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3287014/business-closures-rise-by-125-in-first-half",
       "source": "Bangkok Post Business"
     }
   ],
@@ -215,14 +236,14 @@
       "priority": 6
     }
   ],
-  "claude_prompt": "CFO FX Brief 16/07/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Three tourism stimulus schemes await approval\n- [Bangkok Post Business] Royal Orchid Hotel vows it will buy back riverside Bangkok hotel",
+  "claude_prompt": "CFO FX Brief 17/07/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Gold prices face turbulence  as oil, Fed risks increase\n- [Bangkok Post Business] Cloud 11 project targets creative hub status in Bangkok\n- [Bangkok Post Business] Government bonds worth B4bn on sale\n- [Bangkok Post Business] ONEAM moves to sell disputed hotel\n- [Bangkok Post Business] Business closures rise by 12.5% in first half",
   "stats": {
-    "fx_news_count": 2,
+    "fx_news_count": 5,
     "synnex_news_count": 19,
     "data_sources": [
-      "Google News TH",
       "Google News EN",
-      "Bangkok Post Business"
+      "Bangkok Post Business",
+      "Google News TH"
     ]
   }
 }
