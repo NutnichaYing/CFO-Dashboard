@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-17 14:34:43 BKK",
+  "last_updated": "2026-07-17 16:30:32 BKK",
   "rate": {
     "date": "2026-07-17",
     "buying": 0,
@@ -197,9 +197,9 @@
     },
     {
       "title": "HUAWEI eKit Joins Hands with Distribution Partners to Explore Unlimited Opportunities in Thailand SME market - Huawei Enterprise",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQSjdLTXRXZ21rdlBCeE41emtTeTN5YmtsTlFYT2h4aWxaUUQ0RjRqcHgyLTNFcnZVQzRKdThLdDZMNVpqMTgtNV96S0ZkMEFsVGFvM2RmQUtqRUdVaDdXZ3RXNlZNc0k4dzVpbmxURGhjLUlGYWVSaFJxbUwxckUtNmdVQQ?oc=5\" target=\"_blank\">HUAWEI eKit Joins Hands with Distribution Partner",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNRXk2QjdBSS11U295SlA4UEtUY0ZHMUV4SDhZNWRlNUdMMUhuMVo1b2k0QnhmTXhYUE1xWGoxQ0Iza01lRUdiMmtRbjUycU12MVkwMEJRRWdXZ3B4ZVFjV0dQd1FzWEUyWTZodGhrMEZKS3BEbThrS3BBRnRrMlV4T05OTQ?oc=5\" target=\"_blank\">HUAWEI eKit Joins Hands with Distribution Partner",
       "date": "Wed, 08 Nov 2023 08:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSjdLTXRXZ21rdlBCeE41emtTeTN5YmtsTlFYT2h4aWxaUUQ0RjRqcHgyLTNFcnZVQzRKdThLdDZMNVpqMTgtNV96S0ZkMEFsVGFvM2RmQUtqRUdVaDdXZ3RXNlZNc0k4dzVpbmxURGhjLUlGYWVSaFJxbUwxckUtNmdVQQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRXk2QjdBSS11U295SlA4UEtUY0ZHMUV4SDhZNWRlNUdMMUhuMVo1b2k0QnhmTXhYUE1xWGoxQ0Iza01lRUdiMmtRbjUycU12MVkwMEJRRWdXZ3B4ZVFjV0dQd1FzWEUyWTZodGhrMEZKS3BEbThrS3BBRnRrMlV4T05OTQ?oc=5",
       "source": "Google News EN",
       "category": "general",
       "trusted": false,
@@ -241,8 +241,8 @@
     "fx_news_count": 5,
     "synnex_news_count": 19,
     "data_sources": [
-      "Google News EN",
       "Bangkok Post Business",
+      "Google News EN",
       "Google News TH"
     ]
   }
