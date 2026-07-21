@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-20 23:17:26 BKK",
+  "last_updated": "2026-07-21 16:33:22 BKK",
   "rate": {
-    "date": "2026-07-20",
+    "date": "2026-07-21",
     "buying": 0,
     "selling": 0,
     "mid": 0,
@@ -9,10 +9,17 @@
   },
   "news": [
     {
-      "title": "Ministry taps public-private projects to ease fiscal strain",
-      "description": "The Finance Ministry is fast-tracking public-private partnership (PPP) projects, with total PPP investment expected to exceed 130 billion baht over the next three years.",
-      "date": "Mon, 20 Jul 2026 05:16:00 +0700",
-      "link": "https://www.bangkokpost.com/business/general/3288629/ministry-taps-publicprivate-projects-to-ease-fiscal-strain",
+      "title": "Chinese partnerships set to attract more tourists to Thailand",
+      "description": "New partnerships with seven large corporations in China are expected to help Thailand attract a new, younger customer segment and generate total revenue of nearly 300 billion baht, despite limited fli",
+      "date": "Tue, 21 Jul 2026 05:58:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3289144/chinese-partnerships-set-to-attract-more-tourists-to-thailand",
+      "source": "Bangkok Post Business"
+    },
+    {
+      "title": "Baht set to decline again amid Mideast war",
+      "description": "The baht is expected to continue weakening against the US dollar this week after falling to a nearly 15-month low, driven by renewed tensions in the Middle East.",
+      "date": "Tue, 21 Jul 2026 04:31:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3289139/baht-set-to-decline-again-amid-mideast-war",
       "source": "Bangkok Post Business"
     }
   ],
@@ -138,16 +145,6 @@
       "priority": 5
     },
     {
-      "title": "SYNEX คือผู้รับเคราะห์จากการแบน HUAWEI - ลงทุนศาสตร์ - Investerest",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBaempLaGlxVGNfOXY1RWR6X3Z5WEZEMzdMZHU5bHV6Q1FkXzZRNGJGcktOQTZjTTBiX1VKdm5jOHRxR196ZjBJbUVxMlV6OGg0VU5CZ2lNQWRhNnRwOVNnTkl6TFBCdVFQMHN6dS1NV0s?oc=5\" target=\"_blank\">SYNEX คือผู้รับเคราะห์จากการแบน HUAWEI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">",
-      "date": "Wed, 22 May 2019 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBaempLaGlxVGNfOXY1RWR6X3Z5WEZEMzdMZHU5bHV6Q1FkXzZRNGJGcktOQTZjTTBiX1VKdm5jOHRxR196ZjBJbUVxMlV6OGg0VU5CZ2lNQWRhNnRwOVNnTkl6TFBCdVFQMHN6dS1NV0s?oc=5",
-      "source": "Google News TH",
-      "category": "general",
-      "trusted": false,
-      "priority": 5
-    },
-    {
       "title": "ซินเน็คขนทัพสินค้า “Trusted By Synnex” จากแบรนด์ไอทีชั้นนำ บุกงาน TME 2024 ย้ำความแข็งแกร่งนัมเบอร์วันไอทีดิสทริบิวเตอร์ - Thaimobilecenter",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5jRjdLZWsxdUVhdWtYZDFuM0xFRFFlV1FXM3pTalBLOWpsSDc4V09EWEZwT0NUZV9QYm1vMVA0aUtoXy1WQXlRRUNpU0dpTlNTbEVGN1BQUFVfZ1c5LU9QVDBodk56dUdpTVNXVkl0Yw?oc=5\" target=\"_blank\">ซินเน็คขนทัพสินค้า “Trusted By Synnex” จากแบรนด์ไอทีชั้นนำ บุกงาน TME 2024 ย้",
       "date": "Sat, 10 Feb 2024 08:00:00 GMT",
@@ -168,10 +165,20 @@
       "priority": 5
     },
     {
+      "title": "SYNEX เปิดเกม AI ตั้งเป้ารายได้ 5.3 หมื่นล. - HoonVision | หุ้นวิชั่น - หุ้น ข่าวหุ้น หุ้นไทยวันนี้ หุ้นวันนี้ หุ้นเด่น วิเคราะห์หุ้น ธุรกิจ การเงิน เศรษฐกิจ การลงทุน ดัชนีราคาหุ้น - HoonVision",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi1gJBVV95cUxOZGpBRktOS3J2ZVY5TVRhR3hJYXRVMDJRLXpGM2JFZTJIVnFvc3pnSHRzeWFuS2dWM3NzNVV6MnFlUXVKNzhzXzhRRnhRb2x2UjczbllZb1N3TEZlMEh5YU05U244ZlpZR1lGdmZDYWM2V0s4TThzak9meUpFdUJfay1SQTBscklSenlTSmNLeGpKc1pUeXVwbXNqSHktaUpuVmtoOVE1bVNDQmtXQUY2N054aHlQejVDa3",
+      "date": "Thu, 15 Jan 2026 08:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxOZGpBRktOS3J2ZVY5TVRhR3hJYXRVMDJRLXpGM2JFZTJIVnFvc3pnSHRzeWFuS2dWM3NzNVV6MnFlUXVKNzhzXzhRRnhRb2x2UjczbllZb1N3TEZlMEh5YU05U244ZlpZR1lGdmZDYWM2V0s4TThzak9meUpFdUJfay1SQTBscklSenlTSmNLeGpKc1pUeXVwbXNqSHktaUpuVmtoOVE1bVNDQmtXQUY2N054aHlQejVDa3pJbjNHb0NhNVlfNThiRjlSbmMxclBCRFNpTWlLNXBsY2tpeGhoZGhDT09TM2o0NWRJb213M0tHOUtSTmpWZk5selhiWEV2d0ZaYWZSRFBWdXA5eHVleFozNS1zT0hvM0FSYTJ1amxjNlBXSE15c09pdm1jdVRXUFpmdUlGcXRxNUYzb0MtVXB2VVA1RmxLRTl5Uy1fcFVqSU92YWc?oc=5",
+      "source": "Google News TH",
+      "category": "general",
+      "trusted": false,
+      "priority": 5
+    },
+    {
       "title": "HUAWEI eKit Joins Hands with Distribution Partners to Explore Unlimited Opportunities in Thailand SME market - Huawei Enterprise",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNRXk2QjdBSS11U295SlA4UEtUY0ZHMUV4SDhZNWRlNUdMMUhuMVo1b2k0QnhmTXhYUE1xWGoxQ0Iza01lRUdiMmtRbjUycU12MVkwMEJRRWdXZ3B4ZVFjV0dQd1FzWEUyWTZodGhrMEZKS3BEbThrS3BBRnRrMlV4T05OTQ?oc=5\" target=\"_blank\">HUAWEI eKit Joins Hands with Distribution Partner",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQUExVWWNHMzNQeVNJMjMwWkVoMHkwdWtsTjVPOEpNaVptRTZMY3VnVVNYeWdjdnFJRGNrUk9BNTNOOWczOUhRcTVSM21DRU9uMW9nT1A5LU55aWVHRG5ScnI4aXBBY2xCaXAzZDc4ZnVIb0tUT1NwVjYyTWt3aTN5RnByUQ?oc=5\" target=\"_blank\">HUAWEI eKit Joins Hands with Distribution Partner",
       "date": "Wed, 08 Nov 2023 08:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRXk2QjdBSS11U295SlA4UEtUY0ZHMUV4SDhZNWRlNUdMMUhuMVo1b2k0QnhmTXhYUE1xWGoxQ0Iza01lRUdiMmtRbjUycU12MVkwMEJRRWdXZ3B4ZVFjV0dQd1FzWEUyWTZodGhrMEZKS3BEbThrS3BBRnRrMlV4T05OTQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUExVWWNHMzNQeVNJMjMwWkVoMHkwdWtsTjVPOEpNaVptRTZMY3VnVVNYeWdjdnFJRGNrUk9BNTNOOWczOUhRcTVSM21DRU9uMW9nT1A5LU55aWVHRG5ScnI4aXBBY2xCaXAzZDc4ZnVIb0tUT1NwVjYyTWt3aTN5RnByUQ?oc=5",
       "source": "Google News EN",
       "category": "general",
       "trusted": false,
@@ -182,16 +189,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNS2gzQzlvZHFUbXUxY1BpbjZ2enQ0aXdnWGxOZVdVczFJMGVvWUlMNE5uVXZtR1lUZVc1akFMVU1CRDBJb0tXS0stZjZ4VHJRNkZtd1AtUkR6cDZiLVlONzdyUlJiR0Z5X0xDMU0wRXBMZW9fNmk4R0lZRm9LTGw0VV93dXpXN3I2MmJxSFdLa3VIczE4MzNVRE5yWjR2alVrWUFEay1xVFFoWHBhX1c1YllMQ3UySlE?oc",
       "date": "Tue, 17 Nov 2020 08:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNS2gzQzlvZHFUbXUxY1BpbjZ2enQ0aXdnWGxOZVdVczFJMGVvWUlMNE5uVXZtR1lUZVc1akFMVU1CRDBJb0tXS0stZjZ4VHJRNkZtd1AtUkR6cDZiLVlONzdyUlJiR0Z5X0xDMU0wRXBMZW9fNmk4R0lZRm9LTGw0VV93dXpXN3I2MmJxSFdLa3VIczE4MzNVRE5yWjR2alVrWUFEay1xVFFoWHBhX1c1YllMQ3UySlE?oc=5",
-      "source": "Google News EN",
-      "category": "general",
-      "trusted": false,
-      "priority": 6
-    },
-    {
-      "title": "Synnex targets booming cloud market for growth - Bangkok Post",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOVVQ0VXA2bXB0ZTFETTN6VC1sWktUVk1uaHRBVUVTRXhZVHNfSnV6d3lPeGtGV1VQTy1FS3Itb1dRbVduMThBSjVIUVhmVktqWjJJRHBYU3Jka1J3cXNmNmdTb3JVa3JlS1hCVklJcHZwYUNhQlkwOFJ0QXFfcFdXWmNUSGt6a0dENWxBX1ZwNGRaNWphZTJlYThQSDAxbkdm?oc=5\" target=\"_blank\">Synnex targ",
-      "date": "Tue, 25 Mar 2025 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVVQ0VXA2bXB0ZTFETTN6VC1sWktUVk1uaHRBVUVTRXhZVHNfSnV6d3lPeGtGV1VQTy1FS3Itb1dRbVduMThBSjVIUVhmVktqWjJJRHBYU3Jka1J3cXNmNmdTb3JVa3JlS1hCVklJcHZwYUNhQlkwOFJ0QXFfcFdXWmNUSGt6a0dENWxBX1ZwNGRaNWphZTJlYThQSDAxbkdm?oc=5",
       "source": "Google News EN",
       "category": "general",
       "trusted": false,
@@ -228,14 +225,14 @@
       "priority": 6
     }
   ],
-  "claude_prompt": "CFO FX Brief 20/07/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Ministry taps public-private projects to ease fiscal strain",
+  "claude_prompt": "CFO FX Brief 21/07/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Chinese partnerships set to attract more tourists to Thailand\n- [Bangkok Post Business] Baht set to decline again amid Mideast war",
   "stats": {
-    "fx_news_count": 1,
-    "synnex_news_count": 21,
+    "fx_news_count": 2,
+    "synnex_news_count": 20,
     "data_sources": [
-      "Google News TH",
+      "Google News EN",
       "Bangkok Post Business",
-      "Google News EN"
+      "Google News TH"
     ]
   }
 }
