@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-21 23:06:38 BKK",
+  "last_updated": "2026-07-22 16:18:52 BKK",
   "rate": {
-    "date": "2026-07-21",
+    "date": "2026-07-22",
     "buying": 0,
     "selling": 0,
     "mid": 0,
@@ -9,17 +9,17 @@
   },
   "news": [
     {
-      "title": "Chinese partnerships set to attract more tourists to Thailand",
-      "description": "New partnerships with seven large corporations in China are expected to help Thailand attract a new, younger customer segment and generate total revenue of nearly 300 billion baht, despite limited fli",
-      "date": "Tue, 21 Jul 2026 05:58:00 +0700",
-      "link": "https://www.bangkokpost.com/business/general/3289144/chinese-partnerships-set-to-attract-more-tourists-to-thailand",
+      "title": "Digital trend drives Thailand's entertainment growth",
+      "description": "Thailand's entertainment and media sector is projected to generate roughly 550 billion baht in revenue this year, representing growth of 1.8%, driven by digital media segments such as internet adverti",
+      "date": "Wed, 22 Jul 2026 06:07:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3289615/digital-trend-drives-thailands-entertainment-growth",
       "source": "Bangkok Post Business"
     },
     {
-      "title": "Baht set to decline again amid Mideast war",
-      "description": "The baht is expected to continue weakening against the US dollar this week after falling to a nearly 15-month low, driven by renewed tensions in the Middle East.",
-      "date": "Tue, 21 Jul 2026 04:31:00 +0700",
-      "link": "https://www.bangkokpost.com/business/general/3289139/baht-set-to-decline-again-amid-mideast-war",
+      "title": "SCGP maintains revenue target as profits surge",
+      "description": "SCG Packaging Plc (SCGP) has reaffirmed its revenue target of 130 billion baht for 2026, citing strong demand growth in Vietnam and Indonesia as key drivers.",
+      "date": "Wed, 22 Jul 2026 00:04:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3289575/scgp-maintains-revenue-target-as-profits-surge",
       "source": "Bangkok Post Business"
     }
   ],
@@ -225,14 +225,14 @@
       "priority": 6
     }
   ],
-  "claude_prompt": "CFO FX Brief 21/07/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Chinese partnerships set to attract more tourists to Thailand\n- [Bangkok Post Business] Baht set to decline again amid Mideast war",
+  "claude_prompt": "CFO FX Brief 22/07/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Digital trend drives Thailand's entertainment growth\n- [Bangkok Post Business] SCGP maintains revenue target as profits surge",
   "stats": {
     "fx_news_count": 2,
     "synnex_news_count": 20,
     "data_sources": [
-      "Bangkok Post Business",
+      "Google News TH",
       "Google News EN",
-      "Google News TH"
+      "Bangkok Post Business"
     ]
   }
 }
