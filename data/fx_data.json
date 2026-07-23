@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-22 23:08:09 BKK",
+  "last_updated": "2026-07-23 16:15:01 BKK",
   "rate": {
-    "date": "2026-07-22",
+    "date": "2026-07-23",
     "buying": 0,
     "selling": 0,
     "mid": 0,
@@ -9,17 +9,24 @@
   },
   "news": [
     {
-      "title": "Digital trend drives Thailand's entertainment growth",
-      "description": "Thailand's entertainment and media sector is projected to generate roughly 550 billion baht in revenue this year, representing growth of 1.8%, driven by digital media segments such as internet adverti",
-      "date": "Wed, 22 Jul 2026 06:07:00 +0700",
-      "link": "https://www.bangkokpost.com/business/general/3289615/digital-trend-drives-thailands-entertainment-growth",
+      "title": "Government fine-tuning EV promotion plan",
+      "description": "The Thai government is reviewing a 24-billion-baht plan to replace ​up to 80,000 ageing commercial vehicles with EVs and evaluating whether it should &zwnj;be extended to cover passenger electric vehi",
+      "date": "Thu, 23 Jul 2026 15:47:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3290572/government-finetuning-ev-promotion-plan",
       "source": "Bangkok Post Business"
     },
     {
-      "title": "SCGP maintains revenue target as profits surge",
-      "description": "SCG Packaging Plc (SCGP) has reaffirmed its revenue target of 130 billion baht for 2026, citing strong demand growth in Vietnam and Indonesia as key drivers.",
-      "date": "Wed, 22 Jul 2026 00:04:00 +0700",
-      "link": "https://www.bangkokpost.com/business/general/3289575/scgp-maintains-revenue-target-as-profits-surge",
+      "title": "Cash limits for physical gold bar trades proposed",
+      "description": "The Bank of Thailand is seeking public feedback on proposed ​cash payment limits for physical gold ​bar trades &zwnj;at gold shops to improve transparency and oversight of transactions that could affe",
+      "date": "Thu, 23 Jul 2026 11:20:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3290519/cash-limits-for-physical-gold-bar-trades-proposed",
+      "source": "Bangkok Post Business"
+    },
+    {
+      "title": "THAI sees aviation recovery in H2 despite fuel uptick",
+      "description": "The financial results of Thai Airways International (THAI) are expected to bottom out in the second quarter, while recently approved tourism stimulus efforts should help airlines in the second half ev",
+      "date": "Thu, 23 Jul 2026 07:26:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3290362/thai-sees-aviation-recovery-in-h2-despite-fuel-uptick",
       "source": "Bangkok Post Business"
     }
   ],
@@ -225,13 +232,13 @@
       "priority": 6
     }
   ],
-  "claude_prompt": "CFO FX Brief 22/07/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Digital trend drives Thailand's entertainment growth\n- [Bangkok Post Business] SCGP maintains revenue target as profits surge",
+  "claude_prompt": "CFO FX Brief 23/07/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Government fine-tuning EV promotion plan\n- [Bangkok Post Business] Cash limits for physical gold bar trades proposed\n- [Bangkok Post Business] THAI sees aviation recovery in H2 despite fuel uptick",
   "stats": {
-    "fx_news_count": 2,
+    "fx_news_count": 3,
     "synnex_news_count": 20,
     "data_sources": [
-      "Bangkok Post Business",
       "Google News EN",
+      "Bangkok Post Business",
       "Google News TH"
     ]
   }
