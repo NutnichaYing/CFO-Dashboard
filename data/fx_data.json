@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-23 23:15:53 BKK",
+  "last_updated": "2026-07-24 16:11:30 BKK",
   "rate": {
-    "date": "2026-07-23",
+    "date": "2026-07-24",
     "buying": 0,
     "selling": 0,
     "mid": 0,
@@ -9,31 +9,24 @@
   },
   "news": [
     {
-      "title": "SEC files criminal complaint over Bitkub's alleged concealment of B1.7bn hack",
-      "description": "The Securities and Exchange Commission (SEC) has filed a criminal complaint against Bitkub Online Co and two of its former directors, alleging they submitted false information to the regulator to conc",
-      "date": "Thu, 23 Jul 2026 18:59:00 +0700",
-      "link": "https://www.bangkokpost.com/business/general/3290607/sec-files-criminal-complaint-over-bitkubs-alleged-concealment-of-b17bn-hack",
+      "title": "Thailand among countries still on US Treasury's currency monitoring list",
+      "description": "No major ⁠US ⁠trading partner manipulated its currency ​to gain an unfair trade advantage in 2025, the US Treasury ​Department said on Thursday, &zwnj;but 10 leading trading partners, including Thaila",
+      "date": "Fri, 24 Jul 2026 07:17:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3291010/thailand-among-countries-still-on-us-treasurys-currency-monitoring-list",
       "source": "Bangkok Post Business"
     },
     {
-      "title": "Government fine-tuning EV promotion plan",
-      "description": "The Thai government is reviewing a 24-billion-baht plan to replace ​up to 80,000 ageing commercial vehicles with EVs and evaluating whether it should &zwnj;be extended to cover passenger electric vehi",
-      "date": "Thu, 23 Jul 2026 15:47:00 +0700",
-      "link": "https://www.bangkokpost.com/business/general/3290572/government-finetuning-ev-promotion-plan",
+      "title": "Drones unlock new opportunities",
+      "description": "AI and Robots Ventures Co (ARV), a subsidiary of PTT Exploration and Production Plc, says the government should consistently upgrade its regulations on unmanned aerial vehicles to remain up to date wi",
+      "date": "Fri, 24 Jul 2026 06:24:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3290807/drones-unlock-new-opportunities",
       "source": "Bangkok Post Business"
     },
     {
-      "title": "Cash limits for physical gold bar trades proposed",
-      "description": "The Bank of Thailand is seeking public feedback on proposed ​cash payment limits for physical gold ​bar trades &zwnj;at gold shops to improve transparency and oversight of transactions that could affe",
-      "date": "Thu, 23 Jul 2026 11:20:00 +0700",
-      "link": "https://www.bangkokpost.com/business/general/3290519/cash-limits-for-physical-gold-bar-trades-proposed",
-      "source": "Bangkok Post Business"
-    },
-    {
-      "title": "THAI sees aviation recovery in H2 despite fuel uptick",
-      "description": "The financial results of Thai Airways International (THAI) are expected to bottom out in the second quarter, while recently approved tourism stimulus efforts should help airlines in the second half ev",
-      "date": "Thu, 23 Jul 2026 07:26:00 +0700",
-      "link": "https://www.bangkokpost.com/business/general/3290362/thai-sees-aviation-recovery-in-h2-despite-fuel-uptick",
+      "title": "Call for green power to supply businesses",
+      "description": "The Renewable Energy Industry Club under the Federation of Thai Industries has called on the government to allow renewable power producers with expired adder tariffs to sell electricity to businesses,",
+      "date": "Fri, 24 Jul 2026 05:45:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3290787/call-for-green-power-to-supply-businesses",
       "source": "Bangkok Post Business"
     }
   ],
@@ -209,6 +202,16 @@
       "priority": 6
     },
     {
+      "title": "Synnex targets booming cloud market for growth - Bangkok Post",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOVVQ0VXA2bXB0ZTFETTN6VC1sWktUVk1uaHRBVUVTRXhZVHNfSnV6d3lPeGtGV1VQTy1FS3Itb1dRbVduMThBSjVIUVhmVktqWjJJRHBYU3Jka1J3cXNmNmdTb3JVa3JlS1hCVklJcHZwYUNhQlkwOFJ0QXFfcFdXWmNUSGt6a0dENWxBX1ZwNGRaNWphZTJlYThQSDAxbkdm?oc=5\" target=\"_blank\">Synnex targ",
+      "date": "Tue, 25 Mar 2025 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVVQ0VXA2bXB0ZTFETTN6VC1sWktUVk1uaHRBVUVTRXhZVHNfSnV6d3lPeGtGV1VQTy1FS3Itb1dRbVduMThBSjVIUVhmVktqWjJJRHBYU3Jka1J3cXNmNmdTb3JVa3JlS1hCVklJcHZwYUNhQlkwOFJ0QXFfcFdXWmNUSGt6a0dENWxBX1ZwNGRaNWphZTJlYThQSDAxbkdm?oc=5",
+      "source": "Google News EN",
+      "category": "general",
+      "trusted": false,
+      "priority": 6
+    },
+    {
       "title": "Synnex to Launch Thailand’s First Nintendo Official Authorized Store in Bangkok - GamerBraves",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSHpaZWdjWkxicHFhc3VsaFJRMXR3ZHduTkNPUjZvNEp6WjNveFlocGxpMjdULTZpLVFTaFpwS1BCd2M1X3M3Ti1TX255dGZIQldNTkJscEJqZG53T0IzUDFUWW1VNFNHbEpwcjBIekNtUGxudExrYlRDUUVsdks1aWx5RnNfSWVRdHRWNHBOWTZhbVpsallQTGtxd3lkeC05RV9jTWF5Q3BpOFk?oc=5\" target=\"_bla",
       "date": "Wed, 06 Nov 2024 03:42:07 GMT",
@@ -239,13 +242,13 @@
       "priority": 6
     }
   ],
-  "claude_prompt": "CFO FX Brief 23/07/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] SEC files criminal complaint over Bitkub's alleged concealment of B1.7bn hack\n- [Bangkok Post Business] Government fine-tuning EV promotion plan\n- [Bangkok Post Business] Cash limits for physical gold bar trades proposed\n- [Bangkok Post Business] THAI sees aviation recovery in H2 despite fuel uptick",
+  "claude_prompt": "CFO FX Brief 24/07/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Thailand among countries still on US Treasury's currency monitoring list\n- [Bangkok Post Business] Drones unlock new opportunities\n- [Bangkok Post Business] Call for green power to supply businesses",
   "stats": {
-    "fx_news_count": 4,
-    "synnex_news_count": 20,
+    "fx_news_count": 3,
+    "synnex_news_count": 21,
     "data_sources": [
-      "Bangkok Post Business",
       "Google News TH",
+      "Bangkok Post Business",
       "Google News EN"
     ]
   }
