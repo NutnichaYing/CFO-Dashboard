@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-24 17:35:27 BKK",
+  "last_updated": "2026-07-24 18:14:13 BKK",
   "rate": {
     "date": "2026-07-24",
     "buying": 0,
@@ -202,16 +202,6 @@
       "priority": 6
     },
     {
-      "title": "Synnex targets booming cloud market for growth - Bangkok Post",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOVVQ0VXA2bXB0ZTFETTN6VC1sWktUVk1uaHRBVUVTRXhZVHNfSnV6d3lPeGtGV1VQTy1FS3Itb1dRbVduMThBSjVIUVhmVktqWjJJRHBYU3Jka1J3cXNmNmdTb3JVa3JlS1hCVklJcHZwYUNhQlkwOFJ0QXFfcFdXWmNUSGt6a0dENWxBX1ZwNGRaNWphZTJlYThQSDAxbkdm?oc=5\" target=\"_blank\">Synnex targ",
-      "date": "Tue, 25 Mar 2025 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVVQ0VXA2bXB0ZTFETTN6VC1sWktUVk1uaHRBVUVTRXhZVHNfSnV6d3lPeGtGV1VQTy1FS3Itb1dRbVduMThBSjVIUVhmVktqWjJJRHBYU3Jka1J3cXNmNmdTb3JVa3JlS1hCVklJcHZwYUNhQlkwOFJ0QXFfcFdXWmNUSGt6a0dENWxBX1ZwNGRaNWphZTJlYThQSDAxbkdm?oc=5",
-      "source": "Google News EN",
-      "category": "general",
-      "trusted": false,
-      "priority": 6
-    },
-    {
       "title": "Synnex to Launch Thailand’s First Nintendo Official Authorized Store in Bangkok - GamerBraves",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSHpaZWdjWkxicHFhc3VsaFJRMXR3ZHduTkNPUjZvNEp6WjNveFlocGxpMjdULTZpLVFTaFpwS1BCd2M1X3M3Ti1TX255dGZIQldNTkJscEJqZG53T0IzUDFUWW1VNFNHbEpwcjBIekNtUGxudExrYlRDUUVsdks1aWx5RnNfSWVRdHRWNHBOWTZhbVpsallQTGtxd3lkeC05RV9jTWF5Q3BpOFk?oc=5\" target=\"_bla",
       "date": "Wed, 06 Nov 2024 03:42:07 GMT",
@@ -245,11 +235,11 @@
   "claude_prompt": "CFO FX Brief 24/07/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Thailand among countries still on US Treasury's currency monitoring list\n- [Bangkok Post Business] Drones unlock new opportunities\n- [Bangkok Post Business] Call for green power to supply businesses",
   "stats": {
     "fx_news_count": 3,
-    "synnex_news_count": 21,
+    "synnex_news_count": 20,
     "data_sources": [
-      "Bangkok Post Business",
       "Google News TH",
-      "Google News EN"
+      "Google News EN",
+      "Bangkok Post Business"
     ]
   }
 }
