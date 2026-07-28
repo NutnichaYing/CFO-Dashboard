@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-28 09:45:23 BKK",
+  "last_updated": "2026-07-28 12:47:22 BKK",
   "rate": {
     "date": "2026-07-28",
     "buying": 0,
@@ -9,11 +9,11 @@
   },
   "news": [
     {
-      "title": "Investor data breach cues SEC action",
-      "description": "The Securities and Exchange Commission (SEC) is monitoring Thailand Securities Depository Co (TSD) after the country's central securities depository detected unauthorised access to personal data store",
-      "date": "Tue, 28 Jul 2026 01:01:00 +0700",
-      "link": "https://www.bangkokpost.com/business/general/3292714/investor-data-breach-cues-sec-action",
-      "source": "Bangkok Post Business"
+      "title": "ไม่สามารถดึงข่าวอัตโนมัติได้",
+      "description": "กรุณาตรวจสอบข่าว FX จาก Reuters หรือ Bangkok Post",
+      "date": "2026-07-28 12:47",
+      "link": "https://www.reuters.com/markets/currencies/",
+      "source": "Manual"
     }
   ],
   "synnex_news": [
@@ -238,14 +238,14 @@
       "priority": 6
     }
   ],
-  "claude_prompt": "CFO FX Brief 28/07/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Investor data breach cues SEC action",
+  "claude_prompt": "CFO FX Brief 28/07/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Manual] ไม่สามารถดึงข่าวอัตโนมัติได้",
   "stats": {
     "fx_news_count": 1,
     "synnex_news_count": 22,
     "data_sources": [
       "Google News TH",
       "Google News EN",
-      "Bangkok Post Business"
+      "Manual"
     ]
   }
 }
