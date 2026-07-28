@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-28 00:20:23 BKK",
+  "last_updated": "2026-07-28 09:45:23 BKK",
   "rate": {
     "date": "2026-07-28",
     "buying": 0,
@@ -9,52 +9,14 @@
   },
   "news": [
     {
-      "title": "TSD investor data breach cue for SEC action",
-      "description": "The Securities and Exchange Commission (SEC) is monitoring Thailand Securities Depository Co (TSD) after the central securities depository detected unauthorised access to personal data stored on its T",
-      "date": "Mon, 27 Jul 2026 17:47:00 +0700",
-      "link": "https://www.bangkokpost.com/business/investment/3292494/tsd-investor-data-breach-cue-for-sec-action",
-      "source": "Bangkok Post Business"
-    },
-    {
-      "title": "Centara Reserve Krabi opens at year-end",
-      "description": "Centara Hotels &amp; Resorts has announced the launch of Centara Reserve Krabi, set to open in December 2026 following a multi-billion-baht development.",
-      "date": "Mon, 27 Jul 2026 08:14:00 +0700",
-      "link": "https://www.bangkokpost.com/business/general/3292274/centara-reserve-krabi-opens-at-yearend",
-      "source": "Bangkok Post Business"
-    },
-    {
-      "title": "Thai exports to the US skyrocket despite tariffs",
-      "description": "Despite US efforts to impose tariffs, Thai exports to America expanded over the first nine months of the fiscal year, up by nearly 34% year-on-year for a value of 2.13 trillion baht.",
-      "date": "Mon, 27 Jul 2026 06:15:00 +0700",
-      "link": "https://www.bangkokpost.com/business/general/3292244/thai-exports-to-the-us-skyrocket-despite-tariffs",
-      "source": "Bangkok Post Business"
-    },
-    {
-      "title": "The robot army is coming",
-      "description": "Thailand is positioning itself to become a regional hub for humanoid robotics by leveraging its established automotive and electronics infrastructure.",
-      "date": "Mon, 27 Jul 2026 06:11:00 +0700",
-      "link": "https://www.bangkokpost.com/business/general/3292314/the-robot-army-is-coming",
-      "source": "Bangkok Post Business"
-    },
-    {
-      "title": "Where does Bitkub go from here?",
-      "description": "For years, Bitkub symbolised Thailand's cryptocurrency boom. It was the country's largest digital asset exchange, the creator of KUB Coin, and the startup that reached unicorn status after Siam Commer",
-      "date": "Mon, 27 Jul 2026 06:05:00 +0700",
-      "link": "https://www.bangkokpost.com/business/investment/3292234/where-does-bitkub-go-from-here",
+      "title": "Investor data breach cues SEC action",
+      "description": "The Securities and Exchange Commission (SEC) is monitoring Thailand Securities Depository Co (TSD) after the country's central securities depository detected unauthorised access to personal data store",
+      "date": "Tue, 28 Jul 2026 01:01:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3292714/investor-data-breach-cues-sec-action",
       "source": "Bangkok Post Business"
     }
   ],
   "synnex_news": [
-    {
-      "title": "SYNEX คาด Q4 นิวไฮ ชู iPhone17 - Enterprise หนุน เป้า 13.70 บ. - HoonVision | หุ้นวิชั่น - หุ้น ข่าวหุ้น หุ้นไทยวันนี้ หุ้นวันนี้ หุ้นเด่น วิเคราะห์หุ้น ธุรกิจ การเงิน เศรษฐกิจ การลงทุน ดัชนีราคาหุ้น - HoonVision",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi1AJBVV95cUxOMUJsemU2R0F2SHpvRXRkMUFyWGNIM1lzaXY5UUJ3aFZUQWhZMXVmVVR6ZjRmNnhYVWhLclJsNWFObnlwd1RMTFQwaUlTVzNOUlBVOHp1aklUUVlTVV91Rm9uOWRoZG81RF9vYlZXRFlFRi04aWdDWldkZEdQZW5pVFlHbm13Y0U5WWNsUkFYaDRZdDljaE9SeFdKcHhpNkNBSzZYTXdEM243R1BaNzkta1FfS0o4akdQcn",
-      "date": "Tue, 25 Nov 2025 08:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOMUJsemU2R0F2SHpvRXRkMUFyWGNIM1lzaXY5UUJ3aFZUQWhZMXVmVVR6ZjRmNnhYVWhLclJsNWFObnlwd1RMTFQwaUlTVzNOUlBVOHp1aklUUVlTVV91Rm9uOWRoZG81RF9vYlZXRFlFRi04aWdDWldkZEdQZW5pVFlHbm13Y0U5WWNsUkFYaDRZdDljaE9SeFdKcHhpNkNBSzZYTXdEM243R1BaNzkta1FfS0o4akdQcnhQWlpzUVpRenB6ZG1YVXM1aEQzN1VXT211NGd6Zl9SNnU3R21ISllvTkpqVmxQWktFUHpldm1oS2dpb0ozT2Z6ZS03TmxXdmVLbzlOMF9tNjNyeDlEVXNoYmlxYjBmWlBVM3ZxSDdSMmNHV21YMlctbS1pY2N4ZXU3djdmekhpc1JVX0lfYzF0YkZQajhIRUJkT1hWYVUxS3dz?oc=5",
-      "source": "Google News TH",
-      "category": "general",
-      "trusted": false,
-      "priority": 5
-    },
     {
       "title": "SYNEX - ข้อมูลบริษัท - ตลาดหลักทรัพย์แห่งประเทศไทย - SET",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOUGtiOXFIVjBYcVhGZkhxQ2F2WVVZWFNLRmtqSWd6NHlJaFJKZkdoTkRvS0k0WlZfUGtZOXd4V0UzT2NUMm5IMERXYW9wWnNFX0Zac2ZPLWVxU24tODk3dWphU21LdEprcnExZ1d1Mm9IOHloa2pjZzN6Szh5MUJKbl9peG9ibUdEcTVHcEZn?oc=5\" target=\"_blank\">SYNEX - ข้อมูลบริษัท - ตลาดหลักทรัพ",
@@ -90,6 +52,16 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBrZ1F4MWFIeHZpS01pNkl3WVVObmpWZXg2T2lUdHM2b044YWRwalBrQnFRLTcyUlZQVU1UUVpEQlRsSnp0c0NzUktJcTQyYWpET09OUmdYalBldmVONm1ZMDl4LXJSV3NUWlVZV1lOM2s1RzNybmpJ?oc=5\" target=\"_blank\">Nintendo Switch 2 จะดันหุ้น SYNEX ไปได้ไกลแค่ไหน? วิเคราะห์ราคาเป้า",
       "date": "Tue, 17 Jun 2025 18:44:10 GMT",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBrZ1F4MWFIeHZpS01pNkl3WVVObmpWZXg2T2lUdHM2b044YWRwalBrQnFRLTcyUlZQVU1UUVpEQlRsSnp0c0NzUktJcTQyYWpET09OUmdYalBldmVONm1ZMDl4LXJSV3NUWlVZV1lOM2s1RzNybmpJ?oc=5",
+      "source": "Google News TH",
+      "category": "general",
+      "trusted": false,
+      "priority": 5
+    },
+    {
+      "title": "SYNEX เปิดเกม AI ตั้งเป้ารายได้ 5.3 หมื่นล. - HoonVision | หุ้นวิชั่น - หุ้น ข่าวหุ้น หุ้นไทยวันนี้ หุ้นวันนี้ หุ้นเด่น วิเคราะห์หุ้น ธุรกิจ การเงิน เศรษฐกิจ การลงทุน ดัชนีราคาหุ้น - HoonVision",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi1gJBVV95cUxOZGpBRktOS3J2ZVY5TVRhR3hJYXRVMDJRLXpGM2JFZTJIVnFvc3pnSHRzeWFuS2dWM3NzNVV6MnFlUXVKNzhzXzhRRnhRb2x2UjczbllZb1N3TEZlMEh5YU05U244ZlpZR1lGdmZDYWM2V0s4TThzak9meUpFdUJfay1SQTBscklSenlTSmNLeGpKc1pUeXVwbXNqSHktaUpuVmtoOVE1bVNDQmtXQUY2N054aHlQejVDa3",
+      "date": "Thu, 15 Jan 2026 08:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxOZGpBRktOS3J2ZVY5TVRhR3hJYXRVMDJRLXpGM2JFZTJIVnFvc3pnSHRzeWFuS2dWM3NzNVV6MnFlUXVKNzhzXzhRRnhRb2x2UjczbllZb1N3TEZlMEh5YU05U244ZlpZR1lGdmZDYWM2V0s4TThzak9meUpFdUJfay1SQTBscklSenlTSmNLeGpKc1pUeXVwbXNqSHktaUpuVmtoOVE1bVNDQmtXQUY2N054aHlQejVDa3pJbjNHb0NhNVlfNThiRjlSbmMxclBCRFNpTWlLNXBsY2tpeGhoZGhDT09TM2o0NWRJb213M0tHOUtSTmpWZk5selhiWEV2d0ZaYWZSRFBWdXA5eHVleFozNS1zT0hvM0FSYTJ1amxjNlBXSE15c09pdm1jdVRXUFpmdUlGcXRxNUYzb0MtVXB2VVA1RmxLRTl5Uy1fcFVqSU92YWc?oc=5",
       "source": "Google News TH",
       "category": "general",
       "trusted": false,
@@ -156,10 +128,10 @@
       "priority": 5
     },
     {
-      "title": "SYNEX เปิดเกม AI ตั้งเป้ารายได้ 5.3 หมื่นล. - HoonVision | หุ้นวิชั่น - หุ้น ข่าวหุ้น หุ้นไทยวันนี้ หุ้นวันนี้ หุ้นเด่น วิเคราะห์หุ้น ธุรกิจ การเงิน เศรษฐกิจ การลงทุน ดัชนีราคาหุ้น - HoonVision",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi1gJBVV95cUxOZGpBRktOS3J2ZVY5TVRhR3hJYXRVMDJRLXpGM2JFZTJIVnFvc3pnSHRzeWFuS2dWM3NzNVV6MnFlUXVKNzhzXzhRRnhRb2x2UjczbllZb1N3TEZlMEh5YU05U244ZlpZR1lGdmZDYWM2V0s4TThzak9meUpFdUJfay1SQTBscklSenlTSmNLeGpKc1pUeXVwbXNqSHktaUpuVmtoOVE1bVNDQmtXQUY2N054aHlQejVDa3",
-      "date": "Thu, 15 Jan 2026 08:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxOZGpBRktOS3J2ZVY5TVRhR3hJYXRVMDJRLXpGM2JFZTJIVnFvc3pnSHRzeWFuS2dWM3NzNVV6MnFlUXVKNzhzXzhRRnhRb2x2UjczbllZb1N3TEZlMEh5YU05U244ZlpZR1lGdmZDYWM2V0s4TThzak9meUpFdUJfay1SQTBscklSenlTSmNLeGpKc1pUeXVwbXNqSHktaUpuVmtoOVE1bVNDQmtXQUY2N054aHlQejVDa3pJbjNHb0NhNVlfNThiRjlSbmMxclBCRFNpTWlLNXBsY2tpeGhoZGhDT09TM2o0NWRJb213M0tHOUtSTmpWZk5selhiWEV2d0ZaYWZSRFBWdXA5eHVleFozNS1zT0hvM0FSYTJ1amxjNlBXSE15c09pdm1jdVRXUFpmdUlGcXRxNUYzb0MtVXB2VVA1RmxLRTl5Uy1fcFVqSU92YWc?oc=5",
+      "title": "SYNNEX ประกาศถือครองตลาด NINTENDO เป็นผู้จัดจำหน่ายในไทยอย่างเป็นทางการ ส่งซ่อม / เคลมที่ศูนย์ได้เลย - DroidSans",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBuWEs0MHowV1RIREZ6WDNHMmpESHJ2X3VQOC0zc2c3X0ZxXzhLb3JrM0tTVFVreWs5ZWJCbFFXWkNIdnlka0Q4S0JJQmxBUTNvcm0tMV9DcHA2UzdMX29NZ1lzbFFkWTZuU0o2S3hkWE8yQQ?oc=5\" target=\"_blank\">SYNNEX ประกาศถือครองตลาด NINTENDO เป็นผู้จัดจำหน่ายในไทยอย่างเป็นทางการ ส",
+      "date": "Thu, 23 Mar 2023 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBuWEs0MHowV1RIREZ6WDNHMmpESHJ2X3VQOC0zc2c3X0ZxXzhLb3JrM0tTVFVreWs5ZWJCbFFXWkNIdnlka0Q4S0JJQmxBUTNvcm0tMV9DcHA2UzdMX29NZ1lzbFFkWTZuU0o2S3hkWE8yQQ?oc=5",
       "source": "Google News TH",
       "category": "general",
       "trusted": false,
@@ -266,9 +238,9 @@
       "priority": 6
     }
   ],
-  "claude_prompt": "CFO FX Brief 28/07/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] TSD investor data breach cue for SEC action\n- [Bangkok Post Business] Centara Reserve Krabi opens at year-end\n- [Bangkok Post Business] Thai exports to the US skyrocket despite tariffs\n- [Bangkok Post Business] The robot army is coming\n- [Bangkok Post Business] Where does Bitkub go from here?",
+  "claude_prompt": "CFO FX Brief 28/07/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Investor data breach cues SEC action",
   "stats": {
-    "fx_news_count": 5,
+    "fx_news_count": 1,
     "synnex_news_count": 22,
     "data_sources": [
       "Google News TH",
