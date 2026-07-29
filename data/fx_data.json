@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-28 19:56:21 BKK",
+  "last_updated": "2026-07-29 09:52:12 BKK",
   "rate": {
-    "date": "2026-07-28",
+    "date": "2026-07-29",
     "buying": 0,
     "selling": 0,
     "mid": 0,
@@ -9,11 +9,11 @@
   },
   "news": [
     {
-      "title": "ไม่สามารถดึงข่าวอัตโนมัติได้",
-      "description": "กรุณาตรวจสอบข่าว FX จาก Reuters หรือ Bangkok Post",
-      "date": "2026-07-28 19:56",
-      "link": "https://www.reuters.com/markets/currencies/",
-      "source": "Manual"
+      "title": "Travel demand outlook turns brighter",
+      "description": "A weak baht, an incentive offering free domestic flights to foreign travellers, and the reintroduction of visa-free entry for Indian tourists offer upsides for travel demand in Thailand during the sec",
+      "date": "Wed, 29 Jul 2026 06:07:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3293217/travel-demand-outlook-turns-brighter",
+      "source": "Bangkok Post Business"
     }
   ],
   "synnex_news": [
@@ -42,16 +42,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNX1RObGJXQV8tMENLYkdFc3hlNjh4aFlZRVZrNEEzel9UVGJSVWhSV3hWcVlvOGctNFNWRHRjemZscmxZLTNDa25zSzNkUk9ZM2c0WV9hSy14RjY2OXB1U0MwV2pJNnR5bjVEakI0bzhwaHZUaDJyRjFTQ1I1S0xoV1kwMFR5M1k?oc=5\" target=\"_blank\">SYNNEX Clearance Fair 2022 มาแล้ว!!! 18-19 พ",
       "date": "Wed, 16 Nov 2022 08:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX1RObGJXQV8tMENLYkdFc3hlNjh4aFlZRVZrNEEzel9UVGJSVWhSV3hWcVlvOGctNFNWRHRjemZscmxZLTNDa25zSzNkUk9ZM2c0WV9hSy14RjY2OXB1U0MwV2pJNnR5bjVEakI0bzhwaHZUaDJyRjFTQ1I1S0xoV1kwMFR5M1k?oc=5",
-      "source": "Google News TH",
-      "category": "general",
-      "trusted": false,
-      "priority": 5
-    },
-    {
-      "title": "Nintendo Switch 2 จะดันหุ้น SYNEX ไปได้ไกลแค่ไหน? วิเคราะห์ราคาเป้าหมาย 26 บาท - eFinanceThai",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBrZ1F4MWFIeHZpS01pNkl3WVVObmpWZXg2T2lUdHM2b044YWRwalBrQnFRLTcyUlZQVU1UUVpEQlRsSnp0c0NzUktJcTQyYWpET09OUmdYalBldmVONm1ZMDl4LXJSV3NUWlVZV1lOM2s1RzNybmpJ?oc=5\" target=\"_blank\">Nintendo Switch 2 จะดันหุ้น SYNEX ไปได้ไกลแค่ไหน? วิเคราะห์ราคาเป้า",
-      "date": "Tue, 17 Jun 2025 18:44:10 GMT",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBrZ1F4MWFIeHZpS01pNkl3WVVObmpWZXg2T2lUdHM2b044YWRwalBrQnFRLTcyUlZQVU1UUVpEQlRsSnp0c0NzUktJcTQyYWpET09OUmdYalBldmVONm1ZMDl4LXJSV3NUWlVZV1lOM2s1RzNybmpJ?oc=5",
       "source": "Google News TH",
       "category": "general",
       "trusted": false,
@@ -168,6 +158,16 @@
       "priority": 5
     },
     {
+      "title": "Nintendo Switch by Synnex ร่วมงาน Thailand Mobile Expo 2023 มหกรรมมือถือสุดยิ่งใหญ่แห่งปี - Thaimobilecenter",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQb2Q1a3dmeHc5enp1cjN3RGc5VmxBMDEyeFR0S1ZONHBSODNJZ3RNOXdGalc5X216Ui1OdHZFb0JjVE9OcGc3dm9DZVZ5aFdhS3pJOEJpTHNQRFZKOUo0TE1DU1d3bXN2MUVyd2hNaGZ5cXR2aWJjRzZhQTFkMGdxbQ?oc=5\" target=\"_blank\">Nintendo Switch by Synnex ร่วมงาน Thailand Mobile Exp",
+      "date": "Fri, 27 Oct 2023 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQb2Q1a3dmeHc5enp1cjN3RGc5VmxBMDEyeFR0S1ZONHBSODNJZ3RNOXdGalc5X216Ui1OdHZFb0JjVE9OcGc3dm9DZVZ5aFdhS3pJOEJpTHNQRFZKOUo0TE1DU1d3bXN2MUVyd2hNaGZ5cXR2aWJjRzZhQTFkMGdxbQ?oc=5",
+      "source": "Google News TH",
+      "category": "general",
+      "trusted": false,
+      "priority": 5
+    },
+    {
       "title": "Synnex targets booming cloud market for growth - Bangkok Post",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOVVQ0VXA2bXB0ZTFETTN6VC1sWktUVk1uaHRBVUVTRXhZVHNfSnV6d3lPeGtGV1VQTy1FS3Itb1dRbVduMThBSjVIUVhmVktqWjJJRHBYU3Jka1J3cXNmNmdTb3JVa3JlS1hCVklJcHZwYUNhQlkwOFJ0QXFfcFdXWmNUSGt6a0dENWxBX1ZwNGRaNWphZTJlYThQSDAxbkdm?oc=5\" target=\"_blank\">Synnex targ",
       "date": "Tue, 25 Mar 2025 07:00:00 GMT",
@@ -238,14 +238,14 @@
       "priority": 6
     }
   ],
-  "claude_prompt": "CFO FX Brief 28/07/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Manual] ไม่สามารถดึงข่าวอัตโนมัติได้",
+  "claude_prompt": "CFO FX Brief 29/07/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Travel demand outlook turns brighter",
   "stats": {
     "fx_news_count": 1,
     "synnex_news_count": 22,
     "data_sources": [
       "Google News TH",
-      "Google News EN",
-      "Manual"
+      "Bangkok Post Business",
+      "Google News EN"
     ]
   }
 }
