@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-30 19:46:57 BKK",
+  "last_updated": "2026-07-31 10:18:23 BKK",
   "rate": {
-    "date": "2026-07-30",
+    "date": "2026-07-31",
     "buying": 0,
     "selling": 0,
     "mid": 0,
@@ -9,17 +9,17 @@
   },
   "news": [
     {
-      "title": "Thai businesses urged to fully embed AI",
-      "description": "Adopting artificial intelligence (AI) at an enterprise level has the potential to generate 1.4 trillion baht in economic value for Thailand over five years, says Google Cloud Thailand.",
-      "date": "Thu, 30 Jul 2026 07:06:00 +0700",
-      "link": "https://www.bangkokpost.com/business/general/3293824/thai-businesses-urged-to-fully-embed-ai",
+      "title": "Thailand to evade US currency list",
+      "description": "Thailand is likely to be removed from the US Treasury's Currency Monitoring List in the next review after meeting only one of the three assessment criteria, while the Bank of Thailand continues to man",
+      "date": "Fri, 31 Jul 2026 05:22:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3294387/thailand-to-evade-us-currency-list",
       "source": "Bangkok Post Business"
     },
     {
-      "title": "Delta outlook clouded by cost pressures",
-      "description": "Analysts are preparing to lower their net profit forecast for Delta Electronics (Thailand) for 2026 and 2027 after the largest company on the Stock Exchange of Thailand (SET) reported lower quarterly",
-      "date": "Thu, 30 Jul 2026 05:25:00 +0700",
-      "link": "https://www.bangkokpost.com/business/general/3293779/delta-outlook-clouded-by-cost-pressures",
+      "title": "China approves first overseas TSR20 delivery warehouse in Thailand",
+      "description": "SINGAPORE &mdash; China's Shanghai International Energy Exchange ​has approved its first overseas delivery warehouse for TSR20 rubber futures, ​extending its delivery network &zwnj;into major rubber-p",
+      "date": "Thu, 30 Jul 2026 20:58:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3294044/chinas-shanghai-international-energy-exchange-approves-first-overseas-warehouse-for-tsr20-rubber-delivery",
       "source": "Bangkok Post Business"
     }
   ],
@@ -185,6 +185,16 @@
       "priority": 6
     },
     {
+      "title": "HUAWEI eKit Joins Hands with Distribution Partners to Explore Unlimited Opportunities in Thailand SME market - Huawei Enterprise",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQSjdLTXRXZ21rdlBCeE41emtTeTN5YmtsTlFYT2h4aWxaUUQ0RjRqcHgyLTNFcnZVQzRKdThLdDZMNVpqMTgtNV96S0ZkMEFsVGFvM2RmQUtqRUdVaDdXZ3RXNlZNc0k4dzVpbmxURGhjLUlGYWVSaFJxbUwxckUtNmdVQQ?oc=5\" target=\"_blank\">HUAWEI eKit Joins Hands with Distribution Partner",
+      "date": "Wed, 08 Nov 2023 08:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSjdLTXRXZ21rdlBCeE41emtTeTN5YmtsTlFYT2h4aWxaUUQ0RjRqcHgyLTNFcnZVQzRKdThLdDZMNVpqMTgtNV96S0ZkMEFsVGFvM2RmQUtqRUdVaDdXZ3RXNlZNc0k4dzVpbmxURGhjLUlGYWVSaFJxbUwxckUtNmdVQQ?oc=5",
+      "source": "Google News EN",
+      "category": "general",
+      "trusted": false,
+      "priority": 6
+    },
+    {
       "title": "Synnex targets booming cloud market for growth - Bangkok Post",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOVVQ0VXA2bXB0ZTFETTN6VC1sWktUVk1uaHRBVUVTRXhZVHNfSnV6d3lPeGtGV1VQTy1FS3Itb1dRbVduMThBSjVIUVhmVktqWjJJRHBYU3Jka1J3cXNmNmdTb3JVa3JlS1hCVklJcHZwYUNhQlkwOFJ0QXFfcFdXWmNUSGt6a0dENWxBX1ZwNGRaNWphZTJlYThQSDAxbkdm?oc=5\" target=\"_blank\">Synnex targ",
       "date": "Tue, 25 Mar 2025 07:00:00 GMT",
@@ -205,7 +215,7 @@
       "priority": 6
     },
     {
-      "title": "Sutida Mongkolsuthree - prestigeonline.com",
+      "title": "Sutida Mongkolsuthree - Prestige Online - Singapore",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPa0FaaThuTHI5N1JTS3UzMXgzRlVWN1BPajRGckxOUHkyYV9DOElDTDRqQ3dCamJCdWRpMTdxX0JfT3FxdExIVF9RQ3o5MmY2cEU0NTVKY0lsS01yODZreWZyMXBzQXF1WFhGVTRrXzU4UFVhSG1Sc2ZBTXByck9Jb1FJRzhFTkZ2cnBoSFNzSWJOZ9IBlwFBVV95cUxORkdCd0pvdkI0R2NUaERIazNEUENvNDJhM2hfUG",
       "date": "Mon, 20 Feb 2023 20:47:27 GMT",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPa0FaaThuTHI5N1JTS3UzMXgzRlVWN1BPajRGckxOUHkyYV9DOElDTDRqQ3dCamJCdWRpMTdxX0JfT3FxdExIVF9RQ3o5MmY2cEU0NTVKY0lsS01yODZreWZyMXBzQXF1WFhGVTRrXzU4UFVhSG1Sc2ZBTXByck9Jb1FJRzhFTkZ2cnBoSFNzSWJOZ9IBlwFBVV95cUxORkdCd0pvdkI0R2NUaERIazNEUENvNDJhM2hfUGcxWURiaTc4dDhmWFlRMnFSbHEwUUhuamJUcHVNWE1meksxYmZ3Z3kzUW1sVHFiRjdaX2I2NUxMNmV0OVMxODFBUU9abW1HS3dPbWxLTllRNU04bE9VYnBjRGdnQ1pFQUpMU2ozdlBZZWJqOGkwOVFkSXln?oc=5",
@@ -245,14 +255,14 @@
       "priority": 6
     }
   ],
-  "claude_prompt": "CFO FX Brief 30/07/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Thai businesses urged to fully embed AI\n- [Bangkok Post Business] Delta outlook clouded by cost pressures",
+  "claude_prompt": "CFO FX Brief 31/07/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Thailand to evade US currency list\n- [Bangkok Post Business] China approves first overseas TSR20 delivery warehouse in Thailand",
   "stats": {
     "fx_news_count": 2,
-    "synnex_news_count": 22,
+    "synnex_news_count": 23,
     "data_sources": [
-      "Google News EN",
       "Google News TH",
-      "Bangkok Post Business"
+      "Bangkok Post Business",
+      "Google News EN"
     ]
   }
 }
