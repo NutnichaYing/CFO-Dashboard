@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-31 10:18:23 BKK",
+  "last_updated": "2026-07-31 13:15:15 BKK",
   "rate": {
     "date": "2026-07-31",
     "buying": 0,
@@ -16,10 +16,10 @@
       "source": "Bangkok Post Business"
     },
     {
-      "title": "China approves first overseas TSR20 delivery warehouse in Thailand",
-      "description": "SINGAPORE &mdash; China's Shanghai International Energy Exchange ​has approved its first overseas delivery warehouse for TSR20 rubber futures, ​extending its delivery network &zwnj;into major rubber-p",
-      "date": "Thu, 30 Jul 2026 20:58:00 +0700",
-      "link": "https://www.bangkokpost.com/business/general/3294044/chinas-shanghai-international-energy-exchange-approves-first-overseas-warehouse-for-tsr20-rubber-delivery",
+      "title": "All eyes on next Fed meeting",
+      "description": "Markets are shifting attention to the September meeting of the Federal Reserve after the US central bank left its interest rates unchanged on Wednesday, with analysts predicting another cut is possibl",
+      "date": "Fri, 31 Jul 2026 01:01:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3294232/all-eyes-on-next-fed-meeting",
       "source": "Bangkok Post Business"
     }
   ],
@@ -95,7 +95,7 @@
       "priority": 5
     },
     {
-      "title": "SYNNEX ก้าวสู่ปีที่ 39 แห่งความไว้วางใจ ชูบทบาทผู้นำ Technology Empowerment Partner พร้อมยกระดับ \"Trusted by Synnex\" สู่มาตรฐานใหม่บริการหลังการขาย - newswit",
+      "title": "SYNNEX ก้าวสู่ปีที่ 39 แห่งความไว้วางใจ ชูบทบาทผู้นำ Technology Empowerment Partner พร้อมยกระดับ \"Trusted by Synnex\" สู่มาตรฐานใหม่บริการหลังการขาย - newswit.com",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBFajZTd05oT19RMmJRemUxMzJKWTkxMTI2c2NNWWhDUkZnRVprLUVtU0szYzdwZGV2S0MwMzJmTU5VVXVaV0JXRlFzRWdHZWU4MTdIX2FQV0wxTkFWWUlvMkphRzQzVWxPTUtj?oc=5\" target=\"_blank\">SYNNEX ก้าวสู่ปีที่ 39 แห่งความไว้วางใจ ชูบทบาทผู้นำ Technology Empowerment Partner",
       "date": "Mon, 25 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBFajZTd05oT19RMmJRemUxMzJKWTkxMTI2c2NNWWhDUkZnRVprLUVtU0szYzdwZGV2S0MwMzJmTU5VVXVaV0JXRlFzRWdHZWU4MTdIX2FQV0wxTkFWWUlvMkphRzQzVWxPTUtj?oc=5",
@@ -205,7 +205,7 @@
       "priority": 6
     },
     {
-      "title": "Synnex to Launch Thailand’s First Nintendo Official Authorized Store in Bangkok - GamerBraves",
+      "title": "Synnex to Launch Thailand’s First Nintendo Official Authorized Store in Bangkok - gamerbraves.com",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSHpaZWdjWkxicHFhc3VsaFJRMXR3ZHduTkNPUjZvNEp6WjNveFlocGxpMjdULTZpLVFTaFpwS1BCd2M1X3M3Ti1TX255dGZIQldNTkJscEJqZG53T0IzUDFUWW1VNFNHbEpwcjBIekNtUGxudExrYlRDUUVsdks1aWx5RnNfSWVRdHRWNHBOWTZhbVpsallQTGtxd3lkeC05RV9jTWF5Q3BpOFk?oc=5\" target=\"_bla",
       "date": "Wed, 06 Nov 2024 03:42:07 GMT",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSHpaZWdjWkxicHFhc3VsaFJRMXR3ZHduTkNPUjZvNEp6WjNveFlocGxpMjdULTZpLVFTaFpwS1BCd2M1X3M3Ti1TX255dGZIQldNTkJscEJqZG53T0IzUDFUWW1VNFNHbEpwcjBIekNtUGxudExrYlRDUUVsdks1aWx5RnNfSWVRdHRWNHBOWTZhbVpsallQTGtxd3lkeC05RV9jTWF5Q3BpOFk?oc=5",
@@ -255,14 +255,14 @@
       "priority": 6
     }
   ],
-  "claude_prompt": "CFO FX Brief 31/07/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Thailand to evade US currency list\n- [Bangkok Post Business] China approves first overseas TSR20 delivery warehouse in Thailand",
+  "claude_prompt": "CFO FX Brief 31/07/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Thailand to evade US currency list\n- [Bangkok Post Business] All eyes on next Fed meeting",
   "stats": {
     "fx_news_count": 2,
     "synnex_news_count": 23,
     "data_sources": [
+      "Google News EN",
       "Google News TH",
-      "Bangkok Post Business",
-      "Google News EN"
+      "Bangkok Post Business"
     ]
   }
 }
