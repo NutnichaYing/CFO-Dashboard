@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-07 11:55:21 BKK",
+  "last_updated": "2026-08-07 12:27:12 BKK",
   "rate": {
     "date": "2026-08-07",
     "buying": 0,
@@ -235,7 +235,7 @@
       "priority": 6
     },
     {
-      "title": "SYNNEX and COPPERWIRED launches SE Asia’s first Nintendo store at Siam Paragon - thethaiger.com",
+      "title": "SYNNEX and COPPERWIRED launches SE Asia’s first Nintendo store at Siam Paragon - Thaiger",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQYlZxWGFoMjBUYUxZQ1RyZ1QxOXltZGExYlhrcjYyemlhTExOMmo5RHBJVG93Mi1HWmZjNTh0RjFzTElXN0x3ZVVSRFNObkVGX0haUWQyVUVHX3lXWWRQdTRCTlFfX1Y5Vmt5Y0lKT1NrZTNtSHBDUTJCU2Z2NG9VMkJDMWF0S2JJRnpZb2tlVTdZV0RUU290dDEwMDM3NTVwM3RXV3BvczJmV3NjS0tjckhzdFBmWUk?oc",
       "date": "Mon, 25 Nov 2024 08:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYlZxWGFoMjBUYUxZQ1RyZ1QxOXltZGExYlhrcjYyemlhTExOMmo5RHBJVG93Mi1HWmZjNTh0RjFzTElXN0x3ZVVSRFNObkVGX0haUWQyVUVHX3lXWWRQdTRCTlFfX1Y5Vmt5Y0lKT1NrZTNtSHBDUTJCU2Z2NG9VMkJDMWF0S2JJRnpZb2tlVTdZV0RUU290dDEwMDM3NTVwM3RXV3BvczJmV3NjS0tjckhzdFBmWUk?oc=5",
@@ -250,9 +250,9 @@
     "fx_news_count": 2,
     "synnex_news_count": 22,
     "data_sources": [
-      "Bangkok Post Business",
+      "Google News TH",
       "Google News EN",
-      "Google News TH"
+      "Bangkok Post Business"
     ]
   }
 }
