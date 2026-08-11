@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-10 18:49:39 BKK",
+  "last_updated": "2026-08-11 08:56:42 BKK",
   "rate": {
-    "date": "2026-08-10",
+    "date": "2026-08-11",
     "buying": 0,
     "selling": 0,
     "mid": 0,
@@ -9,14 +9,45 @@
   },
   "news": [
     {
-      "title": "SET executives upbeat on renewed investor confidence",
-      "description": "Thailand's stock market is regaining momentum as foreign investors return, supported by stronger capital inflows, improving economic fundamentals and new investment themes, according to the Stock Exch",
-      "date": "Sat, 08 Aug 2026 09:15:00 +0700",
-      "link": "https://www.bangkokpost.com/business/general/3298374/set-executives-upbeat-on-renewed-investor-confidence",
+      "title": "Central Pattana sees revenue rise by 8% to B13.1bn in Q2",
+      "description": "Central Pattana Plc (CPN) has posted strong second-quarter 2026 results, with total revenue rising 8% year-on-year to 13.1 billion baht and net profit up 10% to 4.75 billion baht, driven by its core b",
+      "date": "Tue, 11 Aug 2026 06:15:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3299643/central-pattana-sees-revenue-rise-by-8-to-b131bn-in-q2",
+      "source": "Bangkok Post Business"
+    },
+    {
+      "title": "B3,000 minimum monthly bill for solar panel subsidy",
+      "description": "To qualify for the government subsidy for installing rooftop solar panels, households must have a minimum monthly electricity bill of around 3,000 baht, according to the Finance Ministry.",
+      "date": "Tue, 11 Aug 2026 05:32:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3299683/b3000-minimum-monthly-bill-for-solar-panel-subsidy",
+      "source": "Bangkok Post Business"
+    },
+    {
+      "title": "US-Japan move to stop yen slide helps baht appreciate",
+      "description": "A US-Japan joint intervention to stop the yen's slide is among the reasons the baht has appreciated beyond 33 baht to the dollar, economists say, noting that the Thai currency is likely to continue ga",
+      "date": "Tue, 11 Aug 2026 05:21:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3299598/usjapan-move-to-stop-yen-slide-helps-baht-appreciate",
+      "source": "Bangkok Post Business"
+    },
+    {
+      "title": "BoT targets cash buyers of property",
+      "description": "The Bank of Thailand is planning to require banks to scrutinise customers who buy high-value property with cash as part of efforts to prevent illicit financial activities.",
+      "date": "Tue, 11 Aug 2026 04:56:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3299723/bot-targets-cash-buyers-of-property",
       "source": "Bangkok Post Business"
     }
   ],
   "synnex_news": [
+    {
+      "title": "สุธิดา มงคลสุธี ไม่ใช่แค่เพียงลูกสาวท่านประธานแต่เป็นแม่ทัพหญิงแกร่งของ SYNNEX ผู้ปั้นยอดขายไอทีกว่า 40,000 ล้าน - Marketeer Online",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tQjRmVkRWUFlKWmV2TzFOZVEyS2NsaHF1VjNjeVFiZEJLQWtzZDVPa1NzRGE5VUpJc3F3NmtUamdMUzZUNE5nY20yTlAtc29SeGFmcA?oc=5\" target=\"_blank\">สุธิดา มงคลสุธี ไม่ใช่แค่เพียงลูกสาวท่านประธานแต่เป็นแม่ทัพหญิงแกร่งของ SYNNEX ผู้ปั้นยอดขายไอทีกว่า 40,000 ล้าน<",
+      "date": "Tue, 04 Aug 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tQjRmVkRWUFlKWmV2TzFOZVEyS2NsaHF1VjNjeVFiZEJLQWtzZDVPa1NzRGE5VUpJc3F3NmtUamdMUzZUNE5nY20yTlAtc29SeGFmcA?oc=5",
+      "source": "Google News TH",
+      "category": "general",
+      "trusted": false,
+      "priority": 5
+    },
     {
       "title": "SYNNEX ก้าวสู่ปีที่ 39 แห่งความไว้วางใจ ชูบทบาทผู้นำ Technology Empowerment Partner พร้อมยกระดับ \"Trusted by Synnex\" สู่มาตรฐานใหม่บริการหลังการขาย - newswit",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBFajZTd05oT19RMmJRemUxMzJKWTkxMTI2c2NNWWhDUkZnRVprLUVtU0szYzdwZGV2S0MwMzJmTU5VVXVaV0JXRlFzRWdHZWU4MTdIX2FQV0wxTkFWWUlvMkphRzQzVWxPTUtj?oc=5\" target=\"_blank\">SYNNEX ก้าวสู่ปีที่ 39 แห่งความไว้วางใจ ชูบทบาทผู้นำ Technology Empowerment Partner",
@@ -48,7 +79,7 @@
       "priority": 5
     },
     {
-      "title": "SYNNEX ร่วมยกระดับงานเกมนานาชาติ “gamescom asia x Thailand Game Show” โชว์ศักยภาพ No.1 Gaming Distributor หนุนวงการเกมไทยสู่เวทีโลก - mitihoon.com",
+      "title": "SYNNEX ร่วมยกระดับงานเกมนานาชาติ “gamescom asia x Thailand Game Show” โชว์ศักยภาพ No.1 Gaming Distributor หนุนวงการเกมไทยสู่เวทีโลก - มิติหุ้น",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9HbXA5M01mMGI1ZnlmTklHOU9VaWw3bm5TT1B0cUNkRnR6VUFYbms3dFkwelVhQUtpeFZINmd3dG9Sbno2aUhwU1lyZHhXekQwMkxCdllR?oc=5\" target=\"_blank\">SYNNEX ร่วมยกระดับงานเกมนานาชาติ “gamescom asia x Thailand Game Show” โชว์ศักยภาพ No.1 Gaming Distributor หนุนว",
       "date": "Thu, 07 Aug 2025 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9HbXA5M01mMGI1ZnlmTklHOU9VaWw3bm5TT1B0cUNkRnR6VUFYbms3dFkwelVhQUtpeFZINmd3dG9Sbno2aUhwU1lyZHhXekQwMkxCdllR?oc=5",
@@ -68,20 +99,10 @@
       "priority": 5
     },
     {
-      "title": "สุธิดา มงคลสุธี ไม่ใช่แค่เพียงลูกสาวท่านประธานแต่เป็นแม่ทัพหญิงแกร่งของ SYNNEX ผู้ปั้นยอดขายไอทีกว่า 40,000 ล้าน - Marketeer Online",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tQjRmVkRWUFlKWmV2TzFOZVEyS2NsaHF1VjNjeVFiZEJLQWtzZDVPa1NzRGE5VUpJc3F3NmtUamdMUzZUNE5nY20yTlAtc29SeGFmcA?oc=5\" target=\"_blank\">สุธิดา มงคลสุธี ไม่ใช่แค่เพียงลูกสาวท่านประธานแต่เป็นแม่ทัพหญิงแกร่งของ SYNNEX ผู้ปั้นยอดขายไอทีกว่า 40,000 ล้าน<",
-      "date": "Mon, 07 Nov 2022 08:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tQjRmVkRWUFlKWmV2TzFOZVEyS2NsaHF1VjNjeVFiZEJLQWtzZDVPa1NzRGE5VUpJc3F3NmtUamdMUzZUNE5nY20yTlAtc29SeGFmcA?oc=5",
-      "source": "Google News TH",
-      "category": "general",
-      "trusted": false,
-      "priority": 5
-    },
-    {
-      "title": "SYNEX บวก 4% ลุ้นกำไรปีนี้ทะลุ 700 ลบ. อานิสงส์ยอดขายไอทีพุ่ง - ข่าวหุ้นธุรกิจออนไลน์",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wYlE2S25nYUduMDVDR2pva1ZWeFMwbThlcHRqRnZvVGVOUjdvUF90YzhfSjN0RjBHQ1AtR1ItTDVKRmRtREMyM2xISTYzNnlTNjNZbm9R?oc=5\" target=\"_blank\">SYNEX บวก 4% ลุ้นกำไรปีนี้ทะลุ 700 ลบ. อานิสงส์ยอดขายไอทีพุ่ง</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ข่าวหุ้นธุรก",
-      "date": "Tue, 31 Aug 2021 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wYlE2S25nYUduMDVDR2pva1ZWeFMwbThlcHRqRnZvVGVOUjdvUF90YzhfSjN0RjBHQ1AtR1ItTDVKRmRtREMyM2xISTYzNnlTNjNZbm9R?oc=5",
+      "title": "ส่องผลประกอบการครึ่งปีแรกของ ค้าส่งสินค้าไอที กระแส Work form Home ดันยอดขายขนาดไหน? - Brand Inside",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ka2Y5blk3U1Y4RXg3ekRSMzB2WXFraGdZZWxQLVlZUVJCdHZPRmhkTXlMUU9GSWg4SmR2d0JSUnNqNF93RmZIYzVoaEpIaTFlQTNZcU1HMUNFNHY4amJkYnJqUUgyLXM?oc=5\" target=\"_blank\">ส่องผลประกอบการครึ่งปีแรกของ ค้าส่งสินค้าไอที กระแส Work form Home ดันยอดขายขนาดไหน?</a>",
+      "date": "Mon, 16 Aug 2021 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ka2Y5blk3U1Y4RXg3ekRSMzB2WXFraGdZZWxQLVlZUVJCdHZPRmhkTXlMUU9GSWg4SmR2d0JSUnNqNF93RmZIYzVoaEpIaTFlQTNZcU1HMUNFNHY4amJkYnJqUUgyLXM?oc=5",
       "source": "Google News TH",
       "category": "general",
       "trusted": false,
@@ -108,7 +129,7 @@
       "priority": 5
     },
     {
-      "title": "SYNNEX ประกาศถือครองตลาด NINTENDO เป็นผู้จัดจำหน่ายในไทยอย่างเป็นทางการ ส่งซ่อม / เคลมที่ศูนย์ได้เลย - droidsans.com",
+      "title": "SYNNEX ประกาศถือครองตลาด NINTENDO เป็นผู้จัดจำหน่ายในไทยอย่างเป็นทางการ ส่งซ่อม / เคลมที่ศูนย์ได้เลย - DroidSans",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBuWEs0MHowV1RIREZ6WDNHMmpESHJ2X3VQOC0zc2c3X0ZxXzhLb3JrM0tTVFVreWs5ZWJCbFFXWkNIdnlka0Q4S0JJQmxBUTNvcm0tMV9DcHA2UzdMX29NZ1lzbFFkWTZuU0o2S3hkWE8yQQ?oc=5\" target=\"_blank\">SYNNEX ประกาศถือครองตลาด NINTENDO เป็นผู้จัดจำหน่ายในไทยอย่างเป็นทางการ ส",
       "date": "Thu, 23 Mar 2023 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBuWEs0MHowV1RIREZ6WDNHMmpESHJ2X3VQOC0zc2c3X0ZxXzhLb3JrM0tTVFVreWs5ZWJCbFFXWkNIdnlka0Q4S0JJQmxBUTNvcm0tMV9DcHA2UzdMX29NZ1lzbFFkWTZuU0o2S3hkWE8yQQ?oc=5",
@@ -228,7 +249,7 @@
       "priority": 6
     },
     {
-      "title": "HUAWEI eKit Joins Hands with Distribution Partners to Explore Unlimited Opportunities in Thailand SME market - Huawei Enterprise",
+      "title": "HUAWEI eKit Joins Hands with Distribution Partners to Explore Unlimited Opportunities in Thailand SME market - e.huawei.com",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQSjdLTXRXZ21rdlBCeE41emtTeTN5YmtsTlFYT2h4aWxaUUQ0RjRqcHgyLTNFcnZVQzRKdThLdDZMNVpqMTgtNV96S0ZkMEFsVGFvM2RmQUtqRUdVaDdXZ3RXNlZNc0k4dzVpbmxURGhjLUlGYWVSaFJxbUwxckUtNmdVQQ?oc=5\" target=\"_blank\">HUAWEI eKit Joins Hands with Distribution Partner",
       "date": "Wed, 08 Nov 2023 08:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSjdLTXRXZ21rdlBCeE41emtTeTN5YmtsTlFYT2h4aWxaUUQ0RjRqcHgyLTNFcnZVQzRKdThLdDZMNVpqMTgtNV96S0ZkMEFsVGFvM2RmQUtqRUdVaDdXZ3RXNlZNc0k4dzVpbmxURGhjLUlGYWVSaFJxbUwxckUtNmdVQQ?oc=5",
@@ -238,14 +259,14 @@
       "priority": 6
     }
   ],
-  "claude_prompt": "CFO FX Brief 10/08/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] SET executives upbeat on renewed investor confidence",
+  "claude_prompt": "CFO FX Brief 11/08/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Central Pattana sees revenue rise by 8% to B13.1bn in Q2\n- [Bangkok Post Business] B3,000 minimum monthly bill for solar panel subsidy\n- [Bangkok Post Business] US-Japan move to stop yen slide helps baht appreciate\n- [Bangkok Post Business] BoT targets cash buyers of property",
   "stats": {
-    "fx_news_count": 1,
+    "fx_news_count": 4,
     "synnex_news_count": 22,
     "data_sources": [
-      "Bangkok Post Business",
+      "Google News TH",
       "Google News EN",
-      "Google News TH"
+      "Bangkok Post Business"
     ]
   }
 }
