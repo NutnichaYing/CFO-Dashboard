@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-11 18:46:13 BKK",
+  "last_updated": "2026-08-12 09:09:46 BKK",
   "rate": {
-    "date": "2026-08-11",
+    "date": "2026-08-12",
     "buying": 0,
     "selling": 0,
     "mid": 0,
@@ -21,13 +21,6 @@
       "date": "Tue, 11 Aug 2026 06:15:00 +0700",
       "link": "https://www.bangkokpost.com/business/general/3299643/central-pattana-sees-revenue-rise-by-8-to-b131bn-in-q2",
       "source": "Bangkok Post Business"
-    },
-    {
-      "title": "B3,000 minimum monthly bill for solar panel subsidy",
-      "description": "To qualify for the government subsidy for installing rooftop solar panels, households must have a minimum monthly electricity bill of around 3,000 baht, according to the Finance Ministry.",
-      "date": "Tue, 11 Aug 2026 05:32:00 +0700",
-      "link": "https://www.bangkokpost.com/business/general/3299683/b3000-minimum-monthly-bill-for-solar-panel-subsidy",
-      "source": "Bangkok Post Business"
     }
   ],
   "synnex_news": [
@@ -36,6 +29,16 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tQjRmVkRWUFlKWmV2TzFOZVEyS2NsaHF1VjNjeVFiZEJLQWtzZDVPa1NzRGE5VUpJc3F3NmtUamdMUzZUNE5nY20yTlAtc29SeGFmcA?oc=5\" target=\"_blank\">สุธิดา มงคลสุธี ไม่ใช่แค่เพียงลูกสาวท่านประธานแต่เป็นแม่ทัพหญิงแกร่งของ SYNNEX ผู้ปั้นยอดขายไอทีกว่า 40,000 ล้าน<",
       "date": "Tue, 04 Aug 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tQjRmVkRWUFlKWmV2TzFOZVEyS2NsaHF1VjNjeVFiZEJLQWtzZDVPa1NzRGE5VUpJc3F3NmtUamdMUzZUNE5nY20yTlAtc29SeGFmcA?oc=5",
+      "source": "Google News TH",
+      "category": "general",
+      "trusted": false,
+      "priority": 5
+    },
+    {
+      "title": "ซินเน็ค (SYNEX) ยิ้มรับโค้งสุดท้ายของปีไฮซีซั่นธุรกิจ สินค้าใหม่เปิดตัว สมาร์ตโฟน-ดีไวซ์กระแสดี - newswit",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1iZmFkWmVTS2VRbi10eWdLcE5DNlJIakpoZTlJYmxsX09HYmFhZ2FIZjE0RHhNanNxRGVzQmFycnJ0TjZCS2kxa1FwaFBmTU9PaFk4OUMxeGVMMDkyMjRLRVF0YklwQ3R0Y3l3?oc=5\" target=\"_blank\">ซินเน็ค (SYNEX) ยิ้มรับโค้งสุดท้ายของปีไฮซีซั่นธุรกิจ สินค้าใหม่เปิดตัว สมาร์ตโฟน-ด",
+      "date": "Thu, 30 Oct 2025 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1iZmFkWmVTS2VRbi10eWdLcE5DNlJIakpoZTlJYmxsX09HYmFhZ2FIZjE0RHhNanNxRGVzQmFycnJ0TjZCS2kxa1FwaFBmTU9PaFk4OUMxeGVMMDkyMjRLRVF0YklwQ3R0Y3l3?oc=5",
       "source": "Google News TH",
       "category": "general",
       "trusted": false,
@@ -52,7 +55,7 @@
       "priority": 5
     },
     {
-      "title": "SYNEX เปิดเกม AI ตั้งเป้ารายได้ 5.3 หมื่นล. - HoonVision | หุ้นวิชั่น - หุ้น ข่าวหุ้น หุ้นไทยวันนี้ หุ้นวันนี้ หุ้นเด่น วิเคราะห์หุ้น ธุรกิจ การเงิน เศรษฐกิจ การลงทุน ดัชนีราคาหุ้น - hoonvision.com",
+      "title": "SYNEX เปิดเกม AI ตั้งเป้ารายได้ 5.3 หมื่นล. - HoonVision | หุ้นวิชั่น - หุ้น ข่าวหุ้น หุ้นไทยวันนี้ หุ้นวันนี้ หุ้นเด่น วิเคราะห์หุ้น ธุรกิจ การเงิน เศรษฐกิจ การลงทุน ดัชนีราคาหุ้น - HoonVision",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMi1gJBVV95cUxOZGpBRktOS3J2ZVY5TVRhR3hJYXRVMDJRLXpGM2JFZTJIVnFvc3pnSHRzeWFuS2dWM3NzNVV6MnFlUXVKNzhzXzhRRnhRb2x2UjczbllZb1N3TEZlMEh5YU05U244ZlpZR1lGdmZDYWM2V0s4TThzak9meUpFdUJfay1SQTBscklSenlTSmNLeGpKc1pUeXVwbXNqSHktaUpuVmtoOVE1bVNDQmtXQUY2N054aHlQejVDa3",
       "date": "Thu, 15 Jan 2026 08:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxOZGpBRktOS3J2ZVY5TVRhR3hJYXRVMDJRLXpGM2JFZTJIVnFvc3pnSHRzeWFuS2dWM3NzNVV6MnFlUXVKNzhzXzhRRnhRb2x2UjczbllZb1N3TEZlMEh5YU05U244ZlpZR1lGdmZDYWM2V0s4TThzak9meUpFdUJfay1SQTBscklSenlTSmNLeGpKc1pUeXVwbXNqSHktaUpuVmtoOVE1bVNDQmtXQUY2N054aHlQejVDa3pJbjNHb0NhNVlfNThiRjlSbmMxclBCRFNpTWlLNXBsY2tpeGhoZGhDT09TM2o0NWRJb213M0tHOUtSTmpWZk5selhiWEV2d0ZaYWZSRFBWdXA5eHVleFozNS1zT0hvM0FSYTJ1amxjNlBXSE15c09pdm1jdVRXUFpmdUlGcXRxNUYzb0MtVXB2VVA1RmxLRTl5Uy1fcFVqSU92YWc?oc=5",
@@ -112,8 +115,8 @@
       "priority": 5
     },
     {
-      "title": "ซินเน็คฯ กางแผนธุรกิจในงาน “SYNNEX PARTNER CONNECT 2024” - posttoday",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZNHc2MFVmV0VtOVBQYVFwRk9oNFhwS2xKNkNYckJ4dzRjYlNlRkN3SjBLcHQ2U3lUcURRUk9xMHZzbnQtOWwzbklHaEFYYV8tekE?oc=5\" target=\"_blank\">ซินเน็คฯ กางแผนธุรกิจในงาน “SYNNEX PARTNER CONNECT 2024”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">posttoday</font>",
+      "title": "ซินเน็คฯ กางแผนธุรกิจในงาน “SYNNEX PARTNER CONNECT 2024” - posttoday.com",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZNHc2MFVmV0VtOVBQYVFwRk9oNFhwS2xKNkNYckJ4dzRjYlNlRkN3SjBLcHQ2U3lUcURRUk9xMHZzbnQtOWwzbklHaEFYYV8tekE?oc=5\" target=\"_blank\">ซินเน็คฯ กางแผนธุรกิจในงาน “SYNNEX PARTNER CONNECT 2024”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">posttoday.com</font>",
       "date": "Tue, 24 Sep 2024 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZNHc2MFVmV0VtOVBQYVFwRk9oNFhwS2xKNkNYckJ4dzRjYlNlRkN3SjBLcHQ2U3lUcURRUk9xMHZzbnQtOWwzbklHaEFYYV8tekE?oc=5",
       "source": "Google News TH",
@@ -132,8 +135,8 @@
       "priority": 5
     },
     {
-      "title": "Synnex เปิดตัว S-GEAR เน้นเรื่องของความง่ายและ Gadget คุณภาพดีราคาไม่แรง - sanook.com",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE4tYXFmUlA2V0l1MXQ2Ym55cWlzdzVBZWRhdFVOMThsc29KdDBjWHRMNlFzQ01CN3laMkhjV1k4bnNaSFdRSjE0N2pIdmhsLW8?oc=5\" target=\"_blank\">Synnex เปิดตัว S-GEAR เน้นเรื่องของความง่ายและ Gadget คุณภาพดีราคาไม่แรง</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">sanook.com",
+      "title": "Synnex เปิดตัว S-GEAR เน้นเรื่องของความง่ายและ Gadget คุณภาพดีราคาไม่แรง - Sanook.com",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE4tYXFmUlA2V0l1MXQ2Ym55cWlzdzVBZWRhdFVOMThsc29KdDBjWHRMNlFzQ01CN3laMkhjV1k4bnNaSFdRSjE0N2pIdmhsLW8?oc=5\" target=\"_blank\">Synnex เปิดตัว S-GEAR เน้นเรื่องของความง่ายและ Gadget คุณภาพดีราคาไม่แรง</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sanook.com",
       "date": "Tue, 22 Mar 2022 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4tYXFmUlA2V0l1MXQ2Ym55cWlzdzVBZWRhdFVOMThsc29KdDBjWHRMNlFzQ01CN3laMkhjV1k4bnNaSFdRSjE0N2pIdmhsLW8?oc=5",
       "source": "Google News TH",
@@ -162,8 +165,8 @@
       "priority": 5
     },
     {
-      "title": "สุธิดา มงคลสุธี ทายาทกิจการหมื่นล้าน รับไม้ยืนหนึ่ง IT ecosystem - posttoday",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OU2JGRnRBbXZYZFBSdWl4WklHVEFwRnVIMU1MdGtXZmg0cldCby1NQUpsRmpjUW1KTTVWSnRwM29hd3M1UktjYVRyVDZVTTFMX01n?oc=5\" target=\"_blank\">สุธิดา มงคลสุธี ทายาทกิจการหมื่นล้าน รับไม้ยืนหนึ่ง IT ecosystem</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">posttoday</fo",
+      "title": "สุธิดา มงคลสุธี ทายาทกิจการหมื่นล้าน รับไม้ยืนหนึ่ง IT ecosystem - posttoday.com",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OU2JGRnRBbXZYZFBSdWl4WklHVEFwRnVIMU1MdGtXZmg0cldCby1NQUpsRmpjUW1KTTVWSnRwM29hd3M1UktjYVRyVDZVTTFMX01n?oc=5\" target=\"_blank\">สุธิดา มงคลสุธี ทายาทกิจการหมื่นล้าน รับไม้ยืนหนึ่ง IT ecosystem</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">posttoday.com",
       "date": "Mon, 17 Apr 2023 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OU2JGRnRBbXZYZFBSdWl4WklHVEFwRnVIMU1MdGtXZmg0cldCby1NQUpsRmpjUW1KTTVWSnRwM29hd3M1UktjYVRyVDZVTTFMX01n?oc=5",
       "source": "Google News TH",
@@ -182,7 +185,7 @@
       "priority": 6
     },
     {
-      "title": "Synnex (Thailand) - Automated Storage and Retrieval System | NTU Entrepreneurship Academy | NTU Singapore - Nanyang Technological University - NTU Singapore",
+      "title": "Synnex (Thailand) - Automated Storage and Retrieval System | NTU Entrepreneurship Academy | NTU Singapore - ntu.edu.sg",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNS2gzQzlvZHFUbXUxY1BpbjZ2enQ0aXdnWGxOZVdVczFJMGVvWUlMNE5uVXZtR1lUZVc1akFMVU1CRDBJb0tXS0stZjZ4VHJRNkZtd1AtUkR6cDZiLVlONzdyUlJiR0Z5X0xDMU0wRXBMZW9fNmk4R0lZRm9LTGw0VV93dXpXN3I2MmJxSFdLa3VIczE4MzNVRE5yWjR2alVrWUFEay1xVFFoWHBhX1c1YllMQ3UySlE?oc",
       "date": "Tue, 17 Nov 2020 08:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNS2gzQzlvZHFUbXUxY1BpbjZ2enQ0aXdnWGxOZVdVczFJMGVvWUlMNE5uVXZtR1lUZVc1akFMVU1CRDBJb0tXS0stZjZ4VHJRNkZtd1AtUkR6cDZiLVlONzdyUlJiR0Z5X0xDMU0wRXBMZW9fNmk4R0lZRm9LTGw0VV93dXpXN3I2MmJxSFdLa3VIczE4MzNVRE5yWjR2alVrWUFEay1xVFFoWHBhX1c1YllMQ3UySlE?oc=5",
@@ -232,14 +235,14 @@
       "priority": 6
     }
   ],
-  "claude_prompt": "CFO FX Brief 11/08/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Singapore stocks hit record high; Asian FX subdued\n- [Bangkok Post Business] Central Pattana sees revenue rise by 8% to B13.1bn in Q2\n- [Bangkok Post Business] B3,000 minimum monthly bill for solar panel subsidy",
+  "claude_prompt": "CFO FX Brief 12/08/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Singapore stocks hit record high; Asian FX subdued\n- [Bangkok Post Business] Central Pattana sees revenue rise by 8% to B13.1bn in Q2",
   "stats": {
-    "fx_news_count": 3,
-    "synnex_news_count": 20,
+    "fx_news_count": 2,
+    "synnex_news_count": 21,
     "data_sources": [
-      "Google News TH",
       "Bangkok Post Business",
-      "Google News EN"
+      "Google News EN",
+      "Google News TH"
     ]
   }
 }
