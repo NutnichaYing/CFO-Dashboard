@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-14 11:48:15 BKK",
+  "last_updated": "2026-08-14 12:24:34 BKK",
   "rate": {
     "date": "2026-08-14",
     "buying": 0,
@@ -58,7 +58,7 @@
       "priority": 5
     },
     {
-      "title": "SYNNEX ร่วมยกระดับงานเกมนานาชาติ “gamescom asia x Thailand Game Show” โชว์ศักยภาพ No.1 Gaming Distributor หนุนวงการเกมไทยสู่เวทีโลก - mitihoon.com",
+      "title": "SYNNEX ร่วมยกระดับงานเกมนานาชาติ “gamescom asia x Thailand Game Show” โชว์ศักยภาพ No.1 Gaming Distributor หนุนวงการเกมไทยสู่เวทีโลก - มิติหุ้น",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9HbXA5M01mMGI1ZnlmTklHOU9VaWw3bm5TT1B0cUNkRnR6VUFYbms3dFkwelVhQUtpeFZINmd3dG9Sbno2aUhwU1lyZHhXekQwMkxCdllR?oc=5\" target=\"_blank\">SYNNEX ร่วมยกระดับงานเกมนานาชาติ “gamescom asia x Thailand Game Show” โชว์ศักยภาพ No.1 Gaming Distributor หนุนว",
       "date": "Thu, 07 Aug 2025 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9HbXA5M01mMGI1ZnlmTklHOU9VaWw3bm5TT1B0cUNkRnR6VUFYbms3dFkwelVhQUtpeFZINmd3dG9Sbno2aUhwU1lyZHhXekQwMkxCdllR?oc=5",
@@ -218,7 +218,7 @@
       "priority": 6
     },
     {
-      "title": "HUAWEI eKit Joins Hands with Distribution Partners to Explore Unlimited Opportunities in Thailand SME market - e.huawei.com",
+      "title": "HUAWEI eKit Joins Hands with Distribution Partners to Explore Unlimited Opportunities in Thailand SME market - Huawei Enterprise",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQSjdLTXRXZ21rdlBCeE41emtTeTN5YmtsTlFYT2h4aWxaUUQ0RjRqcHgyLTNFcnZVQzRKdThLdDZMNVpqMTgtNV96S0ZkMEFsVGFvM2RmQUtqRUdVaDdXZ3RXNlZNc0k4dzVpbmxURGhjLUlGYWVSaFJxbUwxckUtNmdVQQ?oc=5\" target=\"_blank\">HUAWEI eKit Joins Hands with Distribution Partner",
       "date": "Wed, 08 Nov 2023 08:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSjdLTXRXZ21rdlBCeE41emtTeTN5YmtsTlFYT2h4aWxaUUQ0RjRqcHgyLTNFcnZVQzRKdThLdDZMNVpqMTgtNV96S0ZkMEFsVGFvM2RmQUtqRUdVaDdXZ3RXNlZNc0k4dzVpbmxURGhjLUlGYWVSaFJxbUwxckUtNmdVQQ?oc=5",
@@ -233,9 +233,9 @@
     "fx_news_count": 1,
     "synnex_news_count": 21,
     "data_sources": [
+      "Google News EN",
       "Google News TH",
-      "Bangkok Post Business",
-      "Google News EN"
+      "Bangkok Post Business"
     ]
   }
 }
