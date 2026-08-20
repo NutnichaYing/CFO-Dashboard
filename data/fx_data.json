@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-19 18:27:29 BKK",
+  "last_updated": "2026-08-20 08:22:57 BKK",
   "rate": {
-    "date": "2026-08-19",
+    "date": "2026-08-20",
     "buying": 0,
     "selling": 0,
     "mid": 0,
@@ -9,37 +9,30 @@
   },
   "news": [
     {
-      "title": "Thai industrial sentiment rises for a second straight month in July",
-      "description": "Thailand's ​industrial sentiment index rose for a second straight ​month in July &zwnj;due to strong electric vehicle (EV) sales and government support measures, the Federation of Thai Industries (FTI",
-      "date": "Wed, 19 Aug 2026 12:08:00 +0700",
-      "link": "https://www.bangkokpost.com/business/general/3304364/thai-industrial-sentiment-rises-for-a-second-straight-month-in-july",
+      "title": "Commerce Ministry optimistic about export growth",
+      "description": "Exports are projected to grow at a double-digit rate, potentially reaching 12 trillion baht this year, assuming no unexpected challenges arise, according to the Commerce Ministry.",
+      "date": "Thu, 20 Aug 2026 06:13:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3304575/commerce-ministry-optimistic-about-export-growth",
       "source": "Bangkok Post Business"
     },
     {
-      "title": "SEC tightens shareholding rules to curb illicit funds",
-      "description": "The Securities and Exchange Commission (SEC) has tightened its rules governing major shareholders of securities and digital asset businesses, extending scrutiny to the financial backers behind share a",
-      "date": "Wed, 19 Aug 2026 06:42:00 +0700",
-      "link": "https://www.bangkokpost.com/business/investment/3304169/sec-tightens-shareholding-rules-to-curb-illicit-funds",
+      "title": "Diesel surplus puts pressure on industrial output, GDP growth",
+      "description": "Thailand could improve its low capacity utilisation and drive GDP growth this year if it eases a months-long ban on diesel exports, says the Federation of Thai Industries (FTI).",
+      "date": "Thu, 20 Aug 2026 04:21:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3304710/diesel-surplus-puts-pressure-on-industrial-output-gdp-growth",
       "source": "Bangkok Post Business"
     },
     {
-      "title": "Data centre boom spurs new oversight",
-      "description": "The government is establishing a supervisory framework for investment in data centres, covering both projects that receive investment promotion from the Board of Investment (BoI) and those that do not",
-      "date": "Wed, 19 Aug 2026 05:12:00 +0700",
-      "link": "https://www.bangkokpost.com/business/general/3304054/data-centre-boom-spurs-new-oversight",
-      "source": "Bangkok Post Business"
-    },
-    {
-      "title": "BCPG still keen on US following divestment",
-      "description": "BCPG Plc, the renewable energy arm of Bangchak Corporation, is reshaping its investment strategy after divesting stakes in two US gas-fired power plants, signalling a pivot towards high-yield reinvest",
-      "date": "Wed, 19 Aug 2026 04:03:00 +0700",
-      "link": "https://www.bangkokpost.com/business/general/3304159/bcpg-still-keen-on-us-following-divestment",
+      "title": "Thailand plans second sustainability bond worth B15bn",
+      "description": "The Public Debt Management Office (PDMO) is preparing to issue Thailand&rsquo;s second sustainability-linked bond (SLB), aiming to raise 15 billion baht through a 15-year issuance tied to the country&",
+      "date": "Wed, 19 Aug 2026 18:47:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3304467/thailand-plans-second-sustainability-bond-worth-b15bn",
       "source": "Bangkok Post Business"
     }
   ],
   "synnex_news": [
     {
-      "title": "ซินเน็ค (SYNEX) ยิ้มรับโค้งสุดท้ายของปีไฮซีซั่นธุรกิจ สินค้าใหม่เปิดตัว สมาร์ตโฟน-ดีไวซ์กระแสดี - newswit",
+      "title": "ซินเน็ค (SYNEX) ยิ้มรับโค้งสุดท้ายของปีไฮซีซั่นธุรกิจ สินค้าใหม่เปิดตัว สมาร์ตโฟน-ดีไวซ์กระแสดี - newswit.com",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1iZmFkWmVTS2VRbi10eWdLcE5DNlJIakpoZTlJYmxsX09HYmFhZ2FIZjE0RHhNanNxRGVzQmFycnJ0TjZCS2kxa1FwaFBmTU9PaFk4OUMxeGVMMDkyMjRLRVF0YklwQ3R0Y3l3?oc=5\" target=\"_blank\">ซินเน็ค (SYNEX) ยิ้มรับโค้งสุดท้ายของปีไฮซีซั่นธุรกิจ สินค้าใหม่เปิดตัว สมาร์ตโฟน-ด",
       "date": "Thu, 30 Oct 2025 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1iZmFkWmVTS2VRbi10eWdLcE5DNlJIakpoZTlJYmxsX09HYmFhZ2FIZjE0RHhNanNxRGVzQmFycnJ0TjZCS2kxa1FwaFBmTU9PaFk4OUMxeGVMMDkyMjRLRVF0YklwQ3R0Y3l3?oc=5",
@@ -109,7 +102,7 @@
       "priority": 5
     },
     {
-      "title": "Synnex โชว์ฟอร์มแกร่ง Q2/68 รายได้ทะลุหมื่นล้าน! Nintendo Switch 2 และเทรนด์ AI ดันกำไรพุ่ง 19% - Sanook.com",
+      "title": "Synnex โชว์ฟอร์มแกร่ง Q2/68 รายได้ทะลุหมื่นล้าน! Nintendo Switch 2 และเทรนด์ AI ดันกำไรพุ่ง 19% - Sanook",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RT3d1eVozZFMzOXRzZUNia3ozX0tPZHlqZ1g2SkdnUS1UOW1zejJQZ2xFLWZ3aXhWeW9hSGFVLWxGRlJUYkVzejJLVFhGcjg?oc=5\" target=\"_blank\">Synnex โชว์ฟอร์มแกร่ง Q2/68 รายได้ทะลุหมื่นล้าน! Nintendo Switch 2 และเทรนด์ AI ดันกำไรพุ่ง 19%</a>&nbsp;&nbsp;<font col",
       "date": "Thu, 14 Aug 2025 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RT3d1eVozZFMzOXRzZUNia3ozX0tPZHlqZ1g2SkdnUS1UOW1zejJQZ2xFLWZ3aXhWeW9hSGFVLWxGRlJUYkVzejJLVFhGcjg?oc=5",
@@ -129,8 +122,8 @@
       "priority": 5
     },
     {
-      "title": "SYNEX บวก 4% ลุ้นกำไรปีนี้ทะลุ 700 ลบ. อานิสงส์ยอดขายไอทีพุ่ง - ข่าวหุ้นธุรกิจออนไลน์",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wYlE2S25nYUduMDVDR2pva1ZWeFMwbThlcHRqRnZvVGVOUjdvUF90YzhfSjN0RjBHQ1AtR1ItTDVKRmRtREMyM2xISTYzNnlTNjNZbm9R?oc=5\" target=\"_blank\">SYNEX บวก 4% ลุ้นกำไรปีนี้ทะลุ 700 ลบ. อานิสงส์ยอดขายไอทีพุ่ง</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ข่าวหุ้นธุรก",
+      "title": "SYNEX บวก 4% ลุ้นกำไรปีนี้ทะลุ 700 ลบ. อานิสงส์ยอดขายไอทีพุ่ง - kaohoon.com",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wYlE2S25nYUduMDVDR2pva1ZWeFMwbThlcHRqRnZvVGVOUjdvUF90YzhfSjN0RjBHQ1AtR1ItTDVKRmRtREMyM2xISTYzNnlTNjNZbm9R?oc=5\" target=\"_blank\">SYNEX บวก 4% ลุ้นกำไรปีนี้ทะลุ 700 ลบ. อานิสงส์ยอดขายไอทีพุ่ง</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">kaohoon.com<",
       "date": "Tue, 31 Aug 2021 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wYlE2S25nYUduMDVDR2pva1ZWeFMwbThlcHRqRnZvVGVOUjdvUF90YzhfSjN0RjBHQ1AtR1ItTDVKRmRtREMyM2xISTYzNnlTNjNZbm9R?oc=5",
       "source": "Google News TH",
@@ -139,7 +132,7 @@
       "priority": 5
     },
     {
-      "title": "SYNEX เตรียมจัดงานสุดยิ่งใหญ่แห่งปี “Synnex Partners Connect 2022” รวบรวมพาร์ทเนอร์ทั่วประเทศ อัพเดตกลยุทธ์และเทรนด์เทคโนโลยีที่ต้องจับตา - ThaiPR.NET",
+      "title": "SYNEX เตรียมจัดงานสุดยิ่งใหญ่แห่งปี “Synnex Partners Connect 2022” รวบรวมพาร์ทเนอร์ทั่วประเทศ อัพเดตกลยุทธ์และเทรนด์เทคโนโลยีที่ต้องจับตา - thaipr.net",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE1kdTZ4b25WX3dyUHdzeUNBb1hNZU1DSlBRQktNWlprZXRhaDRXd2gyS1NGaHR3RTJvMlRrb0c5RGxseHJYUUlvYnl1ZFBYNEE?oc=5\" target=\"_blank\">SYNEX เตรียมจัดงานสุดยิ่งใหญ่แห่งปี “Synnex Partners Connect 2022” รวบรวมพาร์ทเนอร์ทั่วประเทศ อัพเดตกลยุทธ์และเทรนด์เทคโ",
       "date": "Thu, 22 Sep 2022 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1kdTZ4b25WX3dyUHdzeUNBb1hNZU1DSlBRQktNWlprZXRhaDRXd2gyS1NGaHR3RTJvMlRrb0c5RGxseHJYUUlvYnl1ZFBYNEE?oc=5",
@@ -159,7 +152,7 @@
       "priority": 5
     },
     {
-      "title": "SYNEX คือผู้รับเคราะห์จากการแบน HUAWEI - ลงทุนศาสตร์ - Investerest",
+      "title": "SYNEX คือผู้รับเคราะห์จากการแบน HUAWEI - investerest.co",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBaempLaGlxVGNfOXY1RWR6X3Z5WEZEMzdMZHU5bHV6Q1FkXzZRNGJGcktOQTZjTTBiX1VKdm5jOHRxR196ZjBJbUVxMlV6OGg0VU5CZ2lNQWRhNnRwOVNnTkl6TFBCdVFQMHN6dS1NV0s?oc=5\" target=\"_blank\">SYNEX คือผู้รับเคราะห์จากการแบน HUAWEI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">",
       "date": "Wed, 22 May 2019 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBaempLaGlxVGNfOXY1RWR6X3Z5WEZEMzdMZHU5bHV6Q1FkXzZRNGJGcktOQTZjTTBiX1VKdm5jOHRxR196ZjBJbUVxMlV6OGg0VU5CZ2lNQWRhNnRwOVNnTkl6TFBCdVFQMHN6dS1NV0s?oc=5",
@@ -179,7 +172,7 @@
       "priority": 5
     },
     {
-      "title": "SYNNEX ก้าวสู่ปีที่ 39 แห่งความไว้วางใจ ชูบทบาทผู้นำ Technology Empowerment Partner พร้อมยกระดับ \"Trusted by Synnex\" สู่มาตรฐานใหม่บริการหลังการขาย - newswit",
+      "title": "SYNNEX ก้าวสู่ปีที่ 39 แห่งความไว้วางใจ ชูบทบาทผู้นำ Technology Empowerment Partner พร้อมยกระดับ \"Trusted by Synnex\" สู่มาตรฐานใหม่บริการหลังการขาย - newswit.com",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBFajZTd05oT19RMmJRemUxMzJKWTkxMTI2c2NNWWhDUkZnRVprLUVtU0szYzdwZGV2S0MwMzJmTU5VVXVaV0JXRlFzRWdHZWU4MTdIX2FQV0wxTkFWWUlvMkphRzQzVWxPTUtj?oc=5\" target=\"_blank\">SYNNEX ก้าวสู่ปีที่ 39 แห่งความไว้วางใจ ชูบทบาทผู้นำ Technology Empowerment Partner",
       "date": "Mon, 25 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBFajZTd05oT19RMmJRemUxMzJKWTkxMTI2c2NNWWhDUkZnRVprLUVtU0szYzdwZGV2S0MwMzJmTU5VVXVaV0JXRlFzRWdHZWU4MTdIX2FQV0wxTkFWWUlvMkphRzQzVWxPTUtj?oc=5",
@@ -249,14 +242,14 @@
       "priority": 6
     }
   ],
-  "claude_prompt": "CFO FX Brief 19/08/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Thai industrial sentiment rises for a second straight month in July\n- [Bangkok Post Business] SEC tightens shareholding rules to curb illicit funds\n- [Bangkok Post Business] Data centre boom spurs new oversight\n- [Bangkok Post Business] BCPG still keen on US following divestment",
+  "claude_prompt": "CFO FX Brief 20/08/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Commerce Ministry optimistic about export growth\n- [Bangkok Post Business] Diesel surplus puts pressure on industrial output, GDP growth\n- [Bangkok Post Business] Thailand plans second sustainability bond worth B15bn",
   "stats": {
-    "fx_news_count": 4,
+    "fx_news_count": 3,
     "synnex_news_count": 21,
     "data_sources": [
-      "Bangkok Post Business",
+      "Google News EN",
       "Google News TH",
-      "Google News EN"
+      "Bangkok Post Business"
     ]
   }
 }
