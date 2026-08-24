@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24 08:27:10 BKK",
+  "last_updated": "2026-08-24 10:54:57 BKK",
   "rate": {
     "date": "2026-08-24",
     "buying": 0,
@@ -9,17 +9,17 @@
   },
   "news": [
     {
+      "title": "Shein to make market debut in Hong Kong in September",
+      "description": "HONG KONG - Shein will debut on the Hong Kong stock exchange on Sept 1, the fast-fashion retailer said on Monday, in a long-awaited listing that would value the group at close to US$27 billion.",
+      "date": "Mon, 24 Aug 2026 09:15:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3306984/shein-to-make-market-debut-in-hong-kong-in-september",
+      "source": "Bangkok Post Business"
+    },
+    {
       "title": "TAT targets Taiwan and Korea for tourism inflows",
       "description": "Tourism operators and the Tourism Authority of Thailand (TAT) are urged to focus on the tech-driven economies of South Korea and Taiwan to increase the number of younger travellers visiting Thailand,",
       "date": "Mon, 24 Aug 2026 06:02:00 +0700",
       "link": "https://www.bangkokpost.com/business/general/3306825/tat-targets-taiwan-and-korea-for-tourism-inflows",
-      "source": "Bangkok Post Business"
-    },
-    {
-      "title": "Thai ice-cream brand for sale: Here’s the scoop",
-      "description": "The founder of the Thai ice‑cream brand Hawell&rsquo;s is putting the business up for sale for 165 million baht, saying he is sticking to a long-held goal to enter the monkhood and renounce worldly li",
-      "date": "Sat, 22 Aug 2026 18:07:00 +0700",
-      "link": "https://www.bangkokpost.com/business/general/3306168/thai-icecream-brand-for-sale-heres-the-scoop",
       "source": "Bangkok Post Business"
     }
   ],
@@ -215,7 +215,7 @@
       "priority": 6
     }
   ],
-  "claude_prompt": "CFO FX Brief 24/08/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] TAT targets Taiwan and Korea for tourism inflows\n- [Bangkok Post Business] Thai ice-cream brand for sale: Here’s the scoop",
+  "claude_prompt": "CFO FX Brief 24/08/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Shein to make market debut in Hong Kong in September\n- [Bangkok Post Business] TAT targets Taiwan and Korea for tourism inflows",
   "stats": {
     "fx_news_count": 2,
     "synnex_news_count": 19,
