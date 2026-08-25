@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-25 08:23:48 BKK",
+  "last_updated": "2026-08-25 10:49:18 BKK",
   "rate": {
     "date": "2026-08-25",
     "buying": 0,
@@ -9,18 +9,11 @@
   },
   "news": [
     {
-      "title": "Baht set to rise further amid US worries",
-      "description": "The baht and gold prices, which have soared to their highest levels in nearly three months, are projected to continue rising amid weak sentiment towards the dollar after the US Treasury's buyback fail",
-      "date": "Tue, 25 Aug 2026 05:46:00 +0700",
-      "link": "https://www.bangkokpost.com/business/general/3307269/baht-set-to-rise-further-amid-us-worries",
-      "source": "Bangkok Post Business"
-    },
-    {
-      "title": "TAT targets growth to regain pre-Covid B3tn",
-      "description": "The Tourism and Sports Minister has instructed the Tourism Authority of Thailand (TAT) to reverse last year's decline in tourism revenue and maintain annual growth in the remaining years of this gover",
-      "date": "Tue, 25 Aug 2026 05:42:00 +0700",
-      "link": "https://www.bangkokpost.com/business/general/3307379/tat-targets-growth-to-regain-precovid-b3tn",
-      "source": "Bangkok Post Business"
+      "title": "ไม่สามารถดึงข่าวอัตโนมัติได้",
+      "description": "กรุณาตรวจสอบข่าว FX จาก Reuters หรือ Bangkok Post",
+      "date": "2026-08-25 10:49",
+      "link": "https://www.reuters.com/markets/currencies/",
+      "source": "Manual"
     }
   ],
   "synnex_news": [
@@ -205,14 +198,14 @@
       "priority": 6
     }
   ],
-  "claude_prompt": "CFO FX Brief 25/08/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Baht set to rise further amid US worries\n- [Bangkok Post Business] TAT targets growth to regain pre-Covid B3tn",
+  "claude_prompt": "CFO FX Brief 25/08/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Manual] ไม่สามารถดึงข่าวอัตโนมัติได้",
   "stats": {
-    "fx_news_count": 2,
+    "fx_news_count": 1,
     "synnex_news_count": 18,
     "data_sources": [
       "Google News EN",
       "Google News TH",
-      "Bangkok Post Business"
+      "Manual"
     ]
   }
 }
