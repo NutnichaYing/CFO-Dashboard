@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-25 18:30:48 BKK",
+  "last_updated": "2026-08-26 08:27:21 BKK",
   "rate": {
-    "date": "2026-08-25",
+    "date": "2026-08-26",
     "buying": 0,
     "selling": 0,
     "mid": 0,
@@ -9,21 +9,52 @@
   },
   "news": [
     {
-      "title": "Thaioil’s Excellence in Financial Management and Capital Raising",
-      "description": "As Thailand reaches the halfway point towards its carbon neutrality target, heavy industries are under growing pressure to accelerate decarbonisation while&nbsp;remaining&nbsp;competitive amid geopoli",
-      "date": "Tue, 25 Aug 2026 13:45:00 +0700",
-      "link": "https://www.bangkokpost.com/business/general/3296950/thaioils-excellence-in-financial-management-and-capital-raising",
+      "title": "Foreigners given a say on tourism fee",
+      "description": "The government is conducting an online public hearing for both Thais and foreigners on the proposed 450-baht tourism fee for foreign tourists and the fund's budget usage, insisting the procedures must",
+      "date": "Wed, 26 Aug 2026 05:33:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3307975/foreigners-given-a-say-on-tourism-fee",
       "source": "Bangkok Post Business"
     },
     {
-      "title": "Thai car production up 6.1% y/y in July",
-      "description": "Car ​production &zwnj;in Thailand rose 6.12% in July from a year earlier to 117,383 units, the Federation ​of ⁠Thai Industries said on Tuesday.",
-      "date": "Tue, 25 Aug 2026 11:58:00 +0700",
-      "link": "https://www.bangkokpost.com/business/general/3307660/thai-car-production-up-61-yy-in-july",
+      "title": "Cabinet revisions give teeth to stock regulator",
+      "description": "The cabinet has approved amendments to four capital market laws, including integration of the Securities and Exchange Commission (SEC) into joint investigations with police of stock manipulation and f",
+      "date": "Wed, 26 Aug 2026 04:44:00 +0700",
+      "link": "https://www.bangkokpost.com/business/investment/3308005/cabinet-revisions-give-teeth-to-stock-regulator",
+      "source": "Bangkok Post Business"
+    },
+    {
+      "title": "Industry sounds alarm on pickup sales",
+      "description": "The Federation of Thai Industries (FTI) is warning the continued decline in domestic pickup sales will result in severe repercussions for supply chains, auto parts suppliers and employment.",
+      "date": "Wed, 26 Aug 2026 04:38:00 +0700",
+      "link": "https://www.bangkokpost.com/business/motoring/3307945/industry-sounds-alarm-on-pickup-sales",
+      "source": "Bangkok Post Business"
+    },
+    {
+      "title": "Thailand maintains pole position in Southeast Asia",
+      "description": "Thailand's capital market maintained its leading position in Southeast Asia in terms of both average daily trading value and market capitalisation, while mutual fund assets continued to expand, reachi",
+      "date": "Wed, 26 Aug 2026 04:19:00 +0700",
+      "link": "https://www.bangkokpost.com/business/investment/3308210/thailand-maintains-pole-position-in-southeast-asia",
+      "source": "Bangkok Post Business"
+    },
+    {
+      "title": "Synnex, AWS see B1.2tn opportunity in AI sector",
+      "description": "Thailand could unlock up to 1.2 trillion baht in economic impact from artificial intelligence (AI) innovation, but businesses need to move beyond basic chatbot adoption and address gaps in skills, dat",
+      "date": "Wed, 26 Aug 2026 01:01:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3307970/synnex-aws-see-b12tn-opportunity-in-ai-sector",
       "source": "Bangkok Post Business"
     }
   ],
   "synnex_news": [
+    {
+      "title": "Synnex, AWS see B1.2tn opportunity in AI sector",
+      "description": "Thailand could unlock up to 1.2 trillion baht in economic impact from artificial intelligence (AI) innovation, but businesses need to move beyond basic chatbot adoption and address gaps in skills, data and organisational readiness to capture the opportunity, according to Synnex (Thailand) and Amazon",
+      "date": "Wed, 26 Aug 2026 01:01:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3307970/synnex-aws-see-b12tn-opportunity-in-ai-sector",
+      "source": "Bangkok Post",
+      "category": "general",
+      "trusted": true,
+      "priority": 3
+    },
     {
       "title": "สุธิดา มงคลสุธี ไม่ใช่แค่เพียงลูกสาวท่านประธานแต่เป็นแม่ทัพหญิงแกร่งของ SYNNEX ผู้ปั้นยอดขายไอทีกว่า 40,000 ล้าน - Marketeer Online",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tQjRmVkRWUFlKWmV2TzFOZVEyS2NsaHF1VjNjeVFiZEJLQWtzZDVPa1NzRGE5VUpJc3F3NmtUamdMUzZUNE5nY20yTlAtc29SeGFmcA?oc=5\" target=\"_blank\">สุธิดา มงคลสุธี ไม่ใช่แค่เพียงลูกสาวท่านประธานแต่เป็นแม่ทัพหญิงแกร่งของ SYNNEX ผู้ปั้นยอดขายไอทีกว่า 40,000 ล้าน<",
@@ -75,6 +106,16 @@
       "priority": 5
     },
     {
+      "title": "ส่องผลประกอบการครึ่งปีแรกของ ค้าส่งสินค้าไอที กระแส Work form Home ดันยอดขายขนาดไหน? - Brand Inside",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ka2Y5blk3U1Y4RXg3ekRSMzB2WXFraGdZZWxQLVlZUVJCdHZPRmhkTXlMUU9GSWg4SmR2d0JSUnNqNF93RmZIYzVoaEpIaTFlQTNZcU1HMUNFNHY4amJkYnJqUUgyLXM?oc=5\" target=\"_blank\">ส่องผลประกอบการครึ่งปีแรกของ ค้าส่งสินค้าไอที กระแส Work form Home ดันยอดขายขนาดไหน?</a>",
+      "date": "Mon, 16 Aug 2021 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ka2Y5blk3U1Y4RXg3ekRSMzB2WXFraGdZZWxQLVlZUVJCdHZPRmhkTXlMUU9GSWg4SmR2d0JSUnNqNF93RmZIYzVoaEpIaTFlQTNZcU1HMUNFNHY4amJkYnJqUUgyLXM?oc=5",
+      "source": "Google News TH",
+      "category": "general",
+      "trusted": false,
+      "priority": 5
+    },
+    {
       "title": "SYNNEX ปิดดีลพันธมิตร Cybertron เข้าถือหุ้น 25% รุกธุรกิจไซเบอร์ซีเคียวริตี้ครบวงจร - Techsauce",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPTldGZXp3QUthY0pGdC1Kb2V1cFF3ekpiaFI5S1BqNEZkOEYtTWs3a0tPQW5RcDlNbXFNLUExd3FsamhYcFpWVVdFYzNQejd5N0NfR1dGOUp0MUE4eUxLSzVWODFIM3JtejVNQjM4ZDRfLTdkS2tHZVdBVjFmbUpDMw?oc=5\" target=\"_blank\">SYNNEX ปิดดีลพันธมิตร Cybertron เข้าถือหุ้น 25% รุกธุ",
       "date": "Mon, 22 Aug 2022 11:01:17 GMT",
@@ -85,7 +126,7 @@
       "priority": 5
     },
     {
-      "title": "Synnex โชว์ฟอร์มแกร่ง Q2/68 รายได้ทะลุหมื่นล้าน! Nintendo Switch 2 และเทรนด์ AI ดันกำไรพุ่ง 19% - Sanook.com",
+      "title": "Synnex โชว์ฟอร์มแกร่ง Q2/68 รายได้ทะลุหมื่นล้าน! Nintendo Switch 2 และเทรนด์ AI ดันกำไรพุ่ง 19% - Sanook",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RT3d1eVozZFMzOXRzZUNia3ozX0tPZHlqZ1g2SkdnUS1UOW1zejJQZ2xFLWZ3aXhWeW9hSGFVLWxGRlJUYkVzejJLVFhGcjg?oc=5\" target=\"_blank\">Synnex โชว์ฟอร์มแกร่ง Q2/68 รายได้ทะลุหมื่นล้าน! Nintendo Switch 2 และเทรนด์ AI ดันกำไรพุ่ง 19%</a>&nbsp;&nbsp;<font col",
       "date": "Thu, 14 Aug 2025 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RT3d1eVozZFMzOXRzZUNia3ozX0tPZHlqZ1g2SkdnUS1UOW1zejJQZ2xFLWZ3aXhWeW9hSGFVLWxGRlJUYkVzejJLVFhGcjg?oc=5",
@@ -165,16 +206,6 @@
       "priority": 5
     },
     {
-      "title": "Nintendo Switch by Synnex ร่วมงาน Thailand Mobile Expo 2023 มหกรรมมือถือสุดยิ่งใหญ่แห่งปี - Thaimobilecenter",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQb2Q1a3dmeHc5enp1cjN3RGc5VmxBMDEyeFR0S1ZONHBSODNJZ3RNOXdGalc5X216Ui1OdHZFb0JjVE9OcGc3dm9DZVZ5aFdhS3pJOEJpTHNQRFZKOUo0TE1DU1d3bXN2MUVyd2hNaGZ5cXR2aWJjRzZhQTFkMGdxbQ?oc=5\" target=\"_blank\">Nintendo Switch by Synnex ร่วมงาน Thailand Mobile Exp",
-      "date": "Fri, 27 Oct 2023 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQb2Q1a3dmeHc5enp1cjN3RGc5VmxBMDEyeFR0S1ZONHBSODNJZ3RNOXdGalc5X216Ui1OdHZFb0JjVE9OcGc3dm9DZVZ5aFdhS3pJOEJpTHNQRFZKOUo0TE1DU1d3bXN2MUVyd2hNaGZ5cXR2aWJjRzZhQTFkMGdxbQ?oc=5",
-      "source": "Google News TH",
-      "category": "general",
-      "trusted": false,
-      "priority": 5
-    },
-    {
       "title": "Synnex (Thailand) - Automated Storage and Retrieval System | NTU Entrepreneurship Academy | NTU Singapore - Nanyang Technological University - NTU Singapore",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNS2gzQzlvZHFUbXUxY1BpbjZ2enQ0aXdnWGxOZVdVczFJMGVvWUlMNE5uVXZtR1lUZVc1akFMVU1CRDBJb0tXS0stZjZ4VHJRNkZtd1AtUkR6cDZiLVlONzdyUlJiR0Z5X0xDMU0wRXBMZW9fNmk4R0lZRm9LTGw0VV93dXpXN3I2MmJxSFdLa3VIczE4MzNVRE5yWjR2alVrWUFEay1xVFFoWHBhX1c1YllMQ3UySlE?oc",
       "date": "Tue, 17 Nov 2020 08:00:00 GMT",
@@ -215,14 +246,15 @@
       "priority": 6
     }
   ],
-  "claude_prompt": "CFO FX Brief 25/08/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Thaioil’s Excellence in Financial Management and Capital Raising\n- [Bangkok Post Business] Thai car production up 6.1% y/y in July",
+  "claude_prompt": "CFO FX Brief 26/08/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Foreigners given a say on tourism fee\n- [Bangkok Post Business] Cabinet revisions give teeth to stock regulator\n- [Bangkok Post Business] Industry sounds alarm on pickup sales\n- [Bangkok Post Business] Thailand maintains pole position in Southeast Asia\n- [Bangkok Post Business] Synnex, AWS see B1.2tn opportunity in AI sector",
   "stats": {
-    "fx_news_count": 2,
-    "synnex_news_count": 19,
+    "fx_news_count": 5,
+    "synnex_news_count": 20,
     "data_sources": [
+      "Bangkok Post",
+      "Bangkok Post Business",
       "Google News EN",
-      "Google News TH",
-      "Bangkok Post Business"
+      "Google News TH"
     ]
   }
 }
