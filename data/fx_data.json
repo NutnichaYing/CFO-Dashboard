@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-28 22:46:33 BKK",
+  "last_updated": "2026-08-29 04:19:41 BKK",
   "rate": {
-    "date": "2026-08-28",
+    "date": "2026-08-29",
     "buying": 0,
     "selling": 0,
     "mid": 0,
@@ -232,14 +232,14 @@
       "priority": 6
     }
   ],
-  "claude_prompt": "CFO FX Brief 28/08/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Warsh: Fed has ‘work to do’ if inflation persists\n- [Bangkok Post Business] Most Asian stocks advance as attention turns to Warsh speech\n- [Bangkok Post Business] Thai equities catch the eye of more foreign brokerages",
+  "claude_prompt": "CFO FX Brief 29/08/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Warsh: Fed has ‘work to do’ if inflation persists\n- [Bangkok Post Business] Most Asian stocks advance as attention turns to Warsh speech\n- [Bangkok Post Business] Thai equities catch the eye of more foreign brokerages",
   "stats": {
     "fx_news_count": 3,
     "synnex_news_count": 20,
     "data_sources": [
-      "Google News TH",
+      "Bangkok Post Business",
       "Google News EN",
-      "Bangkok Post Business"
+      "Google News TH"
     ]
   }
 }
