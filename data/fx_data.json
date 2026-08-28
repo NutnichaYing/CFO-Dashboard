@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-28 21:59:17 BKK",
+  "last_updated": "2026-08-28 22:46:33 BKK",
   "rate": {
     "date": "2026-08-28",
     "buying": 0,
@@ -8,6 +8,13 @@
     "source": "Unavailable - Please check BOT website"
   },
   "news": [
+    {
+      "title": "Warsh: Fed has ‘work to do’ if inflation persists",
+      "description": "JACKSON HOLE, Wyoming - The ​US Federal Reserve will &ldquo;have work to do&rdquo; if policymakers are not confident that &zwnj;underlying inflation is returning to its 2% target, chairman Kevin Warsh",
+      "date": "Fri, 28 Aug 2026 22:13:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3309810/warsh-fed-has-work-to-do-if-inflation-persists",
+      "source": "Bangkok Post Business"
+    },
     {
       "title": "Most Asian stocks advance as attention turns to Warsh speech",
       "description": "HONG KONG - Asian stocks mostly rose on Friday ahead of a closely watched speech by United States Federal Reserve boss Kevin Warsh that investors will be parsing for clues about the outlook for intere",
@@ -225,9 +232,9 @@
       "priority": 6
     }
   ],
-  "claude_prompt": "CFO FX Brief 28/08/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Most Asian stocks advance as attention turns to Warsh speech\n- [Bangkok Post Business] Thai equities catch the eye of more foreign brokerages",
+  "claude_prompt": "CFO FX Brief 28/08/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Warsh: Fed has ‘work to do’ if inflation persists\n- [Bangkok Post Business] Most Asian stocks advance as attention turns to Warsh speech\n- [Bangkok Post Business] Thai equities catch the eye of more foreign brokerages",
   "stats": {
-    "fx_news_count": 2,
+    "fx_news_count": 3,
     "synnex_news_count": 20,
     "data_sources": [
       "Google News TH",
