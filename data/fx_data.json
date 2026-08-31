@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-31 11:32:57 BKK",
+  "last_updated": "2026-08-31 16:25:23 BKK",
   "rate": {
     "date": "2026-08-31",
     "buying": 0,
@@ -178,16 +178,6 @@
       "priority": 6
     },
     {
-      "title": "Synnex to Launch Thailand’s First Nintendo Official Authorized Store in Bangkok - GamerBraves",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSHpaZWdjWkxicHFhc3VsaFJRMXR3ZHduTkNPUjZvNEp6WjNveFlocGxpMjdULTZpLVFTaFpwS1BCd2M1X3M3Ti1TX255dGZIQldNTkJscEJqZG53T0IzUDFUWW1VNFNHbEpwcjBIekNtUGxudExrYlRDUUVsdks1aWx5RnNfSWVRdHRWNHBOWTZhbVpsallQTGtxd3lkeC05RV9jTWF5Q3BpOFk?oc=5\" target=\"_bla",
-      "date": "Wed, 06 Nov 2024 03:42:07 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSHpaZWdjWkxicHFhc3VsaFJRMXR3ZHduTkNPUjZvNEp6WjNveFlocGxpMjdULTZpLVFTaFpwS1BCd2M1X3M3Ti1TX255dGZIQldNTkJscEJqZG53T0IzUDFUWW1VNFNHbEpwcjBIekNtUGxudExrYlRDUUVsdks1aWx5RnNfSWVRdHRWNHBOWTZhbVpsallQTGtxd3lkeC05RV9jTWF5Q3BpOFk?oc=5",
-      "source": "Google News EN",
-      "category": "general",
-      "trusted": false,
-      "priority": 6
-    },
-    {
       "title": "Kittipong Prasobchokchaikul Joins Synnex Thailand as Head of Human Resources Operations - hrtoday.in",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMTFhM3lnSXFNajBLb3ZENU1kcXpoVHhWWW54UDNKR3BpTU9EVnMxYlJ4bVRUOWNzY1E2amcwbWdFZkR3Wk1ucHM0ZWZIWHlnVkN3RzBXMTdSSzlLYl9NbXhFRXBHcXRmWTlRTTVpUmkySUUyRzdITEd3RzJ0cFlnX3BJTXd2RFJVZE5Gb2k4ZXBVVGZKZnh1S01KemNhSmxoY3cwUWhIZ2pGQ2c?oc=5\" target=\"_bla",
       "date": "Thu, 02 May 2024 18:54:14 GMT",
@@ -221,11 +211,11 @@
   "claude_prompt": "CFO FX Brief 31/08/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] E-payments set new record in July",
   "stats": {
     "fx_news_count": 1,
-    "synnex_news_count": 20,
+    "synnex_news_count": 19,
     "data_sources": [
+      "Bangkok Post Business",
       "Google News TH",
-      "Google News EN",
-      "Bangkok Post Business"
+      "Google News EN"
     ]
   }
 }
