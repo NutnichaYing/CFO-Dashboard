@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-07 15:00:10 BKK",
+  "last_updated": "2026-09-07 15:44:04 BKK",
   "rate": {
     "date": "2026-09-07",
     "buying": 0,
@@ -182,7 +182,7 @@
       "priority": 5
     },
     {
-      "title": "Synnex (Thailand) - Automated Storage and Retrieval System | NTU Entrepreneurship Academy | NTU Singapore - Nanyang Technological University - NTU Singapore",
+      "title": "Synnex (Thailand) - Automated Storage and Retrieval System | NTU Entrepreneurship Academy | NTU Singapore - ntu.edu.sg",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNS2gzQzlvZHFUbXUxY1BpbjZ2enQ0aXdnWGxOZVdVczFJMGVvWUlMNE5uVXZtR1lUZVc1akFMVU1CRDBJb0tXS0stZjZ4VHJRNkZtd1AtUkR6cDZiLVlONzdyUlJiR0Z5X0xDMU0wRXBMZW9fNmk4R0lZRm9LTGw0VV93dXpXN3I2MmJxSFdLa3VIczE4MzNVRE5yWjR2alVrWUFEay1xVFFoWHBhX1c1YllMQ3UySlE?oc",
       "date": "Tue, 17 Nov 2020 08:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNS2gzQzlvZHFUbXUxY1BpbjZ2enQ0aXdnWGxOZVdVczFJMGVvWUlMNE5uVXZtR1lUZVc1akFMVU1CRDBJb0tXS0stZjZ4VHJRNkZtd1AtUkR6cDZiLVlONzdyUlJiR0Z5X0xDMU0wRXBMZW9fNmk4R0lZRm9LTGw0VV93dXpXN3I2MmJxSFdLa3VIczE4MzNVRE5yWjR2alVrWUFEay1xVFFoWHBhX1c1YllMQ3UySlE?oc=5",
@@ -228,8 +228,8 @@
     "synnex_news_count": 19,
     "data_sources": [
       "Google News EN",
-      "Google News TH",
-      "Bangkok Post Business"
+      "Bangkok Post Business",
+      "Google News TH"
     ]
   }
 }
