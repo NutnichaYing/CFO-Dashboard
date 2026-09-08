@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-08 15:25:05 BKK",
+  "last_updated": "2026-09-08 21:59:32 BKK",
   "rate": {
     "date": "2026-09-08",
     "buying": 0,
@@ -8,6 +8,20 @@
     "source": "Unavailable - Please check BOT website"
   },
   "news": [
+    {
+      "title": "SET to list 28 foreign depositary receipts",
+      "description": "The ⁠Stock ⁠Exchange of Thailand (SET) said ​on Tuesday it would list 28 ​new depositary &zwnj;receipts linked to stocks and exchange-traded funds (ETFs) from Asia, the US and Europe, as it races to m",
+      "date": "Tue, 08 Sep 2026 20:01:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3316109/set-to-list-28-foreign-depositary-receipts",
+      "source": "Bangkok Post Business"
+    },
+    {
+      "title": "Tourism stimulus scheme expected to start Nov 1",
+      "description": "A new &ldquo;Thai Tiew Thai Plus&rdquo; tourism stimulus scheme, offering 1 million entitlements with a budget of 3.5 billion baht, is awaiting cabinet approval for a planned Nov 1 start.",
+      "date": "Tue, 08 Sep 2026 19:36:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3316105/tourism-stimulus-scheme-expected-to-start-nov-1",
+      "source": "Bangkok Post Business"
+    },
     {
       "title": "Canada's counter-tariffs take effect on various US goods",
       "description": "MONTREAL &mdash; Canada's retaliatory tariffs on billions of dollars in US products took effect Tuesday, as a trade war between the North American neighbours heats up.",
@@ -27,34 +41,6 @@
       "description": "Ascend Bank, the virtual bank backed by Charoen Pokphand (CP) Group, is restructuring its internal operations to comply with Bank of Thailand (BoT) regulations and is expected to commence operations t",
       "date": "Tue, 08 Sep 2026 05:49:00 +0700",
       "link": "https://www.bangkokpost.com/business/general/3315773/ascend-bank-restructures-operations-ahead-of-launch",
-      "source": "Bangkok Post Business"
-    },
-    {
-      "title": "Ministry to pursue action against Thaicom, GULF",
-      "description": "The cabinet has authorised the Ministry of Digital Economy and Society (DES) to pursue arbitration and/or court proceedings against Thaicom Plc and Gulf Development Plc (GULF) over an alleged incomple",
-      "date": "Tue, 08 Sep 2026 05:33:00 +0700",
-      "link": "https://www.bangkokpost.com/business/general/3315673/ministry-to-pursue-action-against-thaicom-gulf",
-      "source": "Bangkok Post Business"
-    },
-    {
-      "title": "Fetco calls for higher savings rate to boost national growth",
-      "description": "The Federation of Thai Capital Market Organizations (Fetco) says the government needs to lift Thailand's national savings rate to 28% of GDP from the current 25% to support a planned increase in inves",
-      "date": "Tue, 08 Sep 2026 05:31:00 +0700",
-      "link": "https://www.bangkokpost.com/business/investment/3315683/fetco-calls-for-higher-savings-rate-to-boost-national-growth",
-      "source": "Bangkok Post Business"
-    },
-    {
-      "title": "Thai tourism set to avoid worst forecasts",
-      "description": "The government expects the tourism industry to recover from this year's worst-case scenario and is preparing to stage a large number of events in the final quarter to secure tourism revenue of 2.7 tri",
-      "date": "Tue, 08 Sep 2026 05:28:00 +0700",
-      "link": "https://www.bangkokpost.com/business/general/3315613/thai-tourism-set-to-avoid-worst-forecasts",
-      "source": "Bangkok Post Business"
-    },
-    {
-      "title": "Delivery rider compensation benchmark set",
-      "description": "The Electronic Transactions Development Agency (ETDA) has set a preliminary benchmark for delivery rider compensation at 5 baht per km.",
-      "date": "Tue, 08 Sep 2026 05:26:00 +0700",
-      "link": "https://www.bangkokpost.com/business/general/3315818/delivery-rider-compensation-benchmark-set",
       "source": "Bangkok Post Business"
     }
   ],
@@ -140,8 +126,8 @@
       "priority": 5
     },
     {
-      "title": "ซินเน็คฯ กางแผนธุรกิจในงาน “SYNNEX PARTNER CONNECT 2024” - posttoday.com",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZNHc2MFVmV0VtOVBQYVFwRk9oNFhwS2xKNkNYckJ4dzRjYlNlRkN3SjBLcHQ2U3lUcURRUk9xMHZzbnQtOWwzbklHaEFYYV8tekE?oc=5\" target=\"_blank\">ซินเน็คฯ กางแผนธุรกิจในงาน “SYNNEX PARTNER CONNECT 2024”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">posttoday.com</font>",
+      "title": "ซินเน็คฯ กางแผนธุรกิจในงาน “SYNNEX PARTNER CONNECT 2024” - posttoday",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZNHc2MFVmV0VtOVBQYVFwRk9oNFhwS2xKNkNYckJ4dzRjYlNlRkN3SjBLcHQ2U3lUcURRUk9xMHZzbnQtOWwzbklHaEFYYV8tekE?oc=5\" target=\"_blank\">ซินเน็คฯ กางแผนธุรกิจในงาน “SYNNEX PARTNER CONNECT 2024”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">posttoday</font>",
       "date": "Tue, 24 Sep 2024 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZNHc2MFVmV0VtOVBQYVFwRk9oNFhwS2xKNkNYckJ4dzRjYlNlRkN3SjBLcHQ2U3lUcURRUk9xMHZzbnQtOWwzbklHaEFYYV8tekE?oc=5",
       "source": "Google News TH",
@@ -180,8 +166,8 @@
       "priority": 5
     },
     {
-      "title": "สุธิดา มงคลสุธี ทายาทกิจการหมื่นล้าน รับไม้ยืนหนึ่ง IT ecosystem - posttoday.com",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OU2JGRnRBbXZYZFBSdWl4WklHVEFwRnVIMU1MdGtXZmg0cldCby1NQUpsRmpjUW1KTTVWSnRwM29hd3M1UktjYVRyVDZVTTFMX01n?oc=5\" target=\"_blank\">สุธิดา มงคลสุธี ทายาทกิจการหมื่นล้าน รับไม้ยืนหนึ่ง IT ecosystem</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">posttoday.com",
+      "title": "สุธิดา มงคลสุธี ทายาทกิจการหมื่นล้าน รับไม้ยืนหนึ่ง IT ecosystem - posttoday",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OU2JGRnRBbXZYZFBSdWl4WklHVEFwRnVIMU1MdGtXZmg0cldCby1NQUpsRmpjUW1KTTVWSnRwM29hd3M1UktjYVRyVDZVTTFMX01n?oc=5\" target=\"_blank\">สุธิดา มงคลสุธี ทายาทกิจการหมื่นล้าน รับไม้ยืนหนึ่ง IT ecosystem</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">posttoday</fo",
       "date": "Mon, 17 Apr 2023 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OU2JGRnRBbXZYZFBSdWl4WklHVEFwRnVIMU1MdGtXZmg0cldCby1NQUpsRmpjUW1KTTVWSnRwM29hd3M1UktjYVRyVDZVTTFMX01n?oc=5",
       "source": "Google News TH",
@@ -210,16 +196,6 @@
       "priority": 5
     },
     {
-      "title": "HUAWEI eKit Joins Hands with Distribution Partners to Explore Unlimited Opportunities in Thailand SME market - Huawei Enterprise",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPZl9IZHFHbnNRd0I5VHZEMmRGZk81aWdsT0ExcFhWNmtaR3IwNkxjRHpSMHBuREtJRXhyR1FwankwTjFIWm9JSWcwREd6b0hlN1pMbklxd0hvUXh6aFhwSk5ZeUplV1ZYUTZYU0xKTXRVSExVTUhaOXZ0SWVLaDlNVnoxMA?oc=5\" target=\"_blank\">HUAWEI eKit Joins Hands with Distribution Partner",
-      "date": "Wed, 08 Nov 2023 08:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZl9IZHFHbnNRd0I5VHZEMmRGZk81aWdsT0ExcFhWNmtaR3IwNkxjRHpSMHBuREtJRXhyR1FwankwTjFIWm9JSWcwREd6b0hlN1pMbklxd0hvUXh6aFhwSk5ZeUplV1ZYUTZYU0xKTXRVSExVTUhaOXZ0SWVLaDlNVnoxMA?oc=5",
-      "source": "Google News EN",
-      "category": "general",
-      "trusted": false,
-      "priority": 6
-    },
-    {
       "title": "Synnex (Thailand) - Automated Storage and Retrieval System | NTU Entrepreneurship Academy | NTU Singapore - Nanyang Technological University - NTU Singapore",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNS2gzQzlvZHFUbXUxY1BpbjZ2enQ0aXdnWGxOZVdVczFJMGVvWUlMNE5uVXZtR1lUZVc1akFMVU1CRDBJb0tXS0stZjZ4VHJRNkZtd1AtUkR6cDZiLVlONzdyUlJiR0Z5X0xDMU0wRXBMZW9fNmk4R0lZRm9LTGw0VV93dXpXN3I2MmJxSFdLa3VIczE4MzNVRE5yWjR2alVrWUFEay1xVFFoWHBhX1c1YllMQ3UySlE?oc",
       "date": "Tue, 17 Nov 2020 08:00:00 GMT",
@@ -240,6 +216,16 @@
       "priority": 6
     },
     {
+      "title": "HUAWEI eKit Joins Hands with Distribution Partners to Explore Unlimited Opportunities in Thailand SME market - Huawei Enterprise",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPZl9IZHFHbnNRd0I5VHZEMmRGZk81aWdsT0ExcFhWNmtaR3IwNkxjRHpSMHBuREtJRXhyR1FwankwTjFIWm9JSWcwREd6b0hlN1pMbklxd0hvUXh6aFhwSk5ZeUplV1ZYUTZYU0xKTXRVSExVTUhaOXZ0SWVLaDlNVnoxMA?oc=5\" target=\"_blank\">HUAWEI eKit Joins Hands with Distribution Partner",
+      "date": "Wed, 08 Nov 2023 08:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZl9IZHFHbnNRd0I5VHZEMmRGZk81aWdsT0ExcFhWNmtaR3IwNkxjRHpSMHBuREtJRXhyR1FwankwTjFIWm9JSWcwREd6b0hlN1pMbklxd0hvUXh6aFhwSk5ZeUplV1ZYUTZYU0xKTXRVSExVTUhaOXZ0SWVLaDlNVnoxMA?oc=5",
+      "source": "Google News EN",
+      "category": "general",
+      "trusted": false,
+      "priority": 6
+    },
+    {
       "title": "Sutida Mongkolsuthree - Prestige Online - Singapore",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPa0FaaThuTHI5N1JTS3UzMXgzRlVWN1BPajRGckxOUHkyYV9DOElDTDRqQ3dCamJCdWRpMTdxX0JfT3FxdExIVF9RQ3o5MmY2cEU0NTVKY0lsS01yODZreWZyMXBzQXF1WFhGVTRrXzU4UFVhSG1Sc2ZBTXByck9Jb1FJRzhFTkZ2cnBoSFNzSWJOZ9IBlwFBVV95cUxORkdCd0pvdkI0R2NUaERIazNEUENvNDJhM2hfUG",
       "date": "Mon, 20 Feb 2023 20:47:27 GMT",
@@ -250,14 +236,14 @@
       "priority": 6
     }
   ],
-  "claude_prompt": "CFO FX Brief 08/09/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Canada's counter-tariffs take effect on various US goods\n- [Bangkok Post Business] Centara targets second-tier cities for expansion\n- [Bangkok Post Business] Ascend Bank restructures operations ahead of launch\n- [Bangkok Post Business] Ministry to pursue action against Thaicom, GULF\n- [Bangkok Post Business] Fetco calls for higher savings rate to boost national growth\n- [Bangkok Post Business] Thai tourism set to avoid worst forecasts\n- [Bangkok Post Business] Delivery rider compensation benchmark set",
+  "claude_prompt": "CFO FX Brief 08/09/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] SET to list 28 foreign depositary receipts\n- [Bangkok Post Business] Tourism stimulus scheme expected to start Nov 1\n- [Bangkok Post Business] Canada's counter-tariffs take effect on various US goods\n- [Bangkok Post Business] Centara targets second-tier cities for expansion\n- [Bangkok Post Business] Ascend Bank restructures operations ahead of launch",
   "stats": {
-    "fx_news_count": 7,
+    "fx_news_count": 5,
     "synnex_news_count": 19,
     "data_sources": [
-      "Bangkok Post Business",
+      "Google News TH",
       "Google News EN",
-      "Google News TH"
+      "Bangkok Post Business"
     ]
   }
 }
