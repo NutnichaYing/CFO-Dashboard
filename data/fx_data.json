@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-09 10:48:57 BKK",
+  "last_updated": "2026-09-09 14:55:49 BKK",
   "rate": {
     "date": "2026-09-09",
     "buying": 0,
@@ -8,6 +8,20 @@
     "source": "Unavailable - Please check BOT website"
   },
   "news": [
+    {
+      "title": "EXPLAINER - What is the yen carry trade?",
+      "description": "TOKYO &mdash; With the recent ⁠surge in Japan's currency to a ​seven-month high, investors are wondering if this is the beginning of the end of the yen carry trade that has been a pillar of ​global ma",
+      "date": "Wed, 09 Sep 2026 13:42:00 +0700",
+      "link": "https://www.bangkokpost.com/business/investment/3316679/explainer-what-is-the-yen-carry-trade",
+      "source": "Bangkok Post Business"
+    },
+    {
+      "title": "Thailand to provide $1.5 billion for rooftop solar scheme",
+      "description": "The Thai government's programme ​to ⁠provide 50 billion baht (US$1.52 &zwnj;billion) in support to consumers ⁠to install rooftop solar panels...",
+      "date": "Wed, 09 Sep 2026 11:52:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3316634/thailands-government-to-provide-15-billion-for-rooftop-solar-scheme-starting-midoctober-finance-minister-ekniti-nitithanprapas-says",
+      "source": "Bangkok Post Business"
+    },
     {
       "title": "Nuttpasint Chet-udomlap executes strategy to turn around STELLA",
       "description": "From resolving over 2.111 billion baht in liabilities to striking an asset-unlocking deal worth over 2.45 billion baht, STELLA has engineered a sharp financial turnaround. Reversing a 152-million-baht",
@@ -208,14 +222,14 @@
       "priority": 6
     }
   ],
-  "claude_prompt": "CFO FX Brief 09/09/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Nuttpasint Chet-udomlap executes strategy to turn around STELLA",
+  "claude_prompt": "CFO FX Brief 09/09/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] EXPLAINER - What is the yen carry trade?\n- [Bangkok Post Business] Thailand to provide $1.5 billion for rooftop solar scheme\n- [Bangkok Post Business] Nuttpasint Chet-udomlap executes strategy to turn around STELLA",
   "stats": {
-    "fx_news_count": 1,
+    "fx_news_count": 3,
     "synnex_news_count": 19,
     "data_sources": [
-      "Google News TH",
       "Bangkok Post Business",
-      "Google News EN"
+      "Google News EN",
+      "Google News TH"
     ]
   }
 }
