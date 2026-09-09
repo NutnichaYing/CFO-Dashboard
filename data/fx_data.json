@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-09 15:27:44 BKK",
+  "last_updated": "2026-09-09 22:02:29 BKK",
   "rate": {
     "date": "2026-09-09",
     "buying": 0,
@@ -9,24 +9,17 @@
   },
   "news": [
     {
-      "title": "EXPLAINER - What is the yen carry trade?",
-      "description": "TOKYO &mdash; With the recent ⁠surge in Japan's currency to a ​seven-month high, investors are wondering if this is the beginning of the end of the yen carry trade that has been a pillar of ​global ma",
-      "date": "Wed, 09 Sep 2026 13:42:00 +0700",
-      "link": "https://www.bangkokpost.com/business/investment/3316679/explainer-what-is-the-yen-carry-trade",
-      "source": "Bangkok Post Business"
-    },
-    {
-      "title": "Thailand to provide $1.5 billion for rooftop solar scheme",
-      "description": "The Thai government's programme ​to ⁠provide 50 billion baht (US$1.52 &zwnj;billion) in support to consumers ⁠to install rooftop solar panels...",
-      "date": "Wed, 09 Sep 2026 11:52:00 +0700",
+      "title": "Solar rooftop subsidy scheme to open in mid-October",
+      "description": "Registration will open in mid-October for a solar rooftop scheme offering subsidies of up to 50,000 baht per installation, initially targeting 1 million households.",
+      "date": "Wed, 09 Sep 2026 17:15:00 +0700",
       "link": "https://www.bangkokpost.com/business/general/3316634/thailands-government-to-provide-15-billion-for-rooftop-solar-scheme-starting-midoctober-finance-minister-ekniti-nitithanprapas-says",
       "source": "Bangkok Post Business"
     },
     {
-      "title": "Nuttpasint Chet-udomlap executes strategy to turn around STELLA",
-      "description": "From resolving over 2.111 billion baht in liabilities to striking an asset-unlocking deal worth over 2.45 billion baht, STELLA has engineered a sharp financial turnaround. Reversing a 152-million-baht",
-      "date": "Wed, 09 Sep 2026 06:00:00 +0700",
-      "link": "https://www.bangkokpost.com/business/general/3311289/nuttpasint-chetudomlap-executes-strategy-to-turn-around-stella",
+      "title": "EXPLAINER - What is the yen carry trade?",
+      "description": "TOKYO &mdash; With the recent ⁠surge in Japan's currency to a ​seven-month high, investors are wondering if this is the beginning of the end of the yen carry trade that has been a pillar of ​global ma",
+      "date": "Wed, 09 Sep 2026 13:42:00 +0700",
+      "link": "https://www.bangkokpost.com/business/investment/3316679/explainer-what-is-the-yen-carry-trade",
       "source": "Bangkok Post Business"
     }
   ],
@@ -46,16 +39,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNX1RObGJXQV8tMENLYkdFc3hlNjh4aFlZRVZrNEEzel9UVGJSVWhSV3hWcVlvOGctNFNWRHRjemZscmxZLTNDa25zSzNkUk9ZM2c0WV9hSy14RjY2OXB1U0MwV2pJNnR5bjVEakI0bzhwaHZUaDJyRjFTQ1I1S0xoV1kwMFR5M1k?oc=5\" target=\"_blank\">SYNNEX Clearance Fair 2022 มาแล้ว!!! 18-19 พ",
       "date": "Wed, 16 Nov 2022 08:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX1RObGJXQV8tMENLYkdFc3hlNjh4aFlZRVZrNEEzel9UVGJSVWhSV3hWcVlvOGctNFNWRHRjemZscmxZLTNDa25zSzNkUk9ZM2c0WV9hSy14RjY2OXB1U0MwV2pJNnR5bjVEakI0bzhwaHZUaDJyRjFTQ1I1S0xoV1kwMFR5M1k?oc=5",
-      "source": "Google News TH",
-      "category": "general",
-      "trusted": false,
-      "priority": 5
-    },
-    {
-      "title": "ซินเน็ค (SYNEX) เปิดวิสัยทัศน์ในงาน “SYNNEX PARTNER CONNECT 2025” ปักธงสู่ AI Ecosystem ผนึกกำลังพันธมิตรระดับโลก ขับเคลื่อนอนาคตดิจิทัลอย่างยั่งยืน - ThaiPR.NET",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTFBoM3ZOZWJMX3ZtV0QzdVBXWjRLZERuNGN6Z1JMQjlRdGpCZmlpWmhHOVI4cjhkVHpremVWM2xGcFl3OVBKc0pwZg?oc=5\" target=\"_blank\">ซินเน็ค (SYNEX) เปิดวิสัยทัศน์ในงาน “SYNNEX PARTNER CONNECT 2025” ปักธงสู่ AI Ecosystem ผนึกกำลังพันธมิตรระดับโลก ขับเคลื่อนอนาคต",
-      "date": "Fri, 12 Sep 2025 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBoM3ZOZWJMX3ZtV0QzdVBXWjRLZERuNGN6Z1JMQjlRdGpCZmlpWmhHOVI4cjhkVHpremVWM2xGcFl3OVBKc0pwZg?oc=5",
       "source": "Google News TH",
       "category": "general",
       "trusted": false,
@@ -82,7 +65,7 @@
       "priority": 5
     },
     {
-      "title": "Synnex โชว์ฟอร์มแกร่ง Q2/68 รายได้ทะลุหมื่นล้าน! Nintendo Switch 2 และเทรนด์ AI ดันกำไรพุ่ง 19% - sanook.com",
+      "title": "Synnex โชว์ฟอร์มแกร่ง Q2/68 รายได้ทะลุหมื่นล้าน! Nintendo Switch 2 และเทรนด์ AI ดันกำไรพุ่ง 19% - Sanook",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RT3d1eVozZFMzOXRzZUNia3ozX0tPZHlqZ1g2SkdnUS1UOW1zejJQZ2xFLWZ3aXhWeW9hSGFVLWxGRlJUYkVzejJLVFhGcjg?oc=5\" target=\"_blank\">Synnex โชว์ฟอร์มแกร่ง Q2/68 รายได้ทะลุหมื่นล้าน! Nintendo Switch 2 และเทรนด์ AI ดันกำไรพุ่ง 19%</a>&nbsp;&nbsp;<font col",
       "date": "Thu, 14 Aug 2025 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RT3d1eVozZFMzOXRzZUNia3ozX0tPZHlqZ1g2SkdnUS1UOW1zejJQZ2xFLWZ3aXhWeW9hSGFVLWxGRlJUYkVzejJLVFhGcjg?oc=5",
@@ -102,20 +85,30 @@
       "priority": 5
     },
     {
-      "title": "SYNNEX ก้าวสู่ปีที่ 39 แห่งความไว้วางใจ ชูบทบาทผู้นำ Technology Empowerment Partner พร้อมยกระดับ \"Trusted by Synnex\" สู่มาตรฐานใหม่บริการหลังการขาย - newswit",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBFajZTd05oT19RMmJRemUxMzJKWTkxMTI2c2NNWWhDUkZnRVprLUVtU0szYzdwZGV2S0MwMzJmTU5VVXVaV0JXRlFzRWdHZWU4MTdIX2FQV0wxTkFWWUlvMkphRzQzVWxPTUtj?oc=5\" target=\"_blank\">SYNNEX ก้าวสู่ปีที่ 39 แห่งความไว้วางใจ ชูบทบาทผู้นำ Technology Empowerment Partner",
-      "date": "Mon, 25 May 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBFajZTd05oT19RMmJRemUxMzJKWTkxMTI2c2NNWWhDUkZnRVprLUVtU0szYzdwZGV2S0MwMzJmTU5VVXVaV0JXRlFzRWdHZWU4MTdIX2FQV0wxTkFWWUlvMkphRzQzVWxPTUtj?oc=5",
+      "title": "SYNEX บวก 4% ลุ้นกำไรปีนี้ทะลุ 700 ลบ. อานิสงส์ยอดขายไอทีพุ่ง - ข่าวหุ้นธุรกิจออนไลน์",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wYlE2S25nYUduMDVDR2pva1ZWeFMwbThlcHRqRnZvVGVOUjdvUF90YzhfSjN0RjBHQ1AtR1ItTDVKRmRtREMyM2xISTYzNnlTNjNZbm9R?oc=5\" target=\"_blank\">SYNEX บวก 4% ลุ้นกำไรปีนี้ทะลุ 700 ลบ. อานิสงส์ยอดขายไอทีพุ่ง</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ข่าวหุ้นธุรก",
+      "date": "Tue, 31 Aug 2021 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wYlE2S25nYUduMDVDR2pva1ZWeFMwbThlcHRqRnZvVGVOUjdvUF90YzhfSjN0RjBHQ1AtR1ItTDVKRmRtREMyM2xISTYzNnlTNjNZbm9R?oc=5",
       "source": "Google News TH",
       "category": "general",
       "trusted": false,
       "priority": 5
     },
     {
-      "title": "ซินเน็คฯ กางแผนธุรกิจในงาน “SYNNEX PARTNER CONNECT 2024” - posttoday",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZNHc2MFVmV0VtOVBQYVFwRk9oNFhwS2xKNkNYckJ4dzRjYlNlRkN3SjBLcHQ2U3lUcURRUk9xMHZzbnQtOWwzbklHaEFYYV8tekE?oc=5\" target=\"_blank\">ซินเน็คฯ กางแผนธุรกิจในงาน “SYNNEX PARTNER CONNECT 2024”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">posttoday</font>",
-      "date": "Tue, 24 Sep 2024 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZNHc2MFVmV0VtOVBQYVFwRk9oNFhwS2xKNkNYckJ4dzRjYlNlRkN3SjBLcHQ2U3lUcURRUk9xMHZzbnQtOWwzbklHaEFYYV8tekE?oc=5",
+      "title": "ซินเน็คฯ กางแผนธุรกิจในงาน “SYNNEX PARTNER CONNECT 2024” ย้ำ 36 ปี มุ่งเป็นองค์กรที่ยกระดับชีวิตผู้คนด้วยเทคโนโลยี พร้อมเผย iPhone16 เปิดตัววันแรกกระแสแรง - thaipr.net",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE5FVl9BTDhzX1VDZi1BN2h2MlFxWFk1VkJYNXhKYlFGLTJzMXBQeFBfYTZVajFyME1RRmtXZHNIcnRyOVgzLWgwamVodV9LcWRj?oc=5\" target=\"_blank\">ซินเน็คฯ กางแผนธุรกิจในงาน “SYNNEX PARTNER CONNECT 2024” ย้ำ 36 ปี มุ่งเป็นองค์กรที่ยกระดับชีวิตผู้คนด้วยเทคโนโลยี พร้อ",
+      "date": "Fri, 20 Sep 2024 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5FVl9BTDhzX1VDZi1BN2h2MlFxWFk1VkJYNXhKYlFGLTJzMXBQeFBfYTZVajFyME1RRmtXZHNIcnRyOVgzLWgwamVodV9LcWRj?oc=5",
+      "source": "Google News TH",
+      "category": "general",
+      "trusted": false,
+      "priority": 5
+    },
+    {
+      "title": "SYNNEX ก้าวสู่ปีที่ 39 แห่งความไว้วางใจ ชูบทบาทผู้นำ Technology Empowerment Partner พร้อมยกระดับ \"Trusted by Synnex\" สู่มาตรฐานใหม่บริการหลังการขาย - newswit",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBFajZTd05oT19RMmJRemUxMzJKWTkxMTI2c2NNWWhDUkZnRVprLUVtU0szYzdwZGV2S0MwMzJmTU5VVXVaV0JXRlFzRWdHZWU4MTdIX2FQV0wxTkFWWUlvMkphRzQzVWxPTUtj?oc=5\" target=\"_blank\">SYNNEX ก้าวสู่ปีที่ 39 แห่งความไว้วางใจ ชูบทบาทผู้นำ Technology Empowerment Partner",
+      "date": "Mon, 25 May 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBFajZTd05oT19RMmJRemUxMzJKWTkxMTI2c2NNWWhDUkZnRVprLUVtU0szYzdwZGV2S0MwMzJmTU5VVXVaV0JXRlFzRWdHZWU4MTdIX2FQV0wxTkFWWUlvMkphRzQzVWxPTUtj?oc=5",
       "source": "Google News TH",
       "category": "general",
       "trusted": false,
@@ -136,6 +129,16 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5jRjdLZWsxdUVhdWtYZDFuM0xFRFFlV1FXM3pTalBLOWpsSDc4V09EWEZwT0NUZV9QYm1vMVA0aUtoXy1WQXlRRUNpU0dpTlNTbEVGN1BQUFVfZ1c5LU9QVDBodk56dUdpTVNXVkl0Yw?oc=5\" target=\"_blank\">ซินเน็คขนทัพสินค้า “Trusted By Synnex” จากแบรนด์ไอทีชั้นนำ บุกงาน TME 2024 ย้",
       "date": "Sat, 10 Feb 2024 08:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jRjdLZWsxdUVhdWtYZDFuM0xFRFFlV1FXM3pTalBLOWpsSDc4V09EWEZwT0NUZV9QYm1vMVA0aUtoXy1WQXlRRUNpU0dpTlNTbEVGN1BQUFVfZ1c5LU9QVDBodk56dUdpTVNXVkl0Yw?oc=5",
+      "source": "Google News TH",
+      "category": "general",
+      "trusted": false,
+      "priority": 5
+    },
+    {
+      "title": "SYNEX เตรียมจัดงานสุดยิ่งใหญ่แห่งปี “Synnex Partners Connect 2022” รวบรวมพาร์ทเนอร์ทั่วประเทศ อัพเดตกลยุทธ์และเทรนด์เทคโนโลยีที่ต้องจับตา - thaipr.net",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE1kdTZ4b25WX3dyUHdzeUNBb1hNZU1DSlBRQktNWlprZXRhaDRXd2gyS1NGaHR3RTJvMlRrb0c5RGxseHJYUUlvYnl1ZFBYNEE?oc=5\" target=\"_blank\">SYNEX เตรียมจัดงานสุดยิ่งใหญ่แห่งปี “Synnex Partners Connect 2022” รวบรวมพาร์ทเนอร์ทั่วประเทศ อัพเดตกลยุทธ์และเทรนด์เทคโ",
+      "date": "Thu, 22 Sep 2022 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1kdTZ4b25WX3dyUHdzeUNBb1hNZU1DSlBRQktNWlprZXRhaDRXd2gyS1NGaHR3RTJvMlRrb0c5RGxseHJYUUlvYnl1ZFBYNEE?oc=5",
       "source": "Google News TH",
       "category": "general",
       "trusted": false,
@@ -172,17 +175,7 @@
       "priority": 5
     },
     {
-      "title": "SYNEX เตรียมจัดงานสุดยิ่งใหญ่แห่งปี “Synnex Partners Connect 2022” รวบรวมพาร์ทเนอร์ทั่วประเทศ อัพเดตกลยุทธ์และเทรนด์เทคโนโลยีที่ต้องจับตา - ThaiPR.NET",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE1kdTZ4b25WX3dyUHdzeUNBb1hNZU1DSlBRQktNWlprZXRhaDRXd2gyS1NGaHR3RTJvMlRrb0c5RGxseHJYUUlvYnl1ZFBYNEE?oc=5\" target=\"_blank\">SYNEX เตรียมจัดงานสุดยิ่งใหญ่แห่งปี “Synnex Partners Connect 2022” รวบรวมพาร์ทเนอร์ทั่วประเทศ อัพเดตกลยุทธ์และเทรนด์เทคโ",
-      "date": "Thu, 22 Sep 2022 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1kdTZ4b25WX3dyUHdzeUNBb1hNZU1DSlBRQktNWlprZXRhaDRXd2gyS1NGaHR3RTJvMlRrb0c5RGxseHJYUUlvYnl1ZFBYNEE?oc=5",
-      "source": "Google News TH",
-      "category": "general",
-      "trusted": false,
-      "priority": 5
-    },
-    {
-      "title": "HUAWEI eKit Joins Hands with Distribution Partners to Explore Unlimited Opportunities in Thailand SME market - Huawei Enterprise",
+      "title": "HUAWEI eKit Joins Hands with Distribution Partners to Explore Unlimited Opportunities in Thailand SME market - e.huawei.com",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPZl9IZHFHbnNRd0I5VHZEMmRGZk81aWdsT0ExcFhWNmtaR3IwNkxjRHpSMHBuREtJRXhyR1FwankwTjFIWm9JSWcwREd6b0hlN1pMbklxd0hvUXh6aFhwSk5ZeUplV1ZYUTZYU0xKTXRVSExVTUhaOXZ0SWVLaDlNVnoxMA?oc=5\" target=\"_blank\">HUAWEI eKit Joins Hands with Distribution Partner",
       "date": "Wed, 08 Nov 2023 08:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZl9IZHFHbnNRd0I5VHZEMmRGZk81aWdsT0ExcFhWNmtaR3IwNkxjRHpSMHBuREtJRXhyR1FwankwTjFIWm9JSWcwREd6b0hlN1pMbklxd0hvUXh6aFhwSk5ZeUplV1ZYUTZYU0xKTXRVSExVTUhaOXZ0SWVLaDlNVnoxMA?oc=5",
@@ -222,13 +215,13 @@
       "priority": 6
     }
   ],
-  "claude_prompt": "CFO FX Brief 09/09/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] EXPLAINER - What is the yen carry trade?\n- [Bangkok Post Business] Thailand to provide $1.5 billion for rooftop solar scheme\n- [Bangkok Post Business] Nuttpasint Chet-udomlap executes strategy to turn around STELLA",
+  "claude_prompt": "CFO FX Brief 09/09/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Solar rooftop subsidy scheme to open in mid-October\n- [Bangkok Post Business] EXPLAINER - What is the yen carry trade?",
   "stats": {
-    "fx_news_count": 3,
+    "fx_news_count": 2,
     "synnex_news_count": 19,
     "data_sources": [
-      "Google News EN",
       "Google News TH",
+      "Google News EN",
       "Bangkok Post Business"
     ]
   }
