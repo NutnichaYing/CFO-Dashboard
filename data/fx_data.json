@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-10 10:47:39 BKK",
+  "last_updated": "2026-09-10 14:55:52 BKK",
   "rate": {
     "date": "2026-09-10",
     "buying": 0,
@@ -9,17 +9,17 @@
   },
   "news": [
     {
+      "title": "Thai industrial sentiment declines in August",
+      "description": "Industrial sentiment weakened in August as heavy rainfall disrupted economic activity and the prolonged conflict in the Middle East pushed up energy costs, according to the Federation of Thai Industri",
+      "date": "Thu, 10 Sep 2026 10:15:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3316885/thai-industrial-sentiment-declines-in-august",
+      "source": "Bangkok Post Business"
+    },
+    {
       "title": "Thaivivat seeks double-digit premium growth in 2026",
       "description": "Thaivivat Insurance is targeting double-digit premium growth this year, driven by continued expansion in both motor and non-motor insurance as the insurer steps up technology investment to strengthen",
       "date": "Thu, 10 Sep 2026 01:01:00 +0700",
       "link": "https://www.bangkokpost.com/business/general/3316985/thaivivat-seeks-doubledigit-premium-growth-in-2026",
-      "source": "Bangkok Post Business"
-    },
-    {
-      "title": "Shenzhen event targets greater Chinese investment",
-      "description": "The Thailand Convention and Exhibition Bureau (TCEB) is targeting 1 billion baht in business opportunities from Chinese investors with the launch of \"Meet Thai Plus 2026\" in Shenzhen this week, aiming",
-      "date": "Thu, 10 Sep 2026 01:01:00 +0700",
-      "link": "https://www.bangkokpost.com/business/general/3317005/shenzhen-event-targets-greater-chinese-investment",
       "source": "Bangkok Post Business"
     }
   ],
@@ -65,7 +65,27 @@
       "priority": 5
     },
     {
-      "title": "Synnex โชว์ฟอร์มแกร่ง Q2/68 รายได้ทะลุหมื่นล้าน! Nintendo Switch 2 และเทรนด์ AI ดันกำไรพุ่ง 19% - Sanook",
+      "title": "ส่องผลประกอบการครึ่งปีแรกของ ค้าส่งสินค้าไอที กระแส Work form Home ดันยอดขายขนาดไหน? - Brand Inside",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ka2Y5blk3U1Y4RXg3ekRSMzB2WXFraGdZZWxQLVlZUVJCdHZPRmhkTXlMUU9GSWg4SmR2d0JSUnNqNF93RmZIYzVoaEpIaTFlQTNZcU1HMUNFNHY4amJkYnJqUUgyLXM?oc=5\" target=\"_blank\">ส่องผลประกอบการครึ่งปีแรกของ ค้าส่งสินค้าไอที กระแส Work form Home ดันยอดขายขนาดไหน?</a>",
+      "date": "Mon, 16 Aug 2021 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ka2Y5blk3U1Y4RXg3ekRSMzB2WXFraGdZZWxQLVlZUVJCdHZPRmhkTXlMUU9GSWg4SmR2d0JSUnNqNF93RmZIYzVoaEpIaTFlQTNZcU1HMUNFNHY4amJkYnJqUUgyLXM?oc=5",
+      "source": "Google News TH",
+      "category": "general",
+      "trusted": false,
+      "priority": 5
+    },
+    {
+      "title": "SYNEX เตรียมเปิดคลังขนสินค้า จัดลด-แลก แบบกระหน่ำ เต็มพื้นที่ “Synnex Clearance Sale 2023” วันที่ 24 - 25 พฤศจิกายน นี้ - Share2Trade",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiygdBVV95cUxNLVRRYkRmcXJzNlYxUzRYQUp5dFk0el9ueGNiSlhkMU9ZQ3V4SWhUczI5Wjd1bHdTc2Rla1VINGh4cF9FTG1rUGRuei1wajRUYWdwWWFjaUxEUWFGa3VKZS13ZGJuWENOS2kwODJjTENpRGVMMG5YTzJiWk1Qclp5eWlCcGpfZHRmSXY5aTBocnh1azE1RWRreGlqNjZWSFE1a1hScXRUU1JKVVk4UTNVQmdRUjJlcEJzZ2",
+      "date": "Sun, 12 Nov 2023 15:46:28 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiygdBVV95cUxNLVRRYkRmcXJzNlYxUzRYQUp5dFk0el9ueGNiSlhkMU9ZQ3V4SWhUczI5Wjd1bHdTc2Rla1VINGh4cF9FTG1rUGRuei1wajRUYWdwWWFjaUxEUWFGa3VKZS13ZGJuWENOS2kwODJjTENpRGVMMG5YTzJiWk1Qclp5eWlCcGpfZHRmSXY5aTBocnh1azE1RWRreGlqNjZWSFE1a1hScXRUU1JKVVk4UTNVQmdRUjJlcEJzZ2VMRnVUZVdMb3FOWGVFR2oxXzVUd3FlS0pfejdxc21JUl9JekJpUVo1bjY5V2pMdS1rbGZqbGhwQVJMbGM5MkQ1Wnc1cjVmeWhtR2NpV0pyS2oyWkJrek5ra3RyVFZ3Q0E5OGZKVk9EWXAwalNtMmNEdFpMRW5XWGlKQTRyUXZhcU12OW1LazM4dmtCTnEwTmFfY24yLXVaZWNJVGI2SWdGRE5IVHN4Tm9BV3VteXdZZHRlY2xBMDZRU08xYk1BamtUSWpwdDFSTmVQdVZBdlg0dHU3dkVMZS1zTC1pbU1fSHdNYjR1dGpodmFTTHZiVXNYX2FLT0E4bmlBMzV6eWpad0Q0R1p6cXVrampVaC1KQmpSaTVEYXgydVZ2aTNrZUVrQWZOTWt0Z2E1ams4LVRlcV80NGJwUmlsMjkxRHdzMVduWmtyTU9nd29Ec21lOWdiM3YwX0tLM1RBX0JBdFI1MGlZVlYzRlZQZWNlazJNdGN5a0NVdVJqRU9Sc0VmQzNSQWc3aHV1c3RoV1p5OW00OXpDdExpU0s3TS1YVmtVdnI5Y0h4eUlPZGVMb0h4TUhPd0ZIM2NuTWtfbG5oeFNnUUdiWnZlQnFsR3kxSGEtZVB4eFlaRWN2WXhyR1NvRE5xeURLT0I5WlJJY0JGUmJVS1YyOFhUQVR0MzJOX0lOTnhPX0RRRG1LaE50RkRta2psbEx2bnd6OTNldTdTNzJNUG1KYk1mTjdYb0FKa1k2X2thYlZQZ29DdFZfUFV0VHBzTnlLZUdhc0RuU1BkZXVPR2Z4X1psblVDc0RxTDFWcWdhRjVIY2daNGFuMUl3R0hzME9SdFlrSHUxQktua21GWFpxWXQ1Y0ViS1I0Rldld2tJTFNPTXBmN1ZWN2IyTjlRTEtMV2JncHBrLUtJTmIyYzdJUEdreWlZRGplcGo3WmJtSDE3ckh5TC13YkVqTE1DQnloZ05HdkNBR2RuSEpoVU02Mm9MbURXOHdDSFktcGs2aWVWdjFkdkNmR2ZUaENBeHQzdFpDZlpuZVdvSFJn?oc=5",
+      "source": "Google News TH",
+      "category": "general",
+      "trusted": false,
+      "priority": 5
+    },
+    {
+      "title": "Synnex โชว์ฟอร์มแกร่ง Q2/68 รายได้ทะลุหมื่นล้าน! Nintendo Switch 2 และเทรนด์ AI ดันกำไรพุ่ง 19% - Sanook.com",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RT3d1eVozZFMzOXRzZUNia3ozX0tPZHlqZ1g2SkdnUS1UOW1zejJQZ2xFLWZ3aXhWeW9hSGFVLWxGRlJUYkVzejJLVFhGcjg?oc=5\" target=\"_blank\">Synnex โชว์ฟอร์มแกร่ง Q2/68 รายได้ทะลุหมื่นล้าน! Nintendo Switch 2 และเทรนด์ AI ดันกำไรพุ่ง 19%</a>&nbsp;&nbsp;<font col",
       "date": "Thu, 14 Aug 2025 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RT3d1eVozZFMzOXRzZUNia3ozX0tPZHlqZ1g2SkdnUS1UOW1zejJQZ2xFLWZ3aXhWeW9hSGFVLWxGRlJUYkVzejJLVFhGcjg?oc=5",
@@ -85,30 +105,10 @@
       "priority": 5
     },
     {
-      "title": "SYNEX บวก 4% ลุ้นกำไรปีนี้ทะลุ 700 ลบ. อานิสงส์ยอดขายไอทีพุ่ง - ข่าวหุ้นธุรกิจออนไลน์",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wYlE2S25nYUduMDVDR2pva1ZWeFMwbThlcHRqRnZvVGVOUjdvUF90YzhfSjN0RjBHQ1AtR1ItTDVKRmRtREMyM2xISTYzNnlTNjNZbm9R?oc=5\" target=\"_blank\">SYNEX บวก 4% ลุ้นกำไรปีนี้ทะลุ 700 ลบ. อานิสงส์ยอดขายไอทีพุ่ง</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ข่าวหุ้นธุรก",
-      "date": "Tue, 31 Aug 2021 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wYlE2S25nYUduMDVDR2pva1ZWeFMwbThlcHRqRnZvVGVOUjdvUF90YzhfSjN0RjBHQ1AtR1ItTDVKRmRtREMyM2xISTYzNnlTNjNZbm9R?oc=5",
-      "source": "Google News TH",
-      "category": "general",
-      "trusted": false,
-      "priority": 5
-    },
-    {
       "title": "ซินเน็คฯ กางแผนธุรกิจในงาน “SYNNEX PARTNER CONNECT 2024” ย้ำ 36 ปี มุ่งเป็นองค์กรที่ยกระดับชีวิตผู้คนด้วยเทคโนโลยี พร้อมเผย iPhone16 เปิดตัววันแรกกระแสแรง - ThaiPR.NET",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE5FVl9BTDhzX1VDZi1BN2h2MlFxWFk1VkJYNXhKYlFGLTJzMXBQeFBfYTZVajFyME1RRmtXZHNIcnRyOVgzLWgwamVodV9LcWRj?oc=5\" target=\"_blank\">ซินเน็คฯ กางแผนธุรกิจในงาน “SYNNEX PARTNER CONNECT 2024” ย้ำ 36 ปี มุ่งเป็นองค์กรที่ยกระดับชีวิตผู้คนด้วยเทคโนโลยี พร้อ",
       "date": "Fri, 20 Sep 2024 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5FVl9BTDhzX1VDZi1BN2h2MlFxWFk1VkJYNXhKYlFGLTJzMXBQeFBfYTZVajFyME1RRmtXZHNIcnRyOVgzLWgwamVodV9LcWRj?oc=5",
-      "source": "Google News TH",
-      "category": "general",
-      "trusted": false,
-      "priority": 5
-    },
-    {
-      "title": "SYNNEX ประกาศถือครองตลาด NINTENDO เป็นผู้จัดจำหน่ายในไทยอย่างเป็นทางการ ส่งซ่อม / เคลมที่ศูนย์ได้เลย - DroidSans",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBuWEs0MHowV1RIREZ6WDNHMmpESHJ2X3VQOC0zc2c3X0ZxXzhLb3JrM0tTVFVreWs5ZWJCbFFXWkNIdnlka0Q4S0JJQmxBUTNvcm0tMV9DcHA2UzdMX29NZ1lzbFFkWTZuU0o2S3hkWE8yQQ?oc=5\" target=\"_blank\">SYNNEX ประกาศถือครองตลาด NINTENDO เป็นผู้จัดจำหน่ายในไทยอย่างเป็นทางการ ส",
-      "date": "Thu, 23 Mar 2023 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBuWEs0MHowV1RIREZ6WDNHMmpESHJ2X3VQOC0zc2c3X0ZxXzhLb3JrM0tTVFVreWs5ZWJCbFFXWkNIdnlka0Q4S0JJQmxBUTNvcm0tMV9DcHA2UzdMX29NZ1lzbFFkWTZuU0o2S3hkWE8yQQ?oc=5",
       "source": "Google News TH",
       "category": "general",
       "trusted": false,
@@ -215,14 +215,14 @@
       "priority": 6
     }
   ],
-  "claude_prompt": "CFO FX Brief 10/09/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Thaivivat seeks double-digit premium growth in 2026\n- [Bangkok Post Business] Shenzhen event targets greater Chinese investment",
+  "claude_prompt": "CFO FX Brief 10/09/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Thai industrial sentiment declines in August\n- [Bangkok Post Business] Thaivivat seeks double-digit premium growth in 2026",
   "stats": {
     "fx_news_count": 2,
     "synnex_news_count": 19,
     "data_sources": [
-      "Google News EN",
+      "Google News TH",
       "Bangkok Post Business",
-      "Google News TH"
+      "Google News EN"
     ]
   }
 }
