@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-11 14:51:38 BKK",
+  "last_updated": "2026-09-11 15:23:51 BKK",
   "rate": {
     "date": "2026-09-11",
     "buying": 0,
@@ -52,7 +52,7 @@
       "priority": 5
     },
     {
-      "title": "สุธิดา มงคลสุธี ไม่ใช่แค่เพียงลูกสาวท่านประธานแต่เป็นแม่ทัพหญิงแกร่งของ SYNNEX ผู้ปั้นยอดขายไอทีกว่า 40,000 ล้าน - marketeeronline.co",
+      "title": "สุธิดา มงคลสุธี ไม่ใช่แค่เพียงลูกสาวท่านประธานแต่เป็นแม่ทัพหญิงแกร่งของ SYNNEX ผู้ปั้นยอดขายไอทีกว่า 40,000 ล้าน - Marketeer Online",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tQjRmVkRWUFlKWmV2TzFOZVEyS2NsaHF1VjNjeVFiZEJLQWtzZDVPa1NzRGE5VUpJc3F3NmtUamdMUzZUNE5nY20yTlAtc29SeGFmcA?oc=5\" target=\"_blank\">สุธิดา มงคลสุธี ไม่ใช่แค่เพียงลูกสาวท่านประธานแต่เป็นแม่ทัพหญิงแกร่งของ SYNNEX ผู้ปั้นยอดขายไอทีกว่า 40,000 ล้าน<",
       "date": "Mon, 07 Nov 2022 08:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tQjRmVkRWUFlKWmV2TzFOZVEyS2NsaHF1VjNjeVFiZEJLQWtzZDVPa1NzRGE5VUpJc3F3NmtUamdMUzZUNE5nY20yTlAtc29SeGFmcA?oc=5",
@@ -227,8 +227,8 @@
     "fx_news_count": 3,
     "synnex_news_count": 19,
     "data_sources": [
-      "Google News EN",
       "Bangkok Post Business",
+      "Google News EN",
       "Google News TH"
     ]
   }
