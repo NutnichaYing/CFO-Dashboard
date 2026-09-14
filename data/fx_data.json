@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-14 15:37:59 BKK",
+  "last_updated": "2026-09-14 16:21:59 BKK",
   "rate": {
     "date": "2026-09-14",
     "buying": 0,
@@ -11,7 +11,7 @@
     {
       "title": "ไม่สามารถดึงข่าวอัตโนมัติได้",
       "description": "กรุณาตรวจสอบข่าว FX จาก Reuters หรือ Bangkok Post",
-      "date": "2026-09-14 15:37",
+      "date": "2026-09-14 16:21",
       "link": "https://www.reuters.com/markets/currencies/",
       "source": "Manual"
     }
@@ -148,10 +148,10 @@
       "priority": 5
     },
     {
-      "title": "SYNEX เตรียมจัดงานสุดยิ่งใหญ่แห่งปี “Synnex Partners Connect 2022” รวบรวมพาร์ทเนอร์ทั่วประเทศ อัพเดตกลยุทธ์และเทรนด์เทคโนโลยีที่ต้องจับตา - ThaiPR.NET",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE1kdTZ4b25WX3dyUHdzeUNBb1hNZU1DSlBRQktNWlprZXRhaDRXd2gyS1NGaHR3RTJvMlRrb0c5RGxseHJYUUlvYnl1ZFBYNEE?oc=5\" target=\"_blank\">SYNEX เตรียมจัดงานสุดยิ่งใหญ่แห่งปี “Synnex Partners Connect 2022” รวบรวมพาร์ทเนอร์ทั่วประเทศ อัพเดตกลยุทธ์และเทรนด์เทคโ",
-      "date": "Thu, 22 Sep 2022 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1kdTZ4b25WX3dyUHdzeUNBb1hNZU1DSlBRQktNWlprZXRhaDRXd2gyS1NGaHR3RTJvMlRrb0c5RGxseHJYUUlvYnl1ZFBYNEE?oc=5",
+      "title": "ซินเน็คฯ ร่วมผลักดันอุตสาหกรรมเกมในประเทศไทย เป็นผู้สนับสนุนหลัก Thailand Game Show 2024 Presented by Synnex - ThaiPR.NET",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE9IWmdiVURxRGl2RzRrTlRNY0NxMkJpdndsN1hwdXhJd1p1alEyWFZ3MlpNcnBwMjZpZDYyZVFZWjZ3bFdXZ0dWVUNPOXdrRjQ?oc=5\" target=\"_blank\">ซินเน็คฯ ร่วมผลักดันอุตสาหกรรมเกมในประเทศไทย เป็นผู้สนับสนุนหลัก Thailand Game Show 2024 Presented by Synnex</a>&nbsp;&n",
+      "date": "Mon, 19 Aug 2024 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9IWmdiVURxRGl2RzRrTlRNY0NxMkJpdndsN1hwdXhJd1p1alEyWFZ3MlpNcnBwMjZpZDYyZVFZWjZ3bFdXZ0dWVUNPOXdrRjQ?oc=5",
       "source": "Google News TH",
       "category": "general",
       "trusted": false,
@@ -203,9 +203,9 @@
     "fx_news_count": 1,
     "synnex_news_count": 18,
     "data_sources": [
-      "Google News EN",
       "Manual",
-      "Google News TH"
+      "Google News TH",
+      "Google News EN"
     ]
   }
 }
