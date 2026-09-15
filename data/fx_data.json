@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-15 15:26:43 BKK",
+  "last_updated": "2026-09-15 16:03:10 BKK",
   "rate": {
     "date": "2026-09-15",
     "buying": 0,
@@ -8,6 +8,13 @@
     "source": "Unavailable - Please check BOT website"
   },
   "news": [
+    {
+      "title": "China’s inbound tourism revenue projected to reach B15tn by 2040",
+      "description": "Revenue from inbound travel to China is forecast to reach US$470 billion (15.6 trillion baht) by 2040, more than doubling its current share of the economy and helping offset weak domestic demand, acco",
+      "date": "Tue, 15 Sep 2026 15:01:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3320010/chinas-inbound-tourism-revenue-projected-to-reach-b15tn-by-2040",
+      "source": "Bangkok Post Business"
+    },
     {
       "title": "Government moves against Thaicom over satellite assets",
       "description": "The Ministry of Digital Economy and Society (DES) has officially initiated arbitration proceedings against Thaicom Plc, seeking more than 1 billion baht in compensation for the alleged incomplete hand",
@@ -88,7 +95,7 @@
       "priority": 5
     },
     {
-      "title": "Synnex โชว์ฟอร์มแกร่ง Q2/68 รายได้ทะลุหมื่นล้าน! Nintendo Switch 2 และเทรนด์ AI ดันกำไรพุ่ง 19% - Sanook",
+      "title": "Synnex โชว์ฟอร์มแกร่ง Q2/68 รายได้ทะลุหมื่นล้าน! Nintendo Switch 2 และเทรนด์ AI ดันกำไรพุ่ง 19% - Sanook.com",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RT3d1eVozZFMzOXRzZUNia3ozX0tPZHlqZ1g2SkdnUS1UOW1zejJQZ2xFLWZ3aXhWeW9hSGFVLWxGRlJUYkVzejJLVFhGcjg?oc=5\" target=\"_blank\">Synnex โชว์ฟอร์มแกร่ง Q2/68 รายได้ทะลุหมื่นล้าน! Nintendo Switch 2 และเทรนด์ AI ดันกำไรพุ่ง 19%</a>&nbsp;&nbsp;<font col",
       "date": "Thu, 14 Aug 2025 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RT3d1eVozZFMzOXRzZUNia3ozX0tPZHlqZ1g2SkdnUS1UOW1zejJQZ2xFLWZ3aXhWeW9hSGFVLWxGRlJUYkVzejJLVFhGcjg?oc=5",
@@ -198,13 +205,13 @@
       "priority": 6
     }
   ],
-  "claude_prompt": "CFO FX Brief 15/09/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Government moves against Thaicom over satellite assets",
+  "claude_prompt": "CFO FX Brief 15/09/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] China’s inbound tourism revenue projected to reach B15tn by 2040\n- [Bangkok Post Business] Government moves against Thaicom over satellite assets",
   "stats": {
-    "fx_news_count": 1,
+    "fx_news_count": 2,
     "synnex_news_count": 18,
     "data_sources": [
-      "Google News EN",
       "Bangkok Post Business",
+      "Google News EN",
       "Google News TH"
     ]
   }
