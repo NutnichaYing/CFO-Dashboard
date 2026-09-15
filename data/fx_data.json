@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-15 16:03:10 BKK",
+  "last_updated": "2026-09-15 22:28:35 BKK",
   "rate": {
     "date": "2026-09-15",
     "buying": 0,
@@ -8,6 +8,13 @@
     "source": "Unavailable - Please check BOT website"
   },
   "news": [
+    {
+      "title": "Markets on edge as US Fed meets to tackle inflation",
+      "description": "LONDON - Oil prices jumped, US bond yields rallied and equities retreated on Tuesday, as the US Federal Reserve looked set to raise interest rates with high inflation and AI concerns dominating market",
+      "date": "Tue, 15 Sep 2026 18:45:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3320074/markets-on-edge-as-us-fed-meets-to-tackle-inflation",
+      "source": "Bangkok Post Business"
+    },
     {
       "title": "China’s inbound tourism revenue projected to reach B15tn by 2040",
       "description": "Revenue from inbound travel to China is forecast to reach US$470 billion (15.6 trillion baht) by 2040, more than doubling its current share of the economy and helping offset weak domestic demand, acco",
@@ -205,14 +212,14 @@
       "priority": 6
     }
   ],
-  "claude_prompt": "CFO FX Brief 15/09/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] China’s inbound tourism revenue projected to reach B15tn by 2040\n- [Bangkok Post Business] Government moves against Thaicom over satellite assets",
+  "claude_prompt": "CFO FX Brief 15/09/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Markets on edge as US Fed meets to tackle inflation\n- [Bangkok Post Business] China’s inbound tourism revenue projected to reach B15tn by 2040\n- [Bangkok Post Business] Government moves against Thaicom over satellite assets",
   "stats": {
-    "fx_news_count": 2,
+    "fx_news_count": 3,
     "synnex_news_count": 18,
     "data_sources": [
-      "Bangkok Post Business",
+      "Google News TH",
       "Google News EN",
-      "Google News TH"
+      "Bangkok Post Business"
     ]
   }
 }
