@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-21 15:39:27 BKK",
+  "last_updated": "2026-09-21 16:24:29 BKK",
   "rate": {
     "date": "2026-09-21",
     "buying": 0,
@@ -92,7 +92,7 @@
       "priority": 5
     },
     {
-      "title": "Synnex โชว์ฟอร์มแกร่ง Q2/68 รายได้ทะลุหมื่นล้าน! Nintendo Switch 2 และเทรนด์ AI ดันกำไรพุ่ง 19% - sanook.com",
+      "title": "Synnex โชว์ฟอร์มแกร่ง Q2/68 รายได้ทะลุหมื่นล้าน! Nintendo Switch 2 และเทรนด์ AI ดันกำไรพุ่ง 19% - Sanook",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RT3d1eVozZFMzOXRzZUNia3ozX0tPZHlqZ1g2SkdnUS1UOW1zejJQZ2xFLWZ3aXhWeW9hSGFVLWxGRlJUYkVzejJLVFhGcjg?oc=5\" target=\"_blank\">Synnex โชว์ฟอร์มแกร่ง Q2/68 รายได้ทะลุหมื่นล้าน! Nintendo Switch 2 และเทรนด์ AI ดันกำไรพุ่ง 19%</a>&nbsp;&nbsp;<font col",
       "date": "Thu, 14 Aug 2025 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RT3d1eVozZFMzOXRzZUNia3ozX0tPZHlqZ1g2SkdnUS1UOW1zejJQZ2xFLWZ3aXhWeW9hSGFVLWxGRlJUYkVzejJLVFhGcjg?oc=5",
@@ -142,7 +142,7 @@
       "priority": 5
     },
     {
-      "title": "SYNNEX ประกาศถือครองตลาด NINTENDO เป็นผู้จัดจำหน่ายในไทยอย่างเป็นทางการ ส่งซ่อม / เคลมที่ศูนย์ได้เลย - DroidSans",
+      "title": "SYNNEX ประกาศถือครองตลาด NINTENDO เป็นผู้จัดจำหน่ายในไทยอย่างเป็นทางการ ส่งซ่อม / เคลมที่ศูนย์ได้เลย - droidsans.com",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBuWEs0MHowV1RIREZ6WDNHMmpESHJ2X3VQOC0zc2c3X0ZxXzhLb3JrM0tTVFVreWs5ZWJCbFFXWkNIdnlka0Q4S0JJQmxBUTNvcm0tMV9DcHA2UzdMX29NZ1lzbFFkWTZuU0o2S3hkWE8yQQ?oc=5\" target=\"_blank\">SYNNEX ประกาศถือครองตลาด NINTENDO เป็นผู้จัดจำหน่ายในไทยอย่างเป็นทางการ ส",
       "date": "Thu, 23 Mar 2023 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBuWEs0MHowV1RIREZ6WDNHMmpESHJ2X3VQOC0zc2c3X0ZxXzhLb3JrM0tTVFVreWs5ZWJCbFFXWkNIdnlka0Q4S0JJQmxBUTNvcm0tMV9DcHA2UzdMX29NZ1lzbFFkWTZuU0o2S3hkWE8yQQ?oc=5",
@@ -152,7 +152,7 @@
       "priority": 5
     },
     {
-      "title": "SYNEX คือผู้รับเคราะห์จากการแบน HUAWEI - investerest.co",
+      "title": "SYNEX คือผู้รับเคราะห์จากการแบน HUAWEI - ลงทุนศาสตร์ - Investerest",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBaempLaGlxVGNfOXY1RWR6X3Z5WEZEMzdMZHU5bHV6Q1FkXzZRNGJGcktOQTZjTTBiX1VKdm5jOHRxR196ZjBJbUVxMlV6OGg0VU5CZ2lNQWRhNnRwOVNnTkl6TFBCdVFQMHN6dS1NV0s?oc=5\" target=\"_blank\">SYNEX คือผู้รับเคราะห์จากการแบน HUAWEI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">",
       "date": "Wed, 22 May 2019 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBaempLaGlxVGNfOXY1RWR6X3Z5WEZEMzdMZHU5bHV6Q1FkXzZRNGJGcktOQTZjTTBiX1VKdm5jOHRxR196ZjBJbUVxMlV6OGg0VU5CZ2lNQWRhNnRwOVNnTkl6TFBCdVFQMHN6dS1NV0s?oc=5",
@@ -237,9 +237,9 @@
     "fx_news_count": 3,
     "synnex_news_count": 20,
     "data_sources": [
-      "Google News TH",
       "Bangkok Post Business",
-      "Google News EN"
+      "Google News EN",
+      "Google News TH"
     ]
   }
 }
