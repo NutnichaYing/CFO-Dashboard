@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-22 22:27:06 BKK",
+  "last_updated": "2026-09-23 10:57:35 BKK",
   "rate": {
-    "date": "2026-09-22",
+    "date": "2026-09-23",
     "buying": 0,
     "selling": 0,
     "mid": 0,
@@ -9,17 +9,17 @@
   },
   "news": [
     {
-      "title": "Cabinet approves B43bn consumer subsidy extension",
-      "description": "The cabinet has approved a 43-billion-baht extension of the government&rsquo;s Thai Chuay Thai Plus (Thais help Thais plus) co-payment scheme for October and November, along with an additional 700-bah",
-      "date": "Tue, 22 Sep 2026 14:19:00 +0700",
-      "link": "https://www.bangkokpost.com/business/general/3324163/cabinet-approves-b43bn-consumer-subsidy-extension",
+      "title": "Industry requests higher electric vehicle import tax",
+      "description": "Businesses across Thailand's automotive supply chain are urging the government to impose the highest excise tax rate on imported electric vehicles (EVs) to protect domestic manufacturers and encourage",
+      "date": "Wed, 23 Sep 2026 04:44:00 +0700",
+      "link": "https://www.bangkokpost.com/business/motoring/3324370/industry-requests-higher-electric-vehicle-import-tax",
       "source": "Bangkok Post Business"
     },
     {
-      "title": "The AI paradox: make your job obsolete",
-      "description": "In 2005, an online chess site ran a tournament with no restrictions on who &mdash; or what &mdash; could enter. Grandmasters entered. So did the strongest chess engines. So did teams of both. The winn",
-      "date": "Tue, 22 Sep 2026 14:00:00 +0700",
-      "link": "https://www.bangkokpost.com/business/general/3324159/the-ai-paradox-make-your-job-obsolete",
+      "title": "Small firms to get B2bn in credit guarantees",
+      "description": "The Thai Credit Guarantee Corporation (TCG) is providing 2 billion baht in credit guarantees for small entrepreneurs, with guarantee fees waived for four years to help drive the country's grassroots e",
+      "date": "Wed, 23 Sep 2026 01:01:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3324375/small-firms-to-get-b2bn-in-credit-guarantees",
       "source": "Bangkok Post Business"
     }
   ],
@@ -145,7 +145,7 @@
       "priority": 5
     },
     {
-      "title": "SYNEX คือผู้รับเคราะห์จากการแบน HUAWEI - investerest.co",
+      "title": "SYNEX คือผู้รับเคราะห์จากการแบน HUAWEI - ลงทุนศาสตร์ - Investerest",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBaempLaGlxVGNfOXY1RWR6X3Z5WEZEMzdMZHU5bHV6Q1FkXzZRNGJGcktOQTZjTTBiX1VKdm5jOHRxR196ZjBJbUVxMlV6OGg0VU5CZ2lNQWRhNnRwOVNnTkl6TFBCdVFQMHN6dS1NV0s?oc=5\" target=\"_blank\">SYNEX คือผู้รับเคราะห์จากการแบน HUAWEI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">",
       "date": "Wed, 22 May 2019 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBaempLaGlxVGNfOXY1RWR6X3Z5WEZEMzdMZHU5bHV6Q1FkXzZRNGJGcktOQTZjTTBiX1VKdm5jOHRxR196ZjBJbUVxMlV6OGg0VU5CZ2lNQWRhNnRwOVNnTkl6TFBCdVFQMHN6dS1NV0s?oc=5",
@@ -225,14 +225,14 @@
       "priority": 6
     }
   ],
-  "claude_prompt": "CFO FX Brief 22/09/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Cabinet approves B43bn consumer subsidy extension\n- [Bangkok Post Business] The AI paradox: make your job obsolete",
+  "claude_prompt": "CFO FX Brief 23/09/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Industry requests higher electric vehicle import tax\n- [Bangkok Post Business] Small firms to get B2bn in credit guarantees",
   "stats": {
     "fx_news_count": 2,
     "synnex_news_count": 20,
     "data_sources": [
       "Google News EN",
-      "Bangkok Post Business",
-      "Google News TH"
+      "Google News TH",
+      "Bangkok Post Business"
     ]
   }
 }
