@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-23 10:57:35 BKK",
+  "last_updated": "2026-09-23 15:20:45 BKK",
   "rate": {
     "date": "2026-09-23",
     "buying": 0,
@@ -25,7 +25,7 @@
   ],
   "synnex_news": [
     {
-      "title": "SYNEX x AWS ปั้น AI Hub ปรับโครงสร้างสู่ Tech Enabler มั่นใจ H2/69 โตแรงล็อกเป้ารายได้ทั้งปี 5.3 หมื่นลบ. : อินโฟเควสท์ - สำนักข่าวอินโฟเควสท์",
+      "title": "SYNEX x AWS ปั้น AI Hub ปรับโครงสร้างสู่ Tech Enabler มั่นใจ H2/69 โตแรงล็อกเป้ารายได้ทั้งปี 5.3 หมื่นลบ. : อินโฟเควสท์ - infoquest.co.th",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ESzBFcWxaR1ZVdTFyUGJrM0Z6S0tHMUlodjZuWXNBWmdtSzVuOEN1bkEzd0ZIeHBWdGpWNEEyQjNDOGQ3R3VRdWlaWmhVWnE3?oc=5\" target=\"_blank\">SYNEX x AWS ปั้น AI Hub ปรับโครงสร้างสู่ Tech Enabler มั่นใจ H2/69 โตแรงล็อกเป้ารายได้ทั้งปี 5.3 หมื่นลบ. : อินโฟเควสท์",
       "date": "Tue, 25 Aug 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ESzBFcWxaR1ZVdTFyUGJrM0Z6S0tHMUlodjZuWXNBWmdtSzVuOEN1bkEzd0ZIeHBWdGpWNEEyQjNDOGQ3R3VRdWlaWmhVWnE3?oc=5",
@@ -55,7 +55,7 @@
       "priority": 5
     },
     {
-      "title": "สุธิดา มงคลสุธี ไม่ใช่แค่เพียงลูกสาวท่านประธานแต่เป็นแม่ทัพหญิงแกร่งของ SYNNEX ผู้ปั้นยอดขายไอทีกว่า 40,000 ล้าน - Marketeer Online",
+      "title": "สุธิดา มงคลสุธี ไม่ใช่แค่เพียงลูกสาวท่านประธานแต่เป็นแม่ทัพหญิงแกร่งของ SYNNEX ผู้ปั้นยอดขายไอทีกว่า 40,000 ล้าน - marketeeronline.co",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tQjRmVkRWUFlKWmV2TzFOZVEyS2NsaHF1VjNjeVFiZEJLQWtzZDVPa1NzRGE5VUpJc3F3NmtUamdMUzZUNE5nY20yTlAtc29SeGFmcA?oc=5\" target=\"_blank\">สุธิดา มงคลสุธี ไม่ใช่แค่เพียงลูกสาวท่านประธานแต่เป็นแม่ทัพหญิงแกร่งของ SYNNEX ผู้ปั้นยอดขายไอทีกว่า 40,000 ล้าน<",
       "date": "Sat, 09 Aug 2025 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tQjRmVkRWUFlKWmV2TzFOZVEyS2NsaHF1VjNjeVFiZEJLQWtzZDVPa1NzRGE5VUpJc3F3NmtUamdMUzZUNE5nY20yTlAtc29SeGFmcA?oc=5",
@@ -230,9 +230,9 @@
     "fx_news_count": 2,
     "synnex_news_count": 20,
     "data_sources": [
+      "Bangkok Post Business",
       "Google News EN",
-      "Google News TH",
-      "Bangkok Post Business"
+      "Google News TH"
     ]
   }
 }
