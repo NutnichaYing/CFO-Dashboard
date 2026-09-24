@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-23 22:21:19 BKK",
+  "last_updated": "2026-09-24 10:51:25 BKK",
   "rate": {
-    "date": "2026-09-23",
+    "date": "2026-09-24",
     "buying": 0,
     "selling": 0,
     "mid": 0,
@@ -9,11 +9,11 @@
   },
   "news": [
     {
-      "title": "Industry requests higher electric vehicle import tax",
-      "description": "Businesses across Thailand's automotive supply chain are urging the government to impose the highest excise tax rate on imported electric vehicles (EVs) to protect domestic manufacturers and encourage",
-      "date": "Wed, 23 Sep 2026 04:44:00 +0700",
-      "link": "https://www.bangkokpost.com/business/motoring/3324370/industry-requests-higher-electric-vehicle-import-tax",
-      "source": "Bangkok Post Business"
+      "title": "ไม่สามารถดึงข่าวอัตโนมัติได้",
+      "description": "กรุณาตรวจสอบข่าว FX จาก Reuters หรือ Bangkok Post",
+      "date": "2026-09-24 10:51",
+      "link": "https://www.reuters.com/markets/currencies/",
+      "source": "Manual"
     }
   ],
   "synnex_news": [
@@ -78,7 +78,7 @@
       "priority": 5
     },
     {
-      "title": "Synnex โชว์ฟอร์มแกร่ง Q2/68 รายได้ทะลุหมื่นล้าน! Nintendo Switch 2 และเทรนด์ AI ดันกำไรพุ่ง 19% - sanook.com",
+      "title": "Synnex โชว์ฟอร์มแกร่ง Q2/68 รายได้ทะลุหมื่นล้าน! Nintendo Switch 2 และเทรนด์ AI ดันกำไรพุ่ง 19% - Sanook.com",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RT3d1eVozZFMzOXRzZUNia3ozX0tPZHlqZ1g2SkdnUS1UOW1zejJQZ2xFLWZ3aXhWeW9hSGFVLWxGRlJUYkVzejJLVFhGcjg?oc=5\" target=\"_blank\">Synnex โชว์ฟอร์มแกร่ง Q2/68 รายได้ทะลุหมื่นล้าน! Nintendo Switch 2 และเทรนด์ AI ดันกำไรพุ่ง 19%</a>&nbsp;&nbsp;<font col",
       "date": "Thu, 14 Aug 2025 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RT3d1eVozZFMzOXRzZUNia3ozX0tPZHlqZ1g2SkdnUS1UOW1zejJQZ2xFLWZ3aXhWeW9hSGFVLWxGRlJUYkVzejJLVFhGcjg?oc=5",
@@ -108,20 +108,20 @@
       "priority": 5
     },
     {
-      "title": "SYNEX - ข้อมูลผู้ถือหุ้น - ตลาดหลักทรัพย์แห่งประเทศไทย - SET",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPbEh0RThzaS14R2N2WEh5ZGdPYVQ5Vk5Pb2RrZTl5dGtFWm5PSjBFSmxQRlBlcmRGd1lLaU43LWpvaG0yam5zV3Nnb2JxYU1JMWRIMzMxQ3JHSS1DeS1yTjMtSk40X0E4N2FBblJTeHBna0FiZ0x4SDB4ZzNveDFTSDdn?oc=5\" target=\"_blank\">SYNEX - ข้อมูลผู้ถือหุ้น - ตลาดหลักทรัพย์แห่งประเทศ",
-      "date": "Tue, 06 Dec 2022 05:46:14 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbEh0RThzaS14R2N2WEh5ZGdPYVQ5Vk5Pb2RrZTl5dGtFWm5PSjBFSmxQRlBlcmRGd1lLaU43LWpvaG0yam5zV3Nnb2JxYU1JMWRIMzMxQ3JHSS1DeS1yTjMtSk40X0E4N2FBblJTeHBna0FiZ0x4SDB4ZzNveDFTSDdn?oc=5",
+      "title": "SYNEX บวก 4% ลุ้นกำไรปีนี้ทะลุ 700 ลบ. อานิสงส์ยอดขายไอทีพุ่ง - ข่าวหุ้นธุรกิจออนไลน์",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wYlE2S25nYUduMDVDR2pva1ZWeFMwbThlcHRqRnZvVGVOUjdvUF90YzhfSjN0RjBHQ1AtR1ItTDVKRmRtREMyM2xISTYzNnlTNjNZbm9R?oc=5\" target=\"_blank\">SYNEX บวก 4% ลุ้นกำไรปีนี้ทะลุ 700 ลบ. อานิสงส์ยอดขายไอทีพุ่ง</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ข่าวหุ้นธุรก",
+      "date": "Tue, 31 Aug 2021 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wYlE2S25nYUduMDVDR2pva1ZWeFMwbThlcHRqRnZvVGVOUjdvUF90YzhfSjN0RjBHQ1AtR1ItTDVKRmRtREMyM2xISTYzNnlTNjNZbm9R?oc=5",
       "source": "Google News TH",
       "category": "general",
       "trusted": false,
       "priority": 5
     },
     {
-      "title": "SYNEX บวก 4% ลุ้นกำไรปีนี้ทะลุ 700 ลบ. อานิสงส์ยอดขายไอทีพุ่ง - ข่าวหุ้นธุรกิจออนไลน์",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wYlE2S25nYUduMDVDR2pva1ZWeFMwbThlcHRqRnZvVGVOUjdvUF90YzhfSjN0RjBHQ1AtR1ItTDVKRmRtREMyM2xISTYzNnlTNjNZbm9R?oc=5\" target=\"_blank\">SYNEX บวก 4% ลุ้นกำไรปีนี้ทะลุ 700 ลบ. อานิสงส์ยอดขายไอทีพุ่ง</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ข่าวหุ้นธุรก",
-      "date": "Tue, 31 Aug 2021 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wYlE2S25nYUduMDVDR2pva1ZWeFMwbThlcHRqRnZvVGVOUjdvUF90YzhfSjN0RjBHQ1AtR1ItTDVKRmRtREMyM2xISTYzNnlTNjNZbm9R?oc=5",
+      "title": "SYNNEX ประกาศถือครองตลาด NINTENDO เป็นผู้จัดจำหน่ายในไทยอย่างเป็นทางการ ส่งซ่อม / เคลมที่ศูนย์ได้เลย - DroidSans",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBuWEs0MHowV1RIREZ6WDNHMmpESHJ2X3VQOC0zc2c3X0ZxXzhLb3JrM0tTVFVreWs5ZWJCbFFXWkNIdnlka0Q4S0JJQmxBUTNvcm0tMV9DcHA2UzdMX29NZ1lzbFFkWTZuU0o2S3hkWE8yQQ?oc=5\" target=\"_blank\">SYNNEX ประกาศถือครองตลาด NINTENDO เป็นผู้จัดจำหน่ายในไทยอย่างเป็นทางการ ส",
+      "date": "Thu, 23 Mar 2023 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBuWEs0MHowV1RIREZ6WDNHMmpESHJ2X3VQOC0zc2c3X0ZxXzhLb3JrM0tTVFVreWs5ZWJCbFFXWkNIdnlka0Q4S0JJQmxBUTNvcm0tMV9DcHA2UzdMX29NZ1lzbFFkWTZuU0o2S3hkWE8yQQ?oc=5",
       "source": "Google News TH",
       "category": "general",
       "trusted": false,
@@ -168,30 +168,10 @@
       "priority": 5
     },
     {
-      "title": "Amid demand for AI, Synnex transforms into total tech solutions provider - Nation Thailand",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9uaWxjLWVHM3R6Z0xYUWdrX253ZkoySzlDRGNIUUc0bUxrM01sVkFMRHlFYUFZb2tVdFdodVoyeHE1ZXhFUFJFY0lUaGQ1RFE0SHlHMU56MV9EZWVoc2pMNFhpenhkdTZrdXc?oc=5\" target=\"_blank\">Amid demand for AI, Synnex transforms into total tech solutions provider</a>&nbsp;&n",
-      "date": "Fri, 20 Sep 2024 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9uaWxjLWVHM3R6Z0xYUWdrX253ZkoySzlDRGNIUUc0bUxrM01sVkFMRHlFYUFZb2tVdFdodVoyeHE1ZXhFUFJFY0lUaGQ1RFE0SHlHMU56MV9EZWVoc2pMNFhpenhkdTZrdXc?oc=5",
-      "source": "Google News EN",
-      "category": "general",
-      "trusted": false,
-      "priority": 6
-    },
-    {
       "title": "HUAWEI eKit Joins Hands with Distribution Partners to Explore Unlimited Opportunities in Thailand SME market - Huawei Enterprise",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPZl9IZHFHbnNRd0I5VHZEMmRGZk81aWdsT0ExcFhWNmtaR3IwNkxjRHpSMHBuREtJRXhyR1FwankwTjFIWm9JSWcwREd6b0hlN1pMbklxd0hvUXh6aFhwSk5ZeUplV1ZYUTZYU0xKTXRVSExVTUhaOXZ0SWVLaDlNVnoxMA?oc=5\" target=\"_blank\">HUAWEI eKit Joins Hands with Distribution Partner",
       "date": "Wed, 08 Nov 2023 08:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZl9IZHFHbnNRd0I5VHZEMmRGZk81aWdsT0ExcFhWNmtaR3IwNkxjRHpSMHBuREtJRXhyR1FwankwTjFIWm9JSWcwREd6b0hlN1pMbklxd0hvUXh6aFhwSk5ZeUplV1ZYUTZYU0xKTXRVSExVTUhaOXZ0SWVLaDlNVnoxMA?oc=5",
-      "source": "Google News EN",
-      "category": "general",
-      "trusted": false,
-      "priority": 6
-    },
-    {
-      "title": "Kittipong Prasobchokchaikul Joins Synnex Thailand as Head of Human Resources Operations - hrtoday.in",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMTFhM3lnSXFNajBLb3ZENU1kcXpoVHhWWW54UDNKR3BpTU9EVnMxYlJ4bVRUOWNzY1E2amcwbWdFZkR3Wk1ucHM0ZWZIWHlnVkN3RzBXMTdSSzlLYl9NbXhFRXBHcXRmWTlRTTVpUmkySUUyRzdITEd3RzJ0cFlnX3BJTXd2RFJVZE5Gb2k4ZXBVVGZKZnh1S01KemNhSmxoY3cwUWhIZ2pGQ2c?oc=5\" target=\"_bla",
-      "date": "Thu, 02 May 2024 18:54:14 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMTFhM3lnSXFNajBLb3ZENU1kcXpoVHhWWW54UDNKR3BpTU9EVnMxYlJ4bVRUOWNzY1E2amcwbWdFZkR3Wk1ucHM0ZWZIWHlnVkN3RzBXMTdSSzlLYl9NbXhFRXBHcXRmWTlRTTVpUmkySUUyRzdITEd3RzJ0cFlnX3BJTXd2RFJVZE5Gb2k4ZXBVVGZKZnh1S01KemNhSmxoY3cwUWhIZ2pGQ2c?oc=5",
       "source": "Google News EN",
       "category": "general",
       "trusted": false,
@@ -208,7 +188,7 @@
       "priority": 6
     },
     {
-      "title": "Sutida Mongkolsuthree - prestigeonline.com",
+      "title": "Sutida Mongkolsuthree - Prestige Online - Singapore",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPa0FaaThuTHI5N1JTS3UzMXgzRlVWN1BPajRGckxOUHkyYV9DOElDTDRqQ3dCamJCdWRpMTdxX0JfT3FxdExIVF9RQ3o5MmY2cEU0NTVKY0lsS01yODZreWZyMXBzQXF1WFhGVTRrXzU4UFVhSG1Sc2ZBTXByck9Jb1FJRzhFTkZ2cnBoSFNzSWJOZ9IBlwFBVV95cUxORkdCd0pvdkI0R2NUaERIazNEUENvNDJhM2hfUG",
       "date": "Mon, 20 Feb 2023 20:47:27 GMT",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPa0FaaThuTHI5N1JTS3UzMXgzRlVWN1BPajRGckxOUHkyYV9DOElDTDRqQ3dCamJCdWRpMTdxX0JfT3FxdExIVF9RQ3o5MmY2cEU0NTVKY0lsS01yODZreWZyMXBzQXF1WFhGVTRrXzU4UFVhSG1Sc2ZBTXByck9Jb1FJRzhFTkZ2cnBoSFNzSWJOZ9IBlwFBVV95cUxORkdCd0pvdkI0R2NUaERIazNEUENvNDJhM2hfUGcxWURiaTc4dDhmWFlRMnFSbHEwUUhuamJUcHVNWE1meksxYmZ3Z3kzUW1sVHFiRjdaX2I2NUxMNmV0OVMxODFBUU9abW1HS3dPbWxLTllRNU04bE9VYnBjRGdnQ1pFQUpMU2ozdlBZZWJqOGkwOVFkSXln?oc=5",
@@ -218,14 +198,14 @@
       "priority": 6
     }
   ],
-  "claude_prompt": "CFO FX Brief 23/09/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Industry requests higher electric vehicle import tax",
+  "claude_prompt": "CFO FX Brief 24/09/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Manual] ไม่สามารถดึงข่าวอัตโนมัติได้",
   "stats": {
     "fx_news_count": 1,
-    "synnex_news_count": 20,
+    "synnex_news_count": 18,
     "data_sources": [
-      "Google News EN",
       "Google News TH",
-      "Bangkok Post Business"
+      "Manual",
+      "Google News EN"
     ]
   }
 }
