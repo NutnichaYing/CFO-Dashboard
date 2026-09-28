@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-25 22:46:04 BKK",
+  "last_updated": "2026-09-28 11:27:24 BKK",
   "rate": {
-    "date": "2026-09-25",
+    "date": "2026-09-28",
     "buying": 0,
     "selling": 0,
     "mid": 0,
@@ -9,63 +9,19 @@
   },
   "news": [
     {
-      "title": "SET courts four major firms for Thai listings",
-      "description": "The Stock Exchange of Thailand (SET) is seeking to attract four major Thai companies and business groups to raise funds through the domestic capital market: Line Man Wongnai, CJ More, Thai Beverage (T",
-      "date": "Fri, 25 Sep 2026 18:13:00 +0700",
-      "link": "https://www.bangkokpost.com/business/general/3326048/set-courts-four-major-firms-for-thai-listings",
-      "source": "Bangkok Post Business"
-    },
-    {
-      "title": "Thailand's SET, NYSE strike deal to explore dual listings and new products",
-      "description": "The Stock Exchange of Thailand ​said &zwnj;on Friday that it signed an agreement ​with ⁠the New York Stock Exchange &zwnj;to establish a framework for dual ⁠listing and develop products and indexes.",
-      "date": "Fri, 25 Sep 2026 09:26:00 +0700",
-      "link": "https://www.bangkokpost.com/business/general/3325915/thailands-set-nyse-strike-deal-to-explore-dual-listings-and-new-products",
-      "source": "Bangkok Post Business"
-    },
-    {
-      "title": "Gold traders focus on US-China summit",
-      "description": "The outcome of a high-stakes summit between US President Donald Trump and his Chinese counterpart Xi Jinping is vital for gold price trends as bullion faces selling pressure from the growing expectati",
-      "date": "Fri, 25 Sep 2026 04:48:00 +0700",
-      "link": "https://www.bangkokpost.com/business/general/3325639/gold-traders-focus-on-uschina-summit",
-      "source": "Bangkok Post Business"
+      "title": "ไม่สามารถดึงข่าวอัตโนมัติได้",
+      "description": "กรุณาตรวจสอบข่าว FX จาก Reuters หรือ Bangkok Post",
+      "date": "2026-09-28 11:27",
+      "link": "https://www.reuters.com/markets/currencies/",
+      "source": "Manual"
     }
   ],
   "synnex_news": [
     {
-      "title": "SYNEX x AWS ปั้น AI Hub ปรับโครงสร้างสู่ Tech Enabler มั่นใจ H2/69 โตแรงล็อกเป้ารายได้ทั้งปี 5.3 หมื่นลบ. : อินโฟเควสท์ - สำนักข่าวอินโฟเควสท์",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ESzBFcWxaR1ZVdTFyUGJrM0Z6S0tHMUlodjZuWXNBWmdtSzVuOEN1bkEzd0ZIeHBWdGpWNEEyQjNDOGQ3R3VRdWlaWmhVWnE3?oc=5\" target=\"_blank\">SYNEX x AWS ปั้น AI Hub ปรับโครงสร้างสู่ Tech Enabler มั่นใจ H2/69 โตแรงล็อกเป้ารายได้ทั้งปี 5.3 หมื่นลบ. : อินโฟเควสท์",
-      "date": "Tue, 25 Aug 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ESzBFcWxaR1ZVdTFyUGJrM0Z6S0tHMUlodjZuWXNBWmdtSzVuOEN1bkEzd0ZIeHBWdGpWNEEyQjNDOGQ3R3VRdWlaWmhVWnE3?oc=5",
-      "source": "Google News TH",
-      "category": "general",
-      "trusted": false,
-      "priority": 5
-    },
-    {
-      "title": "ซินเน็ค (SYNEX) ยิ้มรับโค้งสุดท้ายของปีไฮซีซั่นธุรกิจ สินค้าใหม่เปิดตัว สมาร์ตโฟน-ดีไวซ์กระแสดี - newswit",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1iZmFkWmVTS2VRbi10eWdLcE5DNlJIakpoZTlJYmxsX09HYmFhZ2FIZjE0RHhNanNxRGVzQmFycnJ0TjZCS2kxa1FwaFBmTU9PaFk4OUMxeGVMMDkyMjRLRVF0YklwQ3R0Y3l3?oc=5\" target=\"_blank\">ซินเน็ค (SYNEX) ยิ้มรับโค้งสุดท้ายของปีไฮซีซั่นธุรกิจ สินค้าใหม่เปิดตัว สมาร์ตโฟน-ด",
-      "date": "Thu, 30 Oct 2025 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1iZmFkWmVTS2VRbi10eWdLcE5DNlJIakpoZTlJYmxsX09HYmFhZ2FIZjE0RHhNanNxRGVzQmFycnJ0TjZCS2kxa1FwaFBmTU9PaFk4OUMxeGVMMDkyMjRLRVF0YklwQ3R0Y3l3?oc=5",
-      "source": "Google News TH",
-      "category": "general",
-      "trusted": false,
-      "priority": 5
-    },
-    {
-      "title": "SYNEX - ข้อมูลบริษัท - ตลาดหลักทรัพย์แห่งประเทศไทย - SET",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOUGtiOXFIVjBYcVhGZkhxQ2F2WVVZWFNLRmtqSWd6NHlJaFJKZkdoTkRvS0k0WlZfUGtZOXd4V0UzT2NUMm5IMERXYW9wWnNFX0Zac2ZPLWVxU24tODk3dWphU21LdEprcnExZ1d1Mm9IOHloa2pjZzN6Szh5MUJKbl9peG9ibUdEcTVHcEZn?oc=5\" target=\"_blank\">SYNEX - ข้อมูลบริษัท - ตลาดหลักทรัพ",
-      "date": "Fri, 17 Jun 2022 04:06:58 GMT",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUGtiOXFIVjBYcVhGZkhxQ2F2WVVZWFNLRmtqSWd6NHlJaFJKZkdoTkRvS0k0WlZfUGtZOXd4V0UzT2NUMm5IMERXYW9wWnNFX0Zac2ZPLWVxU24tODk3dWphU21LdEprcnExZ1d1Mm9IOHloa2pjZzN6Szh5MUJKbl9peG9ibUdEcTVHcEZn?oc=5",
-      "source": "Google News TH",
-      "category": "general",
-      "trusted": false,
-      "priority": 5
-    },
-    {
-      "title": "SYNNEX Clearance Fair 2022 มาแล้ว!!! 18-19 พ.ย.นี้ ห้ามพลาด ส่องไฮไลท์สินค้าสุดว้าวกับส่วนลดมากกว่า 90% - Thaimobilecenter",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNX1RObGJXQV8tMENLYkdFc3hlNjh4aFlZRVZrNEEzel9UVGJSVWhSV3hWcVlvOGctNFNWRHRjemZscmxZLTNDa25zSzNkUk9ZM2c0WV9hSy14RjY2OXB1U0MwV2pJNnR5bjVEakI0bzhwaHZUaDJyRjFTQ1I1S0xoV1kwMFR5M1k?oc=5\" target=\"_blank\">SYNNEX Clearance Fair 2022 มาแล้ว!!! 18-19 พ",
-      "date": "Wed, 16 Nov 2022 08:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX1RObGJXQV8tMENLYkdFc3hlNjh4aFlZRVZrNEEzel9UVGJSVWhSV3hWcVlvOGctNFNWRHRjemZscmxZLTNDa25zSzNkUk9ZM2c0WV9hSy14RjY2OXB1U0MwV2pJNnR5bjVEakI0bzhwaHZUaDJyRjFTQ1I1S0xoV1kwMFR5M1k?oc=5",
+      "title": "ส่องทิศทาง SYNEX ปี 2569 ก้าวทันทุกคลื่นเทคโนโลยี หนุนธุรกิจเติบโตยั่งยืน - newswit",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBycUdlR055T1ptQk02N1hEVGw0NWZPR1UwX3JOcHpYd1ljQ2NOMHZMb3VmeXR4akwwb1RWQ19HcVp5b1V6Z0lQN01XUWRSX1JzQzhHNHo2Q0ZlRHc5aVpfNGpmVmRUOXlMNGdB?oc=5\" target=\"_blank\">ส่องทิศทาง SYNEX ปี 2569 ก้าวทันทุกคลื่นเทคโนโลยี หนุนธุรกิจเติบโตยั่งยืน</a>&nbsp;",
+      "date": "Fri, 13 Feb 2026 08:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBycUdlR055T1ptQk02N1hEVGw0NWZPR1UwX3JOcHpYd1ljQ2NOMHZMb3VmeXR4akwwb1RWQ19HcVp5b1V6Z0lQN01XUWRSX1JzQzhHNHo2Q0ZlRHc5aVpfNGpmVmRUOXlMNGdB?oc=5",
       "source": "Google News TH",
       "category": "general",
       "trusted": false,
@@ -82,10 +38,30 @@
       "priority": 5
     },
     {
-      "title": "SYNNEX ร่วมยกระดับงานเกมนานาชาติ “gamescom asia x Thailand Game Show” โชว์ศักยภาพ No.1 Gaming Distributor หนุนวงการเกมไทยสู่เวทีโลก - mitihoon.com",
+      "title": "SYNNEX Clearance Fair 2022 มาแล้ว!!! 18-19 พ.ย.นี้ ห้ามพลาด ส่องไฮไลท์สินค้าสุดว้าวกับส่วนลดมากกว่า 90% - Thaimobilecenter",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNX1RObGJXQV8tMENLYkdFc3hlNjh4aFlZRVZrNEEzel9UVGJSVWhSV3hWcVlvOGctNFNWRHRjemZscmxZLTNDa25zSzNkUk9ZM2c0WV9hSy14RjY2OXB1U0MwV2pJNnR5bjVEakI0bzhwaHZUaDJyRjFTQ1I1S0xoV1kwMFR5M1k?oc=5\" target=\"_blank\">SYNNEX Clearance Fair 2022 มาแล้ว!!! 18-19 พ",
+      "date": "Wed, 16 Nov 2022 08:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX1RObGJXQV8tMENLYkdFc3hlNjh4aFlZRVZrNEEzel9UVGJSVWhSV3hWcVlvOGctNFNWRHRjemZscmxZLTNDa25zSzNkUk9ZM2c0WV9hSy14RjY2OXB1U0MwV2pJNnR5bjVEakI0bzhwaHZUaDJyRjFTQ1I1S0xoV1kwMFR5M1k?oc=5",
+      "source": "Google News TH",
+      "category": "general",
+      "trusted": false,
+      "priority": 5
+    },
+    {
+      "title": "SYNNEX ร่วมยกระดับงานเกมนานาชาติ “gamescom asia x Thailand Game Show” โชว์ศักยภาพ No.1 Gaming Distributor หนุนวงการเกมไทยสู่เวทีโลก - มิติหุ้น",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9HbXA5M01mMGI1ZnlmTklHOU9VaWw3bm5TT1B0cUNkRnR6VUFYbms3dFkwelVhQUtpeFZINmd3dG9Sbno2aUhwU1lyZHhXekQwMkxCdllR?oc=5\" target=\"_blank\">SYNNEX ร่วมยกระดับงานเกมนานาชาติ “gamescom asia x Thailand Game Show” โชว์ศักยภาพ No.1 Gaming Distributor หนุนว",
       "date": "Thu, 07 Aug 2025 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9HbXA5M01mMGI1ZnlmTklHOU9VaWw3bm5TT1B0cUNkRnR6VUFYbms3dFkwelVhQUtpeFZINmd3dG9Sbno2aUhwU1lyZHhXekQwMkxCdllR?oc=5",
+      "source": "Google News TH",
+      "category": "general",
+      "trusted": false,
+      "priority": 5
+    },
+    {
+      "title": "ซินเน็ค (SYNEX) ยิ้มรับโค้งสุดท้ายของปีไฮซีซั่นธุรกิจ สินค้าใหม่เปิดตัว สมาร์ตโฟน-ดีไวซ์กระแสดี - newswit",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1iZmFkWmVTS2VRbi10eWdLcE5DNlJIakpoZTlJYmxsX09HYmFhZ2FIZjE0RHhNanNxRGVzQmFycnJ0TjZCS2kxa1FwaFBmTU9PaFk4OUMxeGVMMDkyMjRLRVF0YklwQ3R0Y3l3?oc=5\" target=\"_blank\">ซินเน็ค (SYNEX) ยิ้มรับโค้งสุดท้ายของปีไฮซีซั่นธุรกิจ สินค้าใหม่เปิดตัว สมาร์ตโฟน-ด",
+      "date": "Thu, 30 Oct 2025 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1iZmFkWmVTS2VRbi10eWdLcE5DNlJIakpoZTlJYmxsX09HYmFhZ2FIZjE0RHhNanNxRGVzQmFycnJ0TjZCS2kxa1FwaFBmTU9PaFk4OUMxeGVMMDkyMjRLRVF0YklwQ3R0Y3l3?oc=5",
       "source": "Google News TH",
       "category": "general",
       "trusted": false,
@@ -112,20 +88,20 @@
       "priority": 5
     },
     {
-      "title": "SYNEX เตรียมเปิดคลังขนสินค้า จัดลด-แลก แบบกระหน่ำ เต็มพื้นที่ “Synnex Clearance Sale 2023” วันที่ 24 - 25 พฤศจิกายน นี้ - Share2Trade",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiygdBVV95cUxNLVRRYkRmcXJzNlYxUzRYQUp5dFk0el9ueGNiSlhkMU9ZQ3V4SWhUczI5Wjd1bHdTc2Rla1VINGh4cF9FTG1rUGRuei1wajRUYWdwWWFjaUxEUWFGa3VKZS13ZGJuWENOS2kwODJjTENpRGVMMG5YTzJiWk1Qclp5eWlCcGpfZHRmSXY5aTBocnh1azE1RWRreGlqNjZWSFE1a1hScXRUU1JKVVk4UTNVQmdRUjJlcEJzZ2",
-      "date": "Sun, 12 Nov 2023 15:46:28 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiygdBVV95cUxNLVRRYkRmcXJzNlYxUzRYQUp5dFk0el9ueGNiSlhkMU9ZQ3V4SWhUczI5Wjd1bHdTc2Rla1VINGh4cF9FTG1rUGRuei1wajRUYWdwWWFjaUxEUWFGa3VKZS13ZGJuWENOS2kwODJjTENpRGVMMG5YTzJiWk1Qclp5eWlCcGpfZHRmSXY5aTBocnh1azE1RWRreGlqNjZWSFE1a1hScXRUU1JKVVk4UTNVQmdRUjJlcEJzZ2VMRnVUZVdMb3FOWGVFR2oxXzVUd3FlS0pfejdxc21JUl9JekJpUVo1bjY5V2pMdS1rbGZqbGhwQVJMbGM5MkQ1Wnc1cjVmeWhtR2NpV0pyS2oyWkJrek5ra3RyVFZ3Q0E5OGZKVk9EWXAwalNtMmNEdFpMRW5XWGlKQTRyUXZhcU12OW1LazM4dmtCTnEwTmFfY24yLXVaZWNJVGI2SWdGRE5IVHN4Tm9BV3VteXdZZHRlY2xBMDZRU08xYk1BamtUSWpwdDFSTmVQdVZBdlg0dHU3dkVMZS1zTC1pbU1fSHdNYjR1dGpodmFTTHZiVXNYX2FLT0E4bmlBMzV6eWpad0Q0R1p6cXVrampVaC1KQmpSaTVEYXgydVZ2aTNrZUVrQWZOTWt0Z2E1ams4LVRlcV80NGJwUmlsMjkxRHdzMVduWmtyTU9nd29Ec21lOWdiM3YwX0tLM1RBX0JBdFI1MGlZVlYzRlZQZWNlazJNdGN5a0NVdVJqRU9Sc0VmQzNSQWc3aHV1c3RoV1p5OW00OXpDdExpU0s3TS1YVmtVdnI5Y0h4eUlPZGVMb0h4TUhPd0ZIM2NuTWtfbG5oeFNnUUdiWnZlQnFsR3kxSGEtZVB4eFlaRWN2WXhyR1NvRE5xeURLT0I5WlJJY0JGUmJVS1YyOFhUQVR0MzJOX0lOTnhPX0RRRG1LaE50RkRta2psbEx2bnd6OTNldTdTNzJNUG1KYk1mTjdYb0FKa1k2X2thYlZQZ29DdFZfUFV0VHBzTnlLZUdhc0RuU1BkZXVPR2Z4X1psblVDc0RxTDFWcWdhRjVIY2daNGFuMUl3R0hzME9SdFlrSHUxQktua21GWFpxWXQ1Y0ViS1I0Rldld2tJTFNPTXBmN1ZWN2IyTjlRTEtMV2JncHBrLUtJTmIyYzdJUEdreWlZRGplcGo3WmJtSDE3ckh5TC13YkVqTE1DQnloZ05HdkNBR2RuSEpoVU02Mm9MbURXOHdDSFktcGs2aWVWdjFkdkNmR2ZUaENBeHQzdFpDZlpuZVdvSFJn?oc=5",
+      "title": "ซินเน็ค (SYNEX) เปิดวิสัยทัศน์ในงาน “SYNNEX PARTNER CONNECT 2025” ปักธงสู่ AI Ecosystem ผนึกกำลังพันธมิตรระดับโลก ขับเคลื่อนอนาคตดิจิทัลอย่างยั่งยืน - ThaiPR.NET",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTFBoM3ZOZWJMX3ZtV0QzdVBXWjRLZERuNGN6Z1JMQjlRdGpCZmlpWmhHOVI4cjhkVHpremVWM2xGcFl3OVBKc0pwZg?oc=5\" target=\"_blank\">ซินเน็ค (SYNEX) เปิดวิสัยทัศน์ในงาน “SYNNEX PARTNER CONNECT 2025” ปักธงสู่ AI Ecosystem ผนึกกำลังพันธมิตรระดับโลก ขับเคลื่อนอนาคต",
+      "date": "Fri, 12 Sep 2025 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBoM3ZOZWJMX3ZtV0QzdVBXWjRLZERuNGN6Z1JMQjlRdGpCZmlpWmhHOVI4cjhkVHpremVWM2xGcFl3OVBKc0pwZg?oc=5",
       "source": "Google News TH",
       "category": "general",
       "trusted": false,
       "priority": 5
     },
     {
-      "title": "ซินเน็ค (SYNEX) เปิดวิสัยทัศน์ในงาน “SYNNEX PARTNER CONNECT 2025” ปักธงสู่ AI Ecosystem ผนึกกำลังพันธมิตรระดับโลก ขับเคลื่อนอนาคตดิจิทัลอย่างยั่งยืน - ThaiPR.NET",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTFBoM3ZOZWJMX3ZtV0QzdVBXWjRLZERuNGN6Z1JMQjlRdGpCZmlpWmhHOVI4cjhkVHpremVWM2xGcFl3OVBKc0pwZg?oc=5\" target=\"_blank\">ซินเน็ค (SYNEX) เปิดวิสัยทัศน์ในงาน “SYNNEX PARTNER CONNECT 2025” ปักธงสู่ AI Ecosystem ผนึกกำลังพันธมิตรระดับโลก ขับเคลื่อนอนาคต",
-      "date": "Fri, 12 Sep 2025 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBoM3ZOZWJMX3ZtV0QzdVBXWjRLZERuNGN6Z1JMQjlRdGpCZmlpWmhHOVI4cjhkVHpremVWM2xGcFl3OVBKc0pwZg?oc=5",
+      "title": "SYNEX เตรียมเปิดคลังขนสินค้า จัดลด-แลก แบบกระหน่ำ เต็มพื้นที่ “Synnex Clearance Sale 2023” วันที่ 24 - 25 พฤศจิกายน นี้ - share2trade.com",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiygdBVV95cUxNLVRRYkRmcXJzNlYxUzRYQUp5dFk0el9ueGNiSlhkMU9ZQ3V4SWhUczI5Wjd1bHdTc2Rla1VINGh4cF9FTG1rUGRuei1wajRUYWdwWWFjaUxEUWFGa3VKZS13ZGJuWENOS2kwODJjTENpRGVMMG5YTzJiWk1Qclp5eWlCcGpfZHRmSXY5aTBocnh1azE1RWRreGlqNjZWSFE1a1hScXRUU1JKVVk4UTNVQmdRUjJlcEJzZ2",
+      "date": "Sun, 12 Nov 2023 15:46:28 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiygdBVV95cUxNLVRRYkRmcXJzNlYxUzRYQUp5dFk0el9ueGNiSlhkMU9ZQ3V4SWhUczI5Wjd1bHdTc2Rla1VINGh4cF9FTG1rUGRuei1wajRUYWdwWWFjaUxEUWFGa3VKZS13ZGJuWENOS2kwODJjTENpRGVMMG5YTzJiWk1Qclp5eWlCcGpfZHRmSXY5aTBocnh1azE1RWRreGlqNjZWSFE1a1hScXRUU1JKVVk4UTNVQmdRUjJlcEJzZ2VMRnVUZVdMb3FOWGVFR2oxXzVUd3FlS0pfejdxc21JUl9JekJpUVo1bjY5V2pMdS1rbGZqbGhwQVJMbGM5MkQ1Wnc1cjVmeWhtR2NpV0pyS2oyWkJrek5ra3RyVFZ3Q0E5OGZKVk9EWXAwalNtMmNEdFpMRW5XWGlKQTRyUXZhcU12OW1LazM4dmtCTnEwTmFfY24yLXVaZWNJVGI2SWdGRE5IVHN4Tm9BV3VteXdZZHRlY2xBMDZRU08xYk1BamtUSWpwdDFSTmVQdVZBdlg0dHU3dkVMZS1zTC1pbU1fSHdNYjR1dGpodmFTTHZiVXNYX2FLT0E4bmlBMzV6eWpad0Q0R1p6cXVrampVaC1KQmpSaTVEYXgydVZ2aTNrZUVrQWZOTWt0Z2E1ams4LVRlcV80NGJwUmlsMjkxRHdzMVduWmtyTU9nd29Ec21lOWdiM3YwX0tLM1RBX0JBdFI1MGlZVlYzRlZQZWNlazJNdGN5a0NVdVJqRU9Sc0VmQzNSQWc3aHV1c3RoV1p5OW00OXpDdExpU0s3TS1YVmtVdnI5Y0h4eUlPZGVMb0h4TUhPd0ZIM2NuTWtfbG5oeFNnUUdiWnZlQnFsR3kxSGEtZVB4eFlaRWN2WXhyR1NvRE5xeURLT0I5WlJJY0JGUmJVS1YyOFhUQVR0MzJOX0lOTnhPX0RRRG1LaE50RkRta2psbEx2bnd6OTNldTdTNzJNUG1KYk1mTjdYb0FKa1k2X2thYlZQZ29DdFZfUFV0VHBzTnlLZUdhc0RuU1BkZXVPR2Z4X1psblVDc0RxTDFWcWdhRjVIY2daNGFuMUl3R0hzME9SdFlrSHUxQktua21GWFpxWXQ1Y0ViS1I0Rldld2tJTFNPTXBmN1ZWN2IyTjlRTEtMV2JncHBrLUtJTmIyYzdJUEdreWlZRGplcGo3WmJtSDE3ckh5TC13YkVqTE1DQnloZ05HdkNBR2RuSEpoVU02Mm9MbURXOHdDSFktcGs2aWVWdjFkdkNmR2ZUaENBeHQzdFpDZlpuZVdvSFJn?oc=5",
       "source": "Google News TH",
       "category": "general",
       "trusted": false,
@@ -172,10 +148,20 @@
       "priority": 5
     },
     {
-      "title": "SYNEX ดึง Nintendo Switch บุกตลาดไทย ชูจุดแข็งสัญลักษณ์ Trusted by Synnex ให้บริการครบวงจร พร้อมการรับประกันสูงสุด 18 เดือน - มิติหุ้น | ชี้ชัดทุกการลงทุน - mitihoon.com",
+      "title": "SYNEX ดึง Nintendo Switch บุกตลาดไทย ชูจุดแข็งสัญลักษณ์ Trusted by Synnex ให้บริการครบวงจร พร้อมการรับประกันสูงสุด 18 เดือน - มิติหุ้น | ชี้ชัดทุกการลงทุน - มิติหุ้น",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFB3eU1ESkkyMDlYeTQzaEV6UURianQwSFVHWFVKQi1qYmpaYkxlQ2lBdDZpMUhHaF9aUVVBTHRISmtnQnRZUmd3OHNsWTRwRDdyOWhmSXV3?oc=5\" target=\"_blank\">SYNEX ดึง Nintendo Switch บุกตลาดไทย ชูจุดแข็งสัญลักษณ์ Trusted by Synnex ให้บริการครบวงจร พร้อมการรับประกันสูง",
       "date": "Thu, 10 Aug 2023 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB3eU1ESkkyMDlYeTQzaEV6UURianQwSFVHWFVKQi1qYmpaYkxlQ2lBdDZpMUhHaF9aUVVBTHRISmtnQnRZUmd3OHNsWTRwRDdyOWhmSXV3?oc=5",
+      "source": "Google News TH",
+      "category": "general",
+      "trusted": false,
+      "priority": 5
+    },
+    {
+      "title": "SYNEX เตรียมจัดงานสุดยิ่งใหญ่แห่งปี “Synnex Partners Connect 2022” รวบรวมพาร์ทเนอร์ทั่วประเทศ อัพเดตกลยุทธ์และเทรนด์เทคโนโลยีที่ต้องจับตา - ThaiPR.NET",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE1kdTZ4b25WX3dyUHdzeUNBb1hNZU1DSlBRQktNWlprZXRhaDRXd2gyS1NGaHR3RTJvMlRrb0c5RGxseHJYUUlvYnl1ZFBYNEE?oc=5\" target=\"_blank\">SYNEX เตรียมจัดงานสุดยิ่งใหญ่แห่งปี “Synnex Partners Connect 2022” รวบรวมพาร์ทเนอร์ทั่วประเทศ อัพเดตกลยุทธ์และเทรนด์เทคโ",
+      "date": "Thu, 22 Sep 2022 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1kdTZ4b25WX3dyUHdzeUNBb1hNZU1DSlBRQktNWlprZXRhaDRXd2gyS1NGaHR3RTJvMlRrb0c5RGxseHJYUUlvYnl1ZFBYNEE?oc=5",
       "source": "Google News TH",
       "category": "general",
       "trusted": false,
@@ -186,6 +172,16 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPZl9IZHFHbnNRd0I5VHZEMmRGZk81aWdsT0ExcFhWNmtaR3IwNkxjRHpSMHBuREtJRXhyR1FwankwTjFIWm9JSWcwREd6b0hlN1pMbklxd0hvUXh6aFhwSk5ZeUplV1ZYUTZYU0xKTXRVSExVTUhaOXZ0SWVLaDlNVnoxMA?oc=5\" target=\"_blank\">HUAWEI eKit Joins Hands with Distribution Partner",
       "date": "Wed, 08 Nov 2023 08:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZl9IZHFHbnNRd0I5VHZEMmRGZk81aWdsT0ExcFhWNmtaR3IwNkxjRHpSMHBuREtJRXhyR1FwankwTjFIWm9JSWcwREd6b0hlN1pMbklxd0hvUXh6aFhwSk5ZeUplV1ZYUTZYU0xKTXRVSExVTUhaOXZ0SWVLaDlNVnoxMA?oc=5",
+      "source": "Google News EN",
+      "category": "general",
+      "trusted": false,
+      "priority": 6
+    },
+    {
+      "title": "Kittipong Prasobchokchaikul Joins Synnex Thailand as Head of Human Resources Operations - hrtoday.in",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMTFhM3lnSXFNajBLb3ZENU1kcXpoVHhWWW54UDNKR3BpTU9EVnMxYlJ4bVRUOWNzY1E2amcwbWdFZkR3Wk1ucHM0ZWZIWHlnVkN3RzBXMTdSSzlLYl9NbXhFRXBHcXRmWTlRTTVpUmkySUUyRzdITEd3RzJ0cFlnX3BJTXd2RFJVZE5Gb2k4ZXBVVGZKZnh1S01KemNhSmxoY3cwUWhIZ2pGQ2c?oc=5\" target=\"_bla",
+      "date": "Thu, 02 May 2024 18:54:14 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMTFhM3lnSXFNajBLb3ZENU1kcXpoVHhWWW54UDNKR3BpTU9EVnMxYlJ4bVRUOWNzY1E2amcwbWdFZkR3Wk1ucHM0ZWZIWHlnVkN3RzBXMTdSSzlLYl9NbXhFRXBHcXRmWTlRTTVpUmkySUUyRzdITEd3RzJ0cFlnX3BJTXd2RFJVZE5Gb2k4ZXBVVGZKZnh1S01KemNhSmxoY3cwUWhIZ2pGQ2c?oc=5",
       "source": "Google News EN",
       "category": "general",
       "trusted": false,
@@ -212,14 +208,14 @@
       "priority": 6
     }
   ],
-  "claude_prompt": "CFO FX Brief 25/09/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] SET courts four major firms for Thai listings\n- [Bangkok Post Business] Thailand's SET, NYSE strike deal to explore dual listings and new products\n- [Bangkok Post Business] Gold traders focus on US-China summit",
+  "claude_prompt": "CFO FX Brief 28/09/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Manual] ไม่สามารถดึงข่าวอัตโนมัติได้",
   "stats": {
-    "fx_news_count": 3,
-    "synnex_news_count": 18,
+    "fx_news_count": 1,
+    "synnex_news_count": 19,
     "data_sources": [
       "Google News TH",
       "Google News EN",
-      "Bangkok Post Business"
+      "Manual"
     ]
   }
 }
