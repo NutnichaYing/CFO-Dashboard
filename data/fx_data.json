@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-05 17:58:11 BKK",
+  "last_updated": "2026-10-06 12:33:12 BKK",
   "rate": {
-    "date": "2026-10-05",
+    "date": "2026-10-06",
     "buying": 0,
     "selling": 0,
     "mid": 0,
@@ -9,10 +9,17 @@
   },
   "news": [
     {
-      "title": "Joint venture files to launch tokenized US-stocks trading platform",
-      "description": "SINGAPORE - ​OKXICE, a joint venture involving crypto ​exchange OKX and &zwnj;NYSE-parent Intercontinental Exchange (ICE) filed with the US Securities and Exchange Commission on Sunday to launch a tok",
-      "date": "Mon, 05 Oct 2026 12:35:00 +0700",
-      "link": "https://www.bangkokpost.com/business/general/3331629/joint-venture-files-to-launch-tokenized-usstocks-trading-platform",
+      "title": "LTR visas generate B43bn over four years",
+      "description": "The approval of long-term resident (LTR) visas over the past four years has generated 43 billion baht in economic value for the country, says the Board of Investment (BoI).",
+      "date": "Tue, 06 Oct 2026 05:01:00 +0700",
+      "link": "https://www.bangkokpost.com/business/investment/3331984/ltr-visas-generate-b43bn-over-four-years",
+      "source": "Bangkok Post Business"
+    },
+    {
+      "title": "Siam Piwat bets big on Phuket with Iconphuket",
+      "description": "Siam Piwat Group, the developer of Siam Paragon, Siam Center and Siam Discovery, and joint owner of Iconsiam and Siam Premium Outlets Bangkok, has unveiled \"Iconphuket\", positioning the 10-billion-bah",
+      "date": "Tue, 06 Oct 2026 04:35:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3332024/siam-piwat-bets-big-on-phuket-with-iconphuket",
       "source": "Bangkok Post Business"
     }
   ],
@@ -48,16 +55,6 @@
       "priority": 5
     },
     {
-      "title": "Synnex โชว์ฟอร์มแกร่ง Q2/68 รายได้ทะลุหมื่นล้าน! Nintendo Switch 2 และเทรนด์ AI ดันกำไรพุ่ง 19% - Sanook.com",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RT3d1eVozZFMzOXRzZUNia3ozX0tPZHlqZ1g2SkdnUS1UOW1zejJQZ2xFLWZ3aXhWeW9hSGFVLWxGRlJUYkVzejJLVFhGcjg?oc=5\" target=\"_blank\">Synnex โชว์ฟอร์มแกร่ง Q2/68 รายได้ทะลุหมื่นล้าน! Nintendo Switch 2 และเทรนด์ AI ดันกำไรพุ่ง 19%</a>&nbsp;&nbsp;<font col",
-      "date": "Thu, 14 Aug 2025 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RT3d1eVozZFMzOXRzZUNia3ozX0tPZHlqZ1g2SkdnUS1UOW1zejJQZ2xFLWZ3aXhWeW9hSGFVLWxGRlJUYkVzejJLVFhGcjg?oc=5",
-      "source": "Google News TH",
-      "category": "general",
-      "trusted": false,
-      "priority": 5
-    },
-    {
       "title": "ส่องผลประกอบการครึ่งปีแรกของ ค้าส่งสินค้าไอที กระแส Work form Home ดันยอดขายขนาดไหน? - Brand Inside",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ka2Y5blk3U1Y4RXg3ekRSMzB2WXFraGdZZWxQLVlZUVJCdHZPRmhkTXlMUU9GSWg4SmR2d0JSUnNqNF93RmZIYzVoaEpIaTFlQTNZcU1HMUNFNHY4amJkYnJqUUgyLXM?oc=5\" target=\"_blank\">ส่องผลประกอบการครึ่งปีแรกของ ค้าส่งสินค้าไอที กระแส Work form Home ดันยอดขายขนาดไหน?</a>",
       "date": "Mon, 16 Aug 2021 07:00:00 GMT",
@@ -68,10 +65,10 @@
       "priority": 5
     },
     {
-      "title": "SYNNEX ผนึกกำลัง AWS ครบรอบ 1 ปีเดินหน้ากลยุทธ์เสริมแกร่งพันธมิตร ผลักดันตลาด Cloud และ AI ไทยเติบโตยั่งยืน [PR] - TechTalkThai",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE40eGE2a2M4cWhKelBIcEw4QmY1WWR5WDU2eDdGbklQNEUyMGoxcklRQUxlYVVhMnd5aEVSZ0R6eXRIOF9GTHJyY3FvREZBTGRnemJlbDVqbnppN3V6c3J5eXFkaUoxcXZtbnBPdQ?oc=5\" target=\"_blank\">SYNNEX ผนึกกำลัง AWS ครบรอบ 1 ปีเดินหน้ากลยุทธ์เสริมแกร่งพันธมิตร ผลักดันตลาด Clo",
-      "date": "Fri, 27 Feb 2026 04:52:10 GMT",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE40eGE2a2M4cWhKelBIcEw4QmY1WWR5WDU2eDdGbklQNEUyMGoxcklRQUxlYVVhMnd5aEVSZ0R6eXRIOF9GTHJyY3FvREZBTGRnemJlbDVqbnppN3V6c3J5eXFkaUoxcXZtbnBPdQ?oc=5",
+      "title": "Synnex โชว์ฟอร์มแกร่ง Q2/68 รายได้ทะลุหมื่นล้าน! Nintendo Switch 2 และเทรนด์ AI ดันกำไรพุ่ง 19% - Sanook.com",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RT3d1eVozZFMzOXRzZUNia3ozX0tPZHlqZ1g2SkdnUS1UOW1zejJQZ2xFLWZ3aXhWeW9hSGFVLWxGRlJUYkVzejJLVFhGcjg?oc=5\" target=\"_blank\">Synnex โชว์ฟอร์มแกร่ง Q2/68 รายได้ทะลุหมื่นล้าน! Nintendo Switch 2 และเทรนด์ AI ดันกำไรพุ่ง 19%</a>&nbsp;&nbsp;<font col",
+      "date": "Thu, 14 Aug 2025 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RT3d1eVozZFMzOXRzZUNia3ozX0tPZHlqZ1g2SkdnUS1UOW1zejJQZ2xFLWZ3aXhWeW9hSGFVLWxGRlJUYkVzejJLVFhGcjg?oc=5",
       "source": "Google News TH",
       "category": "general",
       "trusted": false,
@@ -82,6 +79,16 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wYlE2S25nYUduMDVDR2pva1ZWeFMwbThlcHRqRnZvVGVOUjdvUF90YzhfSjN0RjBHQ1AtR1ItTDVKRmRtREMyM2xISTYzNnlTNjNZbm9R?oc=5\" target=\"_blank\">SYNEX บวก 4% ลุ้นกำไรปีนี้ทะลุ 700 ลบ. อานิสงส์ยอดขายไอทีพุ่ง</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ข่าวหุ้นธุรก",
       "date": "Tue, 31 Aug 2021 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wYlE2S25nYUduMDVDR2pva1ZWeFMwbThlcHRqRnZvVGVOUjdvUF90YzhfSjN0RjBHQ1AtR1ItTDVKRmRtREMyM2xISTYzNnlTNjNZbm9R?oc=5",
+      "source": "Google News TH",
+      "category": "general",
+      "trusted": false,
+      "priority": 5
+    },
+    {
+      "title": "SYNNEX ผนึกกำลัง AWS ครบรอบ 1 ปีเดินหน้ากลยุทธ์เสริมแกร่งพันธมิตร ผลักดันตลาด Cloud และ AI ไทยเติบโตยั่งยืน [PR] - TechTalkThai",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE40eGE2a2M4cWhKelBIcEw4QmY1WWR5WDU2eDdGbklQNEUyMGoxcklRQUxlYVVhMnd5aEVSZ0R6eXRIOF9GTHJyY3FvREZBTGRnemJlbDVqbnppN3V6c3J5eXFkaUoxcXZtbnBPdQ?oc=5\" target=\"_blank\">SYNNEX ผนึกกำลัง AWS ครบรอบ 1 ปีเดินหน้ากลยุทธ์เสริมแกร่งพันธมิตร ผลักดันตลาด Clo",
+      "date": "Fri, 27 Feb 2026 04:52:10 GMT",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE40eGE2a2M4cWhKelBIcEw4QmY1WWR5WDU2eDdGbklQNEUyMGoxcklRQUxlYVVhMnd5aEVSZ0R6eXRIOF9GTHJyY3FvREZBTGRnemJlbDVqbnppN3V6c3J5eXFkaUoxcXZtbnBPdQ?oc=5",
       "source": "Google News TH",
       "category": "general",
       "trusted": false,
@@ -102,16 +109,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE1kdTZ4b25WX3dyUHdzeUNBb1hNZU1DSlBRQktNWlprZXRhaDRXd2gyS1NGaHR3RTJvMlRrb0c5RGxseHJYUUlvYnl1ZFBYNEE?oc=5\" target=\"_blank\">SYNEX เตรียมจัดงานสุดยิ่งใหญ่แห่งปี “Synnex Partners Connect 2022” รวบรวมพาร์ทเนอร์ทั่วประเทศ อัพเดตกลยุทธ์และเทรนด์เทคโ",
       "date": "Thu, 22 Sep 2022 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1kdTZ4b25WX3dyUHdzeUNBb1hNZU1DSlBRQktNWlprZXRhaDRXd2gyS1NGaHR3RTJvMlRrb0c5RGxseHJYUUlvYnl1ZFBYNEE?oc=5",
-      "source": "Google News TH",
-      "category": "general",
-      "trusted": false,
-      "priority": 5
-    },
-    {
-      "title": "SYNNEX ร่วมยกระดับงานเกมนานาชาติ gamescom asia x Thailand Game Show โชว์ศักยภาพ No.1 Gaming Distributor หนุนวงการเกมไทยสู่เวทีโลก - online-station.net",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YVHV6c1B5RXdnNURVU3RETGdZUE5DOFR4R0ZTd1htS2VwMkIwYndSdm1ZODJzeXo3NmNyMjVlblJyb21jV2JIaVJPeWNLV3M1RnhuR0c4OHVPRGRsRXRDSG5PQQ?oc=5\" target=\"_blank\">SYNNEX ร่วมยกระดับงานเกมนานาชาติ gamescom asia x Thailand Game Show โชว์ศักยภาพ No.1 Gaming D",
-      "date": "Sun, 10 Aug 2025 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YVHV6c1B5RXdnNURVU3RETGdZUE5DOFR4R0ZTd1htS2VwMkIwYndSdm1ZODJzeXo3NmNyMjVlblJyb21jV2JIaVJPeWNLV3M1RnhuR0c4OHVPRGRsRXRDSG5PQQ?oc=5",
       "source": "Google News TH",
       "category": "general",
       "trusted": false,
@@ -168,6 +165,16 @@
       "priority": 5
     },
     {
+      "title": "Nintendo Switch by Synnex ร่วมงาน Thailand Mobile Expo 2023 มหกรรมมือถือสุดยิ่งใหญ่แห่งปี - Thaimobilecenter",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQb2Q1a3dmeHc5enp1cjN3RGc5VmxBMDEyeFR0S1ZONHBSODNJZ3RNOXdGalc5X216Ui1OdHZFb0JjVE9OcGc3dm9DZVZ5aFdhS3pJOEJpTHNQRFZKOUo0TE1DU1d3bXN2MUVyd2hNaGZ5cXR2aWJjRzZhQTFkMGdxbQ?oc=5\" target=\"_blank\">Nintendo Switch by Synnex ร่วมงาน Thailand Mobile Exp",
+      "date": "Fri, 27 Oct 2023 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQb2Q1a3dmeHc5enp1cjN3RGc5VmxBMDEyeFR0S1ZONHBSODNJZ3RNOXdGalc5X216Ui1OdHZFb0JjVE9OcGc3dm9DZVZ5aFdhS3pJOEJpTHNQRFZKOUo0TE1DU1d3bXN2MUVyd2hNaGZ5cXR2aWJjRzZhQTFkMGdxbQ?oc=5",
+      "source": "Google News TH",
+      "category": "general",
+      "trusted": false,
+      "priority": 5
+    },
+    {
       "title": "HUAWEI eKit Joins Hands with Distribution Partners to Explore Unlimited Opportunities in Thailand SME market - Huawei Enterprise",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQUExVWWNHMzNQeVNJMjMwWkVoMHkwdWtsTjVPOEpNaVptRTZMY3VnVVNYeWdjdnFJRGNrUk9BNTNOOWczOUhRcTVSM21DRU9uMW9nT1A5LU55aWVHRG5ScnI4aXBBY2xCaXAzZDc4ZnVIb0tUT1NwVjYyTWt3aTN5RnByUQ?oc=5\" target=\"_blank\">HUAWEI eKit Joins Hands with Distribution Partner",
       "date": "Wed, 08 Nov 2023 08:00:00 GMT",
@@ -182,16 +189,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMTFhM3lnSXFNajBLb3ZENU1kcXpoVHhWWW54UDNKR3BpTU9EVnMxYlJ4bVRUOWNzY1E2amcwbWdFZkR3Wk1ucHM0ZWZIWHlnVkN3RzBXMTdSSzlLYl9NbXhFRXBHcXRmWTlRTTVpUmkySUUyRzdITEd3RzJ0cFlnX3BJTXd2RFJVZE5Gb2k4ZXBVVGZKZnh1S01KemNhSmxoY3cwUWhIZ2pGQ2c?oc=5\" target=\"_bla",
       "date": "Thu, 02 May 2024 18:54:14 GMT",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMTFhM3lnSXFNajBLb3ZENU1kcXpoVHhWWW54UDNKR3BpTU9EVnMxYlJ4bVRUOWNzY1E2amcwbWdFZkR3Wk1ucHM0ZWZIWHlnVkN3RzBXMTdSSzlLYl9NbXhFRXBHcXRmWTlRTTVpUmkySUUyRzdITEd3RzJ0cFlnX3BJTXd2RFJVZE5Gb2k4ZXBVVGZKZnh1S01KemNhSmxoY3cwUWhIZ2pGQ2c?oc=5",
-      "source": "Google News EN",
-      "category": "general",
-      "trusted": false,
-      "priority": 6
-    },
-    {
-      "title": "Synnex to Launch Thailand’s First Nintendo Official Authorized Store in Bangkok - GamerBraves",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSHpaZWdjWkxicHFhc3VsaFJRMXR3ZHduTkNPUjZvNEp6WjNveFlocGxpMjdULTZpLVFTaFpwS1BCd2M1X3M3Ti1TX255dGZIQldNTkJscEJqZG53T0IzUDFUWW1VNFNHbEpwcjBIekNtUGxudExrYlRDUUVsdks1aWx5RnNfSWVRdHRWNHBOWTZhbVpsallQTGtxd3lkeC05RV9jTWF5Q3BpOFk?oc=5\" target=\"_bla",
-      "date": "Wed, 06 Nov 2024 03:42:07 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSHpaZWdjWkxicHFhc3VsaFJRMXR3ZHduTkNPUjZvNEp6WjNveFlocGxpMjdULTZpLVFTaFpwS1BCd2M1X3M3Ti1TX255dGZIQldNTkJscEJqZG53T0IzUDFUWW1VNFNHbEpwcjBIekNtUGxudExrYlRDUUVsdks1aWx5RnNfSWVRdHRWNHBOWTZhbVpsallQTGtxd3lkeC05RV9jTWF5Q3BpOFk?oc=5",
       "source": "Google News EN",
       "category": "general",
       "trusted": false,
@@ -218,14 +215,14 @@
       "priority": 6
     }
   ],
-  "claude_prompt": "CFO FX Brief 05/10/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Joint venture files to launch tokenized US-stocks trading platform",
+  "claude_prompt": "CFO FX Brief 06/10/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] LTR visas generate B43bn over four years\n- [Bangkok Post Business] Siam Piwat bets big on Phuket with Iconphuket",
   "stats": {
-    "fx_news_count": 1,
-    "synnex_news_count": 20,
+    "fx_news_count": 2,
+    "synnex_news_count": 19,
     "data_sources": [
-      "Google News TH",
       "Bangkok Post Business",
-      "Google News EN"
+      "Google News EN",
+      "Google News TH"
     ]
   }
 }
