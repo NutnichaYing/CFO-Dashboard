@@ -1,13 +1,20 @@
 {
-  "last_updated": "2026-10-07 17:41:07 BKK",
+  "last_updated": "2026-10-08 00:42:11 BKK",
   "rate": {
-    "date": "2026-10-07",
+    "date": "2026-10-08",
     "buying": 0,
     "selling": 0,
     "mid": 0,
     "source": "Unavailable - Please check BOT website"
   },
   "news": [
+    {
+      "title": "UK court quashes former traders’ rate-rigging convictions",
+      "description": "LONDON - The Court of Appeal in London on Wednesday quashed the criminal convictions of five former financial traders for manipulating the Libor and Euribor interest rate benchmarks, the latest twist",
+      "date": "Wed, 07 Oct 2026 21:45:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3333014/uk-court-quashes-former-traders-raterigging-convictions",
+      "source": "Bangkok Post Business"
+    },
     {
       "title": "Thai flood damage estimated at $178 million, industry federation says",
       "description": "Thailand's industrial ​sector has suffered ​damages worth &zwnj;an estimated 6 billion baht (US$178 million) from floods that have swept ​through",
@@ -230,16 +237,26 @@
       "category": "general",
       "trusted": false,
       "priority": 6
+    },
+    {
+      "title": "SYNNEX and COPPERWIRED launches SE Asia’s first Nintendo store at Siam Paragon - Thaiger",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQYlZxWGFoMjBUYUxZQ1RyZ1QxOXltZGExYlhrcjYyemlhTExOMmo5RHBJVG93Mi1HWmZjNTh0RjFzTElXN0x3ZVVSRFNObkVGX0haUWQyVUVHX3lXWWRQdTRCTlFfX1Y5Vmt5Y0lKT1NrZTNtSHBDUTJCU2Z2NG9VMkJDMWF0S2JJRnpZb2tlVTdZV0RUU290dDEwMDM3NTVwM3RXV3BvczJmV3NjS0tjckhzdFBmWUk?oc",
+      "date": "Mon, 25 Nov 2024 08:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYlZxWGFoMjBUYUxZQ1RyZ1QxOXltZGExYlhrcjYyemlhTExOMmo5RHBJVG93Mi1HWmZjNTh0RjFzTElXN0x3ZVVSRFNObkVGX0haUWQyVUVHX3lXWWRQdTRCTlFfX1Y5Vmt5Y0lKT1NrZTNtSHBDUTJCU2Z2NG9VMkJDMWF0S2JJRnpZb2tlVTdZV0RUU290dDEwMDM3NTVwM3RXV3BvczJmV3NjS0tjckhzdFBmWUk?oc=5",
+      "source": "Google News EN",
+      "category": "general",
+      "trusted": false,
+      "priority": 6
     }
   ],
-  "claude_prompt": "CFO FX Brief 07/10/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Thai flood damage estimated at $178 million, industry federation says\n- [Bangkok Post Business] Spending set to hit 6-year high despite price rises\n- [Bangkok Post Business] Foreign funds forecast to return this quarter",
+  "claude_prompt": "CFO FX Brief 08/10/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] UK court quashes former traders’ rate-rigging convictions\n- [Bangkok Post Business] Thai flood damage estimated at $178 million, industry federation says\n- [Bangkok Post Business] Spending set to hit 6-year high despite price rises\n- [Bangkok Post Business] Foreign funds forecast to return this quarter",
   "stats": {
-    "fx_news_count": 3,
-    "synnex_news_count": 20,
+    "fx_news_count": 4,
+    "synnex_news_count": 21,
     "data_sources": [
-      "Google News TH",
+      "Bangkok Post Business",
       "Google News EN",
-      "Bangkok Post Business"
+      "Google News TH"
     ]
   }
 }
