@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-08 18:01:16 BKK",
+  "last_updated": "2026-10-09 00:46:32 BKK",
   "rate": {
-    "date": "2026-10-08",
+    "date": "2026-10-09",
     "buying": 0,
     "selling": 0,
     "mid": 0,
@@ -13,13 +13,6 @@
       "description": "The Stock Exchange of Thailand (SET) index is expected to finish at 1,680 points by year-end, supported by investment in artificial intelligence (AI) technology and its supply chain, listed-company ea",
       "date": "Thu, 08 Oct 2026 06:16:00 +0700",
       "link": "https://www.bangkokpost.com/business/investment/3333435/analysts-predict-set-to-reach-1680-by-yearend",
-      "source": "Bangkok Post Business"
-    },
-    {
-      "title": "Oil Fuel Fund mulls loan options",
-      "description": "The Energy Ministry has stressed that borrowing money from banks to shore up the loss-riddled Oil Fuel Fund is a last resort, despite the fund's deficit approaching 100 billion baht.",
-      "date": "Thu, 08 Oct 2026 06:03:00 +0700",
-      "link": "https://www.bangkokpost.com/business/general/3333230/oil-fuel-fund-mulls-loan-options",
       "source": "Bangkok Post Business"
     }
   ],
@@ -223,22 +216,12 @@
       "category": "general",
       "trusted": false,
       "priority": 6
-    },
-    {
-      "title": "SYNNEX and COPPERWIRED launches SE Asia’s first Nintendo store at Siam Paragon - Thaiger",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQYlZxWGFoMjBUYUxZQ1RyZ1QxOXltZGExYlhrcjYyemlhTExOMmo5RHBJVG93Mi1HWmZjNTh0RjFzTElXN0x3ZVVSRFNObkVGX0haUWQyVUVHX3lXWWRQdTRCTlFfX1Y5Vmt5Y0lKT1NrZTNtSHBDUTJCU2Z2NG9VMkJDMWF0S2JJRnpZb2tlVTdZV0RUU290dDEwMDM3NTVwM3RXV3BvczJmV3NjS0tjckhzdFBmWUk?oc",
-      "date": "Mon, 25 Nov 2024 08:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYlZxWGFoMjBUYUxZQ1RyZ1QxOXltZGExYlhrcjYyemlhTExOMmo5RHBJVG93Mi1HWmZjNTh0RjFzTElXN0x3ZVVSRFNObkVGX0haUWQyVUVHX3lXWWRQdTRCTlFfX1Y5Vmt5Y0lKT1NrZTNtSHBDUTJCU2Z2NG9VMkJDMWF0S2JJRnpZb2tlVTdZV0RUU290dDEwMDM3NTVwM3RXV3BvczJmV3NjS0tjckhzdFBmWUk?oc=5",
-      "source": "Google News EN",
-      "category": "general",
-      "trusted": false,
-      "priority": 6
     }
   ],
-  "claude_prompt": "CFO FX Brief 08/10/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Analysts predict SET to reach 1,680 by year-end\n- [Bangkok Post Business] Oil Fuel Fund mulls loan options",
+  "claude_prompt": "CFO FX Brief 09/10/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Analysts predict SET to reach 1,680 by year-end",
   "stats": {
-    "fx_news_count": 2,
-    "synnex_news_count": 21,
+    "fx_news_count": 1,
+    "synnex_news_count": 20,
     "data_sources": [
       "Google News TH",
       "Bangkok Post Business",
