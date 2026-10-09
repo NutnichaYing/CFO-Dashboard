@@ -1,13 +1,27 @@
 {
-  "last_updated": "2026-10-09 18:00:36 BKK",
+  "last_updated": "2026-10-10 00:22:27 BKK",
   "rate": {
-    "date": "2026-10-09",
+    "date": "2026-10-10",
     "buying": 0,
     "selling": 0,
     "mid": 0,
     "source": "Unavailable - Please check BOT website"
   },
   "news": [
+    {
+      "title": "SET to extend trading hours for foreign-linked instruments",
+      "description": "The Stock Exchange of Thailand (SET) will extend morning trading hours for depositary receipts, derivative warrants and exchange-traded funds linked to foreign underlying assets from Nov 16.",
+      "date": "Fri, 09 Oct 2026 21:05:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3334394/set-to-extend-trading-hours-for-foreignlinked-instruments",
+      "source": "Bangkok Post Business"
+    },
+    {
+      "title": "2026 tax revenue of B2.5 trillion beats target",
+      "description": "The Revenue Department collected 2.52 trillion baht in tax revenue in the 2026 fiscal year that ended on Sept 30, exceeding its target by 7.5 billion baht, according to acting director-general Salakji",
+      "date": "Fri, 09 Oct 2026 20:23:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3334399/2026-tax-revenue-of-b25-trillion-beats-target",
+      "source": "Bangkok Post Business"
+    },
     {
       "title": "Nearly 30 years after IMF rescue, Thailand faces new economic test",
       "description": "Ekniti Nitithanprapas was a young graduate student in the United ​States when Thailand devalued the baht in 1997, setting off the Asian &zwnj;financial crisis.",
@@ -27,13 +41,6 @@
       "description": "Radware, a Nasdaq-listed cybersecurity firm, is investing millions of dollars in Thailand, setting up a Bangkok data centre and point of presence (PoP) to support digital growth and an economy propell",
       "date": "Fri, 09 Oct 2026 07:36:00 +0700",
       "link": "https://www.bangkokpost.com/business/general/3333848/cyberthreats-grow-as-ai-adoption-accelerates",
-      "source": "Bangkok Post Business"
-    },
-    {
-      "title": "Insurance premiums set to near B1tn as demand rises",
-      "description": "Thailand's insurance industry expects total premiums to near 1 trillion baht in 2026, up almost 5% year-on-year, with disaster insurance recording strong growth as a result of complex risks.",
-      "date": "Fri, 09 Oct 2026 05:31:00 +0700",
-      "link": "https://www.bangkokpost.com/business/general/3333913/insurance-premiums-set-to-near-b1tn-as-demand-rises",
       "source": "Bangkok Post Business"
     }
   ],
@@ -59,20 +66,20 @@
       "priority": 5
     },
     {
-      "title": "SYNNEX Clearance Fair 2022 มาแล้ว!!! 18-19 พ.ย.นี้ ห้ามพลาด ส่องไฮไลท์สินค้าสุดว้าวกับส่วนลดมากกว่า 90% - Thaimobilecenter",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNX1RObGJXQV8tMENLYkdFc3hlNjh4aFlZRVZrNEEzel9UVGJSVWhSV3hWcVlvOGctNFNWRHRjemZscmxZLTNDa25zSzNkUk9ZM2c0WV9hSy14RjY2OXB1U0MwV2pJNnR5bjVEakI0bzhwaHZUaDJyRjFTQ1I1S0xoV1kwMFR5M1k?oc=5\" target=\"_blank\">SYNNEX Clearance Fair 2022 มาแล้ว!!! 18-19 พ",
-      "date": "Wed, 16 Nov 2022 08:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX1RObGJXQV8tMENLYkdFc3hlNjh4aFlZRVZrNEEzel9UVGJSVWhSV3hWcVlvOGctNFNWRHRjemZscmxZLTNDa25zSzNkUk9ZM2c0WV9hSy14RjY2OXB1U0MwV2pJNnR5bjVEakI0bzhwaHZUaDJyRjFTQ1I1S0xoV1kwMFR5M1k?oc=5",
+      "title": "สุธิดา มงคลสุธี ไม่ใช่แค่เพียงลูกสาวท่านประธานแต่เป็นแม่ทัพหญิงแกร่งของ SYNNEX ผู้ปั้นยอดขายไอทีกว่า 40,000 ล้าน - Marketeer Online",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tQjRmVkRWUFlKWmV2TzFOZVEyS2NsaHF1VjNjeVFiZEJLQWtzZDVPa1NzRGE5VUpJc3F3NmtUamdMUzZUNE5nY20yTlAtc29SeGFmcA?oc=5\" target=\"_blank\">สุธิดา มงคลสุธี ไม่ใช่แค่เพียงลูกสาวท่านประธานแต่เป็นแม่ทัพหญิงแกร่งของ SYNNEX ผู้ปั้นยอดขายไอทีกว่า 40,000 ล้าน<",
+      "date": "Sat, 09 Aug 2025 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tQjRmVkRWUFlKWmV2TzFOZVEyS2NsaHF1VjNjeVFiZEJLQWtzZDVPa1NzRGE5VUpJc3F3NmtUamdMUzZUNE5nY20yTlAtc29SeGFmcA?oc=5",
       "source": "Google News TH",
       "category": "general",
       "trusted": false,
       "priority": 5
     },
     {
-      "title": "สุธิดา มงคลสุธี ไม่ใช่แค่เพียงลูกสาวท่านประธานแต่เป็นแม่ทัพหญิงแกร่งของ SYNNEX ผู้ปั้นยอดขายไอทีกว่า 40,000 ล้าน - Marketeer Online",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tQjRmVkRWUFlKWmV2TzFOZVEyS2NsaHF1VjNjeVFiZEJLQWtzZDVPa1NzRGE5VUpJc3F3NmtUamdMUzZUNE5nY20yTlAtc29SeGFmcA?oc=5\" target=\"_blank\">สุธิดา มงคลสุธี ไม่ใช่แค่เพียงลูกสาวท่านประธานแต่เป็นแม่ทัพหญิงแกร่งของ SYNNEX ผู้ปั้นยอดขายไอทีกว่า 40,000 ล้าน<",
-      "date": "Sat, 09 Aug 2025 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tQjRmVkRWUFlKWmV2TzFOZVEyS2NsaHF1VjNjeVFiZEJLQWtzZDVPa1NzRGE5VUpJc3F3NmtUamdMUzZUNE5nY20yTlAtc29SeGFmcA?oc=5",
+      "title": "SYNNEX Clearance Fair 2022 มาแล้ว!!! 18-19 พ.ย.นี้ ห้ามพลาด ส่องไฮไลท์สินค้าสุดว้าวกับส่วนลดมากกว่า 90% - Thaimobilecenter",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNX1RObGJXQV8tMENLYkdFc3hlNjh4aFlZRVZrNEEzel9UVGJSVWhSV3hWcVlvOGctNFNWRHRjemZscmxZLTNDa25zSzNkUk9ZM2c0WV9hSy14RjY2OXB1U0MwV2pJNnR5bjVEakI0bzhwaHZUaDJyRjFTQ1I1S0xoV1kwMFR5M1k?oc=5\" target=\"_blank\">SYNNEX Clearance Fair 2022 มาแล้ว!!! 18-19 พ",
+      "date": "Wed, 16 Nov 2022 08:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX1RObGJXQV8tMENLYkdFc3hlNjh4aFlZRVZrNEEzel9UVGJSVWhSV3hWcVlvOGctNFNWRHRjemZscmxZLTNDa25zSzNkUk9ZM2c0WV9hSy14RjY2OXB1U0MwV2pJNnR5bjVEakI0bzhwaHZUaDJyRjFTQ1I1S0xoV1kwMFR5M1k?oc=5",
       "source": "Google News TH",
       "category": "general",
       "trusted": false,
@@ -109,6 +116,16 @@
       "priority": 5
     },
     {
+      "title": "SYNNEX ผนึกกำลัง AWS ครบรอบ 1 ปีเดินหน้ากลยุทธ์เสริมแกร่งพันธมิตร ผลักดันตลาด Cloud และ AI ไทยเติบโตยั่งยืน [PR] - TechTalkThai",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE40eGE2a2M4cWhKelBIcEw4QmY1WWR5WDU2eDdGbklQNEUyMGoxcklRQUxlYVVhMnd5aEVSZ0R6eXRIOF9GTHJyY3FvREZBTGRnemJlbDVqbnppN3V6c3J5eXFkaUoxcXZtbnBPdQ?oc=5\" target=\"_blank\">SYNNEX ผนึกกำลัง AWS ครบรอบ 1 ปีเดินหน้ากลยุทธ์เสริมแกร่งพันธมิตร ผลักดันตลาด Clo",
+      "date": "Fri, 27 Feb 2026 04:52:10 GMT",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE40eGE2a2M4cWhKelBIcEw4QmY1WWR5WDU2eDdGbklQNEUyMGoxcklRQUxlYVVhMnd5aEVSZ0R6eXRIOF9GTHJyY3FvREZBTGRnemJlbDVqbnppN3V6c3J5eXFkaUoxcXZtbnBPdQ?oc=5",
+      "source": "Google News TH",
+      "category": "general",
+      "trusted": false,
+      "priority": 5
+    },
+    {
       "title": "SYNEX บวก 4% ลุ้นกำไรปีนี้ทะลุ 700 ลบ. อานิสงส์ยอดขายไอทีพุ่ง - ข่าวหุ้นธุรกิจออนไลน์",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wYlE2S25nYUduMDVDR2pva1ZWeFMwbThlcHRqRnZvVGVOUjdvUF90YzhfSjN0RjBHQ1AtR1ItTDVKRmRtREMyM2xISTYzNnlTNjNZbm9R?oc=5\" target=\"_blank\">SYNEX บวก 4% ลุ้นกำไรปีนี้ทะลุ 700 ลบ. อานิสงส์ยอดขายไอทีพุ่ง</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ข่าวหุ้นธุรก",
       "date": "Tue, 31 Aug 2021 07:00:00 GMT",
@@ -119,10 +136,10 @@
       "priority": 5
     },
     {
-      "title": "ซินเน็คฯ ร่วมผลักดันอุตสาหกรรมเกมในประเทศไทย เป็นผู้สนับสนุนหลัก Thailand Game Show 2024 Presented by Synnex - posttoday",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1IZlBZRng4c1FnMGUyYmZlcmhZdTBfY1pjWmhhWFdFSlFfNDRfZlJXNi1xTHRIMkx5QWJfNk5VdkpINEl2ZV8tcUwzNkljdGtFQ2M5WFNVT0RkVkRK?oc=5\" target=\"_blank\">ซินเน็คฯ ร่วมผลักดันอุตสาหกรรมเกมในประเทศไทย เป็นผู้สนับสนุนหลัก Thailand Game Show 2024 Presented by S",
-      "date": "Sat, 17 Aug 2024 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1IZlBZRng4c1FnMGUyYmZlcmhZdTBfY1pjWmhhWFdFSlFfNDRfZlJXNi1xTHRIMkx5QWJfNk5VdkpINEl2ZV8tcUwzNkljdGtFQ2M5WFNVT0RkVkRK?oc=5",
+      "title": "ซินเน็คฯ กางแผนธุรกิจในงาน “SYNNEX PARTNER CONNECT 2024” - posttoday",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZNHc2MFVmV0VtOVBQYVFwRk9oNFhwS2xKNkNYckJ4dzRjYlNlRkN3SjBLcHQ2U3lUcURRUk9xMHZzbnQtOWwzbklHaEFYYV8tekE?oc=5\" target=\"_blank\">ซินเน็คฯ กางแผนธุรกิจในงาน “SYNNEX PARTNER CONNECT 2024”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">posttoday</font>",
+      "date": "Tue, 24 Sep 2024 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZNHc2MFVmV0VtOVBQYVFwRk9oNFhwS2xKNkNYckJ4dzRjYlNlRkN3SjBLcHQ2U3lUcURRUk9xMHZzbnQtOWwzbklHaEFYYV8tekE?oc=5",
       "source": "Google News TH",
       "category": "general",
       "trusted": false,
@@ -179,16 +196,6 @@
       "priority": 5
     },
     {
-      "title": "ซินเน็คฯ กางแผนธุรกิจในงาน “SYNNEX PARTNER CONNECT 2024” - posttoday",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZNHc2MFVmV0VtOVBQYVFwRk9oNFhwS2xKNkNYckJ4dzRjYlNlRkN3SjBLcHQ2U3lUcURRUk9xMHZzbnQtOWwzbklHaEFYYV8tekE?oc=5\" target=\"_blank\">ซินเน็คฯ กางแผนธุรกิจในงาน “SYNNEX PARTNER CONNECT 2024”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">posttoday</font>",
-      "date": "Tue, 24 Sep 2024 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZNHc2MFVmV0VtOVBQYVFwRk9oNFhwS2xKNkNYckJ4dzRjYlNlRkN3SjBLcHQ2U3lUcURRUk9xMHZzbnQtOWwzbklHaEFYYV8tekE?oc=5",
-      "source": "Google News TH",
-      "category": "general",
-      "trusted": false,
-      "priority": 5
-    },
-    {
       "title": "HUAWEI eKit Joins Hands with Distribution Partners to Explore Unlimited Opportunities in Thailand SME market - Huawei Enterprise",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQUExVWWNHMzNQeVNJMjMwWkVoMHkwdWtsTjVPOEpNaVptRTZMY3VnVVNYeWdjdnFJRGNrUk9BNTNOOWczOUhRcTVSM21DRU9uMW9nT1A5LU55aWVHRG5ScnI4aXBBY2xCaXAzZDc4ZnVIb0tUT1NwVjYyTWt3aTN5RnByUQ?oc=5\" target=\"_blank\">HUAWEI eKit Joins Hands with Distribution Partner",
       "date": "Wed, 08 Nov 2023 08:00:00 GMT",
@@ -237,25 +244,15 @@
       "category": "general",
       "trusted": false,
       "priority": 6
-    },
-    {
-      "title": "SYNNEX and COPPERWIRED launches SE Asia’s first Nintendo store at Siam Paragon - Thaiger",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQYlZxWGFoMjBUYUxZQ1RyZ1QxOXltZGExYlhrcjYyemlhTExOMmo5RHBJVG93Mi1HWmZjNTh0RjFzTElXN0x3ZVVSRFNObkVGX0haUWQyVUVHX3lXWWRQdTRCTlFfX1Y5Vmt5Y0lKT1NrZTNtSHBDUTJCU2Z2NG9VMkJDMWF0S2JJRnpZb2tlVTdZV0RUU290dDEwMDM3NTVwM3RXV3BvczJmV3NjS0tjckhzdFBmWUk?oc",
-      "date": "Mon, 25 Nov 2024 08:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYlZxWGFoMjBUYUxZQ1RyZ1QxOXltZGExYlhrcjYyemlhTExOMmo5RHBJVG93Mi1HWmZjNTh0RjFzTElXN0x3ZVVSRFNObkVGX0haUWQyVUVHX3lXWWRQdTRCTlFfX1Y5Vmt5Y0lKT1NrZTNtSHBDUTJCU2Z2NG9VMkJDMWF0S2JJRnpZb2tlVTdZV0RUU290dDEwMDM3NTVwM3RXV3BvczJmV3NjS0tjckhzdFBmWUk?oc=5",
-      "source": "Google News EN",
-      "category": "general",
-      "trusted": false,
-      "priority": 6
     }
   ],
-  "claude_prompt": "CFO FX Brief 09/10/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Nearly 30 years after IMF rescue, Thailand faces new economic test\n- [Bangkok Post Business] SET predicts B15-20bn gain by year-end\n- [Bangkok Post Business] Cyberthreats grow as AI adoption accelerates\n- [Bangkok Post Business] Insurance premiums set to near B1tn as demand rises",
+  "claude_prompt": "CFO FX Brief 10/10/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] SET to extend trading hours for foreign-linked instruments\n- [Bangkok Post Business] 2026 tax revenue of B2.5 trillion beats target\n- [Bangkok Post Business] Nearly 30 years after IMF rescue, Thailand faces new economic test\n- [Bangkok Post Business] SET predicts B15-20bn gain by year-end\n- [Bangkok Post Business] Cyberthreats grow as AI adoption accelerates",
   "stats": {
-    "fx_news_count": 4,
-    "synnex_news_count": 21,
+    "fx_news_count": 5,
+    "synnex_news_count": 20,
     "data_sources": [
-      "Google News TH",
       "Google News EN",
+      "Google News TH",
       "Bangkok Post Business"
     ]
   }
