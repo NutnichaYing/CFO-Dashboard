@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-09 00:46:32 BKK",
+  "last_updated": "2026-10-09 12:16:28 BKK",
   "rate": {
     "date": "2026-10-09",
     "buying": 0,
@@ -9,10 +9,24 @@
   },
   "news": [
     {
-      "title": "Analysts predict SET to reach 1,680 by year-end",
-      "description": "The Stock Exchange of Thailand (SET) index is expected to finish at 1,680 points by year-end, supported by investment in artificial intelligence (AI) technology and its supply chain, listed-company ea",
-      "date": "Thu, 08 Oct 2026 06:16:00 +0700",
-      "link": "https://www.bangkokpost.com/business/investment/3333435/analysts-predict-set-to-reach-1680-by-yearend",
+      "title": "SET predicts B15-20bn gain by year-end",
+      "description": "The Stock Exchange of Thailand expects institutional investors and Thailand ESG funds to inject 15-20 billion baht into the Thai bourse around year-end, pumping up market liquidity after foreign inves",
+      "date": "Fri, 09 Oct 2026 08:05:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3333828/set-predicts-b1520bn-gain-by-yearend",
+      "source": "Bangkok Post Business"
+    },
+    {
+      "title": "Cyberthreats grow as AI adoption accelerates",
+      "description": "Radware, a Nasdaq-listed cybersecurity firm, is investing millions of dollars in Thailand, setting up a Bangkok data centre and point of presence (PoP) to support digital growth and an economy propell",
+      "date": "Fri, 09 Oct 2026 07:36:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3333848/cyberthreats-grow-as-ai-adoption-accelerates",
+      "source": "Bangkok Post Business"
+    },
+    {
+      "title": "Insurance premiums set to near B1tn as demand rises",
+      "description": "Thailand's insurance industry expects total premiums to near 1 trillion baht in 2026, up almost 5% year-on-year, with disaster insurance recording strong growth as a result of complex risks.",
+      "date": "Fri, 09 Oct 2026 05:31:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3333913/insurance-premiums-set-to-near-b1tn-as-demand-rises",
       "source": "Bangkok Post Business"
     }
   ],
@@ -88,16 +102,6 @@
       "priority": 5
     },
     {
-      "title": "SYNNEX ผนึกกำลัง AWS ครบรอบ 1 ปีเดินหน้ากลยุทธ์เสริมแกร่งพันธมิตร ผลักดันตลาด Cloud และ AI ไทยเติบโตยั่งยืน [PR] - TechTalkThai",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE40eGE2a2M4cWhKelBIcEw4QmY1WWR5WDU2eDdGbklQNEUyMGoxcklRQUxlYVVhMnd5aEVSZ0R6eXRIOF9GTHJyY3FvREZBTGRnemJlbDVqbnppN3V6c3J5eXFkaUoxcXZtbnBPdQ?oc=5\" target=\"_blank\">SYNNEX ผนึกกำลัง AWS ครบรอบ 1 ปีเดินหน้ากลยุทธ์เสริมแกร่งพันธมิตร ผลักดันตลาด Clo",
-      "date": "Fri, 27 Feb 2026 04:52:10 GMT",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE40eGE2a2M4cWhKelBIcEw4QmY1WWR5WDU2eDdGbklQNEUyMGoxcklRQUxlYVVhMnd5aEVSZ0R6eXRIOF9GTHJyY3FvREZBTGRnemJlbDVqbnppN3V6c3J5eXFkaUoxcXZtbnBPdQ?oc=5",
-      "source": "Google News TH",
-      "category": "general",
-      "trusted": false,
-      "priority": 5
-    },
-    {
       "title": "SYNEX บวก 4% ลุ้นกำไรปีนี้ทะลุ 700 ลบ. อานิสงส์ยอดขายไอทีพุ่ง - ข่าวหุ้นธุรกิจออนไลน์",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wYlE2S25nYUduMDVDR2pva1ZWeFMwbThlcHRqRnZvVGVOUjdvUF90YzhfSjN0RjBHQ1AtR1ItTDVKRmRtREMyM2xISTYzNnlTNjNZbm9R?oc=5\" target=\"_blank\">SYNEX บวก 4% ลุ้นกำไรปีนี้ทะลุ 700 ลบ. อานิสงส์ยอดขายไอทีพุ่ง</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ข่าวหุ้นธุรก",
       "date": "Tue, 31 Aug 2021 07:00:00 GMT",
@@ -128,20 +132,20 @@
       "priority": 5
     },
     {
-      "title": "SYNNEX ร่วมยกระดับงานเกมนานาชาติ gamescom asia x Thailand Game Show โชว์ศักยภาพ No.1 Gaming Distributor หนุนวงการเกมไทยสู่เวทีโลก - Online Station",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YVHV6c1B5RXdnNURVU3RETGdZUE5DOFR4R0ZTd1htS2VwMkIwYndSdm1ZODJzeXo3NmNyMjVlblJyb21jV2JIaVJPeWNLV3M1RnhuR0c4OHVPRGRsRXRDSG5PQQ?oc=5\" target=\"_blank\">SYNNEX ร่วมยกระดับงานเกมนานาชาติ gamescom asia x Thailand Game Show โชว์ศักยภาพ No.1 Gaming D",
-      "date": "Sun, 10 Aug 2025 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YVHV6c1B5RXdnNURVU3RETGdZUE5DOFR4R0ZTd1htS2VwMkIwYndSdm1ZODJzeXo3NmNyMjVlblJyb21jV2JIaVJPeWNLV3M1RnhuR0c4OHVPRGRsRXRDSG5PQQ?oc=5",
+      "title": "SYNNEX ประกาศถือครองตลาด NINTENDO เป็นผู้จัดจำหน่ายในไทยอย่างเป็นทางการ ส่งซ่อม / เคลมที่ศูนย์ได้เลย - DroidSans",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBuWEs0MHowV1RIREZ6WDNHMmpESHJ2X3VQOC0zc2c3X0ZxXzhLb3JrM0tTVFVreWs5ZWJCbFFXWkNIdnlka0Q4S0JJQmxBUTNvcm0tMV9DcHA2UzdMX29NZ1lzbFFkWTZuU0o2S3hkWE8yQQ?oc=5\" target=\"_blank\">SYNNEX ประกาศถือครองตลาด NINTENDO เป็นผู้จัดจำหน่ายในไทยอย่างเป็นทางการ ส",
+      "date": "Thu, 23 Mar 2023 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBuWEs0MHowV1RIREZ6WDNHMmpESHJ2X3VQOC0zc2c3X0ZxXzhLb3JrM0tTVFVreWs5ZWJCbFFXWkNIdnlka0Q4S0JJQmxBUTNvcm0tMV9DcHA2UzdMX29NZ1lzbFFkWTZuU0o2S3hkWE8yQQ?oc=5",
       "source": "Google News TH",
       "category": "general",
       "trusted": false,
       "priority": 5
     },
     {
-      "title": "SYNNEX ประกาศถือครองตลาด NINTENDO เป็นผู้จัดจำหน่ายในไทยอย่างเป็นทางการ ส่งซ่อม / เคลมที่ศูนย์ได้เลย - DroidSans",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBuWEs0MHowV1RIREZ6WDNHMmpESHJ2X3VQOC0zc2c3X0ZxXzhLb3JrM0tTVFVreWs5ZWJCbFFXWkNIdnlka0Q4S0JJQmxBUTNvcm0tMV9DcHA2UzdMX29NZ1lzbFFkWTZuU0o2S3hkWE8yQQ?oc=5\" target=\"_blank\">SYNNEX ประกาศถือครองตลาด NINTENDO เป็นผู้จัดจำหน่ายในไทยอย่างเป็นทางการ ส",
-      "date": "Thu, 23 Mar 2023 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBuWEs0MHowV1RIREZ6WDNHMmpESHJ2X3VQOC0zc2c3X0ZxXzhLb3JrM0tTVFVreWs5ZWJCbFFXWkNIdnlka0Q4S0JJQmxBUTNvcm0tMV9DcHA2UzdMX29NZ1lzbFFkWTZuU0o2S3hkWE8yQQ?oc=5",
+      "title": "SYNNEX ร่วมยกระดับงานเกมนานาชาติ gamescom asia x Thailand Game Show โชว์ศักยภาพ No.1 Gaming Distributor หนุนวงการเกมไทยสู่เวทีโลก - Online Station",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YVHV6c1B5RXdnNURVU3RETGdZUE5DOFR4R0ZTd1htS2VwMkIwYndSdm1ZODJzeXo3NmNyMjVlblJyb21jV2JIaVJPeWNLV3M1RnhuR0c4OHVPRGRsRXRDSG5PQQ?oc=5\" target=\"_blank\">SYNNEX ร่วมยกระดับงานเกมนานาชาติ gamescom asia x Thailand Game Show โชว์ศักยภาพ No.1 Gaming D",
+      "date": "Sun, 10 Aug 2025 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YVHV6c1B5RXdnNURVU3RETGdZUE5DOFR4R0ZTd1htS2VwMkIwYndSdm1ZODJzeXo3NmNyMjVlblJyb21jV2JIaVJPeWNLV3M1RnhuR0c4OHVPRGRsRXRDSG5PQQ?oc=5",
       "source": "Google News TH",
       "category": "general",
       "trusted": false,
@@ -158,10 +162,20 @@
       "priority": 5
     },
     {
-      "title": "Nintendo Switch by Synnex ร่วมงาน Thailand Mobile Expo 2023 มหกรรมมือถือสุดยิ่งใหญ่แห่งปี - Thaimobilecenter",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQb2Q1a3dmeHc5enp1cjN3RGc5VmxBMDEyeFR0S1ZONHBSODNJZ3RNOXdGalc5X216Ui1OdHZFb0JjVE9OcGc3dm9DZVZ5aFdhS3pJOEJpTHNQRFZKOUo0TE1DU1d3bXN2MUVyd2hNaGZ5cXR2aWJjRzZhQTFkMGdxbQ?oc=5\" target=\"_blank\">Nintendo Switch by Synnex ร่วมงาน Thailand Mobile Exp",
-      "date": "Fri, 27 Oct 2023 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQb2Q1a3dmeHc5enp1cjN3RGc5VmxBMDEyeFR0S1ZONHBSODNJZ3RNOXdGalc5X216Ui1OdHZFb0JjVE9OcGc3dm9DZVZ5aFdhS3pJOEJpTHNQRFZKOUo0TE1DU1d3bXN2MUVyd2hNaGZ5cXR2aWJjRzZhQTFkMGdxbQ?oc=5",
+      "title": "ซินเน็คขนทัพสินค้า “Trusted By Synnex” จากแบรนด์ไอทีชั้นนำ บุกงาน TME 2024 ย้ำความแข็งแกร่งนัมเบอร์วันไอทีดิสทริบิวเตอร์ - Thaimobilecenter",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5jRjdLZWsxdUVhdWtYZDFuM0xFRFFlV1FXM3pTalBLOWpsSDc4V09EWEZwT0NUZV9QYm1vMVA0aUtoXy1WQXlRRUNpU0dpTlNTbEVGN1BQUFVfZ1c5LU9QVDBodk56dUdpTVNXVkl0Yw?oc=5\" target=\"_blank\">ซินเน็คขนทัพสินค้า “Trusted By Synnex” จากแบรนด์ไอทีชั้นนำ บุกงาน TME 2024 ย้",
+      "date": "Sat, 10 Feb 2024 08:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jRjdLZWsxdUVhdWtYZDFuM0xFRFFlV1FXM3pTalBLOWpsSDc4V09EWEZwT0NUZV9QYm1vMVA0aUtoXy1WQXlRRUNpU0dpTlNTbEVGN1BQUFVfZ1c5LU9QVDBodk56dUdpTVNXVkl0Yw?oc=5",
+      "source": "Google News TH",
+      "category": "general",
+      "trusted": false,
+      "priority": 5
+    },
+    {
+      "title": "Synnex เปิดตัว S-GEAR เน้นเรื่องของความง่ายและ Gadget คุณภาพดีราคาไม่แรง - Sanook",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE4tYXFmUlA2V0l1MXQ2Ym55cWlzdzVBZWRhdFVOMThsc29KdDBjWHRMNlFzQ01CN3laMkhjV1k4bnNaSFdRSjE0N2pIdmhsLW8?oc=5\" target=\"_blank\">Synnex เปิดตัว S-GEAR เน้นเรื่องของความง่ายและ Gadget คุณภาพดีราคาไม่แรง</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sanook</fo",
+      "date": "Tue, 22 Mar 2022 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4tYXFmUlA2V0l1MXQ2Ym55cWlzdzVBZWRhdFVOMThsc29KdDBjWHRMNlFzQ01CN3laMkhjV1k4bnNaSFdRSjE0N2pIdmhsLW8?oc=5",
       "source": "Google News TH",
       "category": "general",
       "trusted": false,
@@ -216,16 +230,26 @@
       "category": "general",
       "trusted": false,
       "priority": 6
+    },
+    {
+      "title": "SYNNEX and COPPERWIRED launches SE Asia’s first Nintendo store at Siam Paragon - Thaiger",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQYlZxWGFoMjBUYUxZQ1RyZ1QxOXltZGExYlhrcjYyemlhTExOMmo5RHBJVG93Mi1HWmZjNTh0RjFzTElXN0x3ZVVSRFNObkVGX0haUWQyVUVHX3lXWWRQdTRCTlFfX1Y5Vmt5Y0lKT1NrZTNtSHBDUTJCU2Z2NG9VMkJDMWF0S2JJRnpZb2tlVTdZV0RUU290dDEwMDM3NTVwM3RXV3BvczJmV3NjS0tjckhzdFBmWUk?oc",
+      "date": "Mon, 25 Nov 2024 08:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYlZxWGFoMjBUYUxZQ1RyZ1QxOXltZGExYlhrcjYyemlhTExOMmo5RHBJVG93Mi1HWmZjNTh0RjFzTElXN0x3ZVVSRFNObkVGX0haUWQyVUVHX3lXWWRQdTRCTlFfX1Y5Vmt5Y0lKT1NrZTNtSHBDUTJCU2Z2NG9VMkJDMWF0S2JJRnpZb2tlVTdZV0RUU290dDEwMDM3NTVwM3RXV3BvczJmV3NjS0tjckhzdFBmWUk?oc=5",
+      "source": "Google News EN",
+      "category": "general",
+      "trusted": false,
+      "priority": 6
     }
   ],
-  "claude_prompt": "CFO FX Brief 09/10/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Analysts predict SET to reach 1,680 by year-end",
+  "claude_prompt": "CFO FX Brief 09/10/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] SET predicts B15-20bn gain by year-end\n- [Bangkok Post Business] Cyberthreats grow as AI adoption accelerates\n- [Bangkok Post Business] Insurance premiums set to near B1tn as demand rises",
   "stats": {
-    "fx_news_count": 1,
-    "synnex_news_count": 20,
+    "fx_news_count": 3,
+    "synnex_news_count": 21,
     "data_sources": [
-      "Google News TH",
       "Bangkok Post Business",
-      "Google News EN"
+      "Google News EN",
+      "Google News TH"
     ]
   }
 }
