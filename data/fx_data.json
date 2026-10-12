@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-12 17:22:51 BKK",
+  "last_updated": "2026-10-12 18:26:47 BKK",
   "rate": {
     "date": "2026-10-12",
     "buying": 0,
@@ -168,16 +168,6 @@
       "priority": 5
     },
     {
-      "title": "HUAWEI eKit Joins Hands with Distribution Partners to Explore Unlimited Opportunities in Thailand SME market - Huawei Enterprise",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQUExVWWNHMzNQeVNJMjMwWkVoMHkwdWtsTjVPOEpNaVptRTZMY3VnVVNYeWdjdnFJRGNrUk9BNTNOOWczOUhRcTVSM21DRU9uMW9nT1A5LU55aWVHRG5ScnI4aXBBY2xCaXAzZDc4ZnVIb0tUT1NwVjYyTWt3aTN5RnByUQ?oc=5\" target=\"_blank\">HUAWEI eKit Joins Hands with Distribution Partner",
-      "date": "Wed, 08 Nov 2023 08:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUExVWWNHMzNQeVNJMjMwWkVoMHkwdWtsTjVPOEpNaVptRTZMY3VnVVNYeWdjdnFJRGNrUk9BNTNOOWczOUhRcTVSM21DRU9uMW9nT1A5LU55aWVHRG5ScnI4aXBBY2xCaXAzZDc4ZnVIb0tUT1NwVjYyTWt3aTN5RnByUQ?oc=5",
-      "source": "Google News EN",
-      "category": "general",
-      "trusted": false,
-      "priority": 6
-    },
-    {
       "title": "Amid demand for AI, Synnex transforms into total tech solutions provider - Nation Thailand",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9uaWxjLWVHM3R6Z0xYUWdrX253ZkoySzlDRGNIUUc0bUxrM01sVkFMRHlFYUFZb2tVdFdodVoyeHE1ZXhFUFJFY0lUaGQ1RFE0SHlHMU56MV9EZWVoc2pMNFhpenhkdTZrdXc?oc=5\" target=\"_blank\">Amid demand for AI, Synnex transforms into total tech solutions provider</a>&nbsp;&n",
       "date": "Fri, 20 Sep 2024 07:00:00 GMT",
@@ -221,11 +211,11 @@
   "claude_prompt": "CFO FX Brief 12/10/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Renewable outlays to spike via new plan",
   "stats": {
     "fx_news_count": 1,
-    "synnex_news_count": 20,
+    "synnex_news_count": 19,
     "data_sources": [
+      "Google News TH",
       "Google News EN",
-      "Bangkok Post Business",
-      "Google News TH"
+      "Bangkok Post Business"
     ]
   }
 }
