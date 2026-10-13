@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-13 03:10:27 BKK",
+  "last_updated": "2026-10-13 13:04:32 BKK",
   "rate": {
     "date": "2026-10-13",
     "buying": 0,
@@ -9,10 +9,31 @@
   },
   "news": [
     {
-      "title": "Renewable outlays to spike via new plan",
-      "description": "The new power development plan (PDP) is expected to unlock trillions of baht in investment in renewable energy projects while creating broader opportunities for private sector participation in the ele",
-      "date": "Mon, 12 Oct 2026 04:10:00 +0700",
-      "link": "https://www.bangkokpost.com/business/general/3335430/renewable-outlays-to-spike-via-new-plan",
+      "title": "Foreign selling curbs SET momentum",
+      "description": "The Stock Exchange of Thailand moved sideways for most of September, with selling by foreign investors picking up the pace and continuing into October.",
+      "date": "Tue, 13 Oct 2026 08:10:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3336119/foreign-selling-curbs-set-momentum",
+      "source": "Bangkok Post Business"
+    },
+    {
+      "title": "Finance Ministry pushes outbound levy",
+      "description": "The Finance Ministry is moving ahead with the proposed 1,000-baht levy on all outbound passengers with the aim of increasing government revenue.",
+      "date": "Tue, 13 Oct 2026 06:18:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3336044/finance-ministry-pushes-outbound-levy",
+      "source": "Bangkok Post Business"
+    },
+    {
+      "title": "Regulator to allow crypto ETF trading",
+      "description": "The Securities and Exchange Commission (SEC) has introduced rules allowing cryptocurrency exchange-traded funds (crypto ETFs) to be established and traded in Thailand, expanding investment options whi",
+      "date": "Tue, 13 Oct 2026 05:11:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3336114/regulator-to-allow-crypto-etf-trading",
+      "source": "Bangkok Post Business"
+    },
+    {
+      "title": "Travel agents association attacks outbound tax proposal",
+      "description": "More tourism-related businesses have slammed the proposed 1,000-baht outbound tax, which could be raised to a maximum of 5,000 baht, saying it would have a huge impact on the fragile tourism industry",
+      "date": "Tue, 13 Oct 2026 04:49:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3336059/travel-agents-association-attacks-outbound-tax-proposal",
       "source": "Bangkok Post Business"
     }
   ],
@@ -218,9 +239,9 @@
       "priority": 6
     }
   ],
-  "claude_prompt": "CFO FX Brief 13/10/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Renewable outlays to spike via new plan",
+  "claude_prompt": "CFO FX Brief 13/10/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Foreign selling curbs SET momentum\n- [Bangkok Post Business] Finance Ministry pushes outbound levy\n- [Bangkok Post Business] Regulator to allow crypto ETF trading\n- [Bangkok Post Business] Travel agents association attacks outbound tax proposal",
   "stats": {
-    "fx_news_count": 1,
+    "fx_news_count": 4,
     "synnex_news_count": 20,
     "data_sources": [
       "Bangkok Post Business",
