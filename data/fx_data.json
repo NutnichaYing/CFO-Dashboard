@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-13 18:16:11 BKK",
+  "last_updated": "2026-10-14 01:02:30 BKK",
   "rate": {
-    "date": "2026-10-13",
+    "date": "2026-10-14",
     "buying": 0,
     "selling": 0,
     "mid": 0,
@@ -9,31 +9,17 @@
   },
   "news": [
     {
+      "title": "BoT chief envisions 2.3% growth",
+      "description": "The Bank of Thailand governor is confident the Thai economy will grow by 2.3% this year, supported by strong export growth and a surge in foreign direct investment.",
+      "date": "Tue, 13 Oct 2026 19:24:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3336303/bot-chief-envisions-23-growth",
+      "source": "Bangkok Post Business"
+    },
+    {
       "title": "Foreign selling curbs SET momentum",
       "description": "The Stock Exchange of Thailand moved sideways for most of September, with selling by foreign investors picking up the pace and continuing into October.",
       "date": "Tue, 13 Oct 2026 08:10:00 +0700",
       "link": "https://www.bangkokpost.com/business/general/3336119/foreign-selling-curbs-set-momentum",
-      "source": "Bangkok Post Business"
-    },
-    {
-      "title": "Finance Ministry pushes outbound levy",
-      "description": "The Finance Ministry is moving ahead with the proposed 1,000-baht levy on all outbound passengers with the aim of increasing government revenue.",
-      "date": "Tue, 13 Oct 2026 06:18:00 +0700",
-      "link": "https://www.bangkokpost.com/business/general/3336044/finance-ministry-pushes-outbound-levy",
-      "source": "Bangkok Post Business"
-    },
-    {
-      "title": "Regulator to allow crypto ETF trading",
-      "description": "The Securities and Exchange Commission (SEC) has introduced rules allowing cryptocurrency exchange-traded funds (crypto ETFs) to be established and traded in Thailand, expanding investment options whi",
-      "date": "Tue, 13 Oct 2026 05:11:00 +0700",
-      "link": "https://www.bangkokpost.com/business/general/3336114/regulator-to-allow-crypto-etf-trading",
-      "source": "Bangkok Post Business"
-    },
-    {
-      "title": "Travel agents association attacks outbound tax proposal",
-      "description": "More tourism-related businesses have slammed the proposed 1,000-baht outbound tax, which could be raised to a maximum of 5,000 baht, saying it would have a huge impact on the fragile tourism industry",
-      "date": "Tue, 13 Oct 2026 04:49:00 +0700",
-      "link": "https://www.bangkokpost.com/business/general/3336059/travel-agents-association-attacks-outbound-tax-proposal",
       "source": "Bangkok Post Business"
     }
   ],
@@ -49,20 +35,20 @@
       "priority": 5
     },
     {
-      "title": "Nintendo Switch 2 จะดันหุ้น SYNEX ไปได้ไกลแค่ไหน? วิเคราะห์ราคาเป้าหมาย 26 บาท - efinanceThai",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBrZ1F4MWFIeHZpS01pNkl3WVVObmpWZXg2T2lUdHM2b044YWRwalBrQnFRLTcyUlZQVU1UUVpEQlRsSnp0c0NzUktJcTQyYWpET09OUmdYalBldmVONm1ZMDl4LXJSV3NUWlVZV1lOM2s1RzNybmpJ?oc=5\" target=\"_blank\">Nintendo Switch 2 จะดันหุ้น SYNEX ไปได้ไกลแค่ไหน? วิเคราะห์ราคาเป้า",
-      "date": "Tue, 17 Jun 2025 18:44:10 GMT",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBrZ1F4MWFIeHZpS01pNkl3WVVObmpWZXg2T2lUdHM2b044YWRwalBrQnFRLTcyUlZQVU1UUVpEQlRsSnp0c0NzUktJcTQyYWpET09OUmdYalBldmVONm1ZMDl4LXJSV3NUWlVZV1lOM2s1RzNybmpJ?oc=5",
+      "title": "สุธิดา มงคลสุธี ไม่ใช่แค่เพียงลูกสาวท่านประธานแต่เป็นแม่ทัพหญิงแกร่งของ SYNNEX ผู้ปั้นยอดขายไอทีกว่า 40,000 ล้าน - Marketeer Online",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tQjRmVkRWUFlKWmV2TzFOZVEyS2NsaHF1VjNjeVFiZEJLQWtzZDVPa1NzRGE5VUpJc3F3NmtUamdMUzZUNE5nY20yTlAtc29SeGFmcA?oc=5\" target=\"_blank\">สุธิดา มงคลสุธี ไม่ใช่แค่เพียงลูกสาวท่านประธานแต่เป็นแม่ทัพหญิงแกร่งของ SYNNEX ผู้ปั้นยอดขายไอทีกว่า 40,000 ล้าน<",
+      "date": "Sat, 09 Aug 2025 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tQjRmVkRWUFlKWmV2TzFOZVEyS2NsaHF1VjNjeVFiZEJLQWtzZDVPa1NzRGE5VUpJc3F3NmtUamdMUzZUNE5nY20yTlAtc29SeGFmcA?oc=5",
       "source": "Google News TH",
       "category": "general",
       "trusted": false,
       "priority": 5
     },
     {
-      "title": "สุธิดา มงคลสุธี ไม่ใช่แค่เพียงลูกสาวท่านประธานแต่เป็นแม่ทัพหญิงแกร่งของ SYNNEX ผู้ปั้นยอดขายไอทีกว่า 40,000 ล้าน - Marketeer Online",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tQjRmVkRWUFlKWmV2TzFOZVEyS2NsaHF1VjNjeVFiZEJLQWtzZDVPa1NzRGE5VUpJc3F3NmtUamdMUzZUNE5nY20yTlAtc29SeGFmcA?oc=5\" target=\"_blank\">สุธิดา มงคลสุธี ไม่ใช่แค่เพียงลูกสาวท่านประธานแต่เป็นแม่ทัพหญิงแกร่งของ SYNNEX ผู้ปั้นยอดขายไอทีกว่า 40,000 ล้าน<",
-      "date": "Sat, 09 Aug 2025 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tQjRmVkRWUFlKWmV2TzFOZVEyS2NsaHF1VjNjeVFiZEJLQWtzZDVPa1NzRGE5VUpJc3F3NmtUamdMUzZUNE5nY20yTlAtc29SeGFmcA?oc=5",
+      "title": "Nintendo Switch 2 จะดันหุ้น SYNEX ไปได้ไกลแค่ไหน? วิเคราะห์ราคาเป้าหมาย 26 บาท - efinanceThai",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBrZ1F4MWFIeHZpS01pNkl3WVVObmpWZXg2T2lUdHM2b044YWRwalBrQnFRLTcyUlZQVU1UUVpEQlRsSnp0c0NzUktJcTQyYWpET09OUmdYalBldmVONm1ZMDl4LXJSV3NUWlVZV1lOM2s1RzNybmpJ?oc=5\" target=\"_blank\">Nintendo Switch 2 จะดันหุ้น SYNEX ไปได้ไกลแค่ไหน? วิเคราะห์ราคาเป้า",
+      "date": "Tue, 17 Jun 2025 18:44:10 GMT",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBrZ1F4MWFIeHZpS01pNkl3WVVObmpWZXg2T2lUdHM2b044YWRwalBrQnFRLTcyUlZQVU1UUVpEQlRsSnp0c0NzUktJcTQyYWpET09OUmdYalBldmVONm1ZMDl4LXJSV3NUWlVZV1lOM2s1RzNybmpJ?oc=5",
       "source": "Google News TH",
       "category": "general",
       "trusted": false,
@@ -109,6 +95,16 @@
       "priority": 5
     },
     {
+      "title": "ซินเน็ค (SYNEX) เปิดวิสัยทัศน์ในงาน “SYNNEX PARTNER CONNECT 2025” ปักธงสู่ AI Ecosystem ผนึกกำลังพันธมิตรระดับโลก ขับเคลื่อนอนาคตดิจิทัลอย่างยั่งยืน - ThaiPR.NET",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTFBoM3ZOZWJMX3ZtV0QzdVBXWjRLZERuNGN6Z1JMQjlRdGpCZmlpWmhHOVI4cjhkVHpremVWM2xGcFl3OVBKc0pwZg?oc=5\" target=\"_blank\">ซินเน็ค (SYNEX) เปิดวิสัยทัศน์ในงาน “SYNNEX PARTNER CONNECT 2025” ปักธงสู่ AI Ecosystem ผนึกกำลังพันธมิตรระดับโลก ขับเคลื่อนอนาคต",
+      "date": "Fri, 12 Sep 2025 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBoM3ZOZWJMX3ZtV0QzdVBXWjRLZERuNGN6Z1JMQjlRdGpCZmlpWmhHOVI4cjhkVHpremVWM2xGcFl3OVBKc0pwZg?oc=5",
+      "source": "Google News TH",
+      "category": "general",
+      "trusted": false,
+      "priority": 5
+    },
+    {
       "title": "SYNEX เตรียมเปิดคลังขนสินค้า จัดลด-แลก แบบกระหน่ำ เต็มพื้นที่ “Synnex Clearance Sale 2023” วันที่ 24 - 25 พฤศจิกายน นี้ - Share2Trade",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiygdBVV95cUxNLVRRYkRmcXJzNlYxUzRYQUp5dFk0el9ueGNiSlhkMU9ZQ3V4SWhUczI5Wjd1bHdTc2Rla1VINGh4cF9FTG1rUGRuei1wajRUYWdwWWFjaUxEUWFGa3VKZS13ZGJuWENOS2kwODJjTENpRGVMMG5YTzJiWk1Qclp5eWlCcGpfZHRmSXY5aTBocnh1azE1RWRreGlqNjZWSFE1a1hScXRUU1JKVVk4UTNVQmdRUjJlcEJzZ2",
       "date": "Sun, 12 Nov 2023 15:46:28 GMT",
@@ -139,20 +135,10 @@
       "priority": 5
     },
     {
-      "title": "SYNNEX โชว์ศักยภาพ No.1 Gaming Distributor หนุนวงการเกมไทยสู่เวทีโลก - ข่าวสด",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9UWXdxLWdpWjFoVHZxUGdxTmt3TUhGR2diYk5YLVhsZ2E5Rmw1ajNCVGFTOGJvdmJqSkNBdE5kV0NPQWV6U0VobjMwY1VNbFdiNXVYMTVSdklVaGZtdHZLVXVvYzNrd2JR?oc=5\" target=\"_blank\">SYNNEX โชว์ศักยภาพ No.1 Gaming Distributor หนุนวงการเกมไทยสู่เวทีโลก</a>&nbsp;&nbsp;<fo",
-      "date": "Fri, 08 Aug 2025 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9UWXdxLWdpWjFoVHZxUGdxTmt3TUhGR2diYk5YLVhsZ2E5Rmw1ajNCVGFTOGJvdmJqSkNBdE5kV0NPQWV6U0VobjMwY1VNbFdiNXVYMTVSdklVaGZtdHZLVXVvYzNrd2JR?oc=5",
-      "source": "Google News TH",
-      "category": "general",
-      "trusted": false,
-      "priority": 5
-    },
-    {
-      "title": "SYNEX เตรียมจัดงานสุดยิ่งใหญ่แห่งปี “Synnex Partners Connect 2022” รวบรวมพาร์ทเนอร์ทั่วประเทศ อัพเดตกลยุทธ์และเทรนด์เทคโนโลยีที่ต้องจับตา - ThaiPR.NET",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE1kdTZ4b25WX3dyUHdzeUNBb1hNZU1DSlBRQktNWlprZXRhaDRXd2gyS1NGaHR3RTJvMlRrb0c5RGxseHJYUUlvYnl1ZFBYNEE?oc=5\" target=\"_blank\">SYNEX เตรียมจัดงานสุดยิ่งใหญ่แห่งปี “Synnex Partners Connect 2022” รวบรวมพาร์ทเนอร์ทั่วประเทศ อัพเดตกลยุทธ์และเทรนด์เทคโ",
-      "date": "Thu, 22 Sep 2022 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1kdTZ4b25WX3dyUHdzeUNBb1hNZU1DSlBRQktNWlprZXRhaDRXd2gyS1NGaHR3RTJvMlRrb0c5RGxseHJYUUlvYnl1ZFBYNEE?oc=5",
+      "title": "SYNNEX ร่วมยกระดับงานเกมนานาชาติ “gamescom asia x Thailand Game Show” โชว์ศักยภาพ No.1 Gaming Distributor หนุนวงการเกมไทยสู่เวทีโลก - AppDisqus",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE54NkJrSDhHYXNVNThMSDNPZ2FsTGxMUklVWWxCanZReEE0ajhqWXo5OUxOWlg2VElMQ18zaWxnUVdPVjFoc1FoYXBKSHIzbU4xMTFXU2RwTldUTE0wcXBoNlBkdFhaVmJuQklLTkFickw4V0FVRjdxakVn0gF_QVVfeXFMTTY5b2ZCaXYzX21xd1RVUUtIUDdzeFBHN0lqcWw4emlnOEFYTVFMb2RkbjZmeHU0X1FkdVcwNm",
+      "date": "Thu, 07 Aug 2025 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE54NkJrSDhHYXNVNThMSDNPZ2FsTGxMUklVWWxCanZReEE0ajhqWXo5OUxOWlg2VElMQ18zaWxnUVdPVjFoc1FoYXBKSHIzbU4xMTFXU2RwTldUTE0wcXBoNlBkdFhaVmJuQklLTkFickw4V0FVRjdxakVn0gF_QVVfeXFMTTY5b2ZCaXYzX21xd1RVUUtIUDdzeFBHN0lqcWw4emlnOEFYTVFMb2RkbjZmeHU0X1FkdVcwNmx4REdKZkh0eTAwazlWTjdrdmdNcEh6c0ppY1dnRmRlWEU1dnFhWnZ5ck9JSEtVNmZtVzYzVDktV2QzSUVwcmV3Zw?oc=5",
       "source": "Google News TH",
       "category": "general",
       "trusted": false,
@@ -179,10 +165,10 @@
       "priority": 5
     },
     {
-      "title": "SYNNEX จับมือ HONOR เปิดเกมบุกตลาดสมาร์ทดีไวซ์ในไทย - Thaimobilecenter",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1oZWVRTkczeDdPQlpGRWNMRzR2aVMyOEYwZUIzTHpwYXMyRW1OQU9PZ2VwUHJweFExUW5JU2tQSmJObE11Y2pBc2xZVUxuRWV3YlRiM2NJcjJ2VGJtUVduV3dGQzBRTEFJYXU1QjBqcGM1WmpmSmEyRQ?oc=5\" target=\"_blank\">SYNNEX จับมือ HONOR เปิดเกมบุกตลาดสมาร์ทดีไวซ์ในไทย</a>&nbsp;&nbs",
-      "date": "Fri, 24 Jun 2022 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oZWVRTkczeDdPQlpGRWNMRzR2aVMyOEYwZUIzTHpwYXMyRW1OQU9PZ2VwUHJweFExUW5JU2tQSmJObE11Y2pBc2xZVUxuRWV3YlRiM2NJcjJ2VGJtUVduV3dGQzBRTEFJYXU1QjBqcGM1WmpmSmEyRQ?oc=5",
+      "title": "SYNEX เตรียมจัดงานสุดยิ่งใหญ่แห่งปี “Synnex Partners Connect 2022” รวบรวมพาร์ทเนอร์ทั่วประเทศ อัพเดตกลยุทธ์และเทรนด์เทคโนโลยีที่ต้องจับตา - ThaiPR.NET",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE1kdTZ4b25WX3dyUHdzeUNBb1hNZU1DSlBRQktNWlprZXRhaDRXd2gyS1NGaHR3RTJvMlRrb0c5RGxseHJYUUlvYnl1ZFBYNEE?oc=5\" target=\"_blank\">SYNEX เตรียมจัดงานสุดยิ่งใหญ่แห่งปี “Synnex Partners Connect 2022” รวบรวมพาร์ทเนอร์ทั่วประเทศ อัพเดตกลยุทธ์และเทรนด์เทคโ",
+      "date": "Thu, 22 Sep 2022 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1kdTZ4b25WX3dyUHdzeUNBb1hNZU1DSlBRQktNWlprZXRhaDRXd2gyS1NGaHR3RTJvMlRrb0c5RGxseHJYUUlvYnl1ZFBYNEE?oc=5",
       "source": "Google News TH",
       "category": "general",
       "trusted": false,
@@ -239,9 +225,9 @@
       "priority": 6
     }
   ],
-  "claude_prompt": "CFO FX Brief 13/10/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Foreign selling curbs SET momentum\n- [Bangkok Post Business] Finance Ministry pushes outbound levy\n- [Bangkok Post Business] Regulator to allow crypto ETF trading\n- [Bangkok Post Business] Travel agents association attacks outbound tax proposal",
+  "claude_prompt": "CFO FX Brief 14/10/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] BoT chief envisions 2.3% growth\n- [Bangkok Post Business] Foreign selling curbs SET momentum",
   "stats": {
-    "fx_news_count": 4,
+    "fx_news_count": 2,
     "synnex_news_count": 20,
     "data_sources": [
       "Google News TH",
