@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-14 15:27:25 BKK",
+  "last_updated": "2026-10-14 16:07:25 BKK",
   "rate": {
     "date": "2026-10-14",
     "buying": 0,
@@ -9,10 +9,10 @@
   },
   "news": [
     {
-      "title": "SME D Bank set to miss lending target amid sluggish economy",
-      "description": "The economic slowdown has affected the lending performance of SME Development Bank of Thailand (SME D Bank), as loans approved during the first nine months of the year totalled 62 billion baht, short",
-      "date": "Wed, 14 Oct 2026 03:45:00 +0700",
-      "link": "https://www.bangkokpost.com/business/general/3336715/sme-d-bank-set-to-miss-lending-target-amid-sluggish-economy",
+      "title": "Higher borrowing costs an ‘alarm signal’ for France",
+      "description": "PARIS - The higher interest rates on France&rsquo;s government debt are an alarm signal for the country even though Paris retains the confidence of bond investors, the country&rsquo;s finance minister",
+      "date": "Wed, 14 Oct 2026 15:45:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3336950/higher-borrowing-costs-an-alarm-signal-for-france",
       "source": "Bangkok Post Business"
     }
   ],
@@ -218,14 +218,14 @@
       "priority": 6
     }
   ],
-  "claude_prompt": "CFO FX Brief 14/10/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] SME D Bank set to miss lending target amid sluggish economy",
+  "claude_prompt": "CFO FX Brief 14/10/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Higher borrowing costs an ‘alarm signal’ for France",
   "stats": {
     "fx_news_count": 1,
     "synnex_news_count": 20,
     "data_sources": [
-      "Bangkok Post Business",
       "Google News EN",
-      "Google News TH"
+      "Google News TH",
+      "Bangkok Post Business"
     ]
   }
 }
