@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-15 15:40:51 BKK",
+  "last_updated": "2026-10-15 22:31:31 BKK",
   "rate": {
     "date": "2026-10-15",
     "buying": 0,
@@ -9,24 +9,17 @@
   },
   "news": [
     {
+      "title": "IMF urges action to avert fiscal crisis",
+      "description": "The International Monetary Fund has warned that governments worldwide are facing mounting fiscal pressures as public debt remains elevated, interest rates stay high and budget deficits continue to wid",
+      "date": "Thu, 15 Oct 2026 17:48:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3337643/imf-urges-action-to-avert-fiscal-crisis",
+      "source": "Bangkok Post Business"
+    },
+    {
       "title": "Thailand Post weathers economic turmoil",
       "description": "Thailand Post posted earnings before interest, taxes, depreciation and amortisation (Ebitda) of over 100 million baht during the first six months of this year, despite severe macroeconomic and operati",
       "date": "Thu, 15 Oct 2026 05:01:00 +0700",
       "link": "https://www.bangkokpost.com/business/general/3337378/thailand-post-weathers-economic-turmoil",
-      "source": "Bangkok Post Business"
-    },
-    {
-      "title": "Thai industries’ flood losses estimated at B6-7bn",
-      "description": "More than 2,000 businesses under the Federation of Thai Industries (FTI) suffered losses from severe flooding late last month, with total damage estimated at 6-7 billion baht, according to representat",
-      "date": "Thu, 15 Oct 2026 04:57:00 +0700",
-      "link": "https://www.bangkokpost.com/business/general/3337163/thai-industries-flood-losses-estimated-at-b67bn",
-      "source": "Bangkok Post Business"
-    },
-    {
-      "title": "Warning over massive losses from exit tax",
-      "description": "Thai tourism could lose between 50-150 billion baht in revenue a year thanks to the proposed departure tax, compared with the 45.9 billion baht it is expected to raise, with airlines opposing the levy",
-      "date": "Thu, 15 Oct 2026 04:52:00 +0700",
-      "link": "https://www.bangkokpost.com/business/general/3337203/warning-over-massive-losses-from-exit-tax",
       "source": "Bangkok Post Business"
     }
   ],
@@ -232,14 +225,14 @@
       "priority": 6
     }
   ],
-  "claude_prompt": "CFO FX Brief 15/10/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Thailand Post weathers economic turmoil\n- [Bangkok Post Business] Thai industries’ flood losses estimated at B6-7bn\n- [Bangkok Post Business] Warning over massive losses from exit tax",
+  "claude_prompt": "CFO FX Brief 15/10/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] IMF urges action to avert fiscal crisis\n- [Bangkok Post Business] Thailand Post weathers economic turmoil",
   "stats": {
-    "fx_news_count": 3,
+    "fx_news_count": 2,
     "synnex_news_count": 20,
     "data_sources": [
+      "Google News TH",
       "Google News EN",
-      "Bangkok Post Business",
-      "Google News TH"
+      "Bangkok Post Business"
     ]
   }
 }
