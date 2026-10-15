@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-14 22:43:59 BKK",
+  "last_updated": "2026-10-15 10:50:19 BKK",
   "rate": {
-    "date": "2026-10-14",
+    "date": "2026-10-15",
     "buying": 0,
     "selling": 0,
     "mid": 0,
@@ -9,17 +9,24 @@
   },
   "news": [
     {
-      "title": "Hot US inflation data dents Wall Street stocks",
-      "description": "LONDON - A hotter-than-expected inflation reading dented Wall Street stocks on Wednesday, while the dollar and bond yields pushed higher as investors pencilled in a higher chance the US Federal Reserv",
-      "date": "Wed, 14 Oct 2026 21:45:00 +0700",
-      "link": "https://www.bangkokpost.com/business/general/3337044/hot-us-inflation-data-dents-wall-street-stocks",
+      "title": "Thailand Post weathers economic turmoil",
+      "description": "Thailand Post posted earnings before interest, taxes, depreciation and amortisation (Ebitda) of over 100 million baht during the first six months of this year, despite severe macroeconomic and operati",
+      "date": "Thu, 15 Oct 2026 05:01:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3337378/thailand-post-weathers-economic-turmoil",
       "source": "Bangkok Post Business"
     },
     {
-      "title": "Higher borrowing costs an ‘alarm signal’ for France",
-      "description": "PARIS - The higher interest rates on France&rsquo;s government debt are an alarm signal for the country even though Paris retains the confidence of bond investors, the country&rsquo;s finance minister",
-      "date": "Wed, 14 Oct 2026 15:45:00 +0700",
-      "link": "https://www.bangkokpost.com/business/general/3336950/higher-borrowing-costs-an-alarm-signal-for-france",
+      "title": "Thai industries’ flood losses estimated at B6-7bn",
+      "description": "More than 2,000 businesses under the Federation of Thai Industries (FTI) suffered losses from severe flooding late last month, with total damage estimated at 6-7 billion baht, according to representat",
+      "date": "Thu, 15 Oct 2026 04:57:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3337163/thai-industries-flood-losses-estimated-at-b67bn",
+      "source": "Bangkok Post Business"
+    },
+    {
+      "title": "Warning over massive losses from exit tax",
+      "description": "Thai tourism could lose between 50-150 billion baht in revenue a year thanks to the proposed departure tax, compared with the 45.9 billion baht it is expected to raise, with airlines opposing the levy",
+      "date": "Thu, 15 Oct 2026 04:52:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3337203/warning-over-massive-losses-from-exit-tax",
       "source": "Bangkok Post Business"
     }
   ],
@@ -55,20 +62,20 @@
       "priority": 5
     },
     {
-      "title": "Nintendo Switch 2 จะดันหุ้น SYNEX ไปได้ไกลแค่ไหน? วิเคราะห์ราคาเป้าหมาย 26 บาท - efinanceThai",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBrZ1F4MWFIeHZpS01pNkl3WVVObmpWZXg2T2lUdHM2b044YWRwalBrQnFRLTcyUlZQVU1UUVpEQlRsSnp0c0NzUktJcTQyYWpET09OUmdYalBldmVONm1ZMDl4LXJSV3NUWlVZV1lOM2s1RzNybmpJ?oc=5\" target=\"_blank\">Nintendo Switch 2 จะดันหุ้น SYNEX ไปได้ไกลแค่ไหน? วิเคราะห์ราคาเป้า",
-      "date": "Tue, 17 Jun 2025 18:44:10 GMT",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBrZ1F4MWFIeHZpS01pNkl3WVVObmpWZXg2T2lUdHM2b044YWRwalBrQnFRLTcyUlZQVU1UUVpEQlRsSnp0c0NzUktJcTQyYWpET09OUmdYalBldmVONm1ZMDl4LXJSV3NUWlVZV1lOM2s1RzNybmpJ?oc=5",
+      "title": "SYNNEX Clearance Fair 2022 มาแล้ว!!! 18-19 พ.ย.นี้ ห้ามพลาด ส่องไฮไลท์สินค้าสุดว้าวกับส่วนลดมากกว่า 90% - Thaimobilecenter",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNX1RObGJXQV8tMENLYkdFc3hlNjh4aFlZRVZrNEEzel9UVGJSVWhSV3hWcVlvOGctNFNWRHRjemZscmxZLTNDa25zSzNkUk9ZM2c0WV9hSy14RjY2OXB1U0MwV2pJNnR5bjVEakI0bzhwaHZUaDJyRjFTQ1I1S0xoV1kwMFR5M1k?oc=5\" target=\"_blank\">SYNNEX Clearance Fair 2022 มาแล้ว!!! 18-19 พ",
+      "date": "Wed, 16 Nov 2022 08:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX1RObGJXQV8tMENLYkdFc3hlNjh4aFlZRVZrNEEzel9UVGJSVWhSV3hWcVlvOGctNFNWRHRjemZscmxZLTNDa25zSzNkUk9ZM2c0WV9hSy14RjY2OXB1U0MwV2pJNnR5bjVEakI0bzhwaHZUaDJyRjFTQ1I1S0xoV1kwMFR5M1k?oc=5",
       "source": "Google News TH",
       "category": "general",
       "trusted": false,
       "priority": 5
     },
     {
-      "title": "SYNNEX Clearance Fair 2022 มาแล้ว!!! 18-19 พ.ย.นี้ ห้ามพลาด ส่องไฮไลท์สินค้าสุดว้าวกับส่วนลดมากกว่า 90% - Thaimobilecenter",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNX1RObGJXQV8tMENLYkdFc3hlNjh4aFlZRVZrNEEzel9UVGJSVWhSV3hWcVlvOGctNFNWRHRjemZscmxZLTNDa25zSzNkUk9ZM2c0WV9hSy14RjY2OXB1U0MwV2pJNnR5bjVEakI0bzhwaHZUaDJyRjFTQ1I1S0xoV1kwMFR5M1k?oc=5\" target=\"_blank\">SYNNEX Clearance Fair 2022 มาแล้ว!!! 18-19 พ",
-      "date": "Wed, 16 Nov 2022 08:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX1RObGJXQV8tMENLYkdFc3hlNjh4aFlZRVZrNEEzel9UVGJSVWhSV3hWcVlvOGctNFNWRHRjemZscmxZLTNDa25zSzNkUk9ZM2c0WV9hSy14RjY2OXB1U0MwV2pJNnR5bjVEakI0bzhwaHZUaDJyRjFTQ1I1S0xoV1kwMFR5M1k?oc=5",
+      "title": "Nintendo Switch 2 จะดันหุ้น SYNEX ไปได้ไกลแค่ไหน? วิเคราะห์ราคาเป้าหมาย 26 บาท - efinanceThai",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBrZ1F4MWFIeHZpS01pNkl3WVVObmpWZXg2T2lUdHM2b044YWRwalBrQnFRLTcyUlZQVU1UUVpEQlRsSnp0c0NzUktJcTQyYWpET09OUmdYalBldmVONm1ZMDl4LXJSV3NUWlVZV1lOM2s1RzNybmpJ?oc=5\" target=\"_blank\">Nintendo Switch 2 จะดันหุ้น SYNEX ไปได้ไกลแค่ไหน? วิเคราะห์ราคาเป้า",
+      "date": "Tue, 17 Jun 2025 18:44:10 GMT",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBrZ1F4MWFIeHZpS01pNkl3WVVObmpWZXg2T2lUdHM2b044YWRwalBrQnFRLTcyUlZQVU1UUVpEQlRsSnp0c0NzUktJcTQyYWpET09OUmdYalBldmVONm1ZMDl4LXJSV3NUWlVZV1lOM2s1RzNybmpJ?oc=5",
       "source": "Google News TH",
       "category": "general",
       "trusted": false,
@@ -135,6 +142,16 @@
       "priority": 5
     },
     {
+      "title": "SYNEX บวก 4% ลุ้นกำไรปีนี้ทะลุ 700 ลบ. อานิสงส์ยอดขายไอทีพุ่ง - ข่าวหุ้นธุรกิจออนไลน์",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wYlE2S25nYUduMDVDR2pva1ZWeFMwbThlcHRqRnZvVGVOUjdvUF90YzhfSjN0RjBHQ1AtR1ItTDVKRmRtREMyM2xISTYzNnlTNjNZbm9R?oc=5\" target=\"_blank\">SYNEX บวก 4% ลุ้นกำไรปีนี้ทะลุ 700 ลบ. อานิสงส์ยอดขายไอทีพุ่ง</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ข่าวหุ้นธุรก",
+      "date": "Tue, 31 Aug 2021 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wYlE2S25nYUduMDVDR2pva1ZWeFMwbThlcHRqRnZvVGVOUjdvUF90YzhfSjN0RjBHQ1AtR1ItTDVKRmRtREMyM2xISTYzNnlTNjNZbm9R?oc=5",
+      "source": "Google News TH",
+      "category": "general",
+      "trusted": false,
+      "priority": 5
+    },
+    {
       "title": "SYNNEX ร่วมยกระดับงานเกมนานาชาติ “gamescom asia x Thailand Game Show” โชว์ศักยภาพ No.1 Gaming Distributor หนุนวงการเกมไทยสู่เวทีโลก - AppDisqus",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE54NkJrSDhHYXNVNThMSDNPZ2FsTGxMUklVWWxCanZReEE0ajhqWXo5OUxOWlg2VElMQ18zaWxnUVdPVjFoc1FoYXBKSHIzbU4xMTFXU2RwTldUTE0wcXBoNlBkdFhaVmJuQklLTkFickw4V0FVRjdxakVn0gF_QVVfeXFMTTY5b2ZCaXYzX21xd1RVUUtIUDdzeFBHN0lqcWw4emlnOEFYTVFMb2RkbjZmeHU0X1FkdVcwNm",
       "date": "Thu, 07 Aug 2025 07:00:00 GMT",
@@ -159,16 +176,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZNHc2MFVmV0VtOVBQYVFwRk9oNFhwS2xKNkNYckJ4dzRjYlNlRkN3SjBLcHQ2U3lUcURRUk9xMHZzbnQtOWwzbklHaEFYYV8tekE?oc=5\" target=\"_blank\">ซินเน็คฯ กางแผนธุรกิจในงาน “SYNNEX PARTNER CONNECT 2024”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">posttoday</font>",
       "date": "Tue, 24 Sep 2024 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZNHc2MFVmV0VtOVBQYVFwRk9oNFhwS2xKNkNYckJ4dzRjYlNlRkN3SjBLcHQ2U3lUcURRUk9xMHZzbnQtOWwzbklHaEFYYV8tekE?oc=5",
-      "source": "Google News TH",
-      "category": "general",
-      "trusted": false,
-      "priority": 5
-    },
-    {
-      "title": "SYNEX เตรียมจัดงานสุดยิ่งใหญ่แห่งปี “Synnex Partners Connect 2022” รวบรวมพาร์ทเนอร์ทั่วประเทศ อัพเดตกลยุทธ์และเทรนด์เทคโนโลยีที่ต้องจับตา - ThaiPR.NET",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE1kdTZ4b25WX3dyUHdzeUNBb1hNZU1DSlBRQktNWlprZXRhaDRXd2gyS1NGaHR3RTJvMlRrb0c5RGxseHJYUUlvYnl1ZFBYNEE?oc=5\" target=\"_blank\">SYNEX เตรียมจัดงานสุดยิ่งใหญ่แห่งปี “Synnex Partners Connect 2022” รวบรวมพาร์ทเนอร์ทั่วประเทศ อัพเดตกลยุทธ์และเทรนด์เทคโ",
-      "date": "Thu, 22 Sep 2022 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1kdTZ4b25WX3dyUHdzeUNBb1hNZU1DSlBRQktNWlprZXRhaDRXd2gyS1NGaHR3RTJvMlRrb0c5RGxseHJYUUlvYnl1ZFBYNEE?oc=5",
       "source": "Google News TH",
       "category": "general",
       "trusted": false,
@@ -225,9 +232,9 @@
       "priority": 6
     }
   ],
-  "claude_prompt": "CFO FX Brief 14/10/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Hot US inflation data dents Wall Street stocks\n- [Bangkok Post Business] Higher borrowing costs an ‘alarm signal’ for France",
+  "claude_prompt": "CFO FX Brief 15/10/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Thailand Post weathers economic turmoil\n- [Bangkok Post Business] Thai industries’ flood losses estimated at B6-7bn\n- [Bangkok Post Business] Warning over massive losses from exit tax",
   "stats": {
-    "fx_news_count": 2,
+    "fx_news_count": 3,
     "synnex_news_count": 20,
     "data_sources": [
       "Bangkok Post Business",
