@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-16 15:35:13 BKK",
+  "last_updated": "2026-10-16 22:17:26 BKK",
   "rate": {
     "date": "2026-10-16",
     "buying": 0,
@@ -9,17 +9,24 @@
   },
   "news": [
     {
-      "title": "Warsh says Fed must burnish its institutional credibility to get policy right",
-      "description": "Federal ⁠Reserve Chair ​Kevin Warsh said on Friday ​that the &zwnj;US central bank must continually bolster its credibility to get monetary policy right, adding that that includes ​the ⁠supervision an",
-      "date": "Fri, 16 Oct 2026 12:28:00 +0700",
-      "link": "https://www.bangkokpost.com/business/general/3338195/warsh-says-fed-must-burnish-its-institutional-credibility-to-get-policy-right",
+      "title": "US Fed chief surprised by world economy’s ‘resilience’",
+      "description": "US Federal Reserve chairmsn Kevin Warsh said on Friday that the global economy had shown unexpected resilience against strong economic shocks, as central banks battle surging inflation, while rich cou",
+      "date": "Fri, 16 Oct 2026 19:45:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3338205/us-fed-chief-surprised-by-world-economys-resilience",
       "source": "Bangkok Post Business"
     },
     {
-      "title": "Fitness First invests B330m  for new and revamped clubs",
-      "description": "Fitness First Thailand plans to invest 330 million baht over the next 12 months to open new branches and renovate existing clubs.",
-      "date": "Fri, 16 Oct 2026 01:01:00 +0700",
-      "link": "https://www.bangkokpost.com/business/general/3337810/fitness-first-invests-b330m-for-new-and-revamped-clubs",
+      "title": "Asian bonds record biggest monthly foreign outflow since March 2020",
+      "description": "Asian bonds ⁠faced ⁠in September their heaviest ​foreign selling pressure in more than six years, ​as a sharp rise &zwnj;in US Treasury yields and renewed Federal Reserve tightening blunted investors'",
+      "date": "Fri, 16 Oct 2026 15:35:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3338253/asian-bonds-record-biggest-monthly-foreign-outflow-since-march-2020",
+      "source": "Bangkok Post Business"
+    },
+    {
+      "title": "Warsh says Fed must burnish credibility to get policy right",
+      "description": "Federal ⁠Reserve Chair ​Kevin Warsh said on Friday ​that the &zwnj;US central bank must continually bolster its credibility to get monetary policy right, adding that that includes ​the ⁠supervision an",
+      "date": "Fri, 16 Oct 2026 12:28:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3338195/warsh-says-fed-must-burnish-credibility-to-get-policy-right",
       "source": "Bangkok Post Business"
     }
   ],
@@ -85,7 +92,7 @@
       "priority": 5
     },
     {
-      "title": "Synnex โชว์ฟอร์มแกร่ง Q2/68 รายได้ทะลุหมื่นล้าน! Nintendo Switch 2 และเทรนด์ AI ดันกำไรพุ่ง 19% - Sanook.com",
+      "title": "Synnex โชว์ฟอร์มแกร่ง Q2/68 รายได้ทะลุหมื่นล้าน! Nintendo Switch 2 และเทรนด์ AI ดันกำไรพุ่ง 19% - Sanook",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RT3d1eVozZFMzOXRzZUNia3ozX0tPZHlqZ1g2SkdnUS1UOW1zejJQZ2xFLWZ3aXhWeW9hSGFVLWxGRlJUYkVzejJLVFhGcjg?oc=5\" target=\"_blank\">Synnex โชว์ฟอร์มแกร่ง Q2/68 รายได้ทะลุหมื่นล้าน! Nintendo Switch 2 และเทรนด์ AI ดันกำไรพุ่ง 19%</a>&nbsp;&nbsp;<font col",
       "date": "Thu, 14 Aug 2025 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RT3d1eVozZFMzOXRzZUNia3ozX0tPZHlqZ1g2SkdnUS1UOW1zejJQZ2xFLWZ3aXhWeW9hSGFVLWxGRlJUYkVzejJLVFhGcjg?oc=5",
@@ -225,14 +232,14 @@
       "priority": 6
     }
   ],
-  "claude_prompt": "CFO FX Brief 16/10/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Warsh says Fed must burnish its institutional credibility to get policy right\n- [Bangkok Post Business] Fitness First invests B330m  for new and revamped clubs",
+  "claude_prompt": "CFO FX Brief 16/10/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] US Fed chief surprised by world economy’s ‘resilience’\n- [Bangkok Post Business] Asian bonds record biggest monthly foreign outflow since March 2020\n- [Bangkok Post Business] Warsh says Fed must burnish credibility to get policy right",
   "stats": {
-    "fx_news_count": 2,
+    "fx_news_count": 3,
     "synnex_news_count": 20,
     "data_sources": [
       "Bangkok Post Business",
-      "Google News TH",
-      "Google News EN"
+      "Google News EN",
+      "Google News TH"
     ]
   }
 }
