@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-19 15:33:48 BKK",
+  "last_updated": "2026-10-19 16:24:53 BKK",
   "rate": {
     "date": "2026-10-19",
     "buying": 0,
@@ -11,7 +11,7 @@
     {
       "title": "ไม่สามารถดึงข่าวอัตโนมัติได้",
       "description": "กรุณาตรวจสอบข่าว FX จาก Reuters หรือ Bangkok Post",
-      "date": "2026-10-19 15:33",
+      "date": "2026-10-19 16:24",
       "link": "https://www.reuters.com/markets/currencies/",
       "source": "Manual"
     }
@@ -214,8 +214,8 @@
     "synnex_news_count": 19,
     "data_sources": [
       "Manual",
-      "Google News TH",
-      "Google News EN"
+      "Google News EN",
+      "Google News TH"
     ]
   }
 }
