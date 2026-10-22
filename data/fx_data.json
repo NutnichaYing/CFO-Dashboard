@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-21 22:51:47 BKK",
+  "last_updated": "2026-10-22 10:52:52 BKK",
   "rate": {
-    "date": "2026-10-21",
+    "date": "2026-10-22",
     "buying": 0,
     "selling": 0,
     "mid": 0,
@@ -9,11 +9,11 @@
   },
   "news": [
     {
-      "title": "ไม่สามารถดึงข่าวอัตโนมัติได้",
-      "description": "กรุณาตรวจสอบข่าว FX จาก Reuters หรือ Bangkok Post",
-      "date": "2026-10-21 22:51",
-      "link": "https://www.reuters.com/markets/currencies/",
-      "source": "Manual"
+      "title": "With purchase of GMO-Z.com, Bitget sets sights on Thailand",
+      "description": "Bitget, a global cryptocurrency trading platform, is making inroads in Thailand through the proposed acquisition of GMO-Z.com Cryptonomics (Thailand), a locally licensed digital asset exchange and bro",
+      "date": "Thu, 22 Oct 2026 01:44:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3341369/with-purchase-of-gmozcom-bitget-sets-sights-on-thailand",
+      "source": "Bangkok Post Business"
     }
   ],
   "synnex_news": [
@@ -38,6 +38,16 @@
       "priority": 5
     },
     {
+      "title": "SYNNEX Clearance Fair 2022 มาแล้ว!!! 18-19 พ.ย.นี้ ห้ามพลาด ส่องไฮไลท์สินค้าสุดว้าวกับส่วนลดมากกว่า 90% - Thaimobilecenter",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNX1RObGJXQV8tMENLYkdFc3hlNjh4aFlZRVZrNEEzel9UVGJSVWhSV3hWcVlvOGctNFNWRHRjemZscmxZLTNDa25zSzNkUk9ZM2c0WV9hSy14RjY2OXB1U0MwV2pJNnR5bjVEakI0bzhwaHZUaDJyRjFTQ1I1S0xoV1kwMFR5M1k?oc=5\" target=\"_blank\">SYNNEX Clearance Fair 2022 มาแล้ว!!! 18-19 พ",
+      "date": "Wed, 16 Nov 2022 08:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX1RObGJXQV8tMENLYkdFc3hlNjh4aFlZRVZrNEEzel9UVGJSVWhSV3hWcVlvOGctNFNWRHRjemZscmxZLTNDa25zSzNkUk9ZM2c0WV9hSy14RjY2OXB1U0MwV2pJNnR5bjVEakI0bzhwaHZUaDJyRjFTQ1I1S0xoV1kwMFR5M1k?oc=5",
+      "source": "Google News TH",
+      "category": "general",
+      "trusted": false,
+      "priority": 5
+    },
+    {
       "title": "Nintendo Switch 2 จะดันหุ้น SYNEX ไปได้ไกลแค่ไหน? วิเคราะห์ราคาเป้าหมาย 26 บาท - efinanceThai",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBrZ1F4MWFIeHZpS01pNkl3WVVObmpWZXg2T2lUdHM2b044YWRwalBrQnFRLTcyUlZQVU1UUVpEQlRsSnp0c0NzUktJcTQyYWpET09OUmdYalBldmVONm1ZMDl4LXJSV3NUWlVZV1lOM2s1RzNybmpJ?oc=5\" target=\"_blank\">Nintendo Switch 2 จะดันหุ้น SYNEX ไปได้ไกลแค่ไหน? วิเคราะห์ราคาเป้า",
       "date": "Tue, 17 Jun 2025 18:44:10 GMT",
@@ -52,16 +62,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tQjRmVkRWUFlKWmV2TzFOZVEyS2NsaHF1VjNjeVFiZEJLQWtzZDVPa1NzRGE5VUpJc3F3NmtUamdMUzZUNE5nY20yTlAtc29SeGFmcA?oc=5\" target=\"_blank\">สุธิดา มงคลสุธี ไม่ใช่แค่เพียงลูกสาวท่านประธานแต่เป็นแม่ทัพหญิงแกร่งของ SYNNEX ผู้ปั้นยอดขายไอทีกว่า 40,000 ล้าน<",
       "date": "Sat, 09 Aug 2025 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tQjRmVkRWUFlKWmV2TzFOZVEyS2NsaHF1VjNjeVFiZEJLQWtzZDVPa1NzRGE5VUpJc3F3NmtUamdMUzZUNE5nY20yTlAtc29SeGFmcA?oc=5",
-      "source": "Google News TH",
-      "category": "general",
-      "trusted": false,
-      "priority": 5
-    },
-    {
-      "title": "SYNNEX Clearance Fair 2022 มาแล้ว!!! 18-19 พ.ย.นี้ ห้ามพลาด ส่องไฮไลท์สินค้าสุดว้าวกับส่วนลดมากกว่า 90% - Thaimobilecenter",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNX1RObGJXQV8tMENLYkdFc3hlNjh4aFlZRVZrNEEzel9UVGJSVWhSV3hWcVlvOGctNFNWRHRjemZscmxZLTNDa25zSzNkUk9ZM2c0WV9hSy14RjY2OXB1U0MwV2pJNnR5bjVEakI0bzhwaHZUaDJyRjFTQ1I1S0xoV1kwMFR5M1k?oc=5\" target=\"_blank\">SYNNEX Clearance Fair 2022 มาแล้ว!!! 18-19 พ",
-      "date": "Wed, 16 Nov 2022 08:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX1RObGJXQV8tMENLYkdFc3hlNjh4aFlZRVZrNEEzel9UVGJSVWhSV3hWcVlvOGctNFNWRHRjemZscmxZLTNDa25zSzNkUk9ZM2c0WV9hSy14RjY2OXB1U0MwV2pJNnR5bjVEakI0bzhwaHZUaDJyRjFTQ1I1S0xoV1kwMFR5M1k?oc=5",
       "source": "Google News TH",
       "category": "general",
       "trusted": false,
@@ -98,10 +98,20 @@
       "priority": 5
     },
     {
-      "title": "SYNNEX ร่วมยกระดับงานเกมนานาชาติ “gamescom asia x Thailand Game Show” โชว์ศักยภาพ No.1 Gaming Distributor หนุนวงการเกมไทยสู่เวทีโลก - AppDisqus",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE54NkJrSDhHYXNVNThMSDNPZ2FsTGxMUklVWWxCanZReEE0ajhqWXo5OUxOWlg2VElMQ18zaWxnUVdPVjFoc1FoYXBKSHIzbU4xMTFXU2RwTldUTE0wcXBoNlBkdFhaVmJuQklLTkFickw4V0FVRjdxakVn0gF_QVVfeXFMTTY5b2ZCaXYzX21xd1RVUUtIUDdzeFBHN0lqcWw4emlnOEFYTVFMb2RkbjZmeHU0X1FkdVcwNm",
-      "date": "Thu, 07 Aug 2025 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE54NkJrSDhHYXNVNThMSDNPZ2FsTGxMUklVWWxCanZReEE0ajhqWXo5OUxOWlg2VElMQ18zaWxnUVdPVjFoc1FoYXBKSHIzbU4xMTFXU2RwTldUTE0wcXBoNlBkdFhaVmJuQklLTkFickw4V0FVRjdxakVn0gF_QVVfeXFMTTY5b2ZCaXYzX21xd1RVUUtIUDdzeFBHN0lqcWw4emlnOEFYTVFMb2RkbjZmeHU0X1FkdVcwNmx4REdKZkh0eTAwazlWTjdrdmdNcEh6c0ppY1dnRmRlWEU1dnFhWnZ5ck9JSEtVNmZtVzYzVDktV2QzSUVwcmV3Zw?oc=5",
+      "title": "SYNNEX ผนึกกำลัง AWS ครบรอบ 1 ปีเดินหน้ากลยุทธ์เสริมแกร่งพันธมิตร ผลักดันตลาด Cloud และ AI ไทยเติบโตยั่งยืน [PR] - TechTalkThai",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE40eGE2a2M4cWhKelBIcEw4QmY1WWR5WDU2eDdGbklQNEUyMGoxcklRQUxlYVVhMnd5aEVSZ0R6eXRIOF9GTHJyY3FvREZBTGRnemJlbDVqbnppN3V6c3J5eXFkaUoxcXZtbnBPdQ?oc=5\" target=\"_blank\">SYNNEX ผนึกกำลัง AWS ครบรอบ 1 ปีเดินหน้ากลยุทธ์เสริมแกร่งพันธมิตร ผลักดันตลาด Clo",
+      "date": "Fri, 27 Feb 2026 04:52:10 GMT",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE40eGE2a2M4cWhKelBIcEw4QmY1WWR5WDU2eDdGbklQNEUyMGoxcklRQUxlYVVhMnd5aEVSZ0R6eXRIOF9GTHJyY3FvREZBTGRnemJlbDVqbnppN3V6c3J5eXFkaUoxcXZtbnBPdQ?oc=5",
+      "source": "Google News TH",
+      "category": "general",
+      "trusted": false,
+      "priority": 5
+    },
+    {
+      "title": "SYNNEX ร่วมยกระดับงานเกมนานาชาติ gamescom asia x Thailand Game Show โชว์ศักยภาพ No.1 Gaming Distributor หนุนวงการเกมไทยสู่เวทีโลก - Online Station",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YVHV6c1B5RXdnNURVU3RETGdZUE5DOFR4R0ZTd1htS2VwMkIwYndSdm1ZODJzeXo3NmNyMjVlblJyb21jV2JIaVJPeWNLV3M1RnhuR0c4OHVPRGRsRXRDSG5PQQ?oc=5\" target=\"_blank\">SYNNEX ร่วมยกระดับงานเกมนานาชาติ gamescom asia x Thailand Game Show โชว์ศักยภาพ No.1 Gaming D",
+      "date": "Sun, 10 Aug 2025 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YVHV6c1B5RXdnNURVU3RETGdZUE5DOFR4R0ZTd1htS2VwMkIwYndSdm1ZODJzeXo3NmNyMjVlblJyb21jV2JIaVJPeWNLV3M1RnhuR0c4OHVPRGRsRXRDSG5PQQ?oc=5",
       "source": "Google News TH",
       "category": "general",
       "trusted": false,
@@ -138,10 +148,10 @@
       "priority": 5
     },
     {
-      "title": "SYNEX ดึง Nintendo Switch บุกตลาดไทย ชูจุดแข็งสัญลักษณ์ Trusted by Synnex ให้บริการครบวงจร พร้อมการรับประกันสูงสุด 18 เดือน - มิติหุ้น | ชี้ชัดทุกการลงทุน - มิติหุ้น",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFB3eU1ESkkyMDlYeTQzaEV6UURianQwSFVHWFVKQi1qYmpaYkxlQ2lBdDZpMUhHaF9aUVVBTHRISmtnQnRZUmd3OHNsWTRwRDdyOWhmSXV3?oc=5\" target=\"_blank\">SYNEX ดึง Nintendo Switch บุกตลาดไทย ชูจุดแข็งสัญลักษณ์ Trusted by Synnex ให้บริการครบวงจร พร้อมการรับประกันสูง",
-      "date": "Thu, 10 Aug 2023 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB3eU1ESkkyMDlYeTQzaEV6UURianQwSFVHWFVKQi1qYmpaYkxlQ2lBdDZpMUhHaF9aUVVBTHRISmtnQnRZUmd3OHNsWTRwRDdyOWhmSXV3?oc=5",
+      "title": "Synnex เปิดตัว S-GEAR เน้นเรื่องของความง่ายและ Gadget คุณภาพดีราคาไม่แรง - Sanook",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE4tYXFmUlA2V0l1MXQ2Ym55cWlzdzVBZWRhdFVOMThsc29KdDBjWHRMNlFzQ01CN3laMkhjV1k4bnNaSFdRSjE0N2pIdmhsLW8?oc=5\" target=\"_blank\">Synnex เปิดตัว S-GEAR เน้นเรื่องของความง่ายและ Gadget คุณภาพดีราคาไม่แรง</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sanook</fo",
+      "date": "Tue, 22 Mar 2022 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4tYXFmUlA2V0l1MXQ2Ym55cWlzdzVBZWRhdFVOMThsc29KdDBjWHRMNlFzQ01CN3laMkhjV1k4bnNaSFdRSjE0N2pIdmhsLW8?oc=5",
       "source": "Google News TH",
       "category": "general",
       "trusted": false,
@@ -152,16 +162,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OU2JGRnRBbXZYZFBSdWl4WklHVEFwRnVIMU1MdGtXZmg0cldCby1NQUpsRmpjUW1KTTVWSnRwM29hd3M1UktjYVRyVDZVTTFMX01n?oc=5\" target=\"_blank\">สุธิดา มงคลสุธี ทายาทกิจการหมื่นล้าน รับไม้ยืนหนึ่ง IT ecosystem</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">posttoday</fo",
       "date": "Mon, 17 Apr 2023 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OU2JGRnRBbXZYZFBSdWl4WklHVEFwRnVIMU1MdGtXZmg0cldCby1NQUpsRmpjUW1KTTVWSnRwM29hd3M1UktjYVRyVDZVTTFMX01n?oc=5",
-      "source": "Google News TH",
-      "category": "general",
-      "trusted": false,
-      "priority": 5
-    },
-    {
-      "title": "Nintendo Switch by Synnex ร่วมงาน Thailand Mobile Expo 2023 มหกรรมมือถือสุดยิ่งใหญ่แห่งปี - Thaimobilecenter",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQb2Q1a3dmeHc5enp1cjN3RGc5VmxBMDEyeFR0S1ZONHBSODNJZ3RNOXdGalc5X216Ui1OdHZFb0JjVE9OcGc3dm9DZVZ5aFdhS3pJOEJpTHNQRFZKOUo0TE1DU1d3bXN2MUVyd2hNaGZ5cXR2aWJjRzZhQTFkMGdxbQ?oc=5\" target=\"_blank\">Nintendo Switch by Synnex ร่วมงาน Thailand Mobile Exp",
-      "date": "Fri, 27 Oct 2023 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQb2Q1a3dmeHc5enp1cjN3RGc5VmxBMDEyeFR0S1ZONHBSODNJZ3RNOXdGalc5X216Ui1OdHZFb0JjVE9OcGc3dm9DZVZ5aFdhS3pJOEJpTHNQRFZKOUo0TE1DU1d3bXN2MUVyd2hNaGZ5cXR2aWJjRzZhQTFkMGdxbQ?oc=5",
       "source": "Google News TH",
       "category": "general",
       "trusted": false,
@@ -206,16 +206,26 @@
       "category": "general",
       "trusted": false,
       "priority": 6
+    },
+    {
+      "title": "SYNNEX and COPPERWIRED launches SE Asia’s first Nintendo store at Siam Paragon - Thaiger",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQYlZxWGFoMjBUYUxZQ1RyZ1QxOXltZGExYlhrcjYyemlhTExOMmo5RHBJVG93Mi1HWmZjNTh0RjFzTElXN0x3ZVVSRFNObkVGX0haUWQyVUVHX3lXWWRQdTRCTlFfX1Y5Vmt5Y0lKT1NrZTNtSHBDUTJCU2Z2NG9VMkJDMWF0S2JJRnpZb2tlVTdZV0RUU290dDEwMDM3NTVwM3RXV3BvczJmV3NjS0tjckhzdFBmWUk?oc",
+      "date": "Mon, 25 Nov 2024 08:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYlZxWGFoMjBUYUxZQ1RyZ1QxOXltZGExYlhrcjYyemlhTExOMmo5RHBJVG93Mi1HWmZjNTh0RjFzTElXN0x3ZVVSRFNObkVGX0haUWQyVUVHX3lXWWRQdTRCTlFfX1Y5Vmt5Y0lKT1NrZTNtSHBDUTJCU2Z2NG9VMkJDMWF0S2JJRnpZb2tlVTdZV0RUU290dDEwMDM3NTVwM3RXV3BvczJmV3NjS0tjckhzdFBmWUk?oc=5",
+      "source": "Google News EN",
+      "category": "general",
+      "trusted": false,
+      "priority": 6
     }
   ],
-  "claude_prompt": "CFO FX Brief 21/10/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Manual] ไม่สามารถดึงข่าวอัตโนมัติได้",
+  "claude_prompt": "CFO FX Brief 22/10/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] With purchase of GMO-Z.com, Bitget sets sights on Thailand",
   "stats": {
     "fx_news_count": 1,
-    "synnex_news_count": 19,
+    "synnex_news_count": 20,
     "data_sources": [
-      "Google News TH",
+      "Bangkok Post Business",
       "Google News EN",
-      "Manual"
+      "Google News TH"
     ]
   }
 }
