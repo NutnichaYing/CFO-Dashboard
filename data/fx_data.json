@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-22 22:48:43 BKK",
+  "last_updated": "2026-10-23 10:57:02 BKK",
   "rate": {
-    "date": "2026-10-22",
+    "date": "2026-10-23",
     "buying": 0,
     "selling": 0,
     "mid": 0,
@@ -9,10 +9,24 @@
   },
   "news": [
     {
-      "title": "State Railway suing CP consortium for B13.3 billion",
-      "description": "The State Railway of Thailand (SRT) has filed a suit with the Central Administrative Court demanding that Asia Era One Co, a consortium led by the Charoen Pokphand Group, pay 13.3 billion baht owed un",
-      "date": "Thu, 22 Oct 2026 16:31:00 +0700",
-      "link": "https://www.bangkokpost.com/business/general/3341645/state-railway-suing-cp-consortium-for-b133-billion",
+      "title": "BoT seeks feedback on THB stablecoins",
+      "description": "The Bank of Thailand is seeking public feedback on proposed regulations for baht-denominated stablecoins, including a requirement for full 1:1 deposit backing and a ban on interest and other returns f",
+      "date": "Fri, 23 Oct 2026 06:00:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3342129/bot-seeks-feedback-on-thb-stablecoins",
+      "source": "Bangkok Post Business"
+    },
+    {
+      "title": "Thai export growth set to slow significantly next year",
+      "description": "Thai exports are projected to grow by 17.8% year-on-year in 2026 before slowing to 7.4% in 2027, influenced by US tariff risks, the electronics cycle and a bottleneck in the Strait of Hormuz, accordin",
+      "date": "Fri, 23 Oct 2026 05:48:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3341894/thai-export-growth-set-to-slow-significantly-next-year",
+      "source": "Bangkok Post Business"
+    },
+    {
+      "title": "CPF backs AI to lift food production",
+      "description": "Charoen Pokphand Foods Plc (CPF) plans to allocate 20-25 billion baht for investment next year.",
+      "date": "Fri, 23 Oct 2026 04:57:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3341869/cpf-backs-ai-to-lift-food-production",
       "source": "Bangkok Post Business"
     }
   ],
@@ -218,14 +232,14 @@
       "priority": 6
     }
   ],
-  "claude_prompt": "CFO FX Brief 22/10/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] State Railway suing CP consortium for B13.3 billion",
+  "claude_prompt": "CFO FX Brief 23/10/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] BoT seeks feedback on THB stablecoins\n- [Bangkok Post Business] Thai export growth set to slow significantly next year\n- [Bangkok Post Business] CPF backs AI to lift food production",
   "stats": {
-    "fx_news_count": 1,
+    "fx_news_count": 3,
     "synnex_news_count": 20,
     "data_sources": [
-      "Bangkok Post Business",
       "Google News EN",
-      "Google News TH"
+      "Google News TH",
+      "Bangkok Post Business"
     ]
   }
 }
