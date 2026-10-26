@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-26 10:54:23 BKK",
+  "last_updated": "2026-10-26 15:36:12 BKK",
   "rate": {
     "date": "2026-10-26",
     "buying": 0,
@@ -8,6 +8,13 @@
     "source": "Unavailable - Please check BOT website"
   },
   "news": [
+    {
+      "title": "Daily cash transactions of B5m or more subject to scrutiny",
+      "description": "The Bank of Thailand has ordered financial institutions to thoroughly check daily cash transactions totalling 5 million baht or more at their brick-and-mortar branches from Nov 1.",
+      "date": "Mon, 26 Oct 2026 14:50:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3343855/daily-cash-transactions-of-b5m-or-more-subject-to-scrutiny",
+      "source": "Bangkok Post Business"
+    },
     {
       "title": "Indonesia bourse to include independent observers in determining stocks with highly concentrated ownership",
       "description": "JAKARTA - Indonesia's stock ​exchange will include independent observers in a committee set up ​to determine a list of &zwnj;stocks with highly concentrated ownership structures, which are set to be e",
@@ -132,16 +139,6 @@
       "priority": 5
     },
     {
-      "title": "SYNEX บวก 4% ลุ้นกำไรปีนี้ทะลุ 700 ลบ. อานิสงส์ยอดขายไอทีพุ่ง - ข่าวหุ้นธุรกิจออนไลน์",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wYlE2S25nYUduMDVDR2pva1ZWeFMwbThlcHRqRnZvVGVOUjdvUF90YzhfSjN0RjBHQ1AtR1ItTDVKRmRtREMyM2xISTYzNnlTNjNZbm9R?oc=5\" target=\"_blank\">SYNEX บวก 4% ลุ้นกำไรปีนี้ทะลุ 700 ลบ. อานิสงส์ยอดขายไอทีพุ่ง</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ข่าวหุ้นธุรก",
-      "date": "Tue, 31 Aug 2021 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wYlE2S25nYUduMDVDR2pva1ZWeFMwbThlcHRqRnZvVGVOUjdvUF90YzhfSjN0RjBHQ1AtR1ItTDVKRmRtREMyM2xISTYzNnlTNjNZbm9R?oc=5",
-      "source": "Google News TH",
-      "category": "general",
-      "trusted": false,
-      "priority": 5
-    },
-    {
       "title": "ซินเน็คขนทัพสินค้า “Trusted By Synnex” จากแบรนด์ไอทีชั้นนำ บุกงาน TME 2024 ย้ำความแข็งแกร่งนัมเบอร์วันไอทีดิสทริบิวเตอร์ - Thaimobilecenter",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5jRjdLZWsxdUVhdWtYZDFuM0xFRFFlV1FXM3pTalBLOWpsSDc4V09EWEZwT0NUZV9QYm1vMVA0aUtoXy1WQXlRRUNpU0dpTlNTbEVGN1BQUFVfZ1c5LU9QVDBodk56dUdpTVNXVkl0Yw?oc=5\" target=\"_blank\">ซินเน็คขนทัพสินค้า “Trusted By Synnex” จากแบรนด์ไอทีชั้นนำ บุกงาน TME 2024 ย้",
       "date": "Sat, 10 Feb 2024 08:00:00 GMT",
@@ -222,10 +219,10 @@
       "priority": 6
     }
   ],
-  "claude_prompt": "CFO FX Brief 26/10/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Indonesia bourse to include independent observers in determining stocks with highly concentrated ownership\n- [Bangkok Post Business] First international flight takes off from new Sydney airport\n- [Bangkok Post Business] Small firms urge overhaul of water management",
+  "claude_prompt": "CFO FX Brief 26/10/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Daily cash transactions of B5m or more subject to scrutiny\n- [Bangkok Post Business] Indonesia bourse to include independent observers in determining stocks with highly concentrated ownership\n- [Bangkok Post Business] First international flight takes off from new Sydney airport\n- [Bangkok Post Business] Small firms urge overhaul of water management",
   "stats": {
-    "fx_news_count": 3,
-    "synnex_news_count": 19,
+    "fx_news_count": 4,
+    "synnex_news_count": 18,
     "data_sources": [
       "Google News EN",
       "Google News TH",
