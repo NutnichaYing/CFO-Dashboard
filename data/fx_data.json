@@ -1,13 +1,20 @@
 {
-  "last_updated": "2026-10-28 17:07:48 BKK",
+  "last_updated": "2026-10-29 00:01:44 BKK",
   "rate": {
-    "date": "2026-10-28",
+    "date": "2026-10-29",
     "buying": 0,
     "selling": 0,
     "mid": 0,
     "source": "Unavailable - Please check BOT website"
   },
   "news": [
+    {
+      "title": "B5.3bn sale of Royal Orchid Sheraton approved",
+      "description": "Unitholders of the Grande Royal Orchid Hospitality Real Estate Investment Trust (GROREIT) have approved the sale of the Royal Orchid Sheraton Hotel in Bangkok to a new investor for 5.3 billion baht, r",
+      "date": "Wed, 28 Oct 2026 20:36:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3345248/b53bn-sale-of-royal-orchid-sheraton-approved",
+      "source": "Bangkok Post Business"
+    },
     {
       "title": "Bank of Thailand keeps interest rate unchanged",
       "description": "The Bank of ⁠Thailand (BoT) kept its key ​interest rate &zwnj;unchanged for a fourth straight meeting on Wednesday, as widely expected.",
@@ -85,16 +92,6 @@
       "priority": 5
     },
     {
-      "title": "สุธิดา มงคลสุธี ทายาทกิจการหมื่นล้าน รับไม้ยืนหนึ่ง IT ecosystem - posttoday",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OU2JGRnRBbXZYZFBSdWl4WklHVEFwRnVIMU1MdGtXZmg0cldCby1NQUpsRmpjUW1KTTVWSnRwM29hd3M1UktjYVRyVDZVTTFMX01n?oc=5\" target=\"_blank\">สุธิดา มงคลสุธี ทายาทกิจการหมื่นล้าน รับไม้ยืนหนึ่ง IT ecosystem</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">posttoday</fo",
-      "date": "Mon, 17 Apr 2023 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OU2JGRnRBbXZYZFBSdWl4WklHVEFwRnVIMU1MdGtXZmg0cldCby1NQUpsRmpjUW1KTTVWSnRwM29hd3M1UktjYVRyVDZVTTFMX01n?oc=5",
-      "source": "Google News TH",
-      "category": "general",
-      "trusted": false,
-      "priority": 5
-    },
-    {
       "title": "SYNNEX ร่วมยกระดับงานเกมนานาชาติ gamescom asia x Thailand Game Show โชว์ศักยภาพ No.1 Gaming Distributor หนุนวงการเกมไทยสู่เวทีโลก - Online Station",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YVHV6c1B5RXdnNURVU3RETGdZUE5DOFR4R0ZTd1htS2VwMkIwYndSdm1ZODJzeXo3NmNyMjVlblJyb21jV2JIaVJPeWNLV3M1RnhuR0c4OHVPRGRsRXRDSG5PQQ?oc=5\" target=\"_blank\">SYNNEX ร่วมยกระดับงานเกมนานาชาติ gamescom asia x Thailand Game Show โชว์ศักยภาพ No.1 Gaming D",
       "date": "Sun, 10 Aug 2025 07:00:00 GMT",
@@ -105,20 +102,20 @@
       "priority": 5
     },
     {
-      "title": "ซินเน็คขนทัพสินค้า “Trusted By Synnex” จากแบรนด์ไอทีชั้นนำ บุกงาน TME 2024 ย้ำความแข็งแกร่งนัมเบอร์วันไอทีดิสทริบิวเตอร์ - Thaimobilecenter",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5jRjdLZWsxdUVhdWtYZDFuM0xFRFFlV1FXM3pTalBLOWpsSDc4V09EWEZwT0NUZV9QYm1vMVA0aUtoXy1WQXlRRUNpU0dpTlNTbEVGN1BQUFVfZ1c5LU9QVDBodk56dUdpTVNXVkl0Yw?oc=5\" target=\"_blank\">ซินเน็คขนทัพสินค้า “Trusted By Synnex” จากแบรนด์ไอทีชั้นนำ บุกงาน TME 2024 ย้",
-      "date": "Sat, 10 Feb 2024 08:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jRjdLZWsxdUVhdWtYZDFuM0xFRFFlV1FXM3pTalBLOWpsSDc4V09EWEZwT0NUZV9QYm1vMVA0aUtoXy1WQXlRRUNpU0dpTlNTbEVGN1BQUFVfZ1c5LU9QVDBodk56dUdpTVNXVkl0Yw?oc=5",
+      "title": "สุธิดา มงคลสุธี ทายาทกิจการหมื่นล้าน รับไม้ยืนหนึ่ง IT ecosystem - posttoday",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OU2JGRnRBbXZYZFBSdWl4WklHVEFwRnVIMU1MdGtXZmg0cldCby1NQUpsRmpjUW1KTTVWSnRwM29hd3M1UktjYVRyVDZVTTFMX01n?oc=5\" target=\"_blank\">สุธิดา มงคลสุธี ทายาทกิจการหมื่นล้าน รับไม้ยืนหนึ่ง IT ecosystem</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">posttoday</fo",
+      "date": "Mon, 17 Apr 2023 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OU2JGRnRBbXZYZFBSdWl4WklHVEFwRnVIMU1MdGtXZmg0cldCby1NQUpsRmpjUW1KTTVWSnRwM29hd3M1UktjYVRyVDZVTTFMX01n?oc=5",
       "source": "Google News TH",
       "category": "general",
       "trusted": false,
       "priority": 5
     },
     {
-      "title": "Nintendo Switch by Synnex ร่วมงาน Thailand Mobile Expo 2023 มหกรรมมือถือสุดยิ่งใหญ่แห่งปี - Thaimobilecenter",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQb2Q1a3dmeHc5enp1cjN3RGc5VmxBMDEyeFR0S1ZONHBSODNJZ3RNOXdGalc5X216Ui1OdHZFb0JjVE9OcGc3dm9DZVZ5aFdhS3pJOEJpTHNQRFZKOUo0TE1DU1d3bXN2MUVyd2hNaGZ5cXR2aWJjRzZhQTFkMGdxbQ?oc=5\" target=\"_blank\">Nintendo Switch by Synnex ร่วมงาน Thailand Mobile Exp",
-      "date": "Fri, 27 Oct 2023 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQb2Q1a3dmeHc5enp1cjN3RGc5VmxBMDEyeFR0S1ZONHBSODNJZ3RNOXdGalc5X216Ui1OdHZFb0JjVE9OcGc3dm9DZVZ5aFdhS3pJOEJpTHNQRFZKOUo0TE1DU1d3bXN2MUVyd2hNaGZ5cXR2aWJjRzZhQTFkMGdxbQ?oc=5",
+      "title": "ซินเน็คขนทัพสินค้า “Trusted By Synnex” จากแบรนด์ไอทีชั้นนำ บุกงาน TME 2024 ย้ำความแข็งแกร่งนัมเบอร์วันไอทีดิสทริบิวเตอร์ - Thaimobilecenter",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5jRjdLZWsxdUVhdWtYZDFuM0xFRFFlV1FXM3pTalBLOWpsSDc4V09EWEZwT0NUZV9QYm1vMVA0aUtoXy1WQXlRRUNpU0dpTlNTbEVGN1BQUFVfZ1c5LU9QVDBodk56dUdpTVNXVkl0Yw?oc=5\" target=\"_blank\">ซินเน็คขนทัพสินค้า “Trusted By Synnex” จากแบรนด์ไอทีชั้นนำ บุกงาน TME 2024 ย้",
+      "date": "Sat, 10 Feb 2024 08:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jRjdLZWsxdUVhdWtYZDFuM0xFRFFlV1FXM3pTalBLOWpsSDc4V09EWEZwT0NUZV9QYm1vMVA0aUtoXy1WQXlRRUNpU0dpTlNTbEVGN1BQUFVfZ1c5LU9QVDBodk56dUdpTVNXVkl0Yw?oc=5",
       "source": "Google News TH",
       "category": "general",
       "trusted": false,
@@ -175,14 +172,14 @@
       "priority": 6
     }
   ],
-  "claude_prompt": "CFO FX Brief 28/10/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Bank of Thailand keeps interest rate unchanged\n- [Bangkok Post Business] Car production recovers from September flooding",
+  "claude_prompt": "CFO FX Brief 29/10/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] B5.3bn sale of Royal Orchid Sheraton approved\n- [Bangkok Post Business] Bank of Thailand keeps interest rate unchanged\n- [Bangkok Post Business] Car production recovers from September flooding",
   "stats": {
-    "fx_news_count": 2,
-    "synnex_news_count": 15,
+    "fx_news_count": 3,
+    "synnex_news_count": 14,
     "data_sources": [
+      "Google News EN",
       "Google News TH",
-      "Bangkok Post Business",
-      "Google News EN"
+      "Bangkok Post Business"
     ]
   }
 }
