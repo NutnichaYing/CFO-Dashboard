@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-28 11:45:50 BKK",
+  "last_updated": "2026-10-28 16:22:44 BKK",
   "rate": {
     "date": "2026-10-28",
     "buying": 0,
@@ -9,17 +9,17 @@
   },
   "news": [
     {
+      "title": "Bank of Thailand keeps interest rate unchanged",
+      "description": "The Bank of ⁠Thailand (BoT) kept its key ​interest rate &zwnj;unchanged for a fourth straight meeting on Wednesday, as widely expected.",
+      "date": "Wed, 28 Oct 2026 14:34:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3345184/bank-of-thailand-keeps-interest-rate-unchanged",
+      "source": "Bangkok Post Business"
+    },
+    {
       "title": "Car production recovers from September flooding",
       "description": "Thailand's auto manufacturers are accelerating production after flooding in the eastern region subsided, allowing factories to resume normal operations and maintain output targets for both domestic sa",
       "date": "Wed, 28 Oct 2026 06:19:00 +0700",
       "link": "https://www.bangkokpost.com/business/motoring/3344723/car-production-recovers-from-september-flooding",
-      "source": "Bangkok Post Business"
-    },
-    {
-      "title": "Panel voices concerns on digital trade gap",
-      "description": "Thai consumers spent more than 138 billion baht on around 20 foreign digital platforms in the first half of 2026, raising concerns over the country's digital trade deficit and the share of revenue cap",
-      "date": "Wed, 28 Oct 2026 05:37:00 +0700",
-      "link": "https://www.bangkokpost.com/business/general/3344738/panel-voices-concerns-on-digital-trade-gap",
       "source": "Bangkok Post Business"
     }
   ],
@@ -205,13 +205,13 @@
       "priority": 6
     }
   ],
-  "claude_prompt": "CFO FX Brief 28/10/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Car production recovers from September flooding\n- [Bangkok Post Business] Panel voices concerns on digital trade gap",
+  "claude_prompt": "CFO FX Brief 28/10/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Bank of Thailand keeps interest rate unchanged\n- [Bangkok Post Business] Car production recovers from September flooding",
   "stats": {
     "fx_news_count": 2,
     "synnex_news_count": 18,
     "data_sources": [
-      "Google News TH",
       "Google News EN",
+      "Google News TH",
       "Bangkok Post Business"
     ]
   }
