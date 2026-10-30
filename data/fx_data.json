@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-30 16:42:02 BKK",
+  "last_updated": "2026-10-30 17:33:06 BKK",
   "rate": {
     "date": "2026-10-30",
     "buying": 0,
@@ -11,32 +11,12 @@
     {
       "title": "ไม่สามารถดึงข่าวอัตโนมัติได้",
       "description": "กรุณาตรวจสอบข่าว FX จาก Reuters หรือ Bangkok Post",
-      "date": "2026-10-30 16:41",
+      "date": "2026-10-30 17:33",
       "link": "https://www.reuters.com/markets/currencies/",
       "source": "Manual"
     }
   ],
   "synnex_news": [
-    {
-      "title": "SYNEX กางแผนปี 70 ชู AI-Cloud ขับเคลื่อนธุรกิจ ยกระดับไอทีครบวงจร - ข่าวหุ้นธุรกิจออนไลน์",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE9scjV1dktUWkk5UmRnd0dVZFczR3FCejV0R3BnN0c2RmE4Tmp3S2F6OWJpenY3Q01JV1B5SjlVRENQbUJ0T1RKN1RaRQ?oc=5\" target=\"_blank\">SYNEX กางแผนปี 70 ชู AI-Cloud ขับเคลื่อนธุรกิจ ยกระดับไอทีครบวงจร</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ข่าวหุ้นธุรกิจออนไลน์<",
-      "date": "Fri, 11 Sep 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9scjV1dktUWkk5UmRnd0dVZFczR3FCejV0R3BnN0c2RmE4Tmp3S2F6OWJpenY3Q01JV1B5SjlVRENQbUJ0T1RKN1RaRQ?oc=5",
-      "source": "Google News TH",
-      "category": "general",
-      "trusted": false,
-      "priority": 5
-    },
-    {
-      "title": "SYNEX x AWS ปั้น AI Hub ปรับโครงสร้างสู่ Tech Enabler มั่นใจ H2/69 โตแรงล็อกเป้ารายได้ทั้งปี 5.3 หมื่นลบ. : อินโฟเควสท์ - สำนักข่าวอินโฟเควสท์",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ESzBFcWxaR1ZVdTFyUGJrM0Z6S0tHMUlodjZuWXNBWmdtSzVuOEN1bkEzd0ZIeHBWdGpWNEEyQjNDOGQ3R3VRdWlaWmhVWnE3?oc=5\" target=\"_blank\">SYNEX x AWS ปั้น AI Hub ปรับโครงสร้างสู่ Tech Enabler มั่นใจ H2/69 โตแรงล็อกเป้ารายได้ทั้งปี 5.3 หมื่นลบ. : อินโฟเควสท์",
-      "date": "Tue, 25 Aug 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ESzBFcWxaR1ZVdTFyUGJrM0Z6S0tHMUlodjZuWXNBWmdtSzVuOEN1bkEzd0ZIeHBWdGpWNEEyQjNDOGQ3R3VRdWlaWmhVWnE3?oc=5",
-      "source": "Google News TH",
-      "category": "general",
-      "trusted": false,
-      "priority": 5
-    },
     {
       "title": "สุธิดา มงคลสุธี ไม่ใช่แค่เพียงลูกสาวท่านประธานแต่เป็นแม่ทัพหญิงแกร่งของ SYNNEX ผู้ปั้นยอดขายไอทีกว่า 40,000 ล้าน - Marketeer Online",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tQjRmVkRWUFlKWmV2TzFOZVEyS2NsaHF1VjNjeVFiZEJLQWtzZDVPa1NzRGE5VUpJc3F3NmtUamdMUzZUNE5nY20yTlAtc29SeGFmcA?oc=5\" target=\"_blank\">สุธิดา มงคลสุธี ไม่ใช่แค่เพียงลูกสาวท่านประธานแต่เป็นแม่ทัพหญิงแกร่งของ SYNNEX ผู้ปั้นยอดขายไอทีกว่า 40,000 ล้าน<",
@@ -58,10 +38,30 @@
       "priority": 5
     },
     {
-      "title": "ซินเน็คฯ ร่วมผลักดันอุตสาหกรรมเกมในประเทศไทย เป็นผู้สนับสนุนหลัก Thailand Game Show 2024 Presented by Synnex - posttoday",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1IZlBZRng4c1FnMGUyYmZlcmhZdTBfY1pjWmhhWFdFSlFfNDRfZlJXNi1xTHRIMkx5QWJfNk5VdkpINEl2ZV8tcUwzNkljdGtFQ2M5WFNVT0RkVkRK?oc=5\" target=\"_blank\">ซินเน็คฯ ร่วมผลักดันอุตสาหกรรมเกมในประเทศไทย เป็นผู้สนับสนุนหลัก Thailand Game Show 2024 Presented by S",
-      "date": "Sat, 17 Aug 2024 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1IZlBZRng4c1FnMGUyYmZlcmhZdTBfY1pjWmhhWFdFSlFfNDRfZlJXNi1xTHRIMkx5QWJfNk5VdkpINEl2ZV8tcUwzNkljdGtFQ2M5WFNVT0RkVkRK?oc=5",
+      "title": "SYNEX กางแผนปี 70 ชู AI-Cloud ขับเคลื่อนธุรกิจ ยกระดับไอทีครบวงจร - ข่าวหุ้นธุรกิจออนไลน์",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE9scjV1dktUWkk5UmRnd0dVZFczR3FCejV0R3BnN0c2RmE4Tmp3S2F6OWJpenY3Q01JV1B5SjlVRENQbUJ0T1RKN1RaRQ?oc=5\" target=\"_blank\">SYNEX กางแผนปี 70 ชู AI-Cloud ขับเคลื่อนธุรกิจ ยกระดับไอทีครบวงจร</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ข่าวหุ้นธุรกิจออนไลน์<",
+      "date": "Fri, 11 Sep 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9scjV1dktUWkk5UmRnd0dVZFczR3FCejV0R3BnN0c2RmE4Tmp3S2F6OWJpenY3Q01JV1B5SjlVRENQbUJ0T1RKN1RaRQ?oc=5",
+      "source": "Google News TH",
+      "category": "general",
+      "trusted": false,
+      "priority": 5
+    },
+    {
+      "title": "SYNEX x AWS ปั้น AI Hub ปรับโครงสร้างสู่ Tech Enabler มั่นใจ H2/69 โตแรงล็อกเป้ารายได้ทั้งปี 5.3 หมื่นลบ. : อินโฟเควสท์ - สำนักข่าวอินโฟเควสท์",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ESzBFcWxaR1ZVdTFyUGJrM0Z6S0tHMUlodjZuWXNBWmdtSzVuOEN1bkEzd0ZIeHBWdGpWNEEyQjNDOGQ3R3VRdWlaWmhVWnE3?oc=5\" target=\"_blank\">SYNEX x AWS ปั้น AI Hub ปรับโครงสร้างสู่ Tech Enabler มั่นใจ H2/69 โตแรงล็อกเป้ารายได้ทั้งปี 5.3 หมื่นลบ. : อินโฟเควสท์",
+      "date": "Tue, 25 Aug 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ESzBFcWxaR1ZVdTFyUGJrM0Z6S0tHMUlodjZuWXNBWmdtSzVuOEN1bkEzd0ZIeHBWdGpWNEEyQjNDOGQ3R3VRdWlaWmhVWnE3?oc=5",
+      "source": "Google News TH",
+      "category": "general",
+      "trusted": false,
+      "priority": 5
+    },
+    {
+      "title": "ส่องผลประกอบการครึ่งปีแรกของ ค้าส่งสินค้าไอที กระแส Work form Home ดันยอดขายขนาดไหน? - Brand Inside",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ka2Y5blk3U1Y4RXg3ekRSMzB2WXFraGdZZWxQLVlZUVJCdHZPRmhkTXlMUU9GSWg4SmR2d0JSUnNqNF93RmZIYzVoaEpIaTFlQTNZcU1HMUNFNHY4amJkYnJqUUgyLXM?oc=5\" target=\"_blank\">ส่องผลประกอบการครึ่งปีแรกของ ค้าส่งสินค้าไอที กระแส Work form Home ดันยอดขายขนาดไหน?</a>",
+      "date": "Mon, 16 Aug 2021 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ka2Y5blk3U1Y4RXg3ekRSMzB2WXFraGdZZWxQLVlZUVJCdHZPRmhkTXlMUU9GSWg4SmR2d0JSUnNqNF93RmZIYzVoaEpIaTFlQTNZcU1HMUNFNHY4amJkYnJqUUgyLXM?oc=5",
       "source": "Google News TH",
       "category": "general",
       "trusted": false,
@@ -78,20 +78,10 @@
       "priority": 5
     },
     {
-      "title": "SYNEX คือผู้รับเคราะห์จากการแบน HUAWEI - ลงทุนศาสตร์ - Investerest",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBaempLaGlxVGNfOXY1RWR6X3Z5WEZEMzdMZHU5bHV6Q1FkXzZRNGJGcktOQTZjTTBiX1VKdm5jOHRxR196ZjBJbUVxMlV6OGg0VU5CZ2lNQWRhNnRwOVNnTkl6TFBCdVFQMHN6dS1NV0s?oc=5\" target=\"_blank\">SYNEX คือผู้รับเคราะห์จากการแบน HUAWEI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">",
-      "date": "Wed, 22 May 2019 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBaempLaGlxVGNfOXY1RWR6X3Z5WEZEMzdMZHU5bHV6Q1FkXzZRNGJGcktOQTZjTTBiX1VKdm5jOHRxR196ZjBJbUVxMlV6OGg0VU5CZ2lNQWRhNnRwOVNnTkl6TFBCdVFQMHN6dS1NV0s?oc=5",
-      "source": "Google News TH",
-      "category": "general",
-      "trusted": false,
-      "priority": 5
-    },
-    {
-      "title": "ซินเน็คฯ กางแผนธุรกิจในงาน “SYNNEX PARTNER CONNECT 2024” - posttoday",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZNHc2MFVmV0VtOVBQYVFwRk9oNFhwS2xKNkNYckJ4dzRjYlNlRkN3SjBLcHQ2U3lUcURRUk9xMHZzbnQtOWwzbklHaEFYYV8tekE?oc=5\" target=\"_blank\">ซินเน็คฯ กางแผนธุรกิจในงาน “SYNNEX PARTNER CONNECT 2024”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">posttoday</font>",
-      "date": "Tue, 24 Sep 2024 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZNHc2MFVmV0VtOVBQYVFwRk9oNFhwS2xKNkNYckJ4dzRjYlNlRkN3SjBLcHQ2U3lUcURRUk9xMHZzbnQtOWwzbklHaEFYYV8tekE?oc=5",
+      "title": "สุธิดา มงคลสุธี ทายาทกิจการหมื่นล้าน รับไม้ยืนหนึ่ง IT ecosystem - posttoday",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OU2JGRnRBbXZYZFBSdWl4WklHVEFwRnVIMU1MdGtXZmg0cldCby1NQUpsRmpjUW1KTTVWSnRwM29hd3M1UktjYVRyVDZVTTFMX01n?oc=5\" target=\"_blank\">สุธิดา มงคลสุธี ทายาทกิจการหมื่นล้าน รับไม้ยืนหนึ่ง IT ecosystem</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">posttoday</fo",
+      "date": "Mon, 17 Apr 2023 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OU2JGRnRBbXZYZFBSdWl4WklHVEFwRnVIMU1MdGtXZmg0cldCby1NQUpsRmpjUW1KTTVWSnRwM29hd3M1UktjYVRyVDZVTTFMX01n?oc=5",
       "source": "Google News TH",
       "category": "general",
       "trusted": false,
@@ -118,16 +108,6 @@
       "priority": 5
     },
     {
-      "title": "สุธิดา มงคลสุธี ทายาทกิจการหมื่นล้าน รับไม้ยืนหนึ่ง IT ecosystem - posttoday",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OU2JGRnRBbXZYZFBSdWl4WklHVEFwRnVIMU1MdGtXZmg0cldCby1NQUpsRmpjUW1KTTVWSnRwM29hd3M1UktjYVRyVDZVTTFMX01n?oc=5\" target=\"_blank\">สุธิดา มงคลสุธี ทายาทกิจการหมื่นล้าน รับไม้ยืนหนึ่ง IT ecosystem</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">posttoday</fo",
-      "date": "Mon, 17 Apr 2023 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OU2JGRnRBbXZYZFBSdWl4WklHVEFwRnVIMU1MdGtXZmg0cldCby1NQUpsRmpjUW1KTTVWSnRwM29hd3M1UktjYVRyVDZVTTFMX01n?oc=5",
-      "source": "Google News TH",
-      "category": "general",
-      "trusted": false,
-      "priority": 5
-    },
-    {
       "title": "Nintendo Switch by Synnex ร่วมงาน Thailand Mobile Expo 2023 มหกรรมมือถือสุดยิ่งใหญ่แห่งปี - Thaimobilecenter",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQb2Q1a3dmeHc5enp1cjN3RGc5VmxBMDEyeFR0S1ZONHBSODNJZ3RNOXdGalc5X216Ui1OdHZFb0JjVE9OcGc3dm9DZVZ5aFdhS3pJOEJpTHNQRFZKOUo0TE1DU1d3bXN2MUVyd2hNaGZ5cXR2aWJjRzZhQTFkMGdxbQ?oc=5\" target=\"_blank\">Nintendo Switch by Synnex ร่วมงาน Thailand Mobile Exp",
       "date": "Fri, 27 Oct 2023 07:00:00 GMT",
@@ -136,6 +116,16 @@
       "category": "general",
       "trusted": false,
       "priority": 5
+    },
+    {
+      "title": "Synnex (Thailand) Public Company Limited (SYNEX.BK) stock price, news, quote and history - Yahoo Finance Singapore",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFAwSlpWVmlGTWlEeHRpRWFpUUs2dUJpTHBxMktxajItSkZWZnoydTkwZVJPSjFxNks1cVBQUm5DSG5yeWZJSVNRLU9rbzZTU2MySDFVaUJzSQ?oc=5\" target=\"_blank\">Synnex (Thailand) Public Company Limited (SYNEX.BK) stock price, news, quote and history</a>&nbsp;&nbsp;<font",
+      "date": "Fri, 26 May 2017 15:13:12 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAwSlpWVmlGTWlEeHRpRWFpUUs2dUJpTHBxMktxajItSkZWZnoydTkwZVJPSjFxNks1cVBQUm5DSG5yeWZJSVNRLU9rbzZTU2MySDFVaUJzSQ?oc=5",
+      "source": "Google News EN",
+      "category": "general",
+      "trusted": false,
+      "priority": 6
     },
     {
       "title": "Kittipong Prasobchokchaikul Joins Synnex Thailand as Head of Human Resources Operations - hrtoday.in",
@@ -159,19 +149,9 @@
     },
     {
       "title": "HUAWEI eKit Joins Hands with Distribution Partners to Explore Unlimited Opportunities in Thailand SME market - Huawei Enterprise",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQUExVWWNHMzNQeVNJMjMwWkVoMHkwdWtsTjVPOEpNaVptRTZMY3VnVVNYeWdjdnFJRGNrUk9BNTNOOWczOUhRcTVSM21DRU9uMW9nT1A5LU55aWVHRG5ScnI4aXBBY2xCaXAzZDc4ZnVIb0tUT1NwVjYyTWt3aTN5RnByUQ?oc=5\" target=\"_blank\">HUAWEI eKit Joins Hands with Distribution Partner",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQV1hld0ctUWpaNHdaY0tQZERNa0Q3RlZMbWdack4wLWZjN0s4eGc5dDBDd0t1bEx6MkRXa2d2X2hoNGQ3Y3dCQjBlSGQwSHhGb1Zqa2JYRGhUeVFJTHNrWXU0R1JDYU1NSVp2bkVMci1PTEpVVUZuaEJJZk9fOGpQVmZaVQ?oc=5\" target=\"_blank\">HUAWEI eKit Joins Hands with Distribution Partner",
       "date": "Wed, 08 Nov 2023 08:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUExVWWNHMzNQeVNJMjMwWkVoMHkwdWtsTjVPOEpNaVptRTZMY3VnVVNYeWdjdnFJRGNrUk9BNTNOOWczOUhRcTVSM21DRU9uMW9nT1A5LU55aWVHRG5ScnI4aXBBY2xCaXAzZDc4ZnVIb0tUT1NwVjYyTWt3aTN5RnByUQ?oc=5",
-      "source": "Google News EN",
-      "category": "general",
-      "trusted": false,
-      "priority": 6
-    },
-    {
-      "title": "Synnex opens Nintendo store at Siam Paragon - Bangkok Post",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNS1ZrSUpSYmtYOW1ucndKS0hDXzVHcHNrR3o5bjBLSUlmVE5lZEdwWWtoSnlxOUxwM3RSVldJNkxyTV9DV0w5NElUOFE0VEptZEd4bGV0a0VmcFBGZzhVS2FHOFc5TXQxYTROMC0wSGFZQXlIVkdybEwtLVVMRHMxb3RqYzF3Yk51NUhELU50WjhZOGJUcG85cW4ycmo?oc=5\" target=\"_blank\">Synnex opens Nin",
-      "date": "Wed, 27 Nov 2024 08:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNS1ZrSUpSYmtYOW1ucndKS0hDXzVHcHNrR3o5bjBLSUlmVE5lZEdwWWtoSnlxOUxwM3RSVldJNkxyTV9DV0w5NElUOFE0VEptZEd4bGV0a0VmcFBGZzhVS2FHOFc5TXQxYTROMC0wSGFZQXlIVkdybEwtLVVMRHMxb3RqYzF3Yk51NUhELU50WjhZOGJUcG85cW4ycmo?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQV1hld0ctUWpaNHdaY0tQZERNa0Q3RlZMbWdack4wLWZjN0s4eGc5dDBDd0t1bEx6MkRXa2d2X2hoNGQ3Y3dCQjBlSGQwSHhGb1Zqa2JYRGhUeVFJTHNrWXU0R1JDYU1NSVp2bkVMci1PTEpVVUZuaEJJZk9fOGpQVmZaVQ?oc=5",
       "source": "Google News EN",
       "category": "general",
       "trusted": false,
@@ -191,10 +171,10 @@
   "claude_prompt": "CFO FX Brief 30/10/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Manual] ไม่สามารถดึงข่าวอัตโนมัติได้",
   "stats": {
     "fx_news_count": 1,
-    "synnex_news_count": 17,
+    "synnex_news_count": 15,
     "data_sources": [
-      "Google News TH",
       "Manual",
+      "Google News TH",
       "Google News EN"
     ]
   }
