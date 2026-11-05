@@ -1,13 +1,20 @@
 {
-  "last_updated": "2026-11-05 18:42:59 BKK",
+  "last_updated": "2026-11-06 01:33:52 BKK",
   "rate": {
-    "date": "2026-11-05",
+    "date": "2026-11-06",
     "buying": 0,
     "selling": 0,
     "mid": 0,
     "source": "Unavailable - Please check BOT website"
   },
   "news": [
+    {
+      "title": "Gold hits 2-week high as dollar yields, oil falls after US midterms",
+      "description": "BENGALURU - Gold prices extended their post-US midterm election rally to a more than two-week high on Thursday, as the US dollar and Treasury yields weakened, while a sharp drop in oil prices ​in the",
+      "date": "Thu, 05 Nov 2026 19:18:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3349319/gold-hits-2week-high-as-dollar-yields-oil-falls-after-us-midterms",
+      "source": "Bangkok Post Business"
+    },
     {
       "title": "Oil exploration ramped up to cut imports",
       "description": "Thailand is accelerating petroleum exploration both onshore and in the Andaman Sea as it seeks to increase domestic energy supplies and reduce reliance on imports amid continued volatility in global f",
@@ -175,14 +182,14 @@
       "priority": 6
     }
   ],
-  "claude_prompt": "CFO FX Brief 05/11/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Oil exploration ramped up to cut imports\n- [Bangkok Post Business] Bank of England poised to raise rate as inflation jumps",
+  "claude_prompt": "CFO FX Brief 06/11/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Gold hits 2-week high as dollar yields, oil falls after US midterms\n- [Bangkok Post Business] Oil exploration ramped up to cut imports\n- [Bangkok Post Business] Bank of England poised to raise rate as inflation jumps",
   "stats": {
-    "fx_news_count": 2,
+    "fx_news_count": 3,
     "synnex_news_count": 15,
     "data_sources": [
-      "Google News TH",
       "Bangkok Post Business",
-      "Google News EN"
+      "Google News EN",
+      "Google News TH"
     ]
   }
 }
