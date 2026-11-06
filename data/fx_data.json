@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-11-06 18:40:51 BKK",
+  "last_updated": "2026-11-07 00:51:08 BKK",
   "rate": {
-    "date": "2026-11-06",
+    "date": "2026-11-07",
     "buying": 0,
     "selling": 0,
     "mid": 0,
@@ -9,11 +9,11 @@
   },
   "news": [
     {
-      "title": "ไม่สามารถดึงข่าวอัตโนมัติได้",
-      "description": "กรุณาตรวจสอบข่าว FX จาก Reuters หรือ Bangkok Post",
-      "date": "2026-11-06 18:40",
-      "link": "https://www.reuters.com/markets/currencies/",
-      "source": "Manual"
+      "title": "Ex-minister arrested in Turkish fund scandal probe",
+      "description": "ISTANBUL - A former cabinet minister and senior ruling party official was placed in detention pending trial on Friday as part of an investigation into a multi-billion-dollar investment fund scandal, t",
+      "date": "Fri, 06 Nov 2026 18:45:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3349970/exminister-arrested-in-turkish-fund-scandal-probe",
+      "source": "Bangkok Post Business"
     }
   ],
   "synnex_news": [
@@ -168,12 +168,12 @@
       "priority": 6
     }
   ],
-  "claude_prompt": "CFO FX Brief 06/11/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Manual] ไม่สามารถดึงข่าวอัตโนมัติได้",
+  "claude_prompt": "CFO FX Brief 07/11/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Ex-minister arrested in Turkish fund scandal probe",
   "stats": {
     "fx_news_count": 1,
     "synnex_news_count": 15,
     "data_sources": [
-      "Manual",
+      "Bangkok Post Business",
       "Google News TH",
       "Google News EN"
     ]
