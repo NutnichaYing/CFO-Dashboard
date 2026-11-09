@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-11-07 00:51:08 BKK",
+  "last_updated": "2026-11-09 12:21:42 BKK",
   "rate": {
-    "date": "2026-11-07",
+    "date": "2026-11-09",
     "buying": 0,
     "selling": 0,
     "mid": 0,
@@ -9,11 +9,11 @@
   },
   "news": [
     {
-      "title": "Ex-minister arrested in Turkish fund scandal probe",
-      "description": "ISTANBUL - A former cabinet minister and senior ruling party official was placed in detention pending trial on Friday as part of an investigation into a multi-billion-dollar investment fund scandal, t",
-      "date": "Fri, 06 Nov 2026 18:45:00 +0700",
-      "link": "https://www.bangkokpost.com/business/general/3349970/exminister-arrested-in-turkish-fund-scandal-probe",
-      "source": "Bangkok Post Business"
+      "title": "ไม่สามารถดึงข่าวอัตโนมัติได้",
+      "description": "กรุณาตรวจสอบข่าว FX จาก Reuters หรือ Bangkok Post",
+      "date": "2026-11-09 12:21",
+      "link": "https://www.reuters.com/markets/currencies/",
+      "source": "Manual"
     }
   ],
   "synnex_news": [
@@ -128,6 +128,16 @@
       "priority": 6
     },
     {
+      "title": "Technical Analysis of Synnex (Thailand) Public Co., Ltd. (SET:SYNEX) - TradingView",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFA0bFpoRWUxTmxxcE9IQTMyaVk0R3ZwTm94UERraXNsbkx0T3U3Z3VzbF9OZ0VqQVE4YnkyVS1EQ2xHSm5oS1YxT0p4QXdjOFZ0RDM4QVhwcEpmX1ljMDRuekVIVUt3YUxO?oc=5\" target=\"_blank\">Technical Analysis of Synnex (Thailand) Public Co., Ltd. (SET:SYNEX)</a>&nbsp;&nbsp;<fo",
+      "date": "Sat, 18 Aug 2018 10:54:44 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA0bFpoRWUxTmxxcE9IQTMyaVk0R3ZwTm94UERraXNsbkx0T3U3Z3VzbF9OZ0VqQVE4YnkyVS1EQ2xHSm5oS1YxT0p4QXdjOFZ0RDM4QVhwcEpmX1ljMDRuekVIVUt3YUxO?oc=5",
+      "source": "Google News EN",
+      "category": "general",
+      "trusted": false,
+      "priority": 6
+    },
+    {
       "title": "Kittipong Prasobchokchaikul Joins Synnex Thailand as Head of Human Resources Operations - hrtoday.in",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMTFhM3lnSXFNajBLb3ZENU1kcXpoVHhWWW54UDNKR3BpTU9EVnMxYlJ4bVRUOWNzY1E2amcwbWdFZkR3Wk1ucHM0ZWZIWHlnVkN3RzBXMTdSSzlLYl9NbXhFRXBHcXRmWTlRTTVpUmkySUUyRzdITEd3RzJ0cFlnX3BJTXd2RFJVZE5Gb2k4ZXBVVGZKZnh1S01KemNhSmxoY3cwUWhIZ2pGQ2c?oc=5\" target=\"_bla",
       "date": "Thu, 02 May 2024 18:54:14 GMT",
@@ -149,9 +159,9 @@
     },
     {
       "title": "HUAWEI eKit Joins Hands with Distribution Partners to Explore Unlimited Opportunities in Thailand SME market - Huawei Enterprise",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQUExVWWNHMzNQeVNJMjMwWkVoMHkwdWtsTjVPOEpNaVptRTZMY3VnVVNYeWdjdnFJRGNrUk9BNTNOOWczOUhRcTVSM21DRU9uMW9nT1A5LU55aWVHRG5ScnI4aXBBY2xCaXAzZDc4ZnVIb0tUT1NwVjYyTWt3aTN5RnByUQ?oc=5\" target=\"_blank\">HUAWEI eKit Joins Hands with Distribution Partner",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQV1hld0ctUWpaNHdaY0tQZERNa0Q3RlZMbWdack4wLWZjN0s4eGc5dDBDd0t1bEx6MkRXa2d2X2hoNGQ3Y3dCQjBlSGQwSHhGb1Zqa2JYRGhUeVFJTHNrWXU0R1JDYU1NSVp2bkVMci1PTEpVVUZuaEJJZk9fOGpQVmZaVQ?oc=5\" target=\"_blank\">HUAWEI eKit Joins Hands with Distribution Partner",
       "date": "Wed, 08 Nov 2023 08:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUExVWWNHMzNQeVNJMjMwWkVoMHkwdWtsTjVPOEpNaVptRTZMY3VnVVNYeWdjdnFJRGNrUk9BNTNOOWczOUhRcTVSM21DRU9uMW9nT1A5LU55aWVHRG5ScnI4aXBBY2xCaXAzZDc4ZnVIb0tUT1NwVjYyTWt3aTN5RnByUQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQV1hld0ctUWpaNHdaY0tQZERNa0Q3RlZMbWdack4wLWZjN0s4eGc5dDBDd0t1bEx6MkRXa2d2X2hoNGQ3Y3dCQjBlSGQwSHhGb1Zqa2JYRGhUeVFJTHNrWXU0R1JDYU1NSVp2bkVMci1PTEpVVUZuaEJJZk9fOGpQVmZaVQ?oc=5",
       "source": "Google News EN",
       "category": "general",
       "trusted": false,
@@ -168,14 +178,14 @@
       "priority": 6
     }
   ],
-  "claude_prompt": "CFO FX Brief 07/11/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Ex-minister arrested in Turkish fund scandal probe",
+  "claude_prompt": "CFO FX Brief 09/11/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Manual] ไม่สามารถดึงข่าวอัตโนมัติได้",
   "stats": {
     "fx_news_count": 1,
-    "synnex_news_count": 15,
+    "synnex_news_count": 16,
     "data_sources": [
-      "Bangkok Post Business",
-      "Google News TH",
-      "Google News EN"
+      "Google News EN",
+      "Manual",
+      "Google News TH"
     ]
   }
 }
