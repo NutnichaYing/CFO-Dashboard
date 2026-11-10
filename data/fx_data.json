@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-10 04:20:04 BKK",
+  "last_updated": "2026-11-10 13:34:41 BKK",
   "rate": {
     "date": "2026-11-10",
     "buying": 0,
@@ -9,11 +9,25 @@
   },
   "news": [
     {
-      "title": "ไม่สามารถดึงข่าวอัตโนมัติได้",
-      "description": "กรุณาตรวจสอบข่าว FX จาก Reuters หรือ Bangkok Post",
-      "date": "2026-11-10 04:20",
-      "link": "https://www.reuters.com/markets/currencies/",
-      "source": "Manual"
+      "title": "Central Pattana revenue rises 2% in Q3",
+      "description": "Central Pattana Plc (CPN) reported total revenue of 13.4 billion baht for the third quarter of 2026, up 2% quarter-on-quarter, and net profit of 4.9 billion baht, a 4% quarter-on-quarter increase.",
+      "date": "Tue, 10 Nov 2026 07:03:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3351839/central-pattana-revenue-rises-2-in-q3",
+      "source": "Bangkok Post Business"
+    },
+    {
+      "title": "New initiative seeks to drive up investment in 7 sectors",
+      "description": "The government is committed to driving investment in seven target industries under its Reinvent Thailand initiative, aiming to generate an additional 5.4 trillion baht in revenue by 2030.",
+      "date": "Tue, 10 Nov 2026 05:49:00 +0700",
+      "link": "https://www.bangkokpost.com/business/investment/3351859/new-initiative-seeks-to-drive-up-investment-in-7-sectors",
+      "source": "Bangkok Post Business"
+    },
+    {
+      "title": "BoT urges banks to step up cybersecurity",
+      "description": "Commercial banks are being urged to strengthen their cybersecurity measures amid a global rise in cyberthreats involving artificial intelligence (AI) over the past 1-2 weeks.",
+      "date": "Tue, 10 Nov 2026 05:40:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3351884/bot-urges-banks-to-step-up-cybersecurity",
+      "source": "Bangkok Post Business"
     }
   ],
   "synnex_news": [
@@ -158,16 +172,6 @@
       "priority": 6
     },
     {
-      "title": "HUAWEI eKit Joins Hands with Distribution Partners to Explore Unlimited Opportunities in Thailand SME market - Huawei Enterprise",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQV1hld0ctUWpaNHdaY0tQZERNa0Q3RlZMbWdack4wLWZjN0s4eGc5dDBDd0t1bEx6MkRXa2d2X2hoNGQ3Y3dCQjBlSGQwSHhGb1Zqa2JYRGhUeVFJTHNrWXU0R1JDYU1NSVp2bkVMci1PTEpVVUZuaEJJZk9fOGpQVmZaVQ?oc=5\" target=\"_blank\">HUAWEI eKit Joins Hands with Distribution Partner",
-      "date": "Wed, 08 Nov 2023 08:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQV1hld0ctUWpaNHdaY0tQZERNa0Q3RlZMbWdack4wLWZjN0s4eGc5dDBDd0t1bEx6MkRXa2d2X2hoNGQ3Y3dCQjBlSGQwSHhGb1Zqa2JYRGhUeVFJTHNrWXU0R1JDYU1NSVp2bkVMci1PTEpVVUZuaEJJZk9fOGpQVmZaVQ?oc=5",
-      "source": "Google News EN",
-      "category": "general",
-      "trusted": false,
-      "priority": 6
-    },
-    {
       "title": "Sutida Mongkolsuthree - Prestige Online - Singapore",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPa0FaaThuTHI5N1JTS3UzMXgzRlVWN1BPajRGckxOUHkyYV9DOElDTDRqQ3dCamJCdWRpMTdxX0JfT3FxdExIVF9RQ3o5MmY2cEU0NTVKY0lsS01yODZreWZyMXBzQXF1WFhGVTRrXzU4UFVhSG1Sc2ZBTXByck9Jb1FJRzhFTkZ2cnBoSFNzSWJOZ9IBlwFBVV95cUxORkdCd0pvdkI0R2NUaERIazNEUENvNDJhM2hfUG",
       "date": "Mon, 20 Feb 2023 20:47:27 GMT",
@@ -176,16 +180,26 @@
       "category": "general",
       "trusted": false,
       "priority": 6
+    },
+    {
+      "title": "HUAWEI eKit Joins Hands with Distribution Partners to Explore Unlimited Opportunities in Thailand SME market - Huawei Enterprise",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQV1hld0ctUWpaNHdaY0tQZERNa0Q3RlZMbWdack4wLWZjN0s4eGc5dDBDd0t1bEx6MkRXa2d2X2hoNGQ3Y3dCQjBlSGQwSHhGb1Zqa2JYRGhUeVFJTHNrWXU0R1JDYU1NSVp2bkVMci1PTEpVVUZuaEJJZk9fOGpQVmZaVQ?oc=5\" target=\"_blank\">HUAWEI eKit Joins Hands with Distribution Partner",
+      "date": "Wed, 08 Nov 2023 08:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQV1hld0ctUWpaNHdaY0tQZERNa0Q3RlZMbWdack4wLWZjN0s4eGc5dDBDd0t1bEx6MkRXa2d2X2hoNGQ3Y3dCQjBlSGQwSHhGb1Zqa2JYRGhUeVFJTHNrWXU0R1JDYU1NSVp2bkVMci1PTEpVVUZuaEJJZk9fOGpQVmZaVQ?oc=5",
+      "source": "Google News EN",
+      "category": "general",
+      "trusted": false,
+      "priority": 6
     }
   ],
-  "claude_prompt": "CFO FX Brief 10/11/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Manual] ไม่สามารถดึงข่าวอัตโนมัติได้",
+  "claude_prompt": "CFO FX Brief 10/11/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Central Pattana revenue rises 2% in Q3\n- [Bangkok Post Business] New initiative seeks to drive up investment in 7 sectors\n- [Bangkok Post Business] BoT urges banks to step up cybersecurity",
   "stats": {
-    "fx_news_count": 1,
+    "fx_news_count": 3,
     "synnex_news_count": 16,
     "data_sources": [
+      "Google News EN",
       "Google News TH",
-      "Manual",
-      "Google News EN"
+      "Bangkok Post Business"
     ]
   }
 }
