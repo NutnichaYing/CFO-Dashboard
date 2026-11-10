@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-10 13:34:41 BKK",
+  "last_updated": "2026-11-10 17:50:06 BKK",
   "rate": {
     "date": "2026-11-10",
     "buying": 0,
@@ -20,13 +20,6 @@
       "description": "The government is committed to driving investment in seven target industries under its Reinvent Thailand initiative, aiming to generate an additional 5.4 trillion baht in revenue by 2030.",
       "date": "Tue, 10 Nov 2026 05:49:00 +0700",
       "link": "https://www.bangkokpost.com/business/investment/3351859/new-initiative-seeks-to-drive-up-investment-in-7-sectors",
-      "source": "Bangkok Post Business"
-    },
-    {
-      "title": "BoT urges banks to step up cybersecurity",
-      "description": "Commercial banks are being urged to strengthen their cybersecurity measures amid a global rise in cyberthreats involving artificial intelligence (AI) over the past 1-2 weeks.",
-      "date": "Tue, 10 Nov 2026 05:40:00 +0700",
-      "link": "https://www.bangkokpost.com/business/general/3351884/bot-urges-banks-to-step-up-cybersecurity",
       "source": "Bangkok Post Business"
     }
   ],
@@ -172,16 +165,6 @@
       "priority": 6
     },
     {
-      "title": "Sutida Mongkolsuthree - Prestige Online - Singapore",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPa0FaaThuTHI5N1JTS3UzMXgzRlVWN1BPajRGckxOUHkyYV9DOElDTDRqQ3dCamJCdWRpMTdxX0JfT3FxdExIVF9RQ3o5MmY2cEU0NTVKY0lsS01yODZreWZyMXBzQXF1WFhGVTRrXzU4UFVhSG1Sc2ZBTXByck9Jb1FJRzhFTkZ2cnBoSFNzSWJOZ9IBlwFBVV95cUxORkdCd0pvdkI0R2NUaERIazNEUENvNDJhM2hfUG",
-      "date": "Mon, 20 Feb 2023 20:47:27 GMT",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPa0FaaThuTHI5N1JTS3UzMXgzRlVWN1BPajRGckxOUHkyYV9DOElDTDRqQ3dCamJCdWRpMTdxX0JfT3FxdExIVF9RQ3o5MmY2cEU0NTVKY0lsS01yODZreWZyMXBzQXF1WFhGVTRrXzU4UFVhSG1Sc2ZBTXByck9Jb1FJRzhFTkZ2cnBoSFNzSWJOZ9IBlwFBVV95cUxORkdCd0pvdkI0R2NUaERIazNEUENvNDJhM2hfUGcxWURiaTc4dDhmWFlRMnFSbHEwUUhuamJUcHVNWE1meksxYmZ3Z3kzUW1sVHFiRjdaX2I2NUxMNmV0OVMxODFBUU9abW1HS3dPbWxLTllRNU04bE9VYnBjRGdnQ1pFQUpMU2ozdlBZZWJqOGkwOVFkSXln?oc=5",
-      "source": "Google News EN",
-      "category": "general",
-      "trusted": false,
-      "priority": 6
-    },
-    {
       "title": "HUAWEI eKit Joins Hands with Distribution Partners to Explore Unlimited Opportunities in Thailand SME market - Huawei Enterprise",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQV1hld0ctUWpaNHdaY0tQZERNa0Q3RlZMbWdack4wLWZjN0s4eGc5dDBDd0t1bEx6MkRXa2d2X2hoNGQ3Y3dCQjBlSGQwSHhGb1Zqa2JYRGhUeVFJTHNrWXU0R1JDYU1NSVp2bkVMci1PTEpVVUZuaEJJZk9fOGpQVmZaVQ?oc=5\" target=\"_blank\">HUAWEI eKit Joins Hands with Distribution Partner",
       "date": "Wed, 08 Nov 2023 08:00:00 GMT",
@@ -190,16 +173,26 @@
       "category": "general",
       "trusted": false,
       "priority": 6
+    },
+    {
+      "title": "Sutida Mongkolsuthree - Prestige Online - Singapore",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPa0FaaThuTHI5N1JTS3UzMXgzRlVWN1BPajRGckxOUHkyYV9DOElDTDRqQ3dCamJCdWRpMTdxX0JfT3FxdExIVF9RQ3o5MmY2cEU0NTVKY0lsS01yODZreWZyMXBzQXF1WFhGVTRrXzU4UFVhSG1Sc2ZBTXByck9Jb1FJRzhFTkZ2cnBoSFNzSWJOZ9IBlwFBVV95cUxORkdCd0pvdkI0R2NUaERIazNEUENvNDJhM2hfUG",
+      "date": "Mon, 20 Feb 2023 20:47:27 GMT",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPa0FaaThuTHI5N1JTS3UzMXgzRlVWN1BPajRGckxOUHkyYV9DOElDTDRqQ3dCamJCdWRpMTdxX0JfT3FxdExIVF9RQ3o5MmY2cEU0NTVKY0lsS01yODZreWZyMXBzQXF1WFhGVTRrXzU4UFVhSG1Sc2ZBTXByck9Jb1FJRzhFTkZ2cnBoSFNzSWJOZ9IBlwFBVV95cUxORkdCd0pvdkI0R2NUaERIazNEUENvNDJhM2hfUGcxWURiaTc4dDhmWFlRMnFSbHEwUUhuamJUcHVNWE1meksxYmZ3Z3kzUW1sVHFiRjdaX2I2NUxMNmV0OVMxODFBUU9abW1HS3dPbWxLTllRNU04bE9VYnBjRGdnQ1pFQUpMU2ozdlBZZWJqOGkwOVFkSXln?oc=5",
+      "source": "Google News EN",
+      "category": "general",
+      "trusted": false,
+      "priority": 6
     }
   ],
-  "claude_prompt": "CFO FX Brief 10/11/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Central Pattana revenue rises 2% in Q3\n- [Bangkok Post Business] New initiative seeks to drive up investment in 7 sectors\n- [Bangkok Post Business] BoT urges banks to step up cybersecurity",
+  "claude_prompt": "CFO FX Brief 10/11/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Central Pattana revenue rises 2% in Q3\n- [Bangkok Post Business] New initiative seeks to drive up investment in 7 sectors",
   "stats": {
-    "fx_news_count": 3,
+    "fx_news_count": 2,
     "synnex_news_count": 16,
     "data_sources": [
       "Google News EN",
-      "Google News TH",
-      "Bangkok Post Business"
+      "Bangkok Post Business",
+      "Google News TH"
     ]
   }
 }
