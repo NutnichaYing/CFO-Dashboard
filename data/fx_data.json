@@ -1,13 +1,20 @@
 {
-  "last_updated": "2026-11-10 18:56:32 BKK",
+  "last_updated": "2026-11-11 01:30:45 BKK",
   "rate": {
-    "date": "2026-11-10",
+    "date": "2026-11-11",
     "buying": 0,
     "selling": 0,
     "mid": 0,
     "source": "Unavailable - Please check BOT website"
   },
   "news": [
+    {
+      "title": "New joint venture looking to revive Robinhood",
+      "description": "The SET-listed tech company SKY ICT and the shipping conglomerate Thoresen Thai Agencies (TTA) are joining forces to secure the intellectual property of the homegrown food delivery app Robinhood in a",
+      "date": "Tue, 10 Nov 2026 19:09:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3352280/new-joint-venture-looking-to-revive-robinhood",
+      "source": "Bangkok Post Business"
+    },
     {
       "title": "Central Pattana revenue rises 2% in Q3",
       "description": "Central Pattana Plc (CPN) reported total revenue of 13.4 billion baht for the third quarter of 2026, up 2% quarter-on-quarter, and net profit of 4.9 billion baht, a 4% quarter-on-quarter increase.",
@@ -108,6 +115,16 @@
       "priority": 5
     },
     {
+      "title": "Nintendo Switch by Synnex ร่วมงาน Thailand Mobile Expo 2023 มหกรรมมือถือสุดยิ่งใหญ่แห่งปี - Thaimobilecenter",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQb2Q1a3dmeHc5enp1cjN3RGc5VmxBMDEyeFR0S1ZONHBSODNJZ3RNOXdGalc5X216Ui1OdHZFb0JjVE9OcGc3dm9DZVZ5aFdhS3pJOEJpTHNQRFZKOUo0TE1DU1d3bXN2MUVyd2hNaGZ5cXR2aWJjRzZhQTFkMGdxbQ?oc=5\" target=\"_blank\">Nintendo Switch by Synnex ร่วมงาน Thailand Mobile Exp",
+      "date": "Fri, 27 Oct 2023 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQb2Q1a3dmeHc5enp1cjN3RGc5VmxBMDEyeFR0S1ZONHBSODNJZ3RNOXdGalc5X216Ui1OdHZFb0JjVE9OcGc3dm9DZVZ5aFdhS3pJOEJpTHNQRFZKOUo0TE1DU1d3bXN2MUVyd2hNaGZ5cXR2aWJjRzZhQTFkMGdxbQ?oc=5",
+      "source": "Google News TH",
+      "category": "general",
+      "trusted": false,
+      "priority": 5
+    },
+    {
       "title": "Synnex (Thailand) Public Company Limited (SYNEX.BK) stock price, news, quote and history - Yahoo Finance Singapore",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFAwSlpWVmlGTWlEeHRpRWFpUUs2dUJpTHBxMktxajItSkZWZnoydTkwZVJPSjFxNks1cVBQUm5DSG5yeWZJSVNRLU9rbzZTU2MySDFVaUJzSQ?oc=5\" target=\"_blank\">Synnex (Thailand) Public Company Limited (SYNEX.BK) stock price, news, quote and history</a>&nbsp;&nbsp;<font",
       "date": "Fri, 26 May 2017 15:13:12 GMT",
@@ -168,14 +185,14 @@
       "priority": 6
     }
   ],
-  "claude_prompt": "CFO FX Brief 10/11/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Central Pattana revenue rises 2% in Q3",
+  "claude_prompt": "CFO FX Brief 11/11/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] New joint venture looking to revive Robinhood\n- [Bangkok Post Business] Central Pattana revenue rises 2% in Q3",
   "stats": {
-    "fx_news_count": 1,
-    "synnex_news_count": 15,
+    "fx_news_count": 2,
+    "synnex_news_count": 16,
     "data_sources": [
-      "Bangkok Post Business",
+      "Google News TH",
       "Google News EN",
-      "Google News TH"
+      "Bangkok Post Business"
     ]
   }
 }
