@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-10 17:50:06 BKK",
+  "last_updated": "2026-11-10 18:56:32 BKK",
   "rate": {
     "date": "2026-11-10",
     "buying": 0,
@@ -13,13 +13,6 @@
       "description": "Central Pattana Plc (CPN) reported total revenue of 13.4 billion baht for the third quarter of 2026, up 2% quarter-on-quarter, and net profit of 4.9 billion baht, a 4% quarter-on-quarter increase.",
       "date": "Tue, 10 Nov 2026 07:03:00 +0700",
       "link": "https://www.bangkokpost.com/business/general/3351839/central-pattana-revenue-rises-2-in-q3",
-      "source": "Bangkok Post Business"
-    },
-    {
-      "title": "New initiative seeks to drive up investment in 7 sectors",
-      "description": "The government is committed to driving investment in seven target industries under its Reinvent Thailand initiative, aiming to generate an additional 5.4 trillion baht in revenue by 2030.",
-      "date": "Tue, 10 Nov 2026 05:49:00 +0700",
-      "link": "https://www.bangkokpost.com/business/investment/3351859/new-initiative-seeks-to-drive-up-investment-in-7-sectors",
       "source": "Bangkok Post Business"
     }
   ],
@@ -115,16 +108,6 @@
       "priority": 5
     },
     {
-      "title": "Nintendo Switch by Synnex ร่วมงาน Thailand Mobile Expo 2023 มหกรรมมือถือสุดยิ่งใหญ่แห่งปี - Thaimobilecenter",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQb2Q1a3dmeHc5enp1cjN3RGc5VmxBMDEyeFR0S1ZONHBSODNJZ3RNOXdGalc5X216Ui1OdHZFb0JjVE9OcGc3dm9DZVZ5aFdhS3pJOEJpTHNQRFZKOUo0TE1DU1d3bXN2MUVyd2hNaGZ5cXR2aWJjRzZhQTFkMGdxbQ?oc=5\" target=\"_blank\">Nintendo Switch by Synnex ร่วมงาน Thailand Mobile Exp",
-      "date": "Fri, 27 Oct 2023 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQb2Q1a3dmeHc5enp1cjN3RGc5VmxBMDEyeFR0S1ZONHBSODNJZ3RNOXdGalc5X216Ui1OdHZFb0JjVE9OcGc3dm9DZVZ5aFdhS3pJOEJpTHNQRFZKOUo0TE1DU1d3bXN2MUVyd2hNaGZ5cXR2aWJjRzZhQTFkMGdxbQ?oc=5",
-      "source": "Google News TH",
-      "category": "general",
-      "trusted": false,
-      "priority": 5
-    },
-    {
       "title": "Synnex (Thailand) Public Company Limited (SYNEX.BK) stock price, news, quote and history - Yahoo Finance Singapore",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFAwSlpWVmlGTWlEeHRpRWFpUUs2dUJpTHBxMktxajItSkZWZnoydTkwZVJPSjFxNks1cVBQUm5DSG5yeWZJSVNRLU9rbzZTU2MySDFVaUJzSQ?oc=5\" target=\"_blank\">Synnex (Thailand) Public Company Limited (SYNEX.BK) stock price, news, quote and history</a>&nbsp;&nbsp;<font",
       "date": "Fri, 26 May 2017 15:13:12 GMT",
@@ -185,13 +168,13 @@
       "priority": 6
     }
   ],
-  "claude_prompt": "CFO FX Brief 10/11/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Central Pattana revenue rises 2% in Q3\n- [Bangkok Post Business] New initiative seeks to drive up investment in 7 sectors",
+  "claude_prompt": "CFO FX Brief 10/11/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Central Pattana revenue rises 2% in Q3",
   "stats": {
-    "fx_news_count": 2,
-    "synnex_news_count": 16,
+    "fx_news_count": 1,
+    "synnex_news_count": 15,
     "data_sources": [
-      "Google News EN",
       "Bangkok Post Business",
+      "Google News EN",
       "Google News TH"
     ]
   }
