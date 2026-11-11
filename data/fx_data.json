@@ -1,13 +1,20 @@
 {
-  "last_updated": "2026-11-11 18:33:13 BKK",
+  "last_updated": "2026-11-12 01:27:56 BKK",
   "rate": {
-    "date": "2026-11-11",
+    "date": "2026-11-12",
     "buying": 0,
     "selling": 0,
     "mid": 0,
     "source": "Unavailable - Please check BOT website"
   },
   "news": [
+    {
+      "title": "The Standard and Sansiri unveil branded luxury residences in Hua Hin",
+      "description": "The Standard, in partnership with the Thai luxury property developer Sansiri, has launched The Standard Residences, Hua Hin, a 4.5-billion-baht beachfront residential development that marks the hospit",
+      "date": "Wed, 11 Nov 2026 18:24:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3352886/the-standard-and-sansiri-unveil-branded-luxury-residences-in-hua-hin",
+      "source": "Bangkok Post Business"
+    },
     {
       "title": "FTI welcomes pickup trade-in scheme",
       "description": "The Federation of Thai Industries (FTI) has welcomed the government's planned pickup trade-in programme, saying it could help revive domestic vehicle sales, which have suffered a prolonged downturn, o",
@@ -192,9 +199,9 @@
       "priority": 6
     }
   ],
-  "claude_prompt": "CFO FX Brief 11/11/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] FTI welcomes pickup trade-in scheme\n- [Bangkok Post Business] Scam losses reach B65.8bn in Thailand\n- [Bangkok Post Business] Federation slashes SET index year-end target",
+  "claude_prompt": "CFO FX Brief 12/11/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] The Standard and Sansiri unveil branded luxury residences in Hua Hin\n- [Bangkok Post Business] FTI welcomes pickup trade-in scheme\n- [Bangkok Post Business] Scam losses reach B65.8bn in Thailand\n- [Bangkok Post Business] Federation slashes SET index year-end target",
   "stats": {
-    "fx_news_count": 3,
+    "fx_news_count": 4,
     "synnex_news_count": 16,
     "data_sources": [
       "Bangkok Post Business",
