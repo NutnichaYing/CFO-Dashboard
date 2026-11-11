@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-11 12:20:38 BKK",
+  "last_updated": "2026-11-11 17:26:55 BKK",
   "rate": {
     "date": "2026-11-11",
     "buying": 0,
@@ -27,13 +27,6 @@
       "description": "The Federation of Thai Capital Market Organizations (Fetco) has cut its year-end target for the Stock Exchange of Thailand (SET) index to 1,550-1,600 points from 1,700, following a sharper-than-expect",
       "date": "Wed, 11 Nov 2026 01:00:00 +0700",
       "link": "https://www.bangkokpost.com/business/general/3352525/federation-slashes-set-index-yearend-target",
-      "source": "Bangkok Post Business"
-    },
-    {
-      "title": "Thai bourse likely to remain range-bound",
-      "description": "Thailand's stock market is likely to remain range-bound as external pressures, particularly US interest rates and bond yields, weigh on global capital flows and investor sentiment, says global asset a",
-      "date": "Wed, 11 Nov 2026 01:00:00 +0700",
-      "link": "https://www.bangkokpost.com/business/general/3352700/thai-bourse-likely-to-remain-rangebound",
       "source": "Bangkok Post Business"
     }
   ],
@@ -199,14 +192,14 @@
       "priority": 6
     }
   ],
-  "claude_prompt": "CFO FX Brief 11/11/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] FTI welcomes pickup trade-in scheme\n- [Bangkok Post Business] Scam losses reach B65.8bn in Thailand\n- [Bangkok Post Business] Federation slashes SET index year-end target\n- [Bangkok Post Business] Thai bourse likely to remain range-bound",
+  "claude_prompt": "CFO FX Brief 11/11/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] FTI welcomes pickup trade-in scheme\n- [Bangkok Post Business] Scam losses reach B65.8bn in Thailand\n- [Bangkok Post Business] Federation slashes SET index year-end target",
   "stats": {
-    "fx_news_count": 4,
+    "fx_news_count": 3,
     "synnex_news_count": 16,
     "data_sources": [
-      "Google News EN",
+      "Bangkok Post Business",
       "Google News TH",
-      "Bangkok Post Business"
+      "Google News EN"
     ]
   }
 }
