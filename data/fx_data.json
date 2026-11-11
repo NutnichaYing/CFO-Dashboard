@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-11 01:30:45 BKK",
+  "last_updated": "2026-11-11 12:20:38 BKK",
   "rate": {
     "date": "2026-11-11",
     "buying": 0,
@@ -9,17 +9,31 @@
   },
   "news": [
     {
-      "title": "New joint venture looking to revive Robinhood",
-      "description": "The SET-listed tech company SKY ICT and the shipping conglomerate Thoresen Thai Agencies (TTA) are joining forces to secure the intellectual property of the homegrown food delivery app Robinhood in a",
-      "date": "Tue, 10 Nov 2026 19:09:00 +0700",
-      "link": "https://www.bangkokpost.com/business/general/3352280/new-joint-venture-looking-to-revive-robinhood",
+      "title": "FTI welcomes pickup trade-in scheme",
+      "description": "The Federation of Thai Industries (FTI) has welcomed the government's planned pickup trade-in programme, saying it could help revive domestic vehicle sales, which have suffered a prolonged downturn, o",
+      "date": "Wed, 11 Nov 2026 05:37:00 +0700",
+      "link": "https://www.bangkokpost.com/business/motoring/3352520/fti-welcomes-pickup-tradein-scheme",
       "source": "Bangkok Post Business"
     },
     {
-      "title": "Central Pattana revenue rises 2% in Q3",
-      "description": "Central Pattana Plc (CPN) reported total revenue of 13.4 billion baht for the third quarter of 2026, up 2% quarter-on-quarter, and net profit of 4.9 billion baht, a 4% quarter-on-quarter increase.",
-      "date": "Tue, 10 Nov 2026 07:03:00 +0700",
-      "link": "https://www.bangkokpost.com/business/general/3351839/central-pattana-revenue-rises-2-in-q3",
+      "title": "Scam losses reach B65.8bn in Thailand",
+      "description": "Thais suffered estimated losses of US$1.85 billion, or around 65.8 billion baht, from scams, averaging $335 per victim over a 12-month period, with phone calls, Meta social media platforms and Line re",
+      "date": "Wed, 11 Nov 2026 04:56:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3352410/scam-losses-reach-b658bn-in-thailand",
+      "source": "Bangkok Post Business"
+    },
+    {
+      "title": "Federation slashes SET index year-end target",
+      "description": "The Federation of Thai Capital Market Organizations (Fetco) has cut its year-end target for the Stock Exchange of Thailand (SET) index to 1,550-1,600 points from 1,700, following a sharper-than-expect",
+      "date": "Wed, 11 Nov 2026 01:00:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3352525/federation-slashes-set-index-yearend-target",
+      "source": "Bangkok Post Business"
+    },
+    {
+      "title": "Thai bourse likely to remain range-bound",
+      "description": "Thailand's stock market is likely to remain range-bound as external pressures, particularly US interest rates and bond yields, weigh on global capital flows and investor sentiment, says global asset a",
+      "date": "Wed, 11 Nov 2026 01:00:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3352700/thai-bourse-likely-to-remain-rangebound",
       "source": "Bangkok Post Business"
     }
   ],
@@ -185,13 +199,13 @@
       "priority": 6
     }
   ],
-  "claude_prompt": "CFO FX Brief 11/11/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] New joint venture looking to revive Robinhood\n- [Bangkok Post Business] Central Pattana revenue rises 2% in Q3",
+  "claude_prompt": "CFO FX Brief 11/11/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] FTI welcomes pickup trade-in scheme\n- [Bangkok Post Business] Scam losses reach B65.8bn in Thailand\n- [Bangkok Post Business] Federation slashes SET index year-end target\n- [Bangkok Post Business] Thai bourse likely to remain range-bound",
   "stats": {
-    "fx_news_count": 2,
+    "fx_news_count": 4,
     "synnex_news_count": 16,
     "data_sources": [
-      "Google News TH",
       "Google News EN",
+      "Google News TH",
       "Bangkok Post Business"
     ]
   }
