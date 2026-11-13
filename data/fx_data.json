@@ -1,13 +1,34 @@
 {
-  "last_updated": "2026-11-13 18:42:00 BKK",
+  "last_updated": "2026-11-14 01:26:03 BKK",
   "rate": {
-    "date": "2026-11-13",
+    "date": "2026-11-14",
     "buying": 0,
     "selling": 0,
     "mid": 0,
     "source": "Unavailable - Please check BOT website"
   },
   "news": [
+    {
+      "title": "FSMART reports B390 million in 9-month net profit",
+      "description": "Forth Smart Service Plc (FSMART) has reported 1.89 billion baht in total revenue and 390 million baht in net profit in the first nine months of this year.",
+      "date": "Fri, 13 Nov 2026 21:13:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3354096/fsmart-reports-b390m-in-9month-net-profit",
+      "source": "Bangkok Post Business"
+    },
+    {
+      "title": "BoI reports 28% growth in investment in third quarter",
+      "description": "The Board of Investment (BoI) has reported a 28% year-on-year increase in the value of actual investment by promoted projects in the third quarter of 2026, bringing the total for the first nine months",
+      "date": "Fri, 13 Nov 2026 18:16:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3354061/boi-reports-28-growth-in-investment-in-third-quarter",
+      "source": "Bangkok Post Business"
+    },
+    {
+      "title": "Spies and silicon chips: Alice Huang's tangled web",
+      "description": "SINGAPORE - The Singapore-based tech group Megaspeed dealt in billions of dollars&rsquo; worth of the world&rsquo;s most advanced AI chips, but its office was an empty shell when AFP visited, its staf",
+      "date": "Fri, 13 Nov 2026 17:45:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3354064/spies-and-silicon-chips-alice-huangs-tangled-web",
+      "source": "Bangkok Post Business"
+    },
     {
       "title": "Em District preps Winter Wonderland",
       "description": "Em District, comprising Emporium, Emquartier and Emsphere, is set to create an extraordinary festive experience with an investment of 200 million baht, in collaboration with its business partners, to",
@@ -20,20 +41,6 @@
       "description": "Maybank Securities (Thailand) is accelerating its transformation from a traditional stockbroker into a full-service wealth management provider, targeting total assets under management (AUM) of 500 bil",
       "date": "Fri, 13 Nov 2026 07:16:00 +0700",
       "link": "https://www.bangkokpost.com/business/general/3353899/maybank-shifts-focus-to-advisory-services",
-      "source": "Bangkok Post Business"
-    },
-    {
-      "title": "Foreign investors pull back from Thai stocks for US bonds",
-      "description": "Foreign investors' accumulated net buying in Thai equities has fallen to around 10 billion baht from a peak of 60-70 billion baht around mid-year, as higher US bond yields have prompted funds to flow",
-      "date": "Fri, 13 Nov 2026 06:28:00 +0700",
-      "link": "https://www.bangkokpost.com/business/investment/3353684/foreign-investors-pull-back-from-thai-stocks-for-us-bonds",
-      "source": "Bangkok Post Business"
-    },
-    {
-      "title": "Electronic waste challenge looms",
-      "description": "Thailand is stepping up efforts to tackle a looming wave of waste from end-of-life vehicles, discarded electric vehicle (EV) batteries and ageing solar panels after the Federation of Thai Industries (",
-      "date": "Fri, 13 Nov 2026 06:25:00 +0700",
-      "link": "https://www.bangkokpost.com/business/general/3353619/electronic-waste-challenge-looms",
       "source": "Bangkok Post Business"
     }
   ],
@@ -199,13 +206,13 @@
       "priority": 6
     }
   ],
-  "claude_prompt": "CFO FX Brief 13/11/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Em District preps Winter Wonderland\n- [Bangkok Post Business] Maybank shifts focus to advisory services\n- [Bangkok Post Business] Foreign investors pull back from Thai stocks for US bonds\n- [Bangkok Post Business] Electronic waste challenge looms",
+  "claude_prompt": "CFO FX Brief 14/11/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] FSMART reports B390 million in 9-month net profit\n- [Bangkok Post Business] BoI reports 28% growth in investment in third quarter\n- [Bangkok Post Business] Spies and silicon chips: Alice Huang's tangled web\n- [Bangkok Post Business] Em District preps Winter Wonderland\n- [Bangkok Post Business] Maybank shifts focus to advisory services",
   "stats": {
-    "fx_news_count": 4,
+    "fx_news_count": 5,
     "synnex_news_count": 16,
     "data_sources": [
-      "Google News EN",
       "Bangkok Post Business",
+      "Google News EN",
       "Google News TH"
     ]
   }
