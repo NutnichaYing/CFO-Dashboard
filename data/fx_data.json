@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-13 17:39:03 BKK",
+  "last_updated": "2026-11-13 18:42:00 BKK",
   "rate": {
     "date": "2026-11-13",
     "buying": 0,
@@ -129,6 +129,16 @@
       "priority": 5
     },
     {
+      "title": "ซินเน็คขนทัพสินค้า “Trusted By Synnex” จากแบรนด์ไอทีชั้นนำ บุกงาน TME 2024 ย้ำความแข็งแกร่งนัมเบอร์วันไอทีดิสทริบิวเตอร์ - Thaimobilecenter",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5jRjdLZWsxdUVhdWtYZDFuM0xFRFFlV1FXM3pTalBLOWpsSDc4V09EWEZwT0NUZV9QYm1vMVA0aUtoXy1WQXlRRUNpU0dpTlNTbEVGN1BQUFVfZ1c5LU9QVDBodk56dUdpTVNXVkl0Yw?oc=5\" target=\"_blank\">ซินเน็คขนทัพสินค้า “Trusted By Synnex” จากแบรนด์ไอทีชั้นนำ บุกงาน TME 2024 ย้",
+      "date": "Sat, 10 Feb 2024 08:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jRjdLZWsxdUVhdWtYZDFuM0xFRFFlV1FXM3pTalBLOWpsSDc4V09EWEZwT0NUZV9QYm1vMVA0aUtoXy1WQXlRRUNpU0dpTlNTbEVGN1BQUFVfZ1c5LU9QVDBodk56dUdpTVNXVkl0Yw?oc=5",
+      "source": "Google News TH",
+      "category": "general",
+      "trusted": false,
+      "priority": 5
+    },
+    {
       "title": "Synnex (Thailand) Public Company Limited (SYNEX.BK) stock price, news, quote and history - Yahoo Finance Singapore",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFAwSlpWVmlGTWlEeHRpRWFpUUs2dUJpTHBxMktxajItSkZWZnoydTkwZVJPSjFxNks1cVBQUm5DSG5yeWZJSVNRLU9rbzZTU2MySDFVaUJzSQ?oc=5\" target=\"_blank\">Synnex (Thailand) Public Company Limited (SYNEX.BK) stock price, news, quote and history</a>&nbsp;&nbsp;<font",
       "date": "Fri, 26 May 2017 15:13:12 GMT",
@@ -192,11 +202,11 @@
   "claude_prompt": "CFO FX Brief 13/11/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Em District preps Winter Wonderland\n- [Bangkok Post Business] Maybank shifts focus to advisory services\n- [Bangkok Post Business] Foreign investors pull back from Thai stocks for US bonds\n- [Bangkok Post Business] Electronic waste challenge looms",
   "stats": {
     "fx_news_count": 4,
-    "synnex_news_count": 15,
+    "synnex_news_count": 16,
     "data_sources": [
+      "Google News EN",
       "Bangkok Post Business",
-      "Google News TH",
-      "Google News EN"
+      "Google News TH"
     ]
   }
 }
