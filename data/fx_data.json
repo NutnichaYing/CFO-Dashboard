@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-17 14:09:32 BKK",
+  "last_updated": "2026-11-17 18:32:21 BKK",
   "rate": {
     "date": "2026-11-17",
     "buying": 0,
@@ -9,11 +9,11 @@
   },
   "news": [
     {
-      "title": "BoT prioritises SME support to boost growth",
-      "description": "The Bank of Thailand is shifting its focus towards supporting the real economy, particularly small and medium-sized enterprises (SMEs), while maintaining macroeconomic stability as Thailand's economic",
-      "date": "Tue, 17 Nov 2026 06:00:00 +0700",
-      "link": "https://www.bangkokpost.com/business/general/3355929/bot-prioritises-sme-support-to-boost-growth",
-      "source": "Bangkok Post Business"
+      "title": "ไม่สามารถดึงข่าวอัตโนมัติได้",
+      "description": "กรุณาตรวจสอบข่าว FX จาก Reuters หรือ Bangkok Post",
+      "date": "2026-11-17 18:32",
+      "link": "https://www.reuters.com/markets/currencies/",
+      "source": "Manual"
     }
   ],
   "synnex_news": [
@@ -82,6 +82,16 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OU2JGRnRBbXZYZFBSdWl4WklHVEFwRnVIMU1MdGtXZmg0cldCby1NQUpsRmpjUW1KTTVWSnRwM29hd3M1UktjYVRyVDZVTTFMX01n?oc=5\" target=\"_blank\">สุธิดา มงคลสุธี ทายาทกิจการหมื่นล้าน รับไม้ยืนหนึ่ง IT ecosystem</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">posttoday</fo",
       "date": "Mon, 17 Apr 2023 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OU2JGRnRBbXZYZFBSdWl4WklHVEFwRnVIMU1MdGtXZmg0cldCby1NQUpsRmpjUW1KTTVWSnRwM29hd3M1UktjYVRyVDZVTTFMX01n?oc=5",
+      "source": "Google News TH",
+      "category": "general",
+      "trusted": false,
+      "priority": 5
+    },
+    {
+      "title": "SYNEX คือผู้รับเคราะห์จากการแบน HUAWEI - ลงทุนศาสตร์ - Investerest",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBaempLaGlxVGNfOXY1RWR6X3Z5WEZEMzdMZHU5bHV6Q1FkXzZRNGJGcktOQTZjTTBiX1VKdm5jOHRxR196ZjBJbUVxMlV6OGg0VU5CZ2lNQWRhNnRwOVNnTkl6TFBCdVFQMHN6dS1NV0s?oc=5\" target=\"_blank\">SYNEX คือผู้รับเคราะห์จากการแบน HUAWEI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">",
+      "date": "Wed, 22 May 2019 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBaempLaGlxVGNfOXY1RWR6X3Z5WEZEMzdMZHU5bHV6Q1FkXzZRNGJGcktOQTZjTTBiX1VKdm5jOHRxR196ZjBJbUVxMlV6OGg0VU5CZ2lNQWRhNnRwOVNnTkl6TFBCdVFQMHN6dS1NV0s?oc=5",
       "source": "Google News TH",
       "category": "general",
       "trusted": false,
@@ -178,13 +188,13 @@
       "priority": 6
     }
   ],
-  "claude_prompt": "CFO FX Brief 17/11/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] BoT prioritises SME support to boost growth",
+  "claude_prompt": "CFO FX Brief 17/11/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Manual] ไม่สามารถดึงข่าวอัตโนมัติได้",
   "stats": {
     "fx_news_count": 1,
-    "synnex_news_count": 16,
+    "synnex_news_count": 17,
     "data_sources": [
+      "Manual",
       "Google News TH",
-      "Bangkok Post Business",
       "Google News EN"
     ]
   }
