@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-20 02:24:00 BKK",
+  "last_updated": "2026-11-20 13:23:19 BKK",
   "rate": {
     "date": "2026-11-20",
     "buying": 0,
@@ -9,17 +9,17 @@
   },
   "news": [
     {
-      "title": "SEC defends proposed stablecoin rules",
-      "description": "The Securities and Exchange Commission (SEC) has defended its proposed daily limit of 5 million baht on transfers of foreign currency-backed stablecoins, including USDT, saying the measure is aimed at",
-      "date": "Thu, 19 Nov 2026 08:04:00 +0700",
-      "link": "https://www.bangkokpost.com/business/investment/3357364/sec-defends-proposed-stablecoin-rules",
+      "title": "FamilyMart to introduce AI-powered drink restocking robots",
+      "description": "Japanese convenience store operator FamilyMart will begin rolling out robots that automatically restock beverage display shelves in January 2027.",
+      "date": "Fri, 20 Nov 2026 12:35:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3358261/familymart-to-introduce-aipowered-drink-restocking-robots",
       "source": "Bangkok Post Business"
     },
     {
-      "title": "Thai stocks poised for gains in 2027 as earnings improve",
-      "description": "Despite heightened global financial volatility, Krungthai XSpring Securities (KTX) expects the Thai stock market to extend its gains in 2027, forecasting that the Stock Exchange of Thailand (SET) inde",
-      "date": "Thu, 19 Nov 2026 07:34:00 +0700",
-      "link": "https://www.bangkokpost.com/business/investment/3357319/thai-stocks-poised-for-gains-in-2027-as-earnings-improve",
+      "title": "Gold prices hit 14-month low on Fed hike expectations",
+      "description": "Gold prices have plunged to a 14-month low, shedding more than 30% from their peak earlier this year, as expectations of further US interest rate hikes strengthen the dollar and push bond yields highe",
+      "date": "Fri, 20 Nov 2026 05:03:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3357924/gold-prices-hit-14month-low-on-fed-hike-expectations",
       "source": "Bangkok Post Business"
     }
   ],
@@ -105,6 +105,16 @@
       "priority": 5
     },
     {
+      "title": "Nintendo Switch by Synnex ร่วมงาน Thailand Mobile Expo 2023 มหกรรมมือถือสุดยิ่งใหญ่แห่งปี - Thaimobilecenter",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQb2Q1a3dmeHc5enp1cjN3RGc5VmxBMDEyeFR0S1ZONHBSODNJZ3RNOXdGalc5X216Ui1OdHZFb0JjVE9OcGc3dm9DZVZ5aFdhS3pJOEJpTHNQRFZKOUo0TE1DU1d3bXN2MUVyd2hNaGZ5cXR2aWJjRzZhQTFkMGdxbQ?oc=5\" target=\"_blank\">Nintendo Switch by Synnex ร่วมงาน Thailand Mobile Exp",
+      "date": "Fri, 27 Oct 2023 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQb2Q1a3dmeHc5enp1cjN3RGc5VmxBMDEyeFR0S1ZONHBSODNJZ3RNOXdGalc5X216Ui1OdHZFb0JjVE9OcGc3dm9DZVZ5aFdhS3pJOEJpTHNQRFZKOUo0TE1DU1d3bXN2MUVyd2hNaGZ5cXR2aWJjRzZhQTFkMGdxbQ?oc=5",
+      "source": "Google News TH",
+      "category": "general",
+      "trusted": false,
+      "priority": 5
+    },
+    {
       "title": "SYNNEX ร่วมยกระดับงานเกมนานาชาติ gamescom asia x Thailand Game Show โชว์ศักยภาพ No.1 Gaming Distributor หนุนวงการเกมไทยสู่เวทีโลก - Online Station",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YVHV6c1B5RXdnNURVU3RETGdZUE5DOFR4R0ZTd1htS2VwMkIwYndSdm1ZODJzeXo3NmNyMjVlblJyb21jV2JIaVJPeWNLV3M1RnhuR0c4OHVPRGRsRXRDSG5PQQ?oc=5\" target=\"_blank\">SYNNEX ร่วมยกระดับงานเกมนานาชาติ gamescom asia x Thailand Game Show โชว์ศักยภาพ No.1 Gaming D",
       "date": "Sun, 10 Aug 2025 07:00:00 GMT",
@@ -175,13 +185,13 @@
       "priority": 6
     }
   ],
-  "claude_prompt": "CFO FX Brief 20/11/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] SEC defends proposed stablecoin rules\n- [Bangkok Post Business] Thai stocks poised for gains in 2027 as earnings improve",
+  "claude_prompt": "CFO FX Brief 20/11/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] FamilyMart to introduce AI-powered drink restocking robots\n- [Bangkok Post Business] Gold prices hit 14-month low on Fed hike expectations",
   "stats": {
     "fx_news_count": 2,
-    "synnex_news_count": 15,
+    "synnex_news_count": 16,
     "data_sources": [
-      "Google News EN",
       "Bangkok Post Business",
+      "Google News EN",
       "Google News TH"
     ]
   }
