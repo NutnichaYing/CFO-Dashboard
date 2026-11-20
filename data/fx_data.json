@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-20 13:23:19 BKK",
+  "last_updated": "2026-11-20 17:59:04 BKK",
   "rate": {
     "date": "2026-11-20",
     "buying": 0,
@@ -13,13 +13,6 @@
       "description": "Japanese convenience store operator FamilyMart will begin rolling out robots that automatically restock beverage display shelves in January 2027.",
       "date": "Fri, 20 Nov 2026 12:35:00 +0700",
       "link": "https://www.bangkokpost.com/business/general/3358261/familymart-to-introduce-aipowered-drink-restocking-robots",
-      "source": "Bangkok Post Business"
-    },
-    {
-      "title": "Gold prices hit 14-month low on Fed hike expectations",
-      "description": "Gold prices have plunged to a 14-month low, shedding more than 30% from their peak earlier this year, as expectations of further US interest rate hikes strengthen the dollar and push bond yields highe",
-      "date": "Fri, 20 Nov 2026 05:03:00 +0700",
-      "link": "https://www.bangkokpost.com/business/general/3357924/gold-prices-hit-14month-low-on-fed-hike-expectations",
       "source": "Bangkok Post Business"
     }
   ],
@@ -185,9 +178,9 @@
       "priority": 6
     }
   ],
-  "claude_prompt": "CFO FX Brief 20/11/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] FamilyMart to introduce AI-powered drink restocking robots\n- [Bangkok Post Business] Gold prices hit 14-month low on Fed hike expectations",
+  "claude_prompt": "CFO FX Brief 20/11/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] FamilyMart to introduce AI-powered drink restocking robots",
   "stats": {
-    "fx_news_count": 2,
+    "fx_news_count": 1,
     "synnex_news_count": 16,
     "data_sources": [
       "Bangkok Post Business",
