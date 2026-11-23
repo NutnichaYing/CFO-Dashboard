@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-11-23 20:50:41 BKK",
+  "last_updated": "2026-11-24 05:29:03 BKK",
   "rate": {
-    "date": "2026-11-23",
+    "date": "2026-11-24",
     "buying": 0,
     "selling": 0,
     "mid": 0,
@@ -20,13 +20,6 @@
       "description": "Quantum computing could open up new business opportunities for financial services beyond its potential threat to data encryption, with SCBX urging Thai businesses to prepare for both the risks and com",
       "date": "Mon, 23 Nov 2026 04:34:00 +0700",
       "link": "https://www.bangkokpost.com/business/general/3359675/businesses-urged-to-prep-for-quantum-era",
-      "source": "Bangkok Post Business"
-    },
-    {
-      "title": "Is all well at the BoT?",
-      "description": "An unusual public dispute has recently erupted within the Bank of Thailand, following a sharp public rebuke by its chairman, Somchai Sujjapongse, on Nov 15 over what he described as the central bank's",
-      "date": "Mon, 23 Nov 2026 04:17:00 +0700",
-      "link": "https://www.bangkokpost.com/business/general/3359665/is-all-well-at-the-bot",
       "source": "Bangkok Post Business"
     }
   ],
@@ -192,9 +185,9 @@
       "priority": 6
     }
   ],
-  "claude_prompt": "CFO FX Brief 23/11/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Mobile, fixed broadband value set to reach B452bn\n- [Bangkok Post Business] Businesses urged to prep for quantum era\n- [Bangkok Post Business] Is all well at the BoT?",
+  "claude_prompt": "CFO FX Brief 24/11/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Mobile, fixed broadband value set to reach B452bn\n- [Bangkok Post Business] Businesses urged to prep for quantum era",
   "stats": {
-    "fx_news_count": 3,
+    "fx_news_count": 2,
     "synnex_news_count": 16,
     "data_sources": [
       "Google News EN",
