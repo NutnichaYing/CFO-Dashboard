@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-24 16:01:41 BKK",
+  "last_updated": "2026-11-24 20:21:30 BKK",
   "rate": {
     "date": "2026-11-24",
     "buying": 0,
@@ -21,13 +21,6 @@
       "date": "Tue, 24 Nov 2026 08:30:00 +0700",
       "link": "https://www.bangkokpost.com/business/general/3360164/cpmeiji-allots-b48bn-for-new-saraburi-plant",
       "source": "Bangkok Post Business"
-    },
-    {
-      "title": "U-tapao forges ahead with terminal and airport expansion",
-      "description": "U-Tapao International Aviation (UTA) is seeking to take over management of U-tapao Airport's Terminal 2 from the Royal Thai Navy while preparing the first phase of a 10-billion-baht construction proje",
-      "date": "Tue, 24 Nov 2026 06:05:00 +0700",
-      "link": "https://www.bangkokpost.com/business/general/3360069/utapao-forges-ahead-with-terminal-and-airport-expansion",
-      "source": "Bangkok Post Business"
     }
   ],
   "synnex_news": [
@@ -36,6 +29,16 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE41RElXb09qV2xEbHp5QjV6WHJ6VFEzeWY5em5WZUJWUkpsRWlGMGJGTGVfU09tc3lYS1g3bV8yYUY2OURTZjlWTg?oc=5\" target=\"_blank\">SYNEX ยกระดับ “TRUSTED BY SYNNEX” เปิดระบบสมาชิกดูแลหลังการขายครบวงจร</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ข่าวหุ้นธุรกิจออนไลน์<",
       "date": "Thu, 05 Nov 2026 08:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE41RElXb09qV2xEbHp5QjV6WHJ6VFEzeWY5em5WZUJWUkpsRWlGMGJGTGVfU09tc3lYS1g3bV8yYUY2OURTZjlWTg?oc=5",
+      "source": "Google News TH",
+      "category": "general",
+      "trusted": false,
+      "priority": 5
+    },
+    {
+      "title": "SYNEX คาดยอดขายโต รับอานิสงส์ Apple ออกสินค้าใหม่ - คงเป้ารายได้ปีนี้แตะ 5.3 หมื่นลบ. - efin.finance",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1SWlV5RTJyekFYRGJpWmstVjdRVkFIN2Z4ZTB1b3NlQ1g3NVl3ZEVINmotdVdBYWdqRHJjZEg1Q3Z6RklGNmloY3M2ZDJlU1RGZTRsNHF3cUx1TVhCZ0pfdHNR?oc=5\" target=\"_blank\">SYNEX คาดยอดขายโต รับอานิสงส์ Apple ออกสินค้าใหม่ - คงเป้ารายได้ปีนี้แตะ 5.3 หมื่นลบ.</a>&nbsp;",
+      "date": "Thu, 10 Sep 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1SWlV5RTJyekFYRGJpWmstVjdRVkFIN2Z4ZTB1b3NlQ1g3NVl3ZEVINmotdVdBYWdqRHJjZEg1Q3Z6RklGNmloY3M2ZDJlU1RGZTRsNHF3cUx1TVhCZ0pfdHNR?oc=5",
       "source": "Google News TH",
       "category": "general",
       "trusted": false,
@@ -52,10 +55,20 @@
       "priority": 5
     },
     {
-      "title": "SYNEX คาดยอดขายโต รับอานิสงส์ Apple ออกสินค้าใหม่ - คงเป้ารายได้ปีนี้แตะ 5.3 หมื่นลบ. - efin.finance",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1SWlV5RTJyekFYRGJpWmstVjdRVkFIN2Z4ZTB1b3NlQ1g3NVl3ZEVINmotdVdBYWdqRHJjZEg1Q3Z6RklGNmloY3M2ZDJlU1RGZTRsNHF3cUx1TVhCZ0pfdHNR?oc=5\" target=\"_blank\">SYNEX คาดยอดขายโต รับอานิสงส์ Apple ออกสินค้าใหม่ - คงเป้ารายได้ปีนี้แตะ 5.3 หมื่นลบ.</a>&nbsp;",
-      "date": "Thu, 10 Sep 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1SWlV5RTJyekFYRGJpWmstVjdRVkFIN2Z4ZTB1b3NlQ1g3NVl3ZEVINmotdVdBYWdqRHJjZEg1Q3Z6RklGNmloY3M2ZDJlU1RGZTRsNHF3cUx1TVhCZ0pfdHNR?oc=5",
+      "title": "SYNEX เตรียมเปิดคลังขนสินค้า จัดลด-แลก แบบกระหน่ำ เต็มพื้นที่ “Synnex Clearance Sale 2023” วันที่ 24 - 25 พฤศจิกายน นี้ - Share2Trade",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiygdBVV95cUxNLVRRYkRmcXJzNlYxUzRYQUp5dFk0el9ueGNiSlhkMU9ZQ3V4SWhUczI5Wjd1bHdTc2Rla1VINGh4cF9FTG1rUGRuei1wajRUYWdwWWFjaUxEUWFGa3VKZS13ZGJuWENOS2kwODJjTENpRGVMMG5YTzJiWk1Qclp5eWlCcGpfZHRmSXY5aTBocnh1azE1RWRreGlqNjZWSFE1a1hScXRUU1JKVVk4UTNVQmdRUjJlcEJzZ2",
+      "date": "Sun, 12 Nov 2023 15:46:28 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiygdBVV95cUxNLVRRYkRmcXJzNlYxUzRYQUp5dFk0el9ueGNiSlhkMU9ZQ3V4SWhUczI5Wjd1bHdTc2Rla1VINGh4cF9FTG1rUGRuei1wajRUYWdwWWFjaUxEUWFGa3VKZS13ZGJuWENOS2kwODJjTENpRGVMMG5YTzJiWk1Qclp5eWlCcGpfZHRmSXY5aTBocnh1azE1RWRreGlqNjZWSFE1a1hScXRUU1JKVVk4UTNVQmdRUjJlcEJzZ2VMRnVUZVdMb3FOWGVFR2oxXzVUd3FlS0pfejdxc21JUl9JekJpUVo1bjY5V2pMdS1rbGZqbGhwQVJMbGM5MkQ1Wnc1cjVmeWhtR2NpV0pyS2oyWkJrek5ra3RyVFZ3Q0E5OGZKVk9EWXAwalNtMmNEdFpMRW5XWGlKQTRyUXZhcU12OW1LazM4dmtCTnEwTmFfY24yLXVaZWNJVGI2SWdGRE5IVHN4Tm9BV3VteXdZZHRlY2xBMDZRU08xYk1BamtUSWpwdDFSTmVQdVZBdlg0dHU3dkVMZS1zTC1pbU1fSHdNYjR1dGpodmFTTHZiVXNYX2FLT0E4bmlBMzV6eWpad0Q0R1p6cXVrampVaC1KQmpSaTVEYXgydVZ2aTNrZUVrQWZOTWt0Z2E1ams4LVRlcV80NGJwUmlsMjkxRHdzMVduWmtyTU9nd29Ec21lOWdiM3YwX0tLM1RBX0JBdFI1MGlZVlYzRlZQZWNlazJNdGN5a0NVdVJqRU9Sc0VmQzNSQWc3aHV1c3RoV1p5OW00OXpDdExpU0s3TS1YVmtVdnI5Y0h4eUlPZGVMb0h4TUhPd0ZIM2NuTWtfbG5oeFNnUUdiWnZlQnFsR3kxSGEtZVB4eFlaRWN2WXhyR1NvRE5xeURLT0I5WlJJY0JGUmJVS1YyOFhUQVR0MzJOX0lOTnhPX0RRRG1LaE50RkRta2psbEx2bnd6OTNldTdTNzJNUG1KYk1mTjdYb0FKa1k2X2thYlZQZ29DdFZfUFV0VHBzTnlLZUdhc0RuU1BkZXVPR2Z4X1psblVDc0RxTDFWcWdhRjVIY2daNGFuMUl3R0hzME9SdFlrSHUxQktua21GWFpxWXQ1Y0ViS1I0Rldld2tJTFNPTXBmN1ZWN2IyTjlRTEtMV2JncHBrLUtJTmIyYzdJUEdreWlZRGplcGo3WmJtSDE3ckh5TC13YkVqTE1DQnloZ05HdkNBR2RuSEpoVU02Mm9MbURXOHdDSFktcGs2aWVWdjFkdkNmR2ZUaENBeHQzdFpDZlpuZVdvSFJn?oc=5",
+      "source": "Google News TH",
+      "category": "general",
+      "trusted": false,
+      "priority": 5
+    },
+    {
+      "title": "ส่องผลประกอบการครึ่งปีแรกของ ค้าส่งสินค้าไอที กระแส Work form Home ดันยอดขายขนาดไหน? - Brand Inside",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ka2Y5blk3U1Y4RXg3ekRSMzB2WXFraGdZZWxQLVlZUVJCdHZPRmhkTXlMUU9GSWg4SmR2d0JSUnNqNF93RmZIYzVoaEpIaTFlQTNZcU1HMUNFNHY4amJkYnJqUUgyLXM?oc=5\" target=\"_blank\">ส่องผลประกอบการครึ่งปีแรกของ ค้าส่งสินค้าไอที กระแส Work form Home ดันยอดขายขนาดไหน?</a>",
+      "date": "Mon, 16 Aug 2021 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ka2Y5blk3U1Y4RXg3ekRSMzB2WXFraGdZZWxQLVlZUVJCdHZPRmhkTXlMUU9GSWg4SmR2d0JSUnNqNF93RmZIYzVoaEpIaTFlQTNZcU1HMUNFNHY4amJkYnJqUUgyLXM?oc=5",
       "source": "Google News TH",
       "category": "general",
       "trusted": false,
@@ -92,6 +105,16 @@
       "priority": 5
     },
     {
+      "title": "SYNEX คือผู้รับเคราะห์จากการแบน HUAWEI - ลงทุนศาสตร์ - Investerest",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBaempLaGlxVGNfOXY1RWR6X3Z5WEZEMzdMZHU5bHV6Q1FkXzZRNGJGcktOQTZjTTBiX1VKdm5jOHRxR196ZjBJbUVxMlV6OGg0VU5CZ2lNQWRhNnRwOVNnTkl6TFBCdVFQMHN6dS1NV0s?oc=5\" target=\"_blank\">SYNEX คือผู้รับเคราะห์จากการแบน HUAWEI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">",
+      "date": "Wed, 22 May 2019 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBaempLaGlxVGNfOXY1RWR6X3Z5WEZEMzdMZHU5bHV6Q1FkXzZRNGJGcktOQTZjTTBiX1VKdm5jOHRxR196ZjBJbUVxMlV6OGg0VU5CZ2lNQWRhNnRwOVNnTkl6TFBCdVFQMHN6dS1NV0s?oc=5",
+      "source": "Google News TH",
+      "category": "general",
+      "trusted": false,
+      "priority": 5
+    },
+    {
       "title": "SYNEX กางแผนปี 70 ชู AI-Cloud ขับเคลื่อนธุรกิจ ยกระดับไอทีครบวงจร - ข่าวหุ้นธุรกิจออนไลน์",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE9scjV1dktUWkk5UmRnd0dVZFczR3FCejV0R3BnN0c2RmE4Tmp3S2F6OWJpenY3Q01JV1B5SjlVRENQbUJ0T1RKN1RaRQ?oc=5\" target=\"_blank\">SYNEX กางแผนปี 70 ชู AI-Cloud ขับเคลื่อนธุรกิจ ยกระดับไอทีครบวงจร</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ข่าวหุ้นธุรกิจออนไลน์<",
       "date": "Fri, 11 Sep 2026 07:00:00 GMT",
@@ -102,10 +125,10 @@
       "priority": 5
     },
     {
-      "title": "สุธิดา มงคลสุธี ทายาทกิจการหมื่นล้าน รับไม้ยืนหนึ่ง IT ecosystem - posttoday",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OU2JGRnRBbXZYZFBSdWl4WklHVEFwRnVIMU1MdGtXZmg0cldCby1NQUpsRmpjUW1KTTVWSnRwM29hd3M1UktjYVRyVDZVTTFMX01n?oc=5\" target=\"_blank\">สุธิดา มงคลสุธี ทายาทกิจการหมื่นล้าน รับไม้ยืนหนึ่ง IT ecosystem</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">posttoday</fo",
-      "date": "Mon, 17 Apr 2023 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OU2JGRnRBbXZYZFBSdWl4WklHVEFwRnVIMU1MdGtXZmg0cldCby1NQUpsRmpjUW1KTTVWSnRwM29hd3M1UktjYVRyVDZVTTFMX01n?oc=5",
+      "title": "ซินเน็คฯ กางแผนธุรกิจในงาน “SYNNEX PARTNER CONNECT 2024” - posttoday",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZNHc2MFVmV0VtOVBQYVFwRk9oNFhwS2xKNkNYckJ4dzRjYlNlRkN3SjBLcHQ2U3lUcURRUk9xMHZzbnQtOWwzbklHaEFYYV8tekE?oc=5\" target=\"_blank\">ซินเน็คฯ กางแผนธุรกิจในงาน “SYNNEX PARTNER CONNECT 2024”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">posttoday</font>",
+      "date": "Tue, 24 Sep 2024 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZNHc2MFVmV0VtOVBQYVFwRk9oNFhwS2xKNkNYckJ4dzRjYlNlRkN3SjBLcHQ2U3lUcURRUk9xMHZzbnQtOWwzbklHaEFYYV8tekE?oc=5",
       "source": "Google News TH",
       "category": "general",
       "trusted": false,
@@ -122,10 +145,20 @@
       "priority": 5
     },
     {
-      "title": "Nintendo Switch by Synnex ร่วมงาน Thailand Mobile Expo 2023 มหกรรมมือถือสุดยิ่งใหญ่แห่งปี - Thaimobilecenter",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQb2Q1a3dmeHc5enp1cjN3RGc5VmxBMDEyeFR0S1ZONHBSODNJZ3RNOXdGalc5X216Ui1OdHZFb0JjVE9OcGc3dm9DZVZ5aFdhS3pJOEJpTHNQRFZKOUo0TE1DU1d3bXN2MUVyd2hNaGZ5cXR2aWJjRzZhQTFkMGdxbQ?oc=5\" target=\"_blank\">Nintendo Switch by Synnex ร่วมงาน Thailand Mobile Exp",
-      "date": "Fri, 27 Oct 2023 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQb2Q1a3dmeHc5enp1cjN3RGc5VmxBMDEyeFR0S1ZONHBSODNJZ3RNOXdGalc5X216Ui1OdHZFb0JjVE9OcGc3dm9DZVZ5aFdhS3pJOEJpTHNQRFZKOUo0TE1DU1d3bXN2MUVyd2hNaGZ5cXR2aWJjRzZhQTFkMGdxbQ?oc=5",
+      "title": "SYNEX บวก 4% ลุ้นกำไรปีนี้ทะลุ 700 ลบ. อานิสงส์ยอดขายไอทีพุ่ง - ข่าวหุ้นธุรกิจออนไลน์",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wYlE2S25nYUduMDVDR2pva1ZWeFMwbThlcHRqRnZvVGVOUjdvUF90YzhfSjN0RjBHQ1AtR1ItTDVKRmRtREMyM2xISTYzNnlTNjNZbm9R?oc=5\" target=\"_blank\">SYNEX บวก 4% ลุ้นกำไรปีนี้ทะลุ 700 ลบ. อานิสงส์ยอดขายไอทีพุ่ง</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ข่าวหุ้นธุรก",
+      "date": "Tue, 31 Aug 2021 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wYlE2S25nYUduMDVDR2pva1ZWeFMwbThlcHRqRnZvVGVOUjdvUF90YzhfSjN0RjBHQ1AtR1ItTDVKRmRtREMyM2xISTYzNnlTNjNZbm9R?oc=5",
+      "source": "Google News TH",
+      "category": "general",
+      "trusted": false,
+      "priority": 5
+    },
+    {
+      "title": "สุธิดา มงคลสุธี ทายาทกิจการหมื่นล้าน รับไม้ยืนหนึ่ง IT ecosystem - posttoday",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OU2JGRnRBbXZYZFBSdWl4WklHVEFwRnVIMU1MdGtXZmg0cldCby1NQUpsRmpjUW1KTTVWSnRwM29hd3M1UktjYVRyVDZVTTFMX01n?oc=5\" target=\"_blank\">สุธิดา มงคลสุธี ทายาทกิจการหมื่นล้าน รับไม้ยืนหนึ่ง IT ecosystem</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">posttoday</fo",
+      "date": "Mon, 17 Apr 2023 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OU2JGRnRBbXZYZFBSdWl4WklHVEFwRnVIMU1MdGtXZmg0cldCby1NQUpsRmpjUW1KTTVWSnRwM29hd3M1UktjYVRyVDZVTTFMX01n?oc=5",
       "source": "Google News TH",
       "category": "general",
       "trusted": false,
@@ -192,14 +225,14 @@
       "priority": 6
     }
   ],
-  "claude_prompt": "CFO FX Brief 24/11/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Thai auto output falls 35% in October due to flood impact\n- [Bangkok Post Business] CP-Meiji allots B4.8bn for new Saraburi plant\n- [Bangkok Post Business] U-tapao forges ahead with terminal and airport expansion",
+  "claude_prompt": "CFO FX Brief 24/11/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Thai auto output falls 35% in October due to flood impact\n- [Bangkok Post Business] CP-Meiji allots B4.8bn for new Saraburi plant",
   "stats": {
-    "fx_news_count": 3,
-    "synnex_news_count": 16,
+    "fx_news_count": 2,
+    "synnex_news_count": 20,
     "data_sources": [
       "Bangkok Post Business",
-      "Google News EN",
-      "Google News TH"
+      "Google News TH",
+      "Google News EN"
     ]
   }
 }
