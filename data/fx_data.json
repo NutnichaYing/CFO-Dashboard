@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-24 05:29:03 BKK",
+  "last_updated": "2026-11-24 16:01:41 BKK",
   "rate": {
     "date": "2026-11-24",
     "buying": 0,
@@ -9,17 +9,24 @@
   },
   "news": [
     {
-      "title": "Mobile, fixed broadband value set to reach B452bn",
-      "description": "Thailand's mobile and fixed broadband industries are projected to generate a combined economic value of 406 billion baht in 2026, before rising to 452 billion baht by 2030, according to the National B",
-      "date": "Mon, 23 Nov 2026 06:02:00 +0700",
-      "link": "https://www.bangkokpost.com/business/general/3359545/mobile-fixed-broadband-value-set-to-reach-b452bn",
+      "title": "Thai auto output falls 35% in October due to flood impact",
+      "description": "Thailand&rsquo;s ​car production in October fell ​35.2% from &zwnj;a year earlier, compared with a 6.1% decline in September, the Federation of Thai Industries said on Tuesday.",
+      "date": "Tue, 24 Nov 2026 14:11:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3360419/thai-auto-output-falls-35-in-october-due-to-flood-impact",
       "source": "Bangkok Post Business"
     },
     {
-      "title": "Businesses urged to prep for quantum era",
-      "description": "Quantum computing could open up new business opportunities for financial services beyond its potential threat to data encryption, with SCBX urging Thai businesses to prepare for both the risks and com",
-      "date": "Mon, 23 Nov 2026 04:34:00 +0700",
-      "link": "https://www.bangkokpost.com/business/general/3359675/businesses-urged-to-prep-for-quantum-era",
+      "title": "CP-Meiji allots B4.8bn for new Saraburi plant",
+      "description": "CP-Meiji Co Ltd, a dairy manufacturer, is investing 4.8 billion baht in a new plant to accommodate growing demand, particularly for functional milk products.",
+      "date": "Tue, 24 Nov 2026 08:30:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3360164/cpmeiji-allots-b48bn-for-new-saraburi-plant",
+      "source": "Bangkok Post Business"
+    },
+    {
+      "title": "U-tapao forges ahead with terminal and airport expansion",
+      "description": "U-Tapao International Aviation (UTA) is seeking to take over management of U-tapao Airport's Terminal 2 from the Royal Thai Navy while preparing the first phase of a 10-billion-baht construction proje",
+      "date": "Tue, 24 Nov 2026 06:05:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3360069/utapao-forges-ahead-with-terminal-and-airport-expansion",
       "source": "Bangkok Post Business"
     }
   ],
@@ -185,14 +192,14 @@
       "priority": 6
     }
   ],
-  "claude_prompt": "CFO FX Brief 24/11/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Mobile, fixed broadband value set to reach B452bn\n- [Bangkok Post Business] Businesses urged to prep for quantum era",
+  "claude_prompt": "CFO FX Brief 24/11/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] Thai auto output falls 35% in October due to flood impact\n- [Bangkok Post Business] CP-Meiji allots B4.8bn for new Saraburi plant\n- [Bangkok Post Business] U-tapao forges ahead with terminal and airport expansion",
   "stats": {
-    "fx_news_count": 2,
+    "fx_news_count": 3,
     "synnex_news_count": 16,
     "data_sources": [
+      "Bangkok Post Business",
       "Google News EN",
-      "Google News TH",
-      "Bangkok Post Business"
+      "Google News TH"
     ]
   }
 }
