@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-26 14:29:37 BKK",
+  "last_updated": "2026-11-26 18:58:24 BKK",
   "rate": {
     "date": "2026-11-26",
     "buying": 0,
@@ -8,6 +8,13 @@
     "source": "Unavailable - Please check BOT website"
   },
   "news": [
+    {
+      "title": "SEC data breach affects 155 users",
+      "description": "The Securities and Exchange Commission (SEC) has reported a data breach involving personal information belonging to 155 users across 10 companies and organisations.",
+      "date": "Thu, 26 Nov 2026 18:03:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3361696/sec-data-breach-affects-155-users",
+      "source": "Bangkok Post Business"
+    },
     {
       "title": "TikTok Shop drives B1.3bn in Otop sales",
       "description": "TikTok Shop and the Community Development Department (CDD) are celebrating three years of partnership in promoting One Tambon, One Product (Otop) goods, generating nearly 6 million orders and more tha",
@@ -28,16 +35,6 @@
       "priority": 5
     },
     {
-      "title": "SYNEX คาดยอดขายโต รับอานิสงส์ Apple ออกสินค้าใหม่ - คงเป้ารายได้ปีนี้แตะ 5.3 หมื่นลบ. - efin.finance",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1SWlV5RTJyekFYRGJpWmstVjdRVkFIN2Z4ZTB1b3NlQ1g3NVl3ZEVINmotdVdBYWdqRHJjZEg1Q3Z6RklGNmloY3M2ZDJlU1RGZTRsNHF3cUx1TVhCZ0pfdHNR?oc=5\" target=\"_blank\">SYNEX คาดยอดขายโต รับอานิสงส์ Apple ออกสินค้าใหม่ - คงเป้ารายได้ปีนี้แตะ 5.3 หมื่นลบ.</a>&nbsp;",
-      "date": "Thu, 10 Sep 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1SWlV5RTJyekFYRGJpWmstVjdRVkFIN2Z4ZTB1b3NlQ1g3NVl3ZEVINmotdVdBYWdqRHJjZEg1Q3Z6RklGNmloY3M2ZDJlU1RGZTRsNHF3cUx1TVhCZ0pfdHNR?oc=5",
-      "source": "Google News TH",
-      "category": "general",
-      "trusted": false,
-      "priority": 5
-    },
-    {
       "title": "สุธิดา มงคลสุธี ไม่ใช่แค่เพียงลูกสาวท่านประธานแต่เป็นแม่ทัพหญิงแกร่งของ SYNNEX ผู้ปั้นยอดขายไอทีกว่า 40,000 ล้าน - Marketeer Online",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tQjRmVkRWUFlKWmV2TzFOZVEyS2NsaHF1VjNjeVFiZEJLQWtzZDVPa1NzRGE5VUpJc3F3NmtUamdMUzZUNE5nY20yTlAtc29SeGFmcA?oc=5\" target=\"_blank\">สุธิดา มงคลสุธี ไม่ใช่แค่เพียงลูกสาวท่านประธานแต่เป็นแม่ทัพหญิงแกร่งของ SYNNEX ผู้ปั้นยอดขายไอทีกว่า 40,000 ล้าน<",
       "date": "Sat, 09 Aug 2025 07:00:00 GMT",
@@ -48,40 +45,20 @@
       "priority": 5
     },
     {
-      "title": "Nintendo Switch 2 จะดันหุ้น SYNEX ไปได้ไกลแค่ไหน? วิเคราะห์ราคาเป้าหมาย 26 บาท - efinanceThai",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBrZ1F4MWFIeHZpS01pNkl3WVVObmpWZXg2T2lUdHM2b044YWRwalBrQnFRLTcyUlZQVU1UUVpEQlRsSnp0c0NzUktJcTQyYWpET09OUmdYalBldmVONm1ZMDl4LXJSV3NUWlVZV1lOM2s1RzNybmpJ?oc=5\" target=\"_blank\">Nintendo Switch 2 จะดันหุ้น SYNEX ไปได้ไกลแค่ไหน? วิเคราะห์ราคาเป้า",
-      "date": "Tue, 17 Jun 2025 18:44:10 GMT",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBrZ1F4MWFIeHZpS01pNkl3WVVObmpWZXg2T2lUdHM2b044YWRwalBrQnFRLTcyUlZQVU1UUVpEQlRsSnp0c0NzUktJcTQyYWpET09OUmdYalBldmVONm1ZMDl4LXJSV3NUWlVZV1lOM2s1RzNybmpJ?oc=5",
-      "source": "Google News TH",
-      "category": "general",
-      "trusted": false,
-      "priority": 5
-    },
-    {
-      "title": "SYNEX เตรียมเปิดคลังขนสินค้า จัดลด-แลก แบบกระหน่ำ เต็มพื้นที่ “Synnex Clearance Sale 2023” วันที่ 24 - 25 พฤศจิกายน นี้ - Share2Trade",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiygdBVV95cUxNLVRRYkRmcXJzNlYxUzRYQUp5dFk0el9ueGNiSlhkMU9ZQ3V4SWhUczI5Wjd1bHdTc2Rla1VINGh4cF9FTG1rUGRuei1wajRUYWdwWWFjaUxEUWFGa3VKZS13ZGJuWENOS2kwODJjTENpRGVMMG5YTzJiWk1Qclp5eWlCcGpfZHRmSXY5aTBocnh1azE1RWRreGlqNjZWSFE1a1hScXRUU1JKVVk4UTNVQmdRUjJlcEJzZ2",
-      "date": "Sun, 12 Nov 2023 15:46:28 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiygdBVV95cUxNLVRRYkRmcXJzNlYxUzRYQUp5dFk0el9ueGNiSlhkMU9ZQ3V4SWhUczI5Wjd1bHdTc2Rla1VINGh4cF9FTG1rUGRuei1wajRUYWdwWWFjaUxEUWFGa3VKZS13ZGJuWENOS2kwODJjTENpRGVMMG5YTzJiWk1Qclp5eWlCcGpfZHRmSXY5aTBocnh1azE1RWRreGlqNjZWSFE1a1hScXRUU1JKVVk4UTNVQmdRUjJlcEJzZ2VMRnVUZVdMb3FOWGVFR2oxXzVUd3FlS0pfejdxc21JUl9JekJpUVo1bjY5V2pMdS1rbGZqbGhwQVJMbGM5MkQ1Wnc1cjVmeWhtR2NpV0pyS2oyWkJrek5ra3RyVFZ3Q0E5OGZKVk9EWXAwalNtMmNEdFpMRW5XWGlKQTRyUXZhcU12OW1LazM4dmtCTnEwTmFfY24yLXVaZWNJVGI2SWdGRE5IVHN4Tm9BV3VteXdZZHRlY2xBMDZRU08xYk1BamtUSWpwdDFSTmVQdVZBdlg0dHU3dkVMZS1zTC1pbU1fSHdNYjR1dGpodmFTTHZiVXNYX2FLT0E4bmlBMzV6eWpad0Q0R1p6cXVrampVaC1KQmpSaTVEYXgydVZ2aTNrZUVrQWZOTWt0Z2E1ams4LVRlcV80NGJwUmlsMjkxRHdzMVduWmtyTU9nd29Ec21lOWdiM3YwX0tLM1RBX0JBdFI1MGlZVlYzRlZQZWNlazJNdGN5a0NVdVJqRU9Sc0VmQzNSQWc3aHV1c3RoV1p5OW00OXpDdExpU0s3TS1YVmtVdnI5Y0h4eUlPZGVMb0h4TUhPd0ZIM2NuTWtfbG5oeFNnUUdiWnZlQnFsR3kxSGEtZVB4eFlaRWN2WXhyR1NvRE5xeURLT0I5WlJJY0JGUmJVS1YyOFhUQVR0MzJOX0lOTnhPX0RRRG1LaE50RkRta2psbEx2bnd6OTNldTdTNzJNUG1KYk1mTjdYb0FKa1k2X2thYlZQZ29DdFZfUFV0VHBzTnlLZUdhc0RuU1BkZXVPR2Z4X1psblVDc0RxTDFWcWdhRjVIY2daNGFuMUl3R0hzME9SdFlrSHUxQktua21GWFpxWXQ1Y0ViS1I0Rldld2tJTFNPTXBmN1ZWN2IyTjlRTEtMV2JncHBrLUtJTmIyYzdJUEdreWlZRGplcGo3WmJtSDE3ckh5TC13YkVqTE1DQnloZ05HdkNBR2RuSEpoVU02Mm9MbURXOHdDSFktcGs2aWVWdjFkdkNmR2ZUaENBeHQzdFpDZlpuZVdvSFJn?oc=5",
-      "source": "Google News TH",
-      "category": "general",
-      "trusted": false,
-      "priority": 5
-    },
-    {
-      "title": "ส่องผลประกอบการครึ่งปีแรกของ ค้าส่งสินค้าไอที กระแส Work form Home ดันยอดขายขนาดไหน? - Brand Inside",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ka2Y5blk3U1Y4RXg3ekRSMzB2WXFraGdZZWxQLVlZUVJCdHZPRmhkTXlMUU9GSWg4SmR2d0JSUnNqNF93RmZIYzVoaEpIaTFlQTNZcU1HMUNFNHY4amJkYnJqUUgyLXM?oc=5\" target=\"_blank\">ส่องผลประกอบการครึ่งปีแรกของ ค้าส่งสินค้าไอที กระแส Work form Home ดันยอดขายขนาดไหน?</a>",
-      "date": "Mon, 16 Aug 2021 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ka2Y5blk3U1Y4RXg3ekRSMzB2WXFraGdZZWxQLVlZUVJCdHZPRmhkTXlMUU9GSWg4SmR2d0JSUnNqNF93RmZIYzVoaEpIaTFlQTNZcU1HMUNFNHY4amJkYnJqUUgyLXM?oc=5",
-      "source": "Google News TH",
-      "category": "general",
-      "trusted": false,
-      "priority": 5
-    },
-    {
       "title": "SYNEX กางแผนปี 70 ชู AI-Cloud ขับเคลื่อนธุรกิจ ยกระดับไอทีครบวงจร - ข่าวหุ้นธุรกิจออนไลน์",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE9scjV1dktUWkk5UmRnd0dVZFczR3FCejV0R3BnN0c2RmE4Tmp3S2F6OWJpenY3Q01JV1B5SjlVRENQbUJ0T1RKN1RaRQ?oc=5\" target=\"_blank\">SYNEX กางแผนปี 70 ชู AI-Cloud ขับเคลื่อนธุรกิจ ยกระดับไอทีครบวงจร</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ข่าวหุ้นธุรกิจออนไลน์<",
       "date": "Fri, 11 Sep 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9scjV1dktUWkk5UmRnd0dVZFczR3FCejV0R3BnN0c2RmE4Tmp3S2F6OWJpenY3Q01JV1B5SjlVRENQbUJ0T1RKN1RaRQ?oc=5",
+      "source": "Google News TH",
+      "category": "general",
+      "trusted": false,
+      "priority": 5
+    },
+    {
+      "title": "SYNEX คาดยอดขายโต รับอานิสงส์ Apple ออกสินค้าใหม่ - คงเป้ารายได้ปีนี้แตะ 5.3 หมื่นลบ. - efin.finance",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1SWlV5RTJyekFYRGJpWmstVjdRVkFIN2Z4ZTB1b3NlQ1g3NVl3ZEVINmotdVdBYWdqRHJjZEg1Q3Z6RklGNmloY3M2ZDJlU1RGZTRsNHF3cUx1TVhCZ0pfdHNR?oc=5\" target=\"_blank\">SYNEX คาดยอดขายโต รับอานิสงส์ Apple ออกสินค้าใหม่ - คงเป้ารายได้ปีนี้แตะ 5.3 หมื่นลบ.</a>&nbsp;",
+      "date": "Thu, 10 Sep 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1SWlV5RTJyekFYRGJpWmstVjdRVkFIN2Z4ZTB1b3NlQ1g3NVl3ZEVINmotdVdBYWdqRHJjZEg1Q3Z6RklGNmloY3M2ZDJlU1RGZTRsNHF3cUx1TVhCZ0pfdHNR?oc=5",
       "source": "Google News TH",
       "category": "general",
       "trusted": false,
@@ -118,20 +95,10 @@
       "priority": 5
     },
     {
-      "title": "SYNEX คือผู้รับเคราะห์จากการแบน HUAWEI - ลงทุนศาสตร์ - Investerest",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBaempLaGlxVGNfOXY1RWR6X3Z5WEZEMzdMZHU5bHV6Q1FkXzZRNGJGcktOQTZjTTBiX1VKdm5jOHRxR196ZjBJbUVxMlV6OGg0VU5CZ2lNQWRhNnRwOVNnTkl6TFBCdVFQMHN6dS1NV0s?oc=5\" target=\"_blank\">SYNEX คือผู้รับเคราะห์จากการแบน HUAWEI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">",
-      "date": "Wed, 22 May 2019 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBaempLaGlxVGNfOXY1RWR6X3Z5WEZEMzdMZHU5bHV6Q1FkXzZRNGJGcktOQTZjTTBiX1VKdm5jOHRxR196ZjBJbUVxMlV6OGg0VU5CZ2lNQWRhNnRwOVNnTkl6TFBCdVFQMHN6dS1NV0s?oc=5",
-      "source": "Google News TH",
-      "category": "general",
-      "trusted": false,
-      "priority": 5
-    },
-    {
-      "title": "ซินเน็คฯ กางแผนธุรกิจในงาน “SYNNEX PARTNER CONNECT 2024” - posttoday",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZNHc2MFVmV0VtOVBQYVFwRk9oNFhwS2xKNkNYckJ4dzRjYlNlRkN3SjBLcHQ2U3lUcURRUk9xMHZzbnQtOWwzbklHaEFYYV8tekE?oc=5\" target=\"_blank\">ซินเน็คฯ กางแผนธุรกิจในงาน “SYNNEX PARTNER CONNECT 2024”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">posttoday</font>",
-      "date": "Tue, 24 Sep 2024 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZNHc2MFVmV0VtOVBQYVFwRk9oNFhwS2xKNkNYckJ4dzRjYlNlRkN3SjBLcHQ2U3lUcURRUk9xMHZzbnQtOWwzbklHaEFYYV8tekE?oc=5",
+      "title": "สุธิดา มงคลสุธี ทายาทกิจการหมื่นล้าน รับไม้ยืนหนึ่ง IT ecosystem - posttoday",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OU2JGRnRBbXZYZFBSdWl4WklHVEFwRnVIMU1MdGtXZmg0cldCby1NQUpsRmpjUW1KTTVWSnRwM29hd3M1UktjYVRyVDZVTTFMX01n?oc=5\" target=\"_blank\">สุธิดา มงคลสุธี ทายาทกิจการหมื่นล้าน รับไม้ยืนหนึ่ง IT ecosystem</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">posttoday</fo",
+      "date": "Mon, 17 Apr 2023 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OU2JGRnRBbXZYZFBSdWl4WklHVEFwRnVIMU1MdGtXZmg0cldCby1NQUpsRmpjUW1KTTVWSnRwM29hd3M1UktjYVRyVDZVTTFMX01n?oc=5",
       "source": "Google News TH",
       "category": "general",
       "trusted": false,
@@ -142,16 +109,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5jRjdLZWsxdUVhdWtYZDFuM0xFRFFlV1FXM3pTalBLOWpsSDc4V09EWEZwT0NUZV9QYm1vMVA0aUtoXy1WQXlRRUNpU0dpTlNTbEVGN1BQUFVfZ1c5LU9QVDBodk56dUdpTVNXVkl0Yw?oc=5\" target=\"_blank\">ซินเน็คขนทัพสินค้า “Trusted By Synnex” จากแบรนด์ไอทีชั้นนำ บุกงาน TME 2024 ย้",
       "date": "Sat, 10 Feb 2024 08:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jRjdLZWsxdUVhdWtYZDFuM0xFRFFlV1FXM3pTalBLOWpsSDc4V09EWEZwT0NUZV9QYm1vMVA0aUtoXy1WQXlRRUNpU0dpTlNTbEVGN1BQUFVfZ1c5LU9QVDBodk56dUdpTVNXVkl0Yw?oc=5",
-      "source": "Google News TH",
-      "category": "general",
-      "trusted": false,
-      "priority": 5
-    },
-    {
-      "title": "สุธิดา มงคลสุธี ทายาทกิจการหมื่นล้าน รับไม้ยืนหนึ่ง IT ecosystem - posttoday",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OU2JGRnRBbXZYZFBSdWl4WklHVEFwRnVIMU1MdGtXZmg0cldCby1NQUpsRmpjUW1KTTVWSnRwM29hd3M1UktjYVRyVDZVTTFMX01n?oc=5\" target=\"_blank\">สุธิดา มงคลสุธี ทายาทกิจการหมื่นล้าน รับไม้ยืนหนึ่ง IT ecosystem</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">posttoday</fo",
-      "date": "Mon, 17 Apr 2023 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OU2JGRnRBbXZYZFBSdWl4WklHVEFwRnVIMU1MdGtXZmg0cldCby1NQUpsRmpjUW1KTTVWSnRwM29hd3M1UktjYVRyVDZVTTFMX01n?oc=5",
       "source": "Google News TH",
       "category": "general",
       "trusted": false,
@@ -218,14 +175,14 @@
       "priority": 6
     }
   ],
-  "claude_prompt": "CFO FX Brief 26/11/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] TikTok Shop drives B1.3bn in Otop sales",
+  "claude_prompt": "CFO FX Brief 26/11/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] SEC data breach affects 155 users\n- [Bangkok Post Business] TikTok Shop drives B1.3bn in Otop sales",
   "stats": {
-    "fx_news_count": 1,
-    "synnex_news_count": 20,
+    "fx_news_count": 2,
+    "synnex_news_count": 15,
     "data_sources": [
       "Google News TH",
-      "Google News EN",
-      "Bangkok Post Business"
+      "Bangkok Post Business",
+      "Google News EN"
     ]
   }
 }
