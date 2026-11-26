@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-26 03:24:02 BKK",
+  "last_updated": "2026-11-26 14:29:37 BKK",
   "rate": {
     "date": "2026-11-26",
     "buying": 0,
@@ -9,17 +9,10 @@
   },
   "news": [
     {
-      "title": "TCG allocates loan guarantees worth B120bn",
-      "description": "The Thai Credit Guarantee Corporation (TCG) provided more than 120 billion baht in loan guarantees during the first 10 months of this year.",
-      "date": "Wed, 25 Nov 2026 07:41:00 +0700",
-      "link": "https://www.bangkokpost.com/business/general/3360904/tcg-allocates-loan-guarantees-worth-b120bn",
-      "source": "Bangkok Post Business"
-    },
-    {
-      "title": "Flooding sees Thai auto exports plunge by 34%",
-      "description": "Thailand's auto exports in October fell by 34% year-on-year to 54,503 due to a drop in internal combustion engine (ICE) vehicle production, following massive floods in eastern provinces and Bangkok, s",
-      "date": "Wed, 25 Nov 2026 06:03:00 +0700",
-      "link": "https://www.bangkokpost.com/business/motoring/3360769/flooding-sees-thai-auto-exports-plunge-by-34",
+      "title": "TikTok Shop drives B1.3bn in Otop sales",
+      "description": "TikTok Shop and the Community Development Department (CDD) are celebrating three years of partnership in promoting One Tambon, One Product (Otop) goods, generating nearly 6 million orders and more tha",
+      "date": "Thu, 26 Nov 2026 07:04:00 +0700",
+      "link": "https://www.bangkokpost.com/business/general/3361434/tiktok-shop-drives-b13bn-in-otop-sales",
       "source": "Bangkok Post Business"
     }
   ],
@@ -225,14 +218,14 @@
       "priority": 6
     }
   ],
-  "claude_prompt": "CFO FX Brief 26/11/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] TCG allocates loan guarantees worth B120bn\n- [Bangkok Post Business] Flooding sees Thai auto exports plunge by 34%",
+  "claude_prompt": "CFO FX Brief 26/11/2026 | Rate: 0 | vs Budget: +0.00\n\nNews:\n- [Bangkok Post Business] TikTok Shop drives B1.3bn in Otop sales",
   "stats": {
-    "fx_news_count": 2,
+    "fx_news_count": 1,
     "synnex_news_count": 20,
     "data_sources": [
-      "Bangkok Post Business",
       "Google News TH",
-      "Google News EN"
+      "Google News EN",
+      "Bangkok Post Business"
     ]
   }
 }
